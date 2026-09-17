@@ -59,9 +59,11 @@ a{color:inherit}.wrap{max-width:1280px;margin:auto;padding:30px 22px 70px}
 <script>
 const $ = s => document.querySelector(s);
 let books=[], latest={}, history=[];
-const fmt=n=>Number.isFinite(Number(n))?Number(n).toLocaleString('ko-KR'):'–';
+const fmt=n=>isValue(n)?Number(n).toLocaleString('ko-KR'):'–';
 const esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
-const num=n=>Number.isFinite(Number(n))?Number(n):null;
+const isValue=n=>n!==null && n!==undefined && n!=='' && Number.isFinite(Number(n));
+const num=n=>isValue(n)?Number(n):null;
+const rankNum=n=>{const v=num(n);return v!==null && v>0?v:null};
 function bestRank(arr){ const xs=(arr||[]).map(x=>Number(x.rank)).filter(Number.isFinite); return xs.length?Math.min(...xs):null; }
 function rankLabel(arr){if(!arr?.length)return '순위 없음'; const x=[...arr].sort((a,b)=>a.rank-b.rank)[0]; return `${fmt(x.rank)}위${x.label?' · '+x.label:''}`}
 function sourceLink(url,label){return url?`<a href="${esc(url)}" target="_blank" rel="noopener">${label} ↗</a>`:''}
@@ -69,21 +71,36 @@ function selectedBook(){const hash=decodeURIComponent(location.hash.slice(1)); r
 function reviewSum(s){return ['kyobo','yes24','aladin'].reduce((a,k)=>a+(num(s?.[k]?.reviewCount)||0),0)}
 function scoreText(v){return num(v)!=null?`${Number(v).toFixed(Number(v)%1?1:0)}점`:'–'}
 function stat(k,v,s=''){return `<div class="stat"><div class="k">${k}</div><div class="v">${v}</div>${s?`<div class="s">${s}</div>`:''}</div>`}
-function rankValue(v){return num(v)!=null?fmt(v)+'위':'–'}
+function rankValue(v){const n=rankNum(v);return n!=null?fmt(n)+'위':'–'}
 function reviewCards(store,label,dot){
   const rows=(store?.reviews||[]).slice(0,5);
-  if(!rows.length)return `<section class="review-store"><div class="review-store-title"><span class="store-dot ${dot}"></span>${label}</div><div class="review-empty">수집된 리뷰 본문이 없습니다. 다음 자동 수집 때 다시 확인합니다.</div></section>`;
+  if(!rows.length)return `<section class="review-store"><div class="review-store-title"><span class="store-dot ${dot}"></span>${label}</div><div class="review-empty">공개 리뷰 본문을 찾지 못했습니다. 리뷰가 없거나 서점에서 본문을 동적으로 제한한 경우입니다.</div></section>`;
   return `<section class="review-store"><div class="review-store-title"><span class="store-dot ${dot}"></span>${label} · 최신 ${rows.length}건</div>${rows.map(r=>`<article class="review-item"><div class="review-meta"><span>${esc(r.author||'회원')}</span>${r.date?`<span>${esc(r.date)}</span>`:''}${num(r.score)!=null?`<span>평점 ${esc(r.score)}</span>`:''}</div><div class="review-text">${esc(r.content||'')}</div></article>`).join('')}</section>`;
 }
 
+const sleep=ms=>new Promise(r=>setTimeout(r,ms));
+async function fetchFresh(url, type='json'){
+  let lastErr;
+  for(let attempt=0; attempt<4; attempt++){
+    try{
+      const sep=url.includes('?')?'&':'?';
+      const r=await fetch(url+sep+'v='+Date.now(), {cache:'no-store'});
+      if(!r.ok) throw new Error(`${url} HTTP ${r.status}`);
+      return type==='text' ? await r.text() : await r.json();
+    }catch(e){
+      lastErr=e;
+      await sleep(450*(attempt+1));
+    }
+  }
+  throw lastErr;
+}
 async function load(){
-  const stamp='?v='+Date.now();
-  const [b,l,h]=await Promise.all([
-    fetch('books.json'+stamp).then(r=>r.json()),
-    fetch('data/latest.json'+stamp).then(r=>r.ok?r.json():{}).catch(()=>({})),
-    fetch('data/history.jsonl'+stamp).then(r=>r.ok?r.text():'').catch(()=>''),
-  ]);
-  books=b; latest=l; history=h.split(/\n+/).filter(Boolean).map(x=>{try{return JSON.parse(x)}catch{return null}}).filter(Boolean);
+  $('#status').innerHTML='<b>데이터 불러오는 중…</b>';
+  const b=await fetchFresh('books.json');
+  let l={}, h='';
+  try{ l=await fetchFresh('data/latest.json'); }catch(e){ console.warn(e); }
+  try{ h=await fetchFresh('data/history.jsonl','text'); }catch(e){ console.warn(e); }
+  books=b; latest=l||{}; history=(h||'').split(/\n+/).filter(Boolean).map(x=>{try{return JSON.parse(x)}catch{return null}}).filter(Boolean);
   setupFilters(); render();
 }
 function setupFilters(){
@@ -129,7 +146,7 @@ function renderFocus(book){
       <section class="store">
         <div class="store-head"><div class="store-name"><span class="store-dot kyo"></span>교보문고</div><a class="store-link" href="${esc(kyoboUrl)}" target="_blank" rel="noopener">상품 보기 ↗</a></div>
         <div class="store-stats">
-          ${stat('종합 베스트',rankValue(k.overallRank),'도서 전체 기준')}${stat('어린이 베스트',rankValue(k.childrenRank),'어린이 분야 기준')}
+          ${stat('종합 베스트',rankValue(k.overallRank),'교보 종합 주간 베스트')}${stat('어린이 베스트',rankValue(k.childrenRank),'교보 아동 주간 베스트')}
           ${stat('리뷰',fmt(k.reviewCount)+'건',`평점 ${scoreText(k.reviewScore)}`)}
           ${stat('온라인 재고',fmt(k.onlineStock)+'권')}
           ${stat('매장 재고 합계',fmt(k.storeStockTotal)+'권')}
@@ -141,7 +158,7 @@ function renderFocus(book){
         <div class="store-head"><div class="store-name"><span class="store-dot yes"></span>YES24</div><a class="store-link" href="${esc(yesUrl)}" target="_blank" rel="noopener">상품 보기 ↗</a></div>
         <div class="store-stats">
           ${stat('판매지수',fmt(y.salesIndex))}
-          ${stat('종합 베스트',rankValue(y.overallRank),'국내도서 전체 기준')}${stat('어린이 베스트',rankValue(y.childrenRank),'어린이 분야 기준')}
+          ${stat('종합 베스트',rankValue(y.overallRank),'YES24 국내도서 종합 베스트')}${stat('어린이 베스트',rankValue(y.childrenRank),'YES24 어린이 종합 베스트')}
           ${stat('리뷰',fmt(y.reviewCount)+'건')}
           ${stat('리뷰 평점',scoreText(y.reviewScore))}
         </div>
@@ -150,7 +167,7 @@ function renderFocus(book){
         <div class="store-head"><div class="store-name"><span class="store-dot ala"></span>알라딘</div><a class="store-link" href="${esc(alaUrl)}" target="_blank" rel="noopener">상품 보기 ↗</a></div>
         <div class="store-stats">
           ${stat('Sales Point',fmt(a.salesPoint))}
-          ${stat('종합 베스트',rankValue(a.overallRank),'도서 전체 기준')}${stat('어린이 베스트',rankValue(a.childrenRank),'어린이 분야 기준')}
+          ${stat('종합 베스트',rankValue(a.overallRank),'알라딘 주간 베스트 종합')}${stat('어린이 베스트',rankValue(a.childrenRank),'알라딘 주간 베스트 어린이')}
           ${stat('리뷰',fmt(a.reviewCount)+'건')}
           ${stat('100자평',fmt(a.commentCount)+'건')}
         </div>
@@ -192,18 +209,18 @@ function renderFocus(book){
   $('#chartMetric').addEventListener('change',()=>renderChart(book.id,$('#chartMetric').value)); renderChart(book.id,'yes');
 }
 function chartValue(x,type){
-  if(type==='yes')return Number(x.yes24?.salesIndex);
-  if(type==='aladin')return Number(x.aladin?.salesPoint);
-  if(type==='kyoboOverall')return Number(x.kyobo?.overallRank);
-  if(type==='kyoboChildren')return Number(x.kyobo?.childrenRank);
-  if(type==='yesOverall')return Number(x.yes24?.overallRank);
-  if(type==='yesChildren')return Number(x.yes24?.childrenRank);
-  if(type==='aladinOverall')return Number(x.aladin?.overallRank);
-  if(type==='aladinChildren')return Number(x.aladin?.childrenRank);
-  if(type==='stock')return Number(x.kyobo?.onlineStock);
-  if(type==='kyoboReview')return Number(x.kyobo?.reviewCount);
-  if(type==='yesReview')return Number(x.yes24?.reviewCount);
-  if(type==='aladinReview')return Number(x.aladin?.reviewCount);
+  if(type==='yes')return num(x.yes24?.salesIndex) ?? NaN;
+  if(type==='aladin')return num(x.aladin?.salesPoint) ?? NaN;
+  if(type==='kyoboOverall')return rankNum(x.kyobo?.overallRank) ?? NaN;
+  if(type==='kyoboChildren')return rankNum(x.kyobo?.childrenRank) ?? NaN;
+  if(type==='yesOverall')return rankNum(x.yes24?.overallRank) ?? NaN;
+  if(type==='yesChildren')return rankNum(x.yes24?.childrenRank) ?? NaN;
+  if(type==='aladinOverall')return rankNum(x.aladin?.overallRank) ?? NaN;
+  if(type==='aladinChildren')return rankNum(x.aladin?.childrenRank) ?? NaN;
+  if(type==='stock')return num(x.kyobo?.onlineStock) ?? NaN;
+  if(type==='kyoboReview')return num(x.kyobo?.reviewCount) ?? NaN;
+  if(type==='yesReview')return num(x.yes24?.reviewCount) ?? NaN;
+  if(type==='aladinReview')return num(x.aladin?.reviewCount) ?? NaN;
   return NaN;
 }
 function renderChart(id,type){
@@ -228,10 +245,25 @@ function renderBooks(){
 }
 function bookCard(b,active){
   const s=latest[b.id], k=s?.kyobo||{}, y=s?.yes24||{}, a=s?.aladin||{};
-  return `<article class="book ${b.id===active?'active':''}" data-id="${esc(b.id)}"><div class="bt">${esc(b.title)}</div><div class="bi">${esc(b.isbn)}</div>${s?`<div class="mini-grid"><div class="mini"><div class="k"><span class="store-dot kyo"></span>교보</div><div class="v">${num(k.overallRank)!=null?fmt(k.overallRank)+'위':'–'}</div></div><div class="mini"><div class="k"><span class="store-dot yes"></span>YES24</div><div class="v">${fmt(y.salesIndex)}</div></div><div class="mini"><div class="k"><span class="store-dot ala"></span>알라딘</div><div class="v">${fmt(a.salesPoint)}</div></div></div><div class="review-mini"><span>리뷰 합계</span><b>${fmt(reviewSum(s))}건</b></div>`:'<div class="waiting">첫 수집 대기 중</div>'}</article>`
+  return `<article class="book ${b.id===active?'active':''}" data-id="${esc(b.id)}"><div class="bt">${esc(b.title)}</div><div class="bi">${esc(b.isbn)}</div>${s?`<div class="mini-grid"><div class="mini"><div class="k"><span class="store-dot kyo"></span>교보</div><div class="v">${rankNum(k.overallRank)!=null?fmt(k.overallRank)+'위':'–'}</div></div><div class="mini"><div class="k"><span class="store-dot yes"></span>YES24</div><div class="v">${fmt(y.salesIndex)}</div></div><div class="mini"><div class="k"><span class="store-dot ala"></span>알라딘</div><div class="v">${fmt(a.salesPoint)}</div></div></div><div class="review-mini"><span>리뷰 합계</span><b>${fmt(reviewSum(s))}건</b></div>`:'<div class="waiting">첫 수집 대기 중</div>'}</article>`
 }
-window.addEventListener('hashchange',render); $('#seriesFilter').addEventListener('change',renderBooks); $('#search').addEventListener('input',renderBooks); $('#resetBtn').addEventListener('click',()=>{$('#seriesFilter').value='all';$('#search').value='';renderBooks()}); $('#refreshBtn').addEventListener('click',load);
-load().catch(e=>{$('#status').textContent='불러오기 실패';$('#focus').innerHTML=`<div class="err">${esc(e.message)}<br>파일을 직접 더블클릭한 경우, 로컬 서버에서 열어 주세요.</div>`});
+window.addEventListener('hashchange',render);
+$('#seriesFilter').addEventListener('change',renderBooks);
+$('#search').addEventListener('input',renderBooks);
+$('#resetBtn').addEventListener('click',()=>{$('#seriesFilter').value='all';$('#search').value='';renderBooks()});
+$('#refreshBtn').addEventListener('click',()=>load().catch(showLoadError));
+function showLoadError(e){
+  $('#status').innerHTML='<b>불러오기 실패</b><br>잠시 뒤 자동 재시도합니다.';
+  $('#focus').innerHTML=`<div class="err">${esc(e?.message||'데이터를 불러오지 못했습니다.')}</div>`;
+}
+async function boot(){
+  for(let i=0;i<3;i++){
+    try{ await load(); return; }
+    catch(e){ showLoadError(e); await sleep(1000*(i+1)); }
+  }
+}
+if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',boot);
+else boot();
 </script>
 </body>
 </html>
