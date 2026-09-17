@@ -1,6 +1,6 @@
 {
   "literacy-1": {
-    "t": "2026-09-17T10:21:50+09:00",
+    "t": "2026-09-17T11:14:38+09:00",
     "book": "literacy-1",
     "title": "초등 첫 문해력 신문",
     "isbn": "9791171177028",
@@ -13,6 +13,8 @@
           "rank": 840
         }
       ],
+      "overallRank": null,
+      "childrenRank": 840,
       "reviewCount": 90,
       "reviewScore": 9.8,
       "price": 17820,
@@ -206,15 +208,51 @@
           "stock": 1,
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
-      ]
+      ],
+      "reviews": []
     },
     "yes24": {
       "id": "128939189",
       "url": "https://www.yes24.com/product/goods/128939189",
       "cover": "https://image.yes24.com/goods/128939189/XL",
       "salesIndex": 10284,
-      "reviewCount": 500,
+      "reviewCount": 124,
       "reviewScore": 9.8,
+      "reviews": [
+        {
+          "score": 8.0,
+          "author": "w****9",
+          "date": "2026-06-03",
+          "content": "신문' 형식을 빌린 살아있는 지문일반적인 딱딱한 독해 문제집과 달리 뉴스 기사, 광고, 안내문 등 일상에서 쉽게 접할 수 있는 실용적인 글들로 구성되어 있습니다.세상을 보는 눈(배경지식)을 넓혀주는 동시에 글을 읽는 재미를 붙이기에 좋습니다."
+        },
+        {
+          "score": 10.0,
+          "author": "i***r",
+          "date": "2026-05-17",
+          "content": "요즘 아이들이 가장 어려운 것이 바로읽고 이해하는 것이 아닌가싶어요한글을 아니 글자는 읽었으나그 뜻을 제대로 이해하지 못하는 아이들이 많아지고 있다보니제대로 읽는 습관과 이해하는 활동이 중시되고 있는데요13년 경력의 교사가 집필하여 읽기로 시작하여 쓰기로 완성하는이 책은읽는 습관과 문해력향상을 위한 다양한 스기와 읽기 활동을제공하고 있는데요..."
+        },
+        {
+          "score": 10.0,
+          "author": "o********1",
+          "date": "2026-01-24",
+          "content": "내용이 재밌어서 아이기 재밌게 하네요초등 저학년보다는 3학년 정도에 추천해요동생도 사서 하려구요하루에 하나씩하기 좋아요내용이 재밌어서 아이기 재밌게 하네요초등 저학년보다는 3학년 정도에 추천해요동생도 사서 하려구요하루에 하나씩하기 좋아요"
+        },
+        {
+          "score": 10.0,
+          "author": "n*****n",
+          "date": "2025-12-06",
+          "content": "초2학년아이가 책읽기도 힘들어하고 문제풀이도 싫어해 문제집이거나 읽기가 어려운 책들이 접근하기가 힘들어 할 텐데 전혀 그렇지 않고 하루 하루 짧지만 어휘력과 한자를 동시에 접하고 글의 내용 역시 학교 교과서적인 분위기를 떠나서 누구나 일상에서 접할 수 있는 주제라 편하게 시작 할 수 있어요."
+        },
+        {
+          "score": 10.0,
+          "author": "r******3",
+          "date": "2025-11-19",
+          "content": "초등 첫 문해력 신문을 구입한 후기입니다.아이에게 도움될 문제집을 고르다가 리뷰가 좋아보여서ㅈ구입했습니다.하루에 몇장씩 꾸준히 풀게하는데 처음에는 싫어하더니 이제는 알아서 잘 풀더라구요.어느새 한권을 다 풀어서 뿌듯하네요"
+        }
+      ],
+      "reviewListUrl": "https://www.yes24.com/Product/CommunityModules/GoodsReviewList/128939189?goodsSortNo=001027&resourceKeyGb=01&goodsStateGb=02&goodsSetYn=N&Sort=1&PageNumber=1",
+      "overallRank": null,
+      "childrenRank": 1,
       "rank": [
         {
           "label": "아동 교육 분야 역대",
@@ -227,16 +265,20 @@
       ]
     },
     "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791171177028",
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=342972974",
       "itemId": "342972974",
       "salesPoint": 3646,
-      "reviewCount": 38,
       "commentCount": 8,
-      "rank": []
+      "reviewCount": 38,
+      "reviewScore": null,
+      "rank": [],
+      "overallRank": null,
+      "childrenRank": null,
+      "reviews": []
     }
   },
   "literacy-2": {
-    "t": "2026-09-17T10:21:50+09:00",
+    "t": "2026-09-17T11:14:38+09:00",
     "book": "literacy-2",
     "title": "초등 첫 문해력 신문 2",
     "isbn": "9791171179688",
@@ -244,8 +286,10 @@
       "id": "S000215056017",
       "url": "https://product.kyobobook.co.kr/detail/S000215056017",
       "rank": [],
+      "overallRank": null,
+      "childrenRank": null,
       "reviewCount": 20,
-      "reviewScore": 10,
+      "reviewScore": 10.0,
       "price": 17820,
       "status": "판매중",
       "onlineStock": 8,
@@ -437,15 +481,51 @@
           "stock": 1,
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
-      ]
+      ],
+      "reviews": []
     },
     "yes24": {
       "id": "140396456",
       "url": "https://www.yes24.com/product/goods/140396456",
       "cover": "https://image.yes24.com/goods/140396456/XL",
       "salesIndex": 3858,
-      "reviewCount": 500,
+      "reviewCount": 47,
       "reviewScore": 10.0,
+      "reviews": [
+        {
+          "score": 10.0,
+          "author": "a********3",
+          "date": "2026-05-13",
+          "content": "하루한장 문해력 신문도 좋지만 지인이 추천해준 책이라 사보았습니다첫 문해력 신문으로 읽기 좋아요하루한장 문해력 신문도 좋지만 지인이 추천해준 책이라 사보았습니다첫 문해력 신문으로 읽기 좋아요다음엔 3도 사볼게요좋은 하루되세요"
+        },
+        {
+          "score": 10.0,
+          "author": "YES마니아 : 플래티넘 j****4",
+          "date": "2025-06-04",
+          "content": "초1아이살짝어려워하긴하지만이문제집덕분에모르던이슈나 위인도 알게되고글쓰기를재미있어하게되었어요.1보다는구성이쉽고재미있는거같아서추천해봅니다.아이가일주일에 2-3과정도풀며여러생각을해보아서만족중입니다!"
+        },
+        {
+          "score": 10.0,
+          "author": "YES마니아 : 로얄 f********1",
+          "date": "2025-03-26",
+          "content": "독해책으로 공부를 시키는 것 보다 직접 신문을 접해보면 좋을 것 같다는 생각을 했는데 초등학생 대상으로 이렇게 접근하기 쉽게 책이 있었네요. 내용이 좋아서 1권 2권 모두 구매했어요. 가벼운 마음으로 신문 내용을 읽고 독후 활동도 재미있게 할 수 있을 것 같아서 만족합니다"
+        },
+        {
+          "score": 10.0,
+          "author": "q*******7",
+          "date": "2025-02-16",
+          "content": "요즘 아이들은 영어와 수학에 중점을 두고 선행을 하는 친구들이 많아서인지,문제를 이해하는 능력이 부족함을 느끼게 돼요.매일 아이와 뉴스를 보면서 시사적인 이슈를 배워가지만,미디어가 아닌 신문읽기를 통해 재미를 알아가면서생각의 힘을 기르고 쓰기 스킬까지 배워갈 수 있는 책이라는 생각이 드는데요.저학년 친구들에겐 꼭 한번쯤 읽어볼 만한 책이란 생각..."
+        },
+        {
+          "score": 10.0,
+          "author": "m**a",
+          "date": "2025-02-02",
+          "content": "초등 첫 문해력 신문 1권을 구입해서 가볍게 읽고 쓰는 연습 하는 중이에요어차피 2권도 사게 될 것 같아서 포인트 쓰는 김에 함께 구입했습니다.다양한 주제를 기사 형태로 접하면서 새로운 정보도 알게되고 어휘도 공부하게 되어 좋습니다.아이도 부담갖지 않고 기사 하나씩 잘 읽어가네요"
+        }
+      ],
+      "reviewListUrl": "https://www.yes24.com/Product/CommunityModules/GoodsReviewList/140396456?goodsSortNo=001027&resourceKeyGb=01&goodsStateGb=02&goodsSetYn=N&Sort=1&PageNumber=1",
+      "overallRank": null,
+      "childrenRank": 1,
       "rank": [
         {
           "label": "아동 교육 분야 역대",
@@ -458,16 +538,20 @@
       ]
     },
     "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791171179688",
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=354371289",
       "itemId": "354371289",
       "salesPoint": 780,
-      "reviewCount": 7,
       "commentCount": 10,
-      "rank": []
+      "reviewCount": 7,
+      "reviewScore": null,
+      "rank": [],
+      "overallRank": null,
+      "childrenRank": null,
+      "reviews": []
     }
   },
   "literacy-3": {
-    "t": "2026-09-17T10:21:50+09:00",
+    "t": "2026-09-17T11:14:38+09:00",
     "book": "literacy-3",
     "title": "초등 첫 문해력 신문 3",
     "isbn": "9791173573767",
@@ -475,8 +559,10 @@
       "id": "S000217058335",
       "url": "https://product.kyobobook.co.kr/detail/S000217058335",
       "rank": [],
+      "overallRank": null,
+      "childrenRank": null,
       "reviewCount": 6,
-      "reviewScore": 10,
+      "reviewScore": 10.0,
       "price": 17820,
       "status": "판매중",
       "onlineStock": 6,
@@ -668,15 +754,51 @@
           "stock": 1,
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
-      ]
+      ],
+      "reviews": []
     },
     "yes24": {
       "id": "149130037",
       "url": "https://www.yes24.com/product/goods/149130037",
       "cover": "https://image.yes24.com/goods/149130037/XL",
       "salesIndex": 3207,
-      "reviewCount": 500,
+      "reviewCount": 7,
       "reviewScore": 10.0,
+      "reviews": [
+        {
+          "score": 10.0,
+          "author": "YES마니아 : 로얄 f********1",
+          "date": "2025-11-04",
+          "content": "초등 첫 문해력 신문 1권을 아이랑 매일 하나씩 하고 있는데, 구성도 좋고 내용도 만족스러워서 2권 3권 연결해서 계속 구매 중입니다. 신문으로 직접 읽기에는 아이가 거부감이 있어했는데, 책으로 편집된 글을 읽고 독후활동을 함께 할 수 있어서 흥미롭습니다."
+        },
+        {
+          "score": 10.0,
+          "author": "p********0",
+          "date": "2025-09-05",
+          "content": "아울북 이다희 선생님이 쓰신 초등 첫 문해력 신문 3 구입했어요. 1, 2 연이어서 풀고 마지막 3권 주문했어요. 내용이 짧고 간결하고 삽화도 선명해서 너무 재미있게 읽고 있습니다. 큐알 찍으면 영상 기사도 접할 수 있어서 더 좋구요. 4권 5권 계속 나오면 좋겠어요."
+        },
+        {
+          "score": 10.0,
+          "author": "m***2",
+          "date": "2025-08-14",
+          "content": "읽기 위한 책으로 그치지 않아더 재미있게 볼 수 있는 책,2025년 핫한 최신 이슈까지 담아아이의 눈높이에 맞게 기사 읽는 재미를 키우고생각하는 힘을 길러 쓰기 능력도 키우는초등문해력에 많은 도움이 되는 책이랍니다.7세부터 초등 4학년까지 추천하고요,읽는 것도, 쓰는 것도 어려워하는아이를 위해 다양한 주제의 이야기를스스로 풀어갈 수 있어 푹 빠져 읽게..."
+        },
+        {
+          "score": 10.0,
+          "author": "j********5",
+          "date": "2025-08-12",
+          "content": "그냥 책이 아니고, 아이가 즐겁게 볼 수 있는 ‘신문책’ <초등 첫 문해력 신문3>를 소개해요📰전 시리즈 1,2를 정말 재미있게 해서 이번 신간도 기대됐어요신문처럼 생겨서 읽는 재미가 두 배!과학, 역사, 환경, 인물 이야기, 시사 이슈등 다양하고 흥미로운 주제의 기사가 가득해요읽다 보면 “우와~ 이건 처음 알았어!” 하고 깜짝 놀라는 순간이 많답니..."
+        },
+        {
+          "score": 10.0,
+          "author": "e******6",
+          "date": "2025-08-11",
+          "content": "요즘 우리 집에서 제일 핫한 책 입니다.처음엔 ‘신문’이라 아이가 좋아할까 걱정했는데…첫 장 펴자마자 “엄마, 오늘은 이 기사 읽을래” 하면서혼자 읽더니, 저녁 먹을 때 기사 내용 줄줄얘기해주더라구요!기사 내용이 진짜 요즘 뉴스인데,아이 눈높이에 맞게 쉽게 풀어줘서초등학교 1학년 첫째가 너무 재미있게 잘 읽더라구요~읽기만 하는 게 아니라 어휘 찾기,..."
+        }
+      ],
+      "reviewListUrl": "https://www.yes24.com/Product/CommunityModules/GoodsReviewList/149130037?goodsSortNo=001027&resourceKeyGb=01&goodsStateGb=02&goodsSetYn=N&Sort=1&PageNumber=1",
+      "overallRank": null,
+      "childrenRank": 1,
       "rank": [
         {
           "label": "아동 교육 분야 역대",
@@ -689,16 +811,20 @@
       ]
     },
     "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791173573767",
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367920761",
       "itemId": "367920761",
       "salesPoint": 746,
-      "reviewCount": 4,
       "commentCount": 1,
-      "rank": []
+      "reviewCount": 4,
+      "reviewScore": null,
+      "rank": [],
+      "overallRank": null,
+      "childrenRank": null,
+      "reviews": []
     }
   },
   "ai-literacy-newspaper": {
-    "t": "2026-09-17T10:21:50+09:00",
+    "t": "2026-09-17T11:14:38+09:00",
     "book": "ai-literacy-newspaper",
     "title": "초등 첫 AI 문해력 신문",
     "isbn": "9791176612739",
@@ -706,8 +832,10 @@
       "id": "S000221142533",
       "url": "https://product.kyobobook.co.kr/detail/S000221142533",
       "rank": [],
+      "overallRank": null,
+      "childrenRank": null,
       "reviewCount": 15,
-      "reviewScore": 10,
+      "reviewScore": 10.0,
       "price": 17010,
       "status": "판매중",
       "onlineStock": 47,
@@ -899,15 +1027,51 @@
           "stock": 0,
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
-      ]
+      ],
+      "reviews": []
     },
     "yes24": {
       "id": "195804491",
       "url": "https://www.yes24.com/product/goods/195804491",
       "cover": "https://image.yes24.com/goods/195804491/XL",
       "salesIndex": 4956,
-      "reviewCount": 500,
+      "reviewCount": 30,
       "reviewScore": 10.0,
+      "reviews": [
+        {
+          "score": 10.0,
+          "author": "k*****4",
+          "date": "2026-09-17",
+          "content": "하루 한 장 부담 없는 분량이라 8주 동안 꾸준히 읽는 루틴 잡기 딱이에요. 읽고 쓰기 활동은 물론 QR 영상 학습까지 연결되어 있어서 지루할 틈이 없네요 💡아이가 \"엄마, AI도 잘못된 정보를 줄 수 있대!\" 하면서 스스로 생각하고 비판해보는 모습에 뿌듯했던 시간 ❤️ AI 시대를 살아갈 우리 아이들에게 강력 추천합니다!"
+        },
+        {
+          "score": 10.0,
+          "author": "b****j",
+          "date": "2026-09-17",
+          "content": "초4부터 기르는 AI 시대 필수 문해력!! 이라고 적혀있네요.4학년인 아이에게 딱이다 싶어 해보자고 했어요~~아이는 주말에 수업을 받으러 가는 곳이 있는데 올해 초에 AI 관련해서 몇 군데 사이트를 직접 경험해봤어요.그림을 그리기도 하고 노래를 만들기도 하고 챗GPT랑 대화를 나눠보기도했어요.아직 AI 프로그램이 낯설어서 그런지 관심을 갖고 해보지는 않더라..."
+        },
+        {
+          "score": 10.0,
+          "author": "m*****1",
+          "date": "2026-09-16",
+          "content": "초등맘 서평《초등 첫 AI 문해력 신문》후기AI가 일상이 된 요즘, 아이들에게 필요한 건 AI를 단순히 잘 사용하는 능력만은 아닌 것 같다. AI가 알려주는 정보를 그대로 받아들이기보다 사실인지 확인하고, 그 안에서 틀린 정보와 편향을 찾아 스스로 판단하는 힘도 중요해졌기 때문이다.《초등 첫 AI 문해력 신문》은 이런 AI 문해력을 초등학생 눈높이에서 익힐 수..."
+        },
+        {
+          "score": 10.0,
+          "author": "o******6",
+          "date": "2026-09-16",
+          "content": "네이버 미자모 카페를 통해 출판사로부터 도서를 제공 받아 독서 후 솔직하게 글을 작성하였습니다.초등 첫 문해력 신문 시리즈의 신간이 나왔어요.바로 AI에 관한 초등 문해력 신문인데요.13년 경력의 초등 교사와 현직 고등 정보 교사가엄선한 최신 AI 기사 지문을 통해 과학적 사고력과 독해력을 길러 주는 아울북 출판사의 《초등 첫 AI문해력 신문》이에요.AI..."
+        },
+        {
+          "score": 10.0,
+          "author": "y*****7",
+          "date": "2026-09-15",
+          "content": "﻿AI 시대, 스스로 읽고 판단하는 힘을 길러 주는초등 첫 AI문해력 신문-이다희 기획 / 송석리 글 / 서희진 그림-13년 경력 초등 교사와 현직 고등 정보 교사가 엄선한 최신의 AI 기사과학 사고력과 독해력을 길러주는 쓰기 활동QR 동영상 기사를 보며 실감 나는 내용AI 문해력 이란?AI가 무엇을 잘하고 못하는지를 이해하고 그럴듯한 답 속에서 틀린 정보와 편향을..."
+        }
+      ],
+      "reviewListUrl": "https://www.yes24.com/Product/CommunityModules/GoodsReviewList/195804491?goodsSortNo=001027&resourceKeyGb=01&goodsStateGb=02&goodsSetYn=N&Sort=1&PageNumber=1",
+      "overallRank": null,
+      "childrenRank": 73,
       "rank": [
         {
           "label": "어린이",
@@ -916,21 +1080,25 @@
       ]
     },
     "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791176612739",
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=401134097",
       "itemId": "401134097",
       "salesPoint": 590,
-      "reviewCount": 12,
       "commentCount": 0,
+      "reviewCount": 12,
+      "reviewScore": null,
       "rank": [
         {
-          "label": "책읽기/글쓰기 주간",
+          "label": "검색 책읽기/글쓰기 주간",
           "rank": 22
         }
-      ]
+      ],
+      "overallRank": null,
+      "childrenRank": null,
+      "reviews": []
     }
   },
   "future-science-1": {
-    "t": "2026-09-17T10:21:50+09:00",
+    "t": "2026-09-17T11:14:38+09:00",
     "book": "future-science-1",
     "title": "장동선의 미래 과학 프로젝트 1",
     "isbn": "9791173576270",
@@ -938,8 +1106,10 @@
       "id": "S000218703871",
       "url": "https://product.kyobobook.co.kr/detail/S000218703871",
       "rank": [],
+      "overallRank": null,
+      "childrenRank": null,
       "reviewCount": 27,
-      "reviewScore": 10,
+      "reviewScore": 10.0,
       "price": 15210,
       "status": "판매중",
       "onlineStock": 35,
@@ -1131,28 +1301,68 @@
           "stock": 0,
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
-      ]
+      ],
+      "reviews": []
     },
     "yes24": {
       "id": "167537883",
       "url": "https://www.yes24.com/product/goods/167537883",
       "cover": "https://image.yes24.com/goods/167537883/XL",
       "salesIndex": 5040,
-      "reviewCount": 500,
+      "reviewCount": 25,
       "reviewScore": 10.0,
+      "reviews": [
+        {
+          "score": 10.0,
+          "author": "w********1",
+          "date": "2026-01-26",
+          "content": "이 책은 아이들 뿐만 아니라 어른들도 하께 읽으면 좋을 동화이다. AI에 대한 이해 뿐 아니라, AI시대를 어떻게 살아가야할지에 대한 고민과 이야기를 책을 읽으며 많이 할 수 있어서 좋았다.AI가 지배하는 미래도시 네오, 이곳에 사는 AI로봇들은 도시 밖으로 인간을 영원히 쫓아낼 계획을 세운다. 이 사실은 안 장박사는 AI로봇 니콜라스와 로지, 인간 태오를 타임..."
+        },
+        {
+          "score": 10.0,
+          "author": "k**********3",
+          "date": "2026-01-12",
+          "content": "요즘우리아이들,눈만뜨면접하는숏폼과온라인콘텐츠때문에걱정많으시죠피하고싶어도피할수없는AI와급변하는과학기술속에서우리아이가중심을잡으려면'똑똑하게활용하는법'과'스스로생각하는힘'을길러주는것이무엇보다중요해요.이런고민을해결하기위해뇌과학자장동선박사님이나섰어요!<장동선의미래과학프로젝트>는앞서가는아이로키우기위한특별한가이드가되어준..."
+        },
+        {
+          "score": 10.0,
+          "author": "b*******2",
+          "date": "2026-01-10",
+          "content": ".✅장동선의 미래 과학 프로젝트1.인공 지능, 새로운 세상을 열다✅기획 장동선 / 글 노지영✅그림 김지인 / 정보글 송석리✅아울북#서평 >도서제공너무 멋진 ‘니콜라스’의 포토 카드로 아이들의 시선을 확! 잡은 ‘미래 과학 프로젝트’!티비에서 나오던 아저씨가 책 표지띠에 있으니”엄마 이 아저씨 원래 과학자였어?“라며 궁금으로 책을 펼쳤다!지금으로부..."
+        },
+        {
+          "score": 10.0,
+          "author": "d********0",
+          "date": "2026-01-09",
+          "content": "과거 - 인공 지능이 인간과 더불어 살도록 해 주는 프로그램을 위한 코드를 개발하다 실종된 장이도 박사, 과거로 돌아가 서버의 암호를 풀어 미래를 바꾸기 위한 미래인들의 시간 이동 프로젝트가 시작되는데...너무나 먼 미래가 아닌, 200년 후의 미래에서 2026년을 살고 있는 오늘로 시간 여행을 온 인공지능 로봇과 미래인의 모습은 익숙한 듯 자연스럽기도 하고..."
+        },
+        {
+          "score": 10.0,
+          "author": "YES마니아 : 골드 j******2",
+          "date": "2026-01-09",
+          "content": "#도서제공<장동선의 미래과학 프로젝트: 인공지능, 새로운 세상을 열다>○기 획: 장동선○글쓴이: 노지영○그린이: 김지인○정보글: 송석리○출판사: 아울북인공지능이 당연하게 일상화된 먼 미래에 사는 초등학생 태오와 그의 삼촌 뇌과학자 장동선 박사님, 그리고 인공 지능 정신건강센터의 상담사인 AI 니콜라스, 같은 센터의 분석가 AI 로지가 주인공인 이..."
+        }
+      ],
+      "reviewListUrl": "https://www.yes24.com/Product/CommunityModules/GoodsReviewList/167537883?goodsSortNo=001027&resourceKeyGb=01&goodsStateGb=02&goodsSetYn=N&Sort=1&PageNumber=1",
+      "overallRank": null,
+      "childrenRank": null,
       "rank": []
     },
     "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791173576270",
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=379190660",
       "itemId": "379190660",
       "salesPoint": 1322,
-      "reviewCount": 17,
       "commentCount": 0,
-      "rank": []
+      "reviewCount": 17,
+      "reviewScore": null,
+      "rank": [],
+      "overallRank": null,
+      "childrenRank": null,
+      "reviews": []
     }
   },
   "future-science-2": {
-    "t": "2026-09-17T10:21:50+09:00",
+    "t": "2026-09-17T11:14:38+09:00",
     "book": "future-science-2",
     "title": "장동선의 미래 과학 프로젝트 2",
     "isbn": "9791173576287",
@@ -1160,6 +1370,8 @@
       "id": "S000219786404",
       "url": "https://product.kyobobook.co.kr/detail/S000219786404",
       "rank": [],
+      "overallRank": null,
+      "childrenRank": null,
       "reviewCount": 25,
       "reviewScore": 9.9,
       "price": 15210,
@@ -1353,28 +1565,68 @@
           "stock": 0,
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
-      ]
+      ],
+      "reviews": []
     },
     "yes24": {
       "id": "187666716",
       "url": "https://www.yes24.com/product/goods/187666716",
       "cover": "https://image.yes24.com/goods/187666716/XL",
       "salesIndex": 2472,
-      "reviewCount": 500,
+      "reviewCount": 49,
       "reviewScore": 10.0,
+      "reviews": [
+        {
+          "score": 10.0,
+          "author": "g******k",
+          "date": "2026-05-21",
+          "content": "과거보다 나은 미래를 만들어 간다는의미에서 과학은 늘 미래 지향적이라는 말이여운이 남습니다.미래를 바꾸는 원동력이 될 여러 분야를연구하는 '미래 과학'.사회 초년생 아직 현실화되지 않은 꿈을현실로 만드는 과학 연구발표를들으며 허황되고 뜬구름잡는 듯하다가도 구체적인 이야기를듣다보면 마냥 그렇지는 않다는 걸 깨달았던 적이 있어요.그리고 그건 세상..."
+        },
+        {
+          "score": 10.0,
+          "author": "e*****l",
+          "date": "2026-05-21",
+          "content": "요즘 서점에 가면 AI 시대를 살아가야 할우리 아이들을 위한 미래 과학 책들이 특히 많이 보이더라고요그중에서도 이 책은 미래인들의 미션을 수행하며다양한 로봇들을 접하는 에피소드부터수상한 로봇 회사 '미라클로벗'에 잠입하는 이야기까지심장이 쫄깃해지는 전개에 눈을 떼지 못하고 단숨에 읽어요스토리 중간중간 있는 '미래 과학 리포트'를 통해피지컬 AI,..."
+        },
+        {
+          "score": 10.0,
+          "author": "l*******e",
+          "date": "2026-05-21",
+          "content": "﻿﻿[출판사로부터 도서 협찬을 받았고 본인의 주관적인 견해에 의하여 작성함]﻿아이들에게 미래 과학에 대한 흥미와 관심을 자연스럽게 이끌어주는 『장동선의 미래 과학 프로젝트 1 : 인공 지능, 새로운 세상을 열다』에 이어 『장동선의 미래 과학 프로젝트 2 : 로봇, 인간의 한계를 확장하다』가 이번에 새롭게 출간되었다.현대 사회에서는 인간의 일을 대신 하..."
+        },
+        {
+          "score": 10.0,
+          "author": "i*****3",
+          "date": "2026-05-20",
+          "content": "뇌과학자 장동선의 첫 어린이 과학 동화 시리즈를만나봤어요!장동선의 미래 과학 프로젝트 2로봇이 우리 삶에 주는 영향과피지컬 AI의 존재를 이해해야 하는이유에 대해서 공부할 수 있답니다!단순히 로봇은 이런거야~ 라고 설명하는 책이 아니고요AI가 몸을 가진 로봇이 되어서 우리 삶에 들어왔을 때우리 아이들이 어떻게 주체적으로이 기술을 활용하여 살아갈지알..."
+        },
+        {
+          "score": 10.0,
+          "author": "s******8",
+          "date": "2026-05-18",
+          "content": "뇌과학자 장동선의 어린이 과학 동화 시리즈인 『미래과학 프로젝트 2』를 읽어봤어요.이 책은 로봇이 우리 삶에 미치는 영향과 ‘피지컬 AI’라는 개념을 아이들의 눈높이에 맞춘 스토리텔링으로 풀어낸 점이 인상적이에요. 다소 어려울 수 있는 주제도 이야기 형식으로 자연스럽게 전달해, 아이들이 부담 없이 읽으면서도 핵심 개념을 이해할 수 있도록 구성되어..."
+        }
+      ],
+      "reviewListUrl": "https://www.yes24.com/Product/CommunityModules/GoodsReviewList/187666716?goodsSortNo=001027&resourceKeyGb=01&goodsStateGb=02&goodsSetYn=N&Sort=1&PageNumber=1",
+      "overallRank": null,
+      "childrenRank": null,
       "rank": []
     },
     "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791173576287",
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391279953",
       "itemId": "391279953",
       "salesPoint": 924,
-      "reviewCount": 22,
       "commentCount": 1,
-      "rank": []
+      "reviewCount": 22,
+      "reviewScore": null,
+      "rank": [],
+      "overallRank": null,
+      "childrenRank": null,
+      "reviews": []
     }
   },
   "future-science-3": {
-    "t": "2026-09-17T10:21:50+09:00",
+    "t": "2026-09-17T11:14:38+09:00",
     "book": "future-science-3",
     "title": "장동선의 미래 과학 프로젝트 3",
     "isbn": "9791173576294",
@@ -1382,8 +1634,10 @@
       "id": "S000220693813",
       "url": "https://product.kyobobook.co.kr/detail/S000220693813",
       "rank": [],
+      "overallRank": null,
+      "childrenRank": null,
       "reviewCount": 28,
-      "reviewScore": 10,
+      "reviewScore": 10.0,
       "price": 15210,
       "status": "판매중",
       "onlineStock": 8,
@@ -1575,28 +1829,68 @@
           "stock": 0,
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
-      ]
+      ],
+      "reviews": []
     },
     "yes24": {
       "id": "194502221",
       "url": "https://www.yes24.com/product/goods/194502221",
       "cover": "https://image.yes24.com/goods/194502221/XL",
       "salesIndex": 1920,
-      "reviewCount": 500,
+      "reviewCount": 52,
       "reviewScore": 10.0,
+      "reviews": [
+        {
+          "score": 10.0,
+          "author": "j*****0",
+          "date": "2026-09-14",
+          "content": "너무너무 재미있을 것 같은 장동선의 미래 과학 프로젝트 3 : 스마트 글라스, 보이는 것 너머를 보다!!!와, 요즘 아이들이 살아갈 미래는 정말 우리가 어릴 때 상상했던 미래와는 많이 달라질 것 같아요.이번에 살펴본 장동선의 미래 과학 프로젝트 3 : 스마트 글라스, 보이는 것 너머를 보다는 제목부터 아이들의 호기심을 확 끌어당기는 책입니다.어렵게만 느껴질..."
+        },
+        {
+          "score": 10.0,
+          "author": "l*******e",
+          "date": "2026-09-07",
+          "content": "﻿[출판사로부터 도서 협찬을 받았고 본인의 주관적인 견해에 의해 작성함]﻿『장동선의 미래 과학 프로젝트 1 : 인공지능, 새로운 세상을 열다』, 『장동선의 미래 과학 프로젝트 2 : 로봇, 인간의 한계를 확장하다』에 이어 뜨끈뜨끈한 신간 『장동선의 미래 과학 프로젝트 3 : 스마트 글라스, 보이는 것 너머를 보다』가 나왔다.'AI 시대를 살아갈 어린이를 위한..."
+        },
+        {
+          "score": 10.0,
+          "author": "YES마니아 : 플래티넘 s*****7",
+          "date": "2026-09-03",
+          "content": "출판사로부터 도서를 제공받아 작성하였습니다#장동선의미래과학프로젝트 3권스마트 글라스, 보이는 것 너머를 보다뇌과학자 장동선의 첫 어린이 과학 동화 시리즈입니다요새 스마트글라스, AI 안경에 대한 이야기 기사에서도 볼 수 있죠이러한 스마트 글라스와 AR, VR에 대해 아이들이 이해하기 쉽게이야기에 잘 담아낸 책이에요아이가 물어봐도 제가 설명하기 어려..."
+        },
+        {
+          "score": 10.0,
+          "author": "t*****9",
+          "date": "2026-09-01",
+          "content": "* 기획: 장동선, 전진수* 지은이 : 노지영* 제목 : 장동선의 미래 과학 프로젝트 3 : 스마트 글라스, 보이는 것 너머를 보다* 출판사 : 아울북* 출간 연도 : 2026.06.* 페이지 : 총 144 면 몇 해전 G사의 스마트 글래스 시연 광고 영상을 본 적이 있다. 안경을 끼고 일상생활을 하는데 마치 안경과 대화를 하는 것처럼 사용자가 원하는 정보들이 안경 렌즈 속에 빠르..."
+        },
+        {
+          "score": 10.0,
+          "author": "YES마니아 : 로얄 w******g",
+          "date": "2026-08-30",
+          "content": "네이버 미자모카페를 통해 출판사로부터 도서를 지원받아 솔직한 리뷰를 작성했습니다.상상만 하던 것들이 현실이 되는 시대입니다.정말 과학기술의 발전 속도가 빠르다는 것을 하루하루 느끼게 되는데요.얼마 전에는 네팔 홍수 영상이 AI로 만들어진 것인지 실제 영상인지 구분하기 어려울 정도라는 이야기가 나올 만큼, 이제는 진짜와 AI가 만들어낸 결과물을 구별..."
+        }
+      ],
+      "reviewListUrl": "https://www.yes24.com/Product/CommunityModules/GoodsReviewList/194502221?goodsSortNo=001027&resourceKeyGb=01&goodsStateGb=02&goodsSetYn=N&Sort=1&PageNumber=1",
+      "overallRank": null,
+      "childrenRank": null,
       "rank": []
     },
     "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791173576294",
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=399320263",
       "itemId": "399320263",
       "salesPoint": 740,
-      "reviewCount": 27,
       "commentCount": 1,
-      "rank": []
+      "reviewCount": 27,
+      "reviewScore": null,
+      "rank": [],
+      "overallRank": null,
+      "childrenRank": null,
+      "reviews": []
     }
   },
   "human-body-1": {
-    "t": "2026-09-17T10:21:50+09:00",
+    "t": "2026-09-17T11:14:38+09:00",
     "book": "human-body-1",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 1",
     "isbn": "9791173578625",
@@ -1604,8 +1898,10 @@
       "id": "S000219523042",
       "url": "https://product.kyobobook.co.kr/detail/S000219523042",
       "rank": [],
+      "overallRank": null,
+      "childrenRank": null,
       "reviewCount": 64,
-      "reviewScore": 10,
+      "reviewScore": 10.0,
       "price": 15210,
       "status": "판매중",
       "onlineStock": 0,
@@ -1797,33 +2093,73 @@
           "stock": 1,
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
-      ]
+      ],
+      "reviews": []
     },
     "yes24": {
       "id": "183650258",
       "url": "https://www.yes24.com/product/goods/183650258",
       "cover": "https://image.yes24.com/goods/183650258/XL",
       "salesIndex": 12012,
-      "reviewCount": 500,
+      "reviewCount": 43,
       "reviewScore": 10.0,
+      "reviews": [
+        {
+          "score": 10.0,
+          "author": "YES마니아 : 로얄 r********5",
+          "date": "2026-06-06",
+          "content": "《법의학자 유성호의 인체 탐구 프로젝트 1》은 우리 몸의 구조와 기능을 쉽고 흥미롭게 설명해 주어 과학에 대한 호기심을 키워 주는 책입니다. 실제 사례와 재미있는 그림이 함께 담겨 있어 이해하기 쉽고, 인체에 대한 다양한 지식을 자연스럽게 배울 수 있습니다."
+        },
+        {
+          "score": 8.0,
+          "author": "YES마니아 : 로얄 i****d",
+          "date": "2026-04-22",
+          "content": "3n살이지만, 인체가 어떻게 작용되는지 궁금해서 쉬운 책을 찾다가 이 책을 읽게 되었어요. 주인공이 코난처럼 작아지면서 일어나는 일들인데, 이야기 중간 중간에 인체에 대한 설명이 종합적으로 기재되어 있어요. 조금 더 쉽고 직접적으로 쓰여진 책이였다면 더 좋았겠다는 생각이 듭니다."
+        },
+        {
+          "score": 10.0,
+          "author": "YES마니아 : 로얄 w*****1",
+          "date": "2026-04-14",
+          "content": "출판사로부터 도서를 제공받아 직접 읽고 작성하였습니다.처음엔 제목 때문에 살짝 고민했어요.법의학자라는 단어가 아이들한테 어렵게 느껴질까 싶었거든요.그래도 펼쳐봤는데의외로 아이들 반응이 바로 나뉘더라고요.초6 아이는 보자마자 흥미를 보였어요.내용을 하나씩 읽어가면서“이건 이런 거였어?” 하면서 스스로 이해해가는 모습이 보였어요.반면 초3 아이..."
+        },
+        {
+          "score": 10.0,
+          "author": "j*****3",
+          "date": "2026-04-14",
+          "content": "법의학자 유성호의 인체 탐구 프로젝트 1을 아이와 함께 읽어봤어요. 평소 몸에 대한 궁금증이 많던 아이라 기대를 했는데, 결과적으로 정말 만족스러운 선택이었어요. 특히 유성호 교수님이 기획한 책이라 그런지 내용에 대한 신뢰감이 컸고, 설명도 굉장히 체계적으로 잘 정리되어 있었어요.이 책은 소화 기관을 중심으로 이야기를 풀어가는데, 단순히 정보를 나열..."
+        },
+        {
+          "score": 10.0,
+          "author": "YES마니아 : 플래티넘 f**7",
+          "date": "2026-04-11",
+          "content": "법의학적 관점에서 인체의 구조와 기능을 흥미롭게 풀어낸 과학 책. 죽음의 현장에서 삶의 흔적을 찾아내는 법의학자의 시선으로 우리 몸의 기둥인 뼈와 움직임의 핵심인 근육을 탐구하며 단순히 생물학적 지식을 나열하는 데 그치지 않고, 뼈에 남은 흔적을 통해 인물의 나이, 성별, 직업 등을 추리하는 법의학적 기법을 실제 사례와 결합해 알려주어 유익함."
+        }
+      ],
+      "reviewListUrl": "https://www.yes24.com/Product/CommunityModules/GoodsReviewList/183650258?goodsSortNo=001027&resourceKeyGb=01&goodsStateGb=02&goodsSetYn=N&Sort=1&PageNumber=1",
+      "overallRank": null,
+      "childrenRank": null,
       "rank": []
     },
     "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791173578625",
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=388782020",
       "itemId": "388782020",
       "salesPoint": 2981,
-      "reviewCount": 32,
       "commentCount": 1,
+      "reviewCount": 32,
+      "reviewScore": null,
       "rank": [
         {
-          "label": "우리 몸 주간",
+          "label": "검색 우리 몸 주간",
           "rank": 7
         }
-      ]
+      ],
+      "overallRank": null,
+      "childrenRank": null,
+      "reviews": []
     }
   },
   "human-body-2": {
-    "t": "2026-09-17T10:21:50+09:00",
+    "t": "2026-09-17T11:14:38+09:00",
     "book": "human-body-2",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 2",
     "isbn": "9791173578632",
@@ -1836,8 +2172,10 @@
           "rank": 776
         }
       ],
+      "overallRank": null,
+      "childrenRank": 776,
       "reviewCount": 38,
-      "reviewScore": 10,
+      "reviewScore": 10.0,
       "price": 15210,
       "status": "판매중",
       "onlineStock": 83,
@@ -2029,33 +2367,73 @@
           "stock": 1,
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
-      ]
+      ],
+      "reviews": []
     },
     "yes24": {
       "id": "194203560",
       "url": "https://www.yes24.com/product/goods/194203560",
       "cover": "https://image.yes24.com/goods/194203560/XL",
       "salesIndex": 6558,
-      "reviewCount": 500,
+      "reviewCount": 66,
       "reviewScore": 10.0,
+      "reviews": [
+        {
+          "score": 10.0,
+          "author": "l******2",
+          "date": "2026-08-20",
+          "content": "※ 본 서평은 출판사로부터 도서를 제공받아 직접 읽고 솔직하게 작성한 후기입니다.어렵고 딱딱하게 느껴지기 쉬운 물리학을 초등학교 아이 눈높이에 맞춰 유쾌하게 풀어낸 물리박사 김상욱의 수상한 연구실 0을 읽어봤어요 평소 과학에 관심은 있지만 물리는 진입장벽이 높다고 생각했던 초등학교 2학년 아이였는데, 책을 펼치자마자 집중하여 완독할 정도로 반응..."
+        },
+        {
+          "score": 10.0,
+          "author": "z********d",
+          "date": "2026-08-19",
+          "content": "아이들의 눈높이에 맞춰쉽고 재미있게 풀어낸 책이라 더욱 흥미롭게 읽어봤어요!대한민국 대표 법의학자인‘유성호 교수’의 기획으로 만들어진 만큼전문적인 내용을 담고 있지만,딱딱한 설명이 아니라 이야기와 만화,생생한 그림으로 구성되어초등학생도 부담 없이 읽을 수 있었어요특히 소화 기관이 어떻게 움직이는지,우리 몸이 음식을 어떻게 에너지로 바꾸는지..."
+        },
+        {
+          "score": 10.0,
+          "author": "YES마니아 : 플래티넘 s*****7",
+          "date": "2026-08-14",
+          "content": "출판사로부터 도서를 제공받아 작성하였습니다SBS 그것이 알고싶다 화제의 법의학자이며 서울대 의과대학유성호 교수님이 기획한 어린이 의학 학습만화#법의학자유성호의인체탐구프로젝트 2권이에요초등학생의 몸이 되어버린 천재 의사 류한결의 이야기길에서 저혈당 쇼크 환자를 발견해도 바로 적절한 처치를 하죠아이들의 눈높이에 맞춰 쉽게 설명한 인체 이야기들..."
+        },
+        {
+          "score": 10.0,
+          "author": "YES마니아 : 로얄 z********2",
+          "date": "2026-08-13",
+          "content": "[ 책세상맘수다 카페를 통해 출판사로부터 도서를 제공받아 읽고 작성했습니다 ]아이가 기다리고 기다리던 인체 탐험 프로젝트가 새로운 이야기로 돌아왔어요. 책이 도착하자마자 읽는 모습을 보니 너무 귀여웠습니다. 어떤 내용이길래 아이가 이렇게 좋아하는지 궁금해서 함께 읽어봤습니다.내 몸을 알고 의학을 만나는 어린이 인체 동화< 법의학자 유성호의 인..."
+        },
+        {
+          "score": 10.0,
+          "author": "a*****m",
+          "date": "2026-08-13",
+          "content": "﻿*아울북 출판사로부터 도서를 제공받아 작성한 서평입니다.법의학자 유성호의 인체 탐구 프로젝트 2권을 읽어보았어요.1권이 나왔을 때 아이가 몇 번을 반복해서 읽었던 터라2권은 언제 나오나 계속 기다렸어요!이 책은 인체 동화입니다.이야기를 통해 우리 인체에 대해 자연스럽게 알게 되는데이번 편은 심장에 관한 것을 주로 다루고 있어요.천재 의사라고 불리..."
+        }
+      ],
+      "reviewListUrl": "https://www.yes24.com/Product/CommunityModules/GoodsReviewList/194203560?goodsSortNo=001027&resourceKeyGb=01&goodsStateGb=02&goodsSetYn=N&Sort=1&PageNumber=1",
+      "overallRank": null,
+      "childrenRank": null,
       "rank": []
     },
     "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791173578632",
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=398769685",
       "itemId": "398769685",
       "salesPoint": 1860,
-      "reviewCount": 35,
       "commentCount": 1,
+      "reviewCount": 35,
+      "reviewScore": null,
       "rank": [
         {
-          "label": "우리 몸 주간",
+          "label": "검색 우리 몸 주간",
           "rank": 10
         }
-      ]
+      ],
+      "overallRank": null,
+      "childrenRank": null,
+      "reviews": []
     }
   },
   "yako-knowledge-1": {
-    "t": "2026-09-17T10:21:50+09:00",
+    "t": "2026-09-17T11:14:38+09:00",
     "book": "yako-knowledge-1",
     "title": "빨간내복야코 어린이 상식 1",
     "isbn": "9791171178704",
@@ -2068,8 +2446,10 @@
           "rank": 643
         }
       ],
+      "overallRank": null,
+      "childrenRank": 643,
       "reviewCount": 103,
-      "reviewScore": 10,
+      "reviewScore": 10.0,
       "price": 15120,
       "status": "판매중",
       "onlineStock": 13,
@@ -2261,33 +2641,73 @@
           "stock": 1,
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
-      ]
+      ],
+      "reviews": []
     },
     "yes24": {
       "id": "136559043",
       "url": "https://www.yes24.com/product/goods/136559043",
       "cover": "https://image.yes24.com/goods/136559043/XL",
       "salesIndex": 8619,
-      "reviewCount": 500,
+      "reviewCount": 47,
       "reviewScore": 9.9,
+      "reviews": [
+        {
+          "score": 10.0,
+          "author": "m*******1",
+          "date": "2026-09-10",
+          "content": "속담 뜻을 너무 몰라서 익히라고 구입해줬어요. 지루하게 느껴질 수 있는 필수 속담들을 야코와 친구들의 유쾌한 학습 만화와 만화 컷으로 풀어내어 아이가 깔끔하게 이해하더라고요. 단순 암기가 아니라 일상생활 속에서 속담이 어떤 상황에 쓰이는지 자연스럽게 익힐 수 있어 어휘력 향상에도 많은 도움이 됩니다. 책을 읽다 보면 귀에 익은 야코 멜로디가 절로 떠..."
+        },
+        {
+          "score": 10.0,
+          "author": "YES마니아 : 로얄 d*******2",
+          "date": "2026-07-15",
+          "content": "빨간내복야코 어린이 상식1 속담 편 구매 후기입니다.속담을 전혀 모르는 초등학생을 위해 구매했습니다. 다양한 속담의 뜻을 재미있게 배울 수 있어 만족합니다. 빨간내복 야코 캐릭터를 좋아하는 남아라서 어려워도 끝까지 볼 수 있겠지 싶습니다ㅋ"
+        },
+        {
+          "score": 10.0,
+          "author": "g*********1",
+          "date": "2025-12-31",
+          "content": "아이가 직접 사달라고 해서 구입한 책입니다. 빨간내복야코의 케릭터를 통해서 재미있게 속담을 배울수 있어서 만화책이지만 매우 유용한 책이라고 생각합니다. 직관적이고 너무 재미있게 속담을 설명해서 어른이 봐도 재미있어요. 속담 어려워하는 친구들에게 추천합니다.#연말리뷰"
+        },
+        {
+          "score": 10.0,
+          "author": "p****i",
+          "date": "2025-11-10",
+          "content": "인기 유튜브 빨간 내복 야코 시리즈~사실 조카가 좋아하는 시리즈인데 진짜 유튜브인지 뭔지도 모르긴 함.. 암튼 인기가 있는지 여러 파생 시리즈가 있는데 속담 편이다뭐든 야코만 들어가면 잘 읽어서 이것만 사달라 그러고이 책도 잘 읽었다 속담.. 요샌 거의 쓰는 일이 없지 않나 싶긴 하지만 자라나는 아이들은 이렇게라도 접하면 좋지 않을까"
+        },
+        {
+          "score": 10.0,
+          "author": "a*******8",
+          "date": "2025-11-05",
+          "content": "애들이 너무 좋아해서 한권 두권 사주고 있어요ㅎㅎ내용도 재밌지만 지식 습득 완전 가능!! 그래서 안 사줄 수 없는 책이에요ㅎㅎ 하나하나도장깨기 하고 있는데 재밌어요ㅋ속담도 이렇게 은근히 접하게 해주니 좋아요ㅎㅏ루종일 붙들고 있어요ㅋ만족쓰"
+        }
+      ],
+      "reviewListUrl": "https://www.yes24.com/Product/CommunityModules/GoodsReviewList/136559043?goodsSortNo=001027&resourceKeyGb=01&goodsStateGb=02&goodsSetYn=N&Sort=1&PageNumber=1",
+      "overallRank": null,
+      "childrenRank": null,
       "rank": []
     },
     "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791171178704",
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=351205337",
       "itemId": "351205337",
       "salesPoint": 3535,
-      "reviewCount": 11,
       "commentCount": 0,
+      "reviewCount": 11,
+      "reviewScore": null,
       "rank": [
         {
-          "label": "상식/교양 주간",
+          "label": "검색 상식/교양 주간",
           "rank": 40
         }
-      ]
+      ],
+      "overallRank": null,
+      "childrenRank": null,
+      "reviews": []
     }
   },
   "yako-knowledge-2": {
-    "t": "2026-09-17T10:21:50+09:00",
+    "t": "2026-09-17T11:14:38+09:00",
     "book": "yako-knowledge-2",
     "title": "빨간내복야코 어린이 상식 2",
     "isbn": "9791173571749",
@@ -2300,8 +2720,10 @@
           "rank": 812
         }
       ],
+      "overallRank": null,
+      "childrenRank": 812,
       "reviewCount": 77,
-      "reviewScore": 10,
+      "reviewScore": 10.0,
       "price": 15120,
       "status": "판매중",
       "onlineStock": 15,
@@ -2493,33 +2915,73 @@
           "stock": 1,
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
-      ]
+      ],
+      "reviews": []
     },
     "yes24": {
       "id": "144076825",
       "url": "https://www.yes24.com/product/goods/144076825",
       "cover": "https://image.yes24.com/goods/144076825/XL",
       "salesIndex": 8505,
-      "reviewCount": 500,
+      "reviewCount": 17,
       "reviewScore": 9.6,
+      "reviews": [
+        {
+          "score": 10.0,
+          "author": "s*******n",
+          "date": "2026-05-28",
+          "content": "빨간내복야코 사자성어편주변의 추천으로 초등 일학년 선물로 사줬는데 하루종일 이 책만 읽고 있는 모습에 뿌듯합니다.재미있게 독서하면서 많은 정보도 습득할수 있고 크고있는 초등학생 자녀들에게 큰 도음이 될만한 책인거 같습니다. 고민하지 마시고 구매하요. 강추드립니다!!"
+        },
+        {
+          "score": 10.0,
+          "author": "m*********2",
+          "date": "2026-02-15",
+          "content": "야코 시리즈 좋아하는데 사자성어 공부에 도움 되길 바라는 마음에 구입했어요. 학습만화보다 글책을 읽으면 좋겠지만 아이들은 만화책을 더 좋아해서.. 학습만화로 보여줍니다. 배우는 것도 있으면 좋겠는데..초2라 그런지 기억하는게 별로 없네요ㅠㅠ"
+        },
+        {
+          "score": 6.0,
+          "author": "YES마니아 : 로얄 z******7",
+          "date": "2026-02-11",
+          "content": "야코를 좋아하는 아이가 신간이 나오면 구입하는 책이예요.사자성어를 가볍게 재미있는 이야기와 접하는 책이어서 부담없이 읽기 좋은 것 같아요.다양한 영역에서 상식을 접할 수 있는 야코 어린이 상식 도서 다음 도서도 기대되는데 개인적으로 내용이 조금 더 단단히 실리면 좋을 것 같아요^^"
+        },
+        {
+          "score": 10.0,
+          "author": "s******9",
+          "date": "2025-11-05",
+          "content": "예스24 배송 증말 빠르네요ㅋㅋ 애들이 좋아해서 깜짝으로 샀어요ㅋ 맞춤법, 어휘, 과학 다 읽고 요번엔 상식 시리즈 사주려고 주문했어요ㅋ애들이 한번 읽고 끝내지 않고 읽고 또 읽고 잊을만하면 또 읽어요ㅎㅅㅎ 사준 보람 팍팍 느끼는 책역시 만화책이라 애들의 만족도 최상"
+        },
+        {
+          "score": 8.0,
+          "author": "YES마니아 : 로얄 b*****b",
+          "date": "2025-09-19",
+          "content": "빨간 내복 야코 어린이 상식 2 사자성어는 빨간 내복 야코 어린이 상식 시리즈의 두번째 이야기를 다룬 책으로 사자성어편에 대해서 이번 이야기에 담고 있습니다. 아이가 tv로 사자성어를 많이 접해서 더 책을 읽고 싶어해서 구입해주게 되었습니다."
+        }
+      ],
+      "reviewListUrl": "https://www.yes24.com/Product/CommunityModules/GoodsReviewList/144076825?goodsSortNo=001027&resourceKeyGb=01&goodsStateGb=02&goodsSetYn=N&Sort=1&PageNumber=1",
+      "overallRank": null,
+      "childrenRank": null,
       "rank": []
     },
     "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791173571749",
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=360975965",
       "itemId": "360975965",
       "salesPoint": 4380,
-      "reviewCount": 1,
       "commentCount": 0,
+      "reviewCount": 1,
+      "reviewScore": null,
       "rank": [
         {
-          "label": "어린이 한자 주간",
+          "label": "검색 어린이 한자 주간",
           "rank": 15
         }
-      ]
+      ],
+      "overallRank": null,
+      "childrenRank": 15,
+      "reviews": []
     }
   },
   "yako-knowledge-3": {
-    "t": "2026-09-17T10:21:50+09:00",
+    "t": "2026-09-17T11:14:38+09:00",
     "book": "yako-knowledge-3",
     "title": "빨간내복야코 어린이 상식 3",
     "isbn": "9791173573798",
@@ -2527,8 +2989,10 @@
       "id": "S000217006715",
       "url": "https://product.kyobobook.co.kr/detail/S000217006715",
       "rank": [],
+      "overallRank": null,
+      "childrenRank": null,
       "reviewCount": 65,
-      "reviewScore": 10,
+      "reviewScore": 10.0,
       "price": 15120,
       "status": "판매중",
       "onlineStock": 28,
@@ -2720,28 +3184,68 @@
           "stock": 1,
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
-      ]
+      ],
+      "reviews": []
     },
     "yes24": {
       "id": "148709400",
       "url": "https://www.yes24.com/product/goods/148709400",
       "cover": "https://image.yes24.com/goods/148709400/XL",
       "salesIndex": 8784,
-      "reviewCount": 500,
+      "reviewCount": 12,
       "reviewScore": 9.4,
+      "reviews": [
+        {
+          "score": 10.0,
+          "author": "p****i",
+          "date": "2026-09-08",
+          "content": "3권은 야코와 친구들이 바다와 지구 곳곳을 탐험하며 자연과 환경의 신비를 유쾌하게 풀어냅니다. 플라스틱 오염이나 기후 변화 같은 꼭 필요한 생태 지식을 흥미진진한 퀴즈로 엮어내, 아이가 환경의 소중함을 스스로 깨닫고 유익한 배경지식도 함께 차곡차곡 쌓아갑니다."
+        },
+        {
+          "score": 10.0,
+          "author": "s*******n",
+          "date": "2026-05-28",
+          "content": "빨간내복야코 상식퀴즈릉 주변의 추천으로 초등 일학년 선물로 사줬는데 하루종일 이 책만 읽고 있는 모습에 뿌듯합니다.재미있게 독서하면서 많은 정보도 습득할수 있고 크고있는 초등학생 자녀들에게 큰 도음이 될만한 책인거 같습니다. 고민하지 마시고 구매하요. 강추드립니다!!"
+        },
+        {
+          "score": 10.0,
+          "author": "d*****s",
+          "date": "2026-04-05",
+          "content": "야코 덕에 재미있게 배우고 기억해요! 빨간내복 야코 책 제미있어요! 상식이 풍부해 지고 있어요. 많은 정보를 재미있는 만화와 글로 읽고 유튜브더 보니까 기억에 쏙쏙 남아서 보고 또 보게 되요! 아주 많이 재미있어요. 앞으로도 계속 책 시리즈 내주세요."
+        },
+        {
+          "score": 8.0,
+          "author": "YES마니아 : 로얄 z******7",
+          "date": "2026-02-11",
+          "content": "야코의 어린이 상식 신간이 빠르게 출시되었네요^^ 야코 시리즈를 다 좋아하지만 그 중 어린이 상식 도서는 정말 더 재미있게 보는 것 같아요. 개인적으로 출시되는 속도가 빨라서인지 지난 도서보다 쪼금 내용이 부실한 것 같은 어른의 느낌이나...아이는 뭐 너무 좋아하네요♡"
+        },
+        {
+          "score": 10.0,
+          "author": "s******g",
+          "date": "2025-11-10",
+          "content": "만화 형식이라 아이들이 읽기 편해서 사주게 되네요재밌고 내용도 유익해요ㅋ어른도 다시 배우게 되는 책ㅋㅋ상식편 4권도 바로 주문할 것 같아요저도 같이 빨간내복야코에 스며듭니다..ㅋㅋ예스24 배송도 빠르고 만족스럽습니다!오전에 배송 와서 더 좋아요"
+        }
+      ],
+      "reviewListUrl": "https://www.yes24.com/Product/CommunityModules/GoodsReviewList/148709400?goodsSortNo=001027&resourceKeyGb=01&goodsStateGb=02&goodsSetYn=N&Sort=1&PageNumber=1",
+      "overallRank": null,
+      "childrenRank": null,
       "rank": []
     },
     "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791173573798",
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367518731",
       "itemId": "367518731",
       "salesPoint": 3846,
-      "reviewCount": 6,
       "commentCount": 0,
-      "rank": []
+      "reviewCount": 6,
+      "reviewScore": null,
+      "rank": [],
+      "overallRank": null,
+      "childrenRank": null,
+      "reviews": []
     }
   },
   "yako-knowledge-4": {
-    "t": "2026-09-17T10:21:50+09:00",
+    "t": "2026-09-17T11:14:38+09:00",
     "book": "yako-knowledge-4",
     "title": "빨간내복야코 어린이 상식 4",
     "isbn": "9791173574412",
@@ -2754,8 +3258,10 @@
           "rank": 620
         }
       ],
+      "overallRank": null,
+      "childrenRank": 620,
       "reviewCount": 57,
-      "reviewScore": 10,
+      "reviewScore": 10.0,
       "price": 15210,
       "status": "판매중",
       "onlineStock": 37,
@@ -2947,33 +3453,73 @@
           "stock": 1,
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
-      ]
+      ],
+      "reviews": []
     },
     "yes24": {
       "id": "163002362",
       "url": "https://www.yes24.com/product/goods/163002362",
       "cover": "https://image.yes24.com/goods/163002362/XL",
       "salesIndex": 11604,
-      "reviewCount": 500,
+      "reviewCount": 7,
       "reviewScore": 9.3,
+      "reviews": [
+        {
+          "score": 10.0,
+          "author": "p****i",
+          "date": "2026-09-08",
+          "content": "조카가 야코를 좋아해서 사줬는데 재미있게 잘 읽습니다. 다른 나라의 독특한 문화나 수도 같은 세계 상식들을 만화로 보며 자연스럽게 익혔는지 요즘 먼저 이런저런 퀴즈를 내곤 하네요. 지루하지 않게 읽으면서 상식 쌓기 좋은 책이라 선물하길 잘했습니다."
+        },
+        {
+          "score": 10.0,
+          "author": "s*****7",
+          "date": "2026-09-05",
+          "content": "아이가 너무 좋아해요 야코 시리즈를 다 좋아 하는 것 같아요~그 중에서도 어린이 상식 시리즈 중 세계상식이 참 유용하네요~ 아이가 저도 모르는 상식을 갖게 되었어요야코 캐릭터가 귀엽고 시리즈 별로 여러 상식들에 도움이 됩니다 ~ 잘 읽고 있어요"
+        },
+        {
+          "score": 10.0,
+          "author": "s*******0",
+          "date": "2026-03-25",
+          "content": "세계 여러 나라 이야기를 재미있게 풀어줘서 가볍게 읽기 좋은 상식책이에요. 야코 특유의 유쾌한 분위기 덕분에 지루할 틈 없이 술술 넘어가고, 중간중간 흥미로운 정보가 많아서 읽는 재미가 있어요. 자연스럽게 세계 상식도 익힐 수 있어서 부담 없이 보기 좋아요."
+        },
+        {
+          "score": 10.0,
+          "author": "YES마니아 : 플래티넘 j******o",
+          "date": "2026-03-23",
+          "content": "아이들이 좋아하는 캐릭터라 그런지 책을 펼치자마자 끝까지 쭉 읽어버렸어요 😊역시 빨간내복야코 시리즈답게 재미와 상식을 동시에 잡은 책이에요!일상에서 궁금해할 만한 다양한 상식들이 쉽고 재미있게 풀려 있어서 아이들이 전혀 지루해하지 않아요. 중간중간 나오는 유머와 그림 덕분에 웃으면서 자연스럽게 지식을 익힐 수 있는 점이 특히 좋았어요.“이건..."
+        },
+        {
+          "score": 10.0,
+          "author": "YES마니아 : 로얄 z******7",
+          "date": "2026-02-15",
+          "content": "아이의 최애 캐릭터 중 하나인 야코가 이번엔 세계에 관련된 상식을 주제로 신간을 발간하였네요^^평소 세계 여러나라에 대한 상식을 접하기 힘든데 야코와 함께 알아볼 수 있어 매우 즐거워했네요.야코와 책 한권으로 떠나보는 세계여행 추천합니다^^"
+        }
+      ],
+      "reviewListUrl": "https://www.yes24.com/Product/CommunityModules/GoodsReviewList/163002362?goodsSortNo=001027&resourceKeyGb=01&goodsStateGb=02&goodsSetYn=N&Sort=1&PageNumber=1",
+      "overallRank": null,
+      "childrenRank": null,
       "rank": []
     },
     "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791173574412",
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=375958389",
       "itemId": "375958389",
       "salesPoint": 5650,
-      "reviewCount": 0,
       "commentCount": 0,
+      "reviewCount": 0,
+      "reviewScore": null,
       "rank": [
         {
-          "label": "상식/교양 주간",
+          "label": "검색 상식/교양 주간",
           "rank": 38
         }
-      ]
+      ],
+      "overallRank": null,
+      "childrenRank": null,
+      "reviews": []
     }
   },
   "yako-knowledge-5": {
-    "t": "2026-09-17T10:21:50+09:00",
+    "t": "2026-09-17T11:14:38+09:00",
     "book": "yako-knowledge-5",
     "title": "빨간내복야코 어린이 상식 5",
     "isbn": "9791173577598",
@@ -2986,6 +3532,8 @@
           "rank": 767
         }
       ],
+      "overallRank": null,
+      "childrenRank": 767,
       "reviewCount": 44,
       "reviewScore": 9.9,
       "price": 15210,
@@ -3179,28 +3727,68 @@
           "stock": 1,
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
-      ]
+      ],
+      "reviews": []
     },
     "yes24": {
       "id": "177507219",
       "url": "https://www.yes24.com/product/goods/177507219",
       "cover": "https://image.yes24.com/goods/177507219/XL",
       "salesIndex": 6582,
-      "reviewCount": 500,
+      "reviewCount": 20,
       "reviewScore": 10.0,
+      "reviews": [
+        {
+          "score": 10.0,
+          "author": "s*******4",
+          "date": "2026-08-21",
+          "content": "재미있는 이야기와 함께 다양한 감정 표현과 어휘를 자연스럽게 익힐 수 있어 좋았습니다. 아이들이 자주 사용하는 말부터 조금 어려운 표현까지 쉽게 설명되어 이해하기 좋았어요. 재미있게 읽으면서 어휘력도 키울 수 있어 아이에게 유익한 책이었습니다."
+        },
+        {
+          "score": 10.0,
+          "author": "c***o",
+          "date": "2026-03-28",
+          "content": "아이랑 책을 고를 때마다 늘 고민되는 게 하나 있어요.“이 책이 아이한테 진짜 도움이 될까?”였는데요.이번에 읽어본 빨간내복야코 어린이 상식 5 감정어휘는 그런 고민을 한 번에 덜어준 책이었어요.요즘 아이들 보면 기분을 표현할 때 “대박”, “짜증 나” 같은 말로만 끝내는 경우가 많잖아요.저희 아이도 딱 그랬는데, 이 책을 읽으면서 감정을 훨씬 다양하..."
+        },
+        {
+          "score": 10.0,
+          "author": "m******8",
+          "date": "2026-03-17",
+          "content": "구독자 125만 명을 사로잡은 지구 어린이들의 든든한 친구, 빨간내복야코가 이번엔 마음 표현에 서투른 많은 어린이를 위해 감정 어휘편이 샤로 나왔어요‘대박’, ‘짜증 나’로 뭉뚱그렸던 마음을 야코와 함께 구체적으로 표현해 볼 수 있어요내 마음을 들여다보고 솔직하게 전하는 힘이 자라나지요감정을 구체적으로 표현하면 내 마음을 되돌아볼 수 있고 감정을..."
+        },
+        {
+          "score": 10.0,
+          "author": "s******9",
+          "date": "2026-03-16",
+          "content": "아이 키우다 보면 한 번쯤 이런 생각 들지 않나요?“우리 아이 마음을 말로 조금만 더 잘 표현했으면 좋겠다…” 하는 순간 말이에요.이번에 읽어본 책은 바로 빨간내복야코 어린이 상식 5: 감정 어휘 편 입니다.구독자 125만 명을 사로잡은 인기 캐릭터 빨간내복야코가 등장하는 책이라 그런지 아이도 처음부터 흥미를 보이더라고요.이 책의 가장 큰 장점은 단순히..."
+        },
+        {
+          "score": 10.0,
+          "author": "YES마니아 : 로얄 t*******4",
+          "date": "2026-03-08",
+          "content": "[출판사로부터 도서 협찬을 받았고 본인의 주관적인 견해에 의하여 작성함]\"이거 모르면 지구인 아님?\" 이라고? 야코책을 너무 좋아하는 후후남매 ㅎㅎ 받자마자정신없이 책 장을 넘기고 여기저기 펴서서로 모르는게 있는지 없는지확인하고 서로 지구인이 아니라고 놀리기도 하고책읽느라 시간가는줄 모르고 깔깔 거렸던 바로 그책입니다 ㅎ113만 구독자의 \"빨간내복..."
+        }
+      ],
+      "reviewListUrl": "https://www.yes24.com/Product/CommunityModules/GoodsReviewList/177507219?goodsSortNo=001027&resourceKeyGb=01&goodsStateGb=02&goodsSetYn=N&Sort=1&PageNumber=1",
+      "overallRank": null,
+      "childrenRank": null,
       "rank": []
     },
     "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791173577598",
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=385788090",
       "itemId": "385788090",
       "salesPoint": 5115,
-      "reviewCount": 12,
       "commentCount": 0,
-      "rank": []
+      "reviewCount": 12,
+      "reviewScore": null,
+      "rank": [],
+      "overallRank": null,
+      "childrenRank": null,
+      "reviews": []
     }
   },
   "yako-knowledge-6": {
-    "t": "2026-09-17T10:21:50+09:00",
+    "t": "2026-09-17T11:14:38+09:00",
     "book": "yako-knowledge-6",
     "title": "빨간내복야코 어린이 상식 6",
     "isbn": "9791173579073",
@@ -3213,11 +3801,13 @@
           "rank": 363
         }
       ],
+      "overallRank": null,
+      "childrenRank": 363,
       "reviewCount": 55,
-      "reviewScore": 10,
+      "reviewScore": 10.0,
       "price": 15210,
       "status": "판매중",
-      "onlineStock": 115,
+      "onlineStock": 114,
       "likeCount": 13,
       "storeStockTotal": 218,
       "stores": [
@@ -3406,29 +3996,69 @@
           "stock": 5,
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
-      ]
+      ],
+      "reviews": []
     },
     "yes24": {
       "id": "192491768",
       "url": "https://www.yes24.com/product/goods/192491768",
       "cover": "https://image.yes24.com/goods/192491768/XL",
       "salesIndex": 4488,
-      "reviewCount": 500,
+      "reviewCount": 56,
       "reviewScore": 10.0,
+      "reviews": [
+        {
+          "score": 10.0,
+          "author": "h******2",
+          "date": "2026-08-21",
+          "content": "빨간내복야코 캐릭터와 함께 음식, 스포츠, 음악, 문학, 환경 등 다양한 문화 상식을 재미있는 만화로 배울 수 있어 좋았습니다. 어렵게 느껴질 수 있는 내용도 쉽고 재미있게 설명되어 아이가 부담 없이 읽으면서 자연스럽게 지식을 쌓을 수 있는 유익한 책입니다."
+        },
+        {
+          "score": 10.0,
+          "author": "j*****0",
+          "date": "2026-08-12",
+          "content": "아이들이 재미있게 읽으면서 자연스럽게 상식을 배울 수 있는 책을 만나봤어요《빨간내복야코 어린이 상식》은 아이들이 좋아하는 캐릭터와 재미있는 이야기, 노래 형식의 내용이 함께 구성되어 있어서 어렵게 느껴질 수 있는 상식을 쉽고 재미있게 접할 수 있는 책이에요.특히 「이게 모르면 지구인 아님! ⑥ 문화 상식」 편이라 음식, 음악, 스포츠 등 다양한 문화..."
+        },
+        {
+          "score": 10.0,
+          "author": "l*******e",
+          "date": "2026-07-19",
+          "content": "﻿[출판사로부터 도서 협찬을 받았고 본인의 주관적인 견해에 의하여 작성함]﻿중독성 있는 빠른 비트의 노래로아이들 사이에서 큰 인기를 얻고 있는 빨간내복야코.『빨간내복야코 맞춤법 절대 안 틀리는 책』시리즈를 좋아하는우리집 아이들이 재미있게 읽을 것 같아『빨간내복야코 어린이 상식 6. 문화 상식』출간 소식을 듣자마자망설임 없이 관심을 갖게 되었다...."
+        },
+        {
+          "score": 10.0,
+          "author": "h***s",
+          "date": "2026-07-17",
+          "content": "<출판사로부터 도서를 제공받아 작성한 리뷰입니다>빨간 내복 야코와 친구들이알려주는 어린이 상식6번째 이야기로 돌아왔어요이번편은 문화 상식!음식/스포츠/음악/문학/환경다양한 분야의 문화 상식들이 수록되어 있는데요,일상 생활 속에서스쳐지나가듯 만나게 되는호기심 가득한 이야기들로구성이 되어 있어서읽는 내내 재미있었다고합니다.야코와 친구들..."
+        },
+        {
+          "score": 10.0,
+          "author": "YES마니아 : 로얄 m****7",
+          "date": "2026-07-13",
+          "content": "﻿요즘 아이들이 가장 기다리는 책 중 하나가바로빨간내복야코 어린이 상식 시리즈가아닐까 싶습니다.한 번 펼치면 끝까지 읽게 되는흡입력이 정말 대단하더라고요.⠀저희 아이들도 새 책이 오자마자서로 먼저 읽겠다고 할 정도였는데,읽고 끝나는 것이 아니라며칠 동안 다시 펼쳐보며 재미있는 장면을찾아 읽는 모습이 인상적이었습니다.⠀사실 저는 재미만을 위한..."
+        }
+      ],
+      "reviewListUrl": "https://www.yes24.com/Product/CommunityModules/GoodsReviewList/192491768?goodsSortNo=001027&resourceKeyGb=01&goodsStateGb=02&goodsSetYn=N&Sort=1&PageNumber=1",
+      "overallRank": null,
+      "childrenRank": null,
       "rank": []
     },
     "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=9791173579073",
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=396456287",
       "itemId": "396456287",
       "salesPoint": 3430,
-      "reviewCount": 23,
       "commentCount": 0,
+      "reviewCount": 23,
+      "reviewScore": null,
       "rank": [
         {
-          "label": "상식/교양 주간",
+          "label": "검색 상식/교양 주간",
           "rank": 4
         }
-      ]
+      ],
+      "overallRank": null,
+      "childrenRank": null,
+      "reviews": []
     }
   }
 }
