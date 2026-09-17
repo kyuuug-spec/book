@@ -2,268 +2,291 @@
 <html lang="ko">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>아울북 도서 모니터링</title>
-<meta name="description" content="교보문고·YES24·알라딘 도서 지표 자동 모니터링 대시보드">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>도서 모니터링 대시보드</title>
 <style>
 :root{
-  color-scheme:light;
-  --bg:#f5f6f8;--panel:#fff;--ink:#15171b;--sub:#60656f;--muted:#9298a3;--line:#e5e8ed;
-  --blue:#315ee8;--orange:#ef6c32;--green:#11956d;--purple:#7257cf;--red:#d84c4c;
-  --shadow:0 8px 28px rgba(24,30,44,.055);--radius:16px;
+  --bg:#f5f8fc;--card:#fff;--ink:#12213f;--sub:#66738c;--line:#e5ebf4;
+  --blue:#397df7;--blue2:#eaf2ff;--green:#18a875;--green2:#e8f8f1;
+  --purple:#8b5cf6;--purple2:#f2edff;--red:#ef5c73;--red2:#fff0f3;
+  --shadow:0 8px 26px rgba(40,67,115,.07);--radius:15px;
 }
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,"Segoe UI","Apple SD Gothic Neo","Malgun Gothic",sans-serif;line-height:1.5}
-a{color:inherit}.wrap{max-width:1280px;margin:auto;padding:30px 22px 70px}
-.top{display:flex;justify-content:space-between;gap:20px;align-items:flex-end;margin-bottom:20px}.top h1{font-size:25px;margin:0 0 5px;letter-spacing:-.04em}.top p{margin:0;color:var(--sub);font-size:13px}.status{font-size:12px;color:var(--sub);text-align:right}.status b{color:var(--ink)}
-.toolbar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:18px}.toolbar select,.toolbar input,.toolbar button{border:1px solid var(--line);background:#fff;border-radius:10px;padding:9px 11px;font:inherit;color:var(--ink)}.toolbar input{min-width:220px;flex:1;max-width:380px}.toolbar button{cursor:pointer}.toolbar button:hover{background:#f4f6fa}.grow{flex:1}
-.summary{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin-bottom:18px}.tile{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:15px 17px;box-shadow:var(--shadow)}.tile .k{font-size:12px;color:var(--sub)}.tile .v{font-size:25px;font-weight:760;margin-top:2px}.tile .d{font-size:11px;color:var(--muted);margin-top:3px}
-.focus{background:var(--panel);border:1px solid var(--line);border-radius:20px;padding:20px;box-shadow:var(--shadow);margin-bottom:22px}.focus-main{display:grid;grid-template-columns:118px 1fr;gap:19px}.cover{width:118px;aspect-ratio:3/4;border-radius:10px;object-fit:cover;background:linear-gradient(135deg,#e8ecf6,#f7f8fb);border:1px solid var(--line)}.cover.ph{display:grid;place-items:center;color:var(--muted);font-size:12px;text-align:center;padding:10px}.focus h2{margin:0;font-size:23px;letter-spacing:-.035em}.isbn{font-size:12px;color:var(--muted);margin-top:4px}.badges{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}.badge{font-size:11px;background:#f1f3f7;border-radius:999px;padding:3px 8px;color:var(--sub)}.links{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}.links a{font-size:12px;text-decoration:none;border:1px solid var(--line);border-radius:8px;padding:5px 9px}.links a:hover{text-decoration:underline}.err{font-size:11px;color:var(--red);margin-top:8px}
-.section-title{font-size:15px;margin:21px 0 10px;letter-spacing:-.025em}.store-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:11px}.store{border:1px solid var(--line);border-radius:15px;padding:14px;background:#fbfcfd}.store-head{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:11px}.store-name{font-size:14px;font-weight:800}.store-link{font-size:11px;color:var(--sub);text-decoration:none}.store-link:hover{text-decoration:underline}.store-dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px}.kyo{background:var(--blue)}.yes{background:var(--orange)}.ala{background:var(--green)}
-.store-stats{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:7px}.stat{background:#fff;border:1px solid #edf0f3;border-radius:10px;padding:9px 10px;min-height:64px}.stat .k{font-size:10px;color:var(--muted)}.stat .v{font-size:18px;font-weight:760;margin-top:2px;overflow-wrap:anywhere}.stat .s{font-size:9px;color:var(--muted);margin-top:1px;line-height:1.35}
-.review-box{margin-top:12px;border:1px solid var(--line);border-radius:15px;overflow:hidden}.review-head{padding:12px 14px;background:#fafbfc;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;gap:10px;align-items:center}.review-head b{font-size:14px}.review-head span{font-size:11px;color:var(--muted)}.review-table{width:100%;border-collapse:collapse;font-size:12px}.review-table th,.review-table td{padding:11px 12px;border-bottom:1px solid #edf0f3;text-align:right}.review-table th:first-child,.review-table td:first-child{text-align:left}.review-table th{font-weight:600;color:var(--sub);background:#fff}.review-table tr:last-child td{border-bottom:0}.score{font-weight:750}.review-total{font-weight:800}
-.review-content{margin-top:14px}.review-content-head{display:flex;align-items:end;justify-content:space-between;gap:10px;margin:0 0 9px}.review-content-head h3{font-size:15px;margin:0}.review-content-head span{font-size:11px;color:var(--muted)}.review-columns{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:11px}.review-store{border:1px solid var(--line);border-radius:14px;background:#fbfcfd;padding:12px}.review-store-title{font-size:13px;font-weight:800;margin-bottom:8px}.review-item{background:#fff;border:1px solid #edf0f3;border-radius:10px;padding:10px;margin-top:7px}.review-meta{display:flex;flex-wrap:wrap;gap:7px;font-size:10px;color:var(--muted);margin-bottom:5px}.review-text{font-size:12px;line-height:1.55;color:#30343b;white-space:pre-wrap;overflow-wrap:anywhere}.review-empty{font-size:11px;color:var(--muted);padding:10px 2px}.rank-note{font-size:9px;color:var(--muted);margin-top:2px}
-.chart-card{margin-top:16px;border-top:1px solid var(--line);padding-top:15px}.chart-head{display:flex;justify-content:space-between;gap:10px;align-items:center;margin-bottom:8px}.chart-head h3{font-size:14px;margin:0}.chart-head select{border:1px solid var(--line);background:#fff;border-radius:8px;padding:5px 8px;font:inherit;font-size:12px}.chart{width:100%;height:230px;display:block}.chart text{font-size:10px;fill:var(--muted)}.chart .grid{stroke:var(--line);stroke-width:1}.chart .line{fill:none;stroke:var(--blue);stroke-width:2.5}.chart .dot{fill:var(--blue)}.emptychart{height:150px;display:grid;place-items:center;color:var(--muted);font-size:12px;text-align:center;padding:20px}
-.sec-title{font-size:16px;margin:28px 0 11px;letter-spacing:-.02em}.series{margin-bottom:25px}.books{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px}.book{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px;box-shadow:0 4px 18px rgba(23,30,45,.035);cursor:pointer;transition:.15s}.book:hover{transform:translateY(-1px);border-color:#cfd5df}.book.active{outline:2px solid rgba(49,94,232,.25);border-color:rgba(49,94,232,.45)}.bt{font-weight:700;font-size:14px;line-height:1.35;min-height:38px;letter-spacing:-.02em}.bi{font-size:11px;color:var(--muted);margin-top:4px}.mini-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin-top:11px}.mini{border-top:1px solid var(--line);padding-top:7px}.mini .k{font-size:10px;color:var(--muted)}.mini .v{font-size:14px;font-weight:700}.review-mini{margin-top:9px;padding-top:8px;border-top:1px dashed var(--line);font-size:11px;color:var(--sub);display:flex;justify-content:space-between;gap:8px}.waiting{font-size:12px;color:var(--muted);margin-top:10px}.footer{font-size:11px;color:var(--muted);margin-top:34px;padding-top:18px;border-top:1px solid var(--line)}
-@media(max-width:940px){.summary{grid-template-columns:repeat(2,1fr)}.store-grid{grid-template-columns:1fr}.review-columns{grid-template-columns:1fr}.focus-main{grid-template-columns:100px 1fr}.cover{width:100px}}
-@media(max-width:620px){.wrap{padding:20px 14px 50px}.top{align-items:flex-start;flex-direction:column}.status{text-align:left}.focus-main{grid-template-columns:82px 1fr}.cover{width:82px}.focus h2{font-size:18px}.summary{grid-template-columns:repeat(2,1fr)}.tile .v{font-size:22px}.books{grid-template-columns:1fr}.toolbar input{min-width:160px}.review-table th,.review-table td{padding:9px 7px;font-size:11px}}
+body{margin:0;font-family:Inter,system-ui,-apple-system,"Segoe UI","Apple SD Gothic Neo","Malgun Gothic",sans-serif;color:var(--ink);background:var(--bg)}
+button,input,select{font:inherit}
+.app{min-height:100vh;display:grid;grid-template-columns:300px minmax(0,1fr)}
+.sidebar{position:sticky;top:0;height:100vh;background:#fff;border-right:1px solid var(--line);padding:22px 18px;overflow:auto}
+.brand h1{font-size:22px;margin:0;letter-spacing:-.04em}.brand p{margin:3px 0 20px;color:#77849b;font-size:11px;font-weight:700}
+.search{width:100%;border:1px solid #dbe3ef;border-radius:10px;padding:11px 12px;background:#fbfcfe;outline:none}
+.filter-label{font-size:11px;color:var(--sub);margin:12px 0 5px}.series{width:100%;border:1px solid #dbe3ef;border-radius:10px;padding:9px 10px;background:#fff;color:var(--ink)}
+.book-list{margin-top:14px;display:flex;flex-direction:column;gap:5px}
+.book-row{width:100%;border:0;background:#fff;border-radius:12px;padding:10px;display:grid;grid-template-columns:45px 1fr 16px;gap:10px;align-items:center;text-align:left;cursor:pointer;color:var(--ink)}
+.book-row:hover{background:#f5f8fc}.book-row.active{background:#eaf2ff;box-shadow:inset 3px 0 0 var(--blue)}
+.book-cover{width:45px;height:59px;border-radius:5px;object-fit:cover;background:#eef2f7;border:1px solid #e0e6ef}
+.book-title{font-size:12px;font-weight:800;line-height:1.35;letter-spacing:-.02em}.book-pub{font-size:10px;color:#8090a9;margin-top:3px}.chev{color:#8fa0b9;font-size:18px}
+.main{padding:20px 24px 38px;min-width:0}
+.topline{display:flex;justify-content:flex-end;color:#738199;font-size:11px;margin-bottom:9px}
+.summary{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin-bottom:14px}
+.sum-card{background:#fff;border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);padding:14px 16px;display:flex;align-items:center;gap:12px}
+.sum-icon{width:43px;height:43px;border-radius:11px;display:grid;place-items:center;font-size:19px;font-weight:900}.i1{background:#e8f1ff;color:var(--blue)}.i2{background:#e8f8f1;color:var(--green)}.i3{background:#f1ebff;color:var(--purple)}.i4{background:#e8f8f1;color:var(--green)}
+.sum-k{font-size:11px;color:#66738c}.sum-v{font-size:22px;font-weight:900;line-height:1.15;margin-top:1px}
+.hero{background:#fff;border:1px solid var(--line);border-radius:15px;box-shadow:var(--shadow);padding:14px 18px;display:grid;grid-template-columns:88px 1fr auto;gap:16px;align-items:center;margin-bottom:12px}
+.hero-cover{width:88px;height:116px;object-fit:cover;border-radius:6px;border:1px solid #e2e8f0;background:#eef2f7}
+.hero h2{font-size:22px;margin:0 0 4px;letter-spacing:-.04em}.meta{font-size:12px;color:#66738c}
+.tags{display:flex;gap:7px;flex-wrap:wrap;margin-top:10px}.tag{font-size:10px;font-weight:800;border-radius:999px;padding:5px 9px}.tb{background:#eaf2ff;color:#3371db}.tg{background:#e8f8f1;color:#14845f}.tp{background:#f1ebff;color:#7446db}
+.hero-right{min-width:150px;text-align:right;color:#8a98ad;font-size:11px;line-height:1.6}.hero-right b{color:#53627a}
+.stores{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-bottom:12px}
+.store{background:#fff;border:1px solid var(--line);border-radius:15px;box-shadow:var(--shadow);overflow:hidden}
+.store-head{padding:10px 14px;font-size:15px;font-weight:900}.kh{background:#eaf8f0;color:#0e8158}.yh{background:#eaf2ff;color:#1671e8}.ah{background:#f1edff;color:#7148d8}
+.metrics{display:grid;grid-template-columns:repeat(2,1fr)}.metric{padding:12px 14px;border-top:1px solid #edf1f6}.metric:nth-child(odd){border-right:1px solid #edf1f6}.metric.wide{grid-column:1/-1;border-right:0}
+.mk{font-size:10px;color:#65758c}.mv{font-size:18px;font-weight:900;margin-top:2px}.ms{font-size:9px;color:#99a5b6;margin-top:2px}.delta{font-size:9px;font-weight:800;margin-left:5px;border-radius:999px;padding:2px 5px}.up{background:#fff0f3;color:#e85670}.down{background:#e9f8f1;color:#15916a}
+.middle{display:grid;grid-template-columns:minmax(0,1fr) 315px;gap:12px;margin-bottom:12px}
+.panel{background:#fff;border:1px solid var(--line);border-radius:15px;box-shadow:var(--shadow);padding:14px 16px}
+.panel-title{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:9px}.panel-title h3{font-size:15px;margin:0}
+.tabs{display:flex;gap:4px;flex-wrap:wrap}.tab{border:1px solid #e0e6ef;background:#f6f8fb;border-radius:8px;padding:5px 9px;font-size:10px;color:#65758c;cursor:pointer}.tab.active{background:var(--blue);color:white;border-color:var(--blue)}
+.chart{width:100%;height:210px;display:block}.gridline{stroke:#e9eef5;stroke-width:1}.chart-line{fill:none;stroke:var(--blue);stroke-width:2.3}.dot{fill:var(--blue);stroke:white;stroke-width:1.3}.axis{fill:#8794a7;font-size:9px}
+.review-table{width:100%;border-collapse:collapse;font-size:11px}.review-table th,.review-table td{border:1px solid #e8edf4;padding:8px;text-align:center}.review-table th{background:#f7f9fc;color:#64748b}.review-table td{font-weight:700}
+.reviews{background:#fff;border:1px solid var(--line);border-radius:15px;box-shadow:var(--shadow);padding:14px 16px}
+.review-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}.review-card{border:1px solid #e4eaf2;border-radius:12px;padding:11px;background:#fff;min-height:118px}
+.review-top{display:flex;justify-content:space-between;gap:8px;font-size:10px;margin-bottom:6px}.review-store{font-weight:900}.rk{color:#0e8b60}.ry{color:#1671e8}.ra{color:#754bd8}.review-date{color:#93a0b2}.stars{color:#f5a623;font-size:11px;margin-bottom:5px}.review-text{font-size:11px;line-height:1.55;color:#34425a;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+.empty{color:#9aa6b7;font-size:11px;padding:18px 4px}.loading{display:grid;place-items:center;min-height:420px;color:#7d8aa0}
+.small-note{font-size:9px;color:#9aa6b7;margin-top:8px}
+@media(max-width:1150px){.app{grid-template-columns:240px 1fr}.summary{grid-template-columns:repeat(2,1fr)}.stores{grid-template-columns:1fr}.middle{grid-template-columns:1fr}.hero{grid-template-columns:72px 1fr}.hero-right{display:none}.hero-cover{width:72px;height:95px}}
+@media(max-width:760px){.app{display:block}.sidebar{position:static;height:auto;border-right:0;border-bottom:1px solid var(--line)}.book-list{display:none}.main{padding:14px}.summary{grid-template-columns:repeat(2,1fr)}.hero{grid-template-columns:60px 1fr}.hero-cover{width:60px;height:80px}.review-grid{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
-<div class="wrap">
-  <header class="top">
-    <div><h1>아울북 도서 모니터링</h1><p>교보문고 · YES24 · 알라딘 판매·순위·재고·리뷰 자동 모니터링</p></div>
-    <div class="status" id="status">데이터 불러오는 중…</div>
-  </header>
+<div class="app">
+  <aside class="sidebar">
+    <div class="brand"><h1>도서 모니터링 대시보드</h1><p>AULBOOK BOOK MONITOR</p></div>
+    <input id="search" class="search" placeholder="🔎  도서 검색">
+    <div class="filter-label">시리즈</div>
+    <select id="series" class="series"><option value="all">전체 시리즈</option></select>
+    <div id="bookList" class="book-list"></div>
+  </aside>
 
-  <div class="toolbar">
-    <select id="seriesFilter"><option value="all">전체 시리즈</option></select>
-    <input id="search" placeholder="책 제목 또는 ISBN 검색">
-    <button id="resetBtn">초기화</button>
-    <span class="grow"></span>
-    <button id="refreshBtn" title="브라우저 데이터 새로고침">새로고침</button>
-  </div>
-
-  <section class="summary">
-    <div class="tile"><div class="k">등록 도서</div><div class="v" id="sumBooks">–</div><div class="d">현재 추적 목록</div></div>
-    <div class="tile"><div class="k">수집 완료</div><div class="v" id="sumCollected">–</div><div class="d">최신 데이터가 있는 책</div></div>
-    <div class="tile"><div class="k">YES24 판매지수 합계</div><div class="v" id="sumYes">–</div><div class="d">현재 수집값 단순 합계</div></div>
-    <div class="tile"><div class="k">3사 리뷰 합계</div><div class="v" id="sumReviews">–</div><div class="d">교보·YES24·알라딘 리뷰 수</div></div>
-  </section>
-
-  <section class="focus" id="focus"></section>
-  <main id="main"></main>
-
-  <div class="footer">※ 각 서점의 공개 페이지·엔드포인트를 읽어 표시합니다. 서점 사이트 구조가 바뀌면 일부 항목이 일시적으로 수집되지 않을 수 있습니다. 판매지수·Sales Point는 실제 판매 부수와 동일하지 않습니다.</div>
+  <main class="main">
+    <div id="appBody" class="loading">데이터를 불러오는 중입니다…</div>
+  </main>
 </div>
 <script>
-const $ = s => document.querySelector(s);
-let books=[], latest={}, history=[];
-const fmt=n=>isValue(n)?Number(n).toLocaleString('ko-KR'):'–';
-const esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
-const isValue=n=>n!==null && n!==undefined && n!=='' && Number.isFinite(Number(n));
-const num=n=>isValue(n)?Number(n):null;
-const rankNum=n=>{const v=num(n);return v!==null && v>0?v:null};
-function bestRank(arr){ const xs=(arr||[]).map(x=>Number(x.rank)).filter(Number.isFinite); return xs.length?Math.min(...xs):null; }
-function rankLabel(arr){if(!arr?.length)return '순위 없음'; const x=[...arr].sort((a,b)=>a.rank-b.rank)[0]; return `${fmt(x.rank)}위${x.label?' · '+x.label:''}`}
-function sourceLink(url,label){return url?`<a href="${esc(url)}" target="_blank" rel="noopener">${label} ↗</a>`:''}
-function selectedBook(){const hash=decodeURIComponent(location.hash.slice(1)); return books.find(b=>b.id===hash)||books[0];}
-function reviewSum(s){return ['kyobo','yes24','aladin'].reduce((a,k)=>a+(num(s?.[k]?.reviewCount)||0),0)}
-function scoreText(v){return num(v)!=null?`${Number(v).toFixed(Number(v)%1?1:0)}점`:'–'}
-function stat(k,v,s=''){return `<div class="stat"><div class="k">${k}</div><div class="v">${v}</div>${s?`<div class="s">${s}</div>`:''}</div>`}
-function rankValue(v){const n=rankNum(v);return n!=null?fmt(n)+'위':'–'}
-function reviewCards(store,label,dot){
-  const rows=(store?.reviews||[]).slice(0,5);
-  if(!rows.length)return `<section class="review-store"><div class="review-store-title"><span class="store-dot ${dot}"></span>${label}</div><div class="review-empty">공개 리뷰 본문을 찾지 못했습니다. 리뷰가 없거나 서점에서 본문을 동적으로 제한한 경우입니다.</div></section>`;
-  return `<section class="review-store"><div class="review-store-title"><span class="store-dot ${dot}"></span>${label} · 최신 ${rows.length}건</div>${rows.map(r=>`<article class="review-item"><div class="review-meta"><span>${esc(r.author||'회원')}</span>${r.date?`<span>${esc(r.date)}</span>`:''}${num(r.score)!=null?`<span>평점 ${esc(r.score)}</span>`:''}</div><div class="review-text">${esc(r.content||'')}</div></article>`).join('')}</section>`;
-}
+const $=s=>document.querySelector(s);
+let books=[], latest={}, hist=[], metric='overallRank';
 
-const sleep=ms=>new Promise(r=>setTimeout(r,ms));
-async function fetchFresh(url, type='json'){
-  let lastErr;
-  for(let attempt=0; attempt<4; attempt++){
+const esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+const has=n=>n!==null&&n!==undefined&&n!==''&&Number.isFinite(Number(n));
+const num=n=>has(n)?Number(n):null;
+const fmt=n=>has(n)?Number(n).toLocaleString('ko-KR'):'–';
+const rank=n=>{n=num(n);return n&&n>0?`${n.toLocaleString('ko-KR')}위`:'–'};
+const cover=b=>b?.yes24?`https://image.yes24.com/goods/${b.yes24}/XL`:`https://contents.kyobobook.co.kr/sih/fit-in/200x0/pdt/${b.isbn}.jpg`;
+const snap=b=>latest[b?.id]||{};
+const selected=()=>books.find(b=>b.id===decodeURIComponent(location.hash.slice(1)))||books[0];
+
+async function fresh(url,type='json'){
+  const sep=url.includes('?')?'&':'?';
+  const r=await fetch(url+sep+'_='+Date.now(),{cache:'no-store'});
+  if(!r.ok) throw new Error(`${url} ${r.status}`);
+  return type==='text'?r.text():r.json();
+}
+const wait=ms=>new Promise(r=>setTimeout(r,ms));
+
+async function load(){
+  let last;
+  for(let i=0;i<4;i++){
     try{
-      const sep=url.includes('?')?'&':'?';
-      const r=await fetch(url+sep+'v='+Date.now(), {cache:'no-store'});
-      if(!r.ok) throw new Error(`${url} HTTP ${r.status}`);
-      return type==='text' ? await r.text() : await r.json();
-    }catch(e){
-      lastErr=e;
-      await sleep(450*(attempt+1));
+      const [b,l,h]=await Promise.all([
+        fresh('books.json'),
+        fresh('data/latest.json').catch(()=>({})),
+        fresh('data/history.jsonl','text').catch(()=>'')
+      ]);
+      books=b;latest=l||{};hist=(h||'').split(/\n+/).filter(Boolean).map(x=>{try{return JSON.parse(x)}catch{return null}}).filter(Boolean);
+      if(!location.hash&&books[0]) history.replaceState(null,'','#'+books[0].id);
+      initControls();renderAll();return;
+    }catch(e){last=e;await wait((i+1)*700)}
+  }
+  $('#appBody').className='loading';
+  $('#appBody').innerHTML=`데이터를 불러오지 못했습니다.<br><small>${esc(last?.message||'')}</small>`;
+}
+function initControls(){
+  const s=$('#series'),cur=s.value;
+  const arr=[...new Set(books.map(b=>b.series).filter(Boolean))];
+  s.innerHTML='<option value="all">전체 시리즈</option>'+arr.map(x=>`<option value="${esc(x)}">${esc(x)}</option>`).join('');
+  if([...s.options].some(o=>o.value===cur))s.value=cur;
+  renderBookList();
+}
+function filteredBooks(){
+  const q=$('#search').value.trim().toLowerCase(),ser=$('#series').value;
+  return books.filter(b=>(ser==='all'||b.series===ser)&&(!q||`${b.title} ${b.isbn}`.toLowerCase().includes(q)));
+}
+function renderBookList(){
+  const sel=selected();
+  $('#bookList').innerHTML=filteredBooks().map(b=>`
+    <button class="book-row ${sel?.id===b.id?'active':''}" data-id="${esc(b.id)}">
+      <img class="book-cover" src="${cover(b)}" onerror="this.style.visibility='hidden'">
+      <div><div class="book-title">${esc(b.title)}</div><div class="book-pub">아울북</div></div><div class="chev">›</div>
+    </button>`).join('');
+  document.querySelectorAll('.book-row').forEach(x=>x.onclick=()=>{location.hash=encodeURIComponent(x.dataset.id)});
+}
+function latestTime(){
+  const ss=Object.values(latest).filter(x=>x?.t).sort((a,b)=>String(b.t).localeCompare(String(a.t)));
+  return ss[0]?.t?new Date(ss[0].t):null;
+}
+function prevSnap(id,currentT){
+  const rows=hist.filter(x=>x?.book===id&&x?.t&&x.t!==currentT).sort((a,b)=>String(b.t).localeCompare(String(a.t)));
+  return rows[0]||null;
+}
+function deltaRank(cur,prev){
+  cur=num(cur);prev=num(prev);
+  if(!cur||!prev||cur===prev)return '';
+  const d=prev-cur;
+  return `<span class="delta ${d>0?'up':'down'}">${d>0?'▲':'▼'} ${Math.abs(d)}</span>`;
+}
+function summaryStats(){
+  let rising=0,newReviews=0,collected=0;
+  for(const b of books){
+    const s=snap(b); if(s?.t)collected++;
+    const p=prevSnap(b,s?.t);
+    if(p){
+      const pairs=[['kyobo','overallRank'],['yes24','overallRank'],['aladin','overallRank']];
+      if(pairs.some(([k,f])=>num(s[k]?.[f])&&num(p[k]?.[f])&&num(s[k][f])<num(p[k][f]))) rising++;
+      for(const k of ['kyobo','yes24','aladin']){
+        const d=(num(s[k]?.reviewCount)||0)-(num(p[k]?.reviewCount)||0);
+        if(d>0)newReviews+=d;
+      }
     }
   }
-  throw lastErr;
+  return {rising,newReviews,collected};
 }
-async function load(){
-  $('#status').innerHTML='<b>데이터 불러오는 중…</b>';
-  const b=await fetchFresh('books.json');
-  let l={}, h='';
-  try{ l=await fetchFresh('data/latest.json'); }catch(e){ console.warn(e); }
-  try{ h=await fetchFresh('data/history.jsonl','text'); }catch(e){ console.warn(e); }
-  books=b; latest=l||{}; history=(h||'').split(/\n+/).filter(Boolean).map(x=>{try{return JSON.parse(x)}catch{return null}}).filter(Boolean);
-  setupFilters(); render();
+function metricCard(label,val,sub='',d=''){
+  return `<div class="metric"><div class="mk">${label}</div><div class="mv">${val}${d}</div>${sub?`<div class="ms">${sub}</div>`:''}</div>`;
 }
-function setupFilters(){
-  const sel=$('#seriesFilter'); const cur=sel.value;
-  const series=[...new Set(books.map(b=>b.series).filter(Boolean))];
-  sel.innerHTML='<option value="all">전체 시리즈</option>'+series.map(s=>`<option>${esc(s)}</option>`).join('');
-  if([...sel.options].some(o=>o.value===cur))sel.value=cur;
-}
-function render(){
-  const sb=selectedBook(); if(sb && !location.hash) history.replaceState(null,'','#'+encodeURIComponent(sb.id));
-  renderSummary(); renderFocus(selectedBook()); renderBooks(); renderStatus();
-}
-function renderStatus(){
-  const snaps=Object.values(latest).filter(Boolean).sort((a,b)=>String(b.t).localeCompare(String(a.t)));
-  if(!snaps.length){$('#status').innerHTML='<b>아직 수집 전</b><br>Actions를 한 번 실행하면 데이터가 표시됩니다.';return;}
-  const d=new Date(snaps[0].t); $('#status').innerHTML=`최근 수집 <b>${d.toLocaleString('ko-KR')}</b><br>${snaps.length}권 최신값 보유`;
-}
-function renderSummary(){
-  const vals=books.map(b=>latest[b.id]).filter(Boolean);
-  const ys=vals.reduce((a,x)=>a+(num(x.yes24?.salesIndex)||0),0);
-  const rs=vals.reduce((a,x)=>a+reviewSum(x),0);
-  $('#sumBooks').textContent=fmt(books.length); $('#sumCollected').textContent=fmt(vals.length); $('#sumYes').textContent=fmt(ys); $('#sumReviews').textContent=fmt(rs);
-}
-function renderFocus(book){
-  if(!book){$('#focus').innerHTML='';return}
-  const s=latest[book.id]||{}, k=s.kyobo||{}, y=s.yes24||{}, a=s.aladin||{};
-  const coverUrl=y.cover||`https://contents.kyobobook.co.kr/pdt/${book.isbn}.jpg`;
-  const cover=`<img class="cover" src="${esc(coverUrl)}" alt="${esc(book.title)} 표지" onerror="this.outerHTML='<div class=&quot;cover ph&quot;>표지<br>준비 중</div>'">`;
-  const errors=[s.kyoboError&&'교보',s.yes24Error&&'YES24',s.aladinError&&'알라딘'].filter(Boolean);
-  const kyoboUrl=k.url||`https://search.kyobobook.co.kr/search?keyword=${book.isbn}`;
-  const yesUrl=y.url||`https://www.yes24.com/Product/Search?domain=ALL&query=${book.isbn}`;
-  const alaUrl=a.url||`https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=${book.isbn}`;
-  $('#focus').innerHTML=`
-    <div class="focus-main">${cover}<div>
-      <h2>${esc(book.title)}</h2><div class="isbn">ISBN ${esc(book.isbn)}</div>
-      <div class="badges"><span class="badge">${esc(book.series||'도서')}</span>${s.t?`<span class="badge">${new Date(s.t).toLocaleDateString('ko-KR')} 수집</span>`:'<span class="badge">수집 전</span>'}</div>
-      <div class="links">${sourceLink(kyoboUrl,'교보문고')}${sourceLink(yesUrl,'YES24')}${sourceLink(alaUrl,'알라딘')}</div>
-      ${errors.length?`<div class="err">일부 수집 실패: ${errors.join(', ')}</div>`:''}
-    </div></div>
-
-    <h3 class="section-title">서점별 현황</h3>
-    <div class="store-grid">
-      <section class="store">
-        <div class="store-head"><div class="store-name"><span class="store-dot kyo"></span>교보문고</div><a class="store-link" href="${esc(kyoboUrl)}" target="_blank" rel="noopener">상품 보기 ↗</a></div>
-        <div class="store-stats">
-          ${stat('종합 베스트',rankValue(k.overallRank),'교보 종합 주간 베스트')}${stat('어린이 베스트',rankValue(k.childrenRank),'교보 아동 주간 베스트')}
-          ${stat('리뷰',fmt(k.reviewCount)+'건',`평점 ${scoreText(k.reviewScore)}`)}
-          ${stat('온라인 재고',fmt(k.onlineStock)+'권')}
-          ${stat('매장 재고 합계',fmt(k.storeStockTotal)+'권')}
-          ${stat('찜',fmt(k.likeCount)+'명')}
-          ${stat('판매가',num(k.price)!=null?fmt(k.price)+'원':'–',k.status?esc(k.status):'')}
-        </div>
-      </section>
-      <section class="store">
-        <div class="store-head"><div class="store-name"><span class="store-dot yes"></span>YES24</div><a class="store-link" href="${esc(yesUrl)}" target="_blank" rel="noopener">상품 보기 ↗</a></div>
-        <div class="store-stats">
-          ${stat('판매지수',fmt(y.salesIndex))}
-          ${stat('종합 베스트',rankValue(y.overallRank),'YES24 국내도서 종합 베스트')}${stat('어린이 베스트',rankValue(y.childrenRank),'YES24 어린이 종합 베스트')}
-          ${stat('리뷰',fmt(y.reviewCount)+'건')}
-          ${stat('리뷰 평점',scoreText(y.reviewScore))}
-        </div>
-      </section>
-      <section class="store">
-        <div class="store-head"><div class="store-name"><span class="store-dot ala"></span>알라딘</div><a class="store-link" href="${esc(alaUrl)}" target="_blank" rel="noopener">상품 보기 ↗</a></div>
-        <div class="store-stats">
-          ${stat('Sales Point',fmt(a.salesPoint))}
-          ${stat('종합 베스트',rankValue(a.overallRank),'알라딘 주간 베스트 종합')}${stat('어린이 베스트',rankValue(a.childrenRank),'알라딘 주간 베스트 어린이')}
-          ${stat('리뷰',fmt(a.reviewCount)+'건')}
-          ${stat('100자평',fmt(a.commentCount)+'건')}
-        </div>
-      </section>
+function storeCard(cls,name,s,p,kind){
+  const pp=p?.[kind]||{};
+  let extra='';
+  if(kind==='kyobo') extra=metricCard('온라인 재고',fmt(s.onlineStock))+metricCard('매장 재고',fmt(s.storeStockTotal));
+  if(kind==='yes24') extra=`<div class="metric wide"><div class="mk">판매지수</div><div class="mv">${fmt(s.salesIndex)}</div></div>`;
+  if(kind==='aladin') extra=`<div class="metric wide"><div class="mk">Sales Point</div><div class="mv">${fmt(s.salesPoint)}</div></div>`;
+  return `<section class="store">
+    <div class="store-head ${cls}">${name}</div>
+    <div class="metrics">
+      ${metricCard('종합 베스트',rank(s.overallRank),'',deltaRank(s.overallRank,pp.overallRank))}
+      ${metricCard('어린이 베스트',rank(s.childrenRank),'',deltaRank(s.childrenRank,pp.childrenRank))}
+      ${metricCard('리뷰 수',fmt(s.reviewCount))}
+      ${metricCard('평점',has(s.reviewScore)?fmt(s.reviewScore):'–')}
+      ${extra}
     </div>
-
-    <section class="review-box">
-      <div class="review-head"><b>리뷰 현황</b><span>서점별 리뷰 수와 평점을 따로 표시합니다.</span></div>
-      <table class="review-table">
-        <thead><tr><th>서점</th><th>리뷰 수</th><th>평점</th><th>기타</th></tr></thead>
-        <tbody>
-          <tr><td><span class="store-dot kyo"></span>교보문고</td><td>${fmt(k.reviewCount)}건</td><td class="score">${scoreText(k.reviewScore)}</td><td>–</td></tr>
-          <tr><td><span class="store-dot yes"></span>YES24</td><td>${fmt(y.reviewCount)}건</td><td class="score">${scoreText(y.reviewScore)}</td><td>–</td></tr>
-          <tr><td><span class="store-dot ala"></span>알라딘</td><td>${fmt(a.reviewCount)}건</td><td>–</td><td>${fmt(a.commentCount)}건 100자평</td></tr>
-          <tr><td class="review-total">합계</td><td class="review-total">${fmt(reviewSum(s))}건</td><td>–</td><td>–</td></tr>
-        </tbody>
-      </table>
-    </section>
-
-    <section class="review-content">
-      <div class="review-content-head"><h3>독자 리뷰</h3><span>각 서점에서 최근 공개된 리뷰의 일부를 표시합니다.</span></div>
-      <div class="review-columns">${reviewCards(k,'교보문고','kyo')}${reviewCards(y,'YES24','yes')}${reviewCards(a,'알라딘','ala')}</div>
-    </section>
-
-    <div class="chart-card"><div class="chart-head"><h3>기간별 변화</h3><select id="chartMetric">
-      <option value="yes">YES24 판매지수</option>
-      <option value="aladin">알라딘 Sales Point</option>
-      <option value="kyoboOverall">교보 종합 베스트</option>
-      <option value="kyoboChildren">교보 어린이 베스트</option>
-      <option value="yesOverall">YES24 종합 베스트</option>
-      <option value="yesChildren">YES24 어린이 베스트</option>
-      <option value="aladinOverall">알라딘 종합 베스트</option>
-      <option value="aladinChildren">알라딘 어린이 베스트</option>
-      <option value="stock">교보 온라인 재고</option>
-      <option value="kyoboReview">교보 리뷰 수</option>
-      <option value="yesReview">YES24 리뷰 수</option>
-      <option value="aladinReview">알라딘 리뷰 수</option>
-    </select></div><div id="chartBox"></div></div>`;
-  $('#chartMetric').addEventListener('change',()=>renderChart(book.id,$('#chartMetric').value)); renderChart(book.id,'yes');
+  </section>`;
 }
-function chartValue(x,type){
-  if(type==='yes')return num(x.yes24?.salesIndex) ?? NaN;
-  if(type==='aladin')return num(x.aladin?.salesPoint) ?? NaN;
-  if(type==='kyoboOverall')return rankNum(x.kyobo?.overallRank) ?? NaN;
-  if(type==='kyoboChildren')return rankNum(x.kyobo?.childrenRank) ?? NaN;
-  if(type==='yesOverall')return rankNum(x.yes24?.overallRank) ?? NaN;
-  if(type==='yesChildren')return rankNum(x.yes24?.childrenRank) ?? NaN;
-  if(type==='aladinOverall')return rankNum(x.aladin?.overallRank) ?? NaN;
-  if(type==='aladinChildren')return rankNum(x.aladin?.childrenRank) ?? NaN;
-  if(type==='stock')return num(x.kyobo?.onlineStock) ?? NaN;
-  if(type==='kyoboReview')return num(x.kyobo?.reviewCount) ?? NaN;
-  if(type==='yesReview')return num(x.yes24?.reviewCount) ?? NaN;
-  if(type==='aladinReview')return num(x.aladin?.reviewCount) ?? NaN;
-  return NaN;
-}
-function renderChart(id,type){
-  const rows=history.filter(x=>x.book===id).map(x=>({t:new Date(x.t),v:chartValue(x,type)})).filter(x=>Number.isFinite(x.v)).slice(-90);
-  const box=$('#chartBox'); if(!rows.length){box.innerHTML='<div class="emptychart">아직 누적 데이터가 없습니다.<br>매일 자동 수집되면 변화 그래프가 생깁니다.</div>';return}
-  const W=1000,H=230,p={l:58,r:18,t:15,b:32}; let vals=rows.map(x=>x.v), min=Math.min(...vals),max=Math.max(...vals); if(min===max){min-=1;max+=1}
-  const x=i=>p.l+(W-p.l-p.r)*(rows.length===1?.5:i/(rows.length-1)); const y=v=>p.t+(H-p.t-p.b)*(1-(v-min)/(max-min));
-  const pts=rows.map((r,i)=>`${x(i)},${y(r.v)}`).join(' '); const ticks=[0,.25,.5,.75,1];
-  const grid=ticks.map(q=>{const yy=p.t+(H-p.t-p.b)*q;const val=max-(max-min)*q;return `<line class="grid" x1="${p.l}" y1="${yy}" x2="${W-p.r}" y2="${yy}"/><text x="${p.l-8}" y="${yy+3}" text-anchor="end">${Math.round(val).toLocaleString()}</text>`}).join('');
-  const first=rows[0].t.toLocaleDateString('ko-KR',{month:'numeric',day:'numeric'}), last=rows.at(-1).t.toLocaleDateString('ko-KR',{month:'numeric',day:'numeric'});
-  box.innerHTML=`<svg class="chart" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">${grid}<polyline class="line" points="${pts}"/>${rows.map((r,i)=>`<circle class="dot" cx="${x(i)}" cy="${y(r.v)}" r="3"><title>${r.t.toLocaleString('ko-KR')} · ${fmt(r.v)}</title></circle>`).join('')}<text x="${p.l}" y="${H-8}">${first}</text><text x="${W-p.r}" y="${H-8}" text-anchor="end">${last}</text></svg>`;
-}
-function renderBooks(){
-  const q=$('#search').value.trim().toLowerCase(), sf=$('#seriesFilter').value, active=selectedBook()?.id;
-  const visible=books.filter(b=>(sf==='all'||b.series===sf)&&(!q||b.title.toLowerCase().includes(q)||b.isbn.includes(q)));
-  const groups=[...new Set(visible.map(b=>b.series||'기타'))];
-  $('#main').innerHTML=groups.map(g=>{
-    const bs=visible.filter(b=>(b.series||'기타')===g);
-    return `<section class="series"><h2 class="sec-title">${esc(g)} <span style="font-weight:400;color:var(--muted);font-size:12px">${bs.length}권</span></h2><div class="books">${bs.map(b=>bookCard(b,active)).join('')}</div></section>`
-  }).join('') || '<div class="emptychart">조건에 맞는 책이 없습니다.</div>';
-  document.querySelectorAll('.book').forEach(el=>el.addEventListener('click',()=>{location.hash=encodeURIComponent(el.dataset.id)}));
-}
-function bookCard(b,active){
-  const s=latest[b.id], k=s?.kyobo||{}, y=s?.yes24||{}, a=s?.aladin||{};
-  return `<article class="book ${b.id===active?'active':''}" data-id="${esc(b.id)}"><div class="bt">${esc(b.title)}</div><div class="bi">${esc(b.isbn)}</div>${s?`<div class="mini-grid"><div class="mini"><div class="k"><span class="store-dot kyo"></span>교보</div><div class="v">${rankNum(k.overallRank)!=null?fmt(k.overallRank)+'위':'–'}</div></div><div class="mini"><div class="k"><span class="store-dot yes"></span>YES24</div><div class="v">${fmt(y.salesIndex)}</div></div><div class="mini"><div class="k"><span class="store-dot ala"></span>알라딘</div><div class="v">${fmt(a.salesPoint)}</div></div></div><div class="review-mini"><span>리뷰 합계</span><b>${fmt(reviewSum(s))}건</b></div>`:'<div class="waiting">첫 수집 대기 중</div>'}</article>`
-}
-window.addEventListener('hashchange',render);
-$('#seriesFilter').addEventListener('change',renderBooks);
-$('#search').addEventListener('input',renderBooks);
-$('#resetBtn').addEventListener('click',()=>{$('#seriesFilter').value='all';$('#search').value='';renderBooks()});
-$('#refreshBtn').addEventListener('click',()=>load().catch(showLoadError));
-function showLoadError(e){
-  $('#status').innerHTML='<b>불러오기 실패</b><br>잠시 뒤 자동 재시도합니다.';
-  $('#focus').innerHTML=`<div class="err">${esc(e?.message||'데이터를 불러오지 못했습니다.')}</div>`;
-}
-async function boot(){
-  for(let i=0;i<3;i++){
-    try{ await load(); return; }
-    catch(e){ showLoadError(e); await sleep(1000*(i+1)); }
+function reviewArray(s){
+  const arr=[];
+  for(const [k,name,cls] of [['kyobo','교보문고','rk'],['yes24','YES24','ry'],['aladin','알라딘','ra']]){
+    for(const r of (s?.[k]?.reviews||[])) arr.push({...r,store:name,cls});
   }
+  return arr.sort((a,b)=>String(b.date||'').localeCompare(String(a.date||''))).slice(0,6);
 }
-if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',boot);
-else boot();
+function chartRows(b){
+  return hist.filter(x=>x?.book===b.id&&x?.t).sort((a,b)=>String(a.t).localeCompare(String(b.t))).slice(-30);
+}
+function metricValue(row,store){
+  const x=row?.[store]||{};
+  if(metric==='overallRank')return num(x.overallRank);
+  if(metric==='childrenRank')return num(x.childrenRank);
+  if(metric==='reviews')return num(x.reviewCount);
+  if(metric==='sales')return store==='yes24'?num(x.salesIndex):store==='aladin'?num(x.salesPoint):null;
+  return null;
+}
+function svgChart(b){
+  const rows=chartRows(b), stores=[['kyobo','#18a875'],['yes24','#397df7'],['aladin','#8b5cf6']];
+  const W=780,H=190,pad={l:36,r:12,t:14,b:28};
+  let vals=[];
+  for(const r of rows)for(const [k] of stores){const v=metricValue(r,k);if(v!==null)vals.push(v)}
+  if(rows.length<2||!vals.length)return `<div class="empty">누적 데이터가 더 쌓이면 그래프가 표시됩니다.</div>`;
+  let mn=Math.min(...vals),mx=Math.max(...vals);if(mn===mx){mn=Math.max(0,mn-1);mx+=1}
+  const isRank=metric.includes('Rank');
+  if(isRank){mn=Math.max(0,mn-5);mx+=5}else{mn=Math.max(0,mn-(mx-mn)*.08);mx+=(mx-mn)*.08}
+  const x=i=>pad.l+i*(W-pad.l-pad.r)/Math.max(1,rows.length-1);
+  const y=v=>pad.t+(v-mn)*(H-pad.t-pad.b)/(mx-mn);
+  let s=`<svg viewBox="0 0 ${W} ${H}" class="chart">`;
+  for(let i=0;i<4;i++){const yy=pad.t+i*(H-pad.t-pad.b)/3;s+=`<line class="gridline" x1="${pad.l}" y1="${yy}" x2="${W-pad.r}" y2="${yy}"/>`}
+  stores.forEach(([k,c])=>{
+    const pts=rows.map((r,i)=>[x(i),metricValue(r,k)]).filter(p=>p[1]!==null);
+    if(pts.length<2)return;
+    s+=`<polyline points="${pts.map(p=>`${p[0]},${y(p[1])}`).join(' ')}" fill="none" stroke="${c}" stroke-width="2.2"/>`;
+    for(const p of pts)s+=`<circle cx="${p[0]}" cy="${y(p[1])}" r="2.8" fill="${c}" stroke="#fff" stroke-width="1"/>`;
+  });
+  [0,Math.floor(rows.length/2),rows.length-1].forEach(i=>{const d=new Date(rows[i].t);s+=`<text class="axis" x="${x(i)}" y="${H-7}" text-anchor="middle">${String(d.getMonth()+1).padStart(2,'0')}.${String(d.getDate()).padStart(2,'0')}</text>`});
+  s+=`</svg>`;return s;
+}
+function renderAll(){
+  renderBookList();
+  const b=selected();if(!b)return;
+  const s=snap(b),p=prevSnap(b.id,s?.t),sum=summaryStats(),dt=latestTime();
+  const rev=reviewArray(s);
+  const reviewTotal=['kyobo','yes24','aladin'].reduce((a,k)=>a+(num(s?.[k]?.reviewCount)||0),0);
+
+  $('#appBody').className='';
+  $('#appBody').innerHTML=`
+    <div class="topline">◷ 마지막 업데이트&nbsp; <b>${dt?dt.toLocaleString('ko-KR'):'아직 수집 전'}</b></div>
+    <section class="summary">
+      <div class="sum-card"><div class="sum-icon i1">▣</div><div><div class="sum-k">모니터링 도서</div><div class="sum-v">${books.length}권</div></div></div>
+      <div class="sum-card"><div class="sum-icon i2">↗</div><div><div class="sum-k">순위 상승</div><div class="sum-v">${sum.rising}권</div></div></div>
+      <div class="sum-card"><div class="sum-icon i3">●</div><div><div class="sum-k">신규 리뷰</div><div class="sum-v">${sum.newReviews}건</div></div></div>
+      <div class="sum-card"><div class="sum-icon i4">✓</div><div><div class="sum-k">오늘 수집 상태</div><div class="sum-v">${sum.collected?'정상':'대기'}</div></div></div>
+    </section>
+
+    <section class="hero">
+      <img class="hero-cover" src="${cover(b)}" onerror="this.style.visibility='hidden'">
+      <div><h2>${esc(b.title)}</h2><div class="meta">ISBN ${esc(b.isbn)} · 아울북</div>
+        <div class="tags"><span class="tag tb">리뷰 수집</span><span class="tag tg">순위 수집</span><span class="tag tp">${s?.t?'정상':'수집 대기'}</span></div>
+      </div>
+      <div class="hero-right"><b>교보 · YES24 · 알라딘</b><br>매시간 자동 수집<br>최근 공개 리뷰 및 순위 추적</div>
+    </section>
+
+    <section class="stores">
+      ${storeCard('kh','교보문고',s.kyobo||{},p,'kyobo')}
+      ${storeCard('yh','YES24',s.yes24||{},p,'yes24')}
+      ${storeCard('ah','알라딘',s.aladin||{},p,'aladin')}
+    </section>
+
+    <section class="middle">
+      <div class="panel">
+        <div class="panel-title"><h3>추이 그래프</h3><div class="tabs">
+          <button class="tab ${metric==='overallRank'?'active':''}" data-m="overallRank">종합 순위</button>
+          <button class="tab ${metric==='childrenRank'?'active':''}" data-m="childrenRank">어린이 순위</button>
+          <button class="tab ${metric==='sales'?'active':''}" data-m="sales">판매지수</button>
+          <button class="tab ${metric==='reviews'?'active':''}" data-m="reviews">리뷰 수</button>
+        </div></div>
+        ${svgChart(b)}
+        <div class="small-note">초록 교보문고 · 파랑 YES24 · 보라 알라딘</div>
+      </div>
+      <div class="panel">
+        <div class="panel-title"><h3>리뷰 현황</h3><b style="font-size:11px;color:#74839a">총 ${fmt(reviewTotal)}건</b></div>
+        <table class="review-table"><thead><tr><th>서점명</th><th>리뷰 수</th></tr></thead><tbody>
+          <tr><td>교보문고</td><td>${fmt(s.kyobo?.reviewCount)}</td></tr>
+          <tr><td>YES24</td><td>${fmt(s.yes24?.reviewCount)}</td></tr>
+          <tr><td>알라딘</td><td>${fmt(s.aladin?.reviewCount)}</td></tr>
+        </tbody></table>
+      </div>
+    </section>
+
+    <section class="reviews">
+      <div class="panel-title"><h3>최근 리뷰</h3><span style="font-size:10px;color:#8290a4">공개 리뷰 최신 ${rev.length}건</span></div>
+      <div class="review-grid">${rev.length?rev.map(r=>`
+        <article class="review-card">
+          <div class="review-top"><span class="review-store ${r.cls}">${r.store}</span><span class="review-date">${esc(r.date||'')}</span></div>
+          ${has(r.score)?`<div class="stars">★★★★★ &nbsp;<span style="color:#45536a">${esc(r.score)}</span></div>`:''}
+          <div class="review-text">“${esc(r.content||'')}”</div>
+        </article>`).join(''):`<div class="empty">현재 수집된 리뷰 본문이 없습니다.</div>`}</div>
+    </section>`;
+  document.querySelectorAll('.tab').forEach(x=>x.onclick=()=>{metric=x.dataset.m;renderAll()});
+}
+$('#search').addEventListener('input',renderBookList);
+$('#series').addEventListener('change',renderBookList);
+window.addEventListener('hashchange',renderAll);
+document.addEventListener('DOMContentLoaded',load);
+
+// 사이트를 열어 둔 상태에서도 새 데이터 자동 반영
+setInterval(()=>load().catch(()=>{}), 5*60*1000);
 </script>
 </body>
 </html>
