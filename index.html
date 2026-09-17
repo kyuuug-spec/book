@@ -22,9 +22,10 @@ a{color:inherit}.wrap{max-width:1280px;margin:auto;padding:30px 22px 70px}
 .section-title{font-size:15px;margin:21px 0 10px;letter-spacing:-.025em}.store-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:11px}.store{border:1px solid var(--line);border-radius:15px;padding:14px;background:#fbfcfd}.store-head{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:11px}.store-name{font-size:14px;font-weight:800}.store-link{font-size:11px;color:var(--sub);text-decoration:none}.store-link:hover{text-decoration:underline}.store-dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px}.kyo{background:var(--blue)}.yes{background:var(--orange)}.ala{background:var(--green)}
 .store-stats{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:7px}.stat{background:#fff;border:1px solid #edf0f3;border-radius:10px;padding:9px 10px;min-height:64px}.stat .k{font-size:10px;color:var(--muted)}.stat .v{font-size:18px;font-weight:760;margin-top:2px;overflow-wrap:anywhere}.stat .s{font-size:9px;color:var(--muted);margin-top:1px;line-height:1.35}
 .review-box{margin-top:12px;border:1px solid var(--line);border-radius:15px;overflow:hidden}.review-head{padding:12px 14px;background:#fafbfc;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;gap:10px;align-items:center}.review-head b{font-size:14px}.review-head span{font-size:11px;color:var(--muted)}.review-table{width:100%;border-collapse:collapse;font-size:12px}.review-table th,.review-table td{padding:11px 12px;border-bottom:1px solid #edf0f3;text-align:right}.review-table th:first-child,.review-table td:first-child{text-align:left}.review-table th{font-weight:600;color:var(--sub);background:#fff}.review-table tr:last-child td{border-bottom:0}.score{font-weight:750}.review-total{font-weight:800}
+.review-content{margin-top:14px}.review-content-head{display:flex;align-items:end;justify-content:space-between;gap:10px;margin:0 0 9px}.review-content-head h3{font-size:15px;margin:0}.review-content-head span{font-size:11px;color:var(--muted)}.review-columns{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:11px}.review-store{border:1px solid var(--line);border-radius:14px;background:#fbfcfd;padding:12px}.review-store-title{font-size:13px;font-weight:800;margin-bottom:8px}.review-item{background:#fff;border:1px solid #edf0f3;border-radius:10px;padding:10px;margin-top:7px}.review-meta{display:flex;flex-wrap:wrap;gap:7px;font-size:10px;color:var(--muted);margin-bottom:5px}.review-text{font-size:12px;line-height:1.55;color:#30343b;white-space:pre-wrap;overflow-wrap:anywhere}.review-empty{font-size:11px;color:var(--muted);padding:10px 2px}.rank-note{font-size:9px;color:var(--muted);margin-top:2px}
 .chart-card{margin-top:16px;border-top:1px solid var(--line);padding-top:15px}.chart-head{display:flex;justify-content:space-between;gap:10px;align-items:center;margin-bottom:8px}.chart-head h3{font-size:14px;margin:0}.chart-head select{border:1px solid var(--line);background:#fff;border-radius:8px;padding:5px 8px;font:inherit;font-size:12px}.chart{width:100%;height:230px;display:block}.chart text{font-size:10px;fill:var(--muted)}.chart .grid{stroke:var(--line);stroke-width:1}.chart .line{fill:none;stroke:var(--blue);stroke-width:2.5}.chart .dot{fill:var(--blue)}.emptychart{height:150px;display:grid;place-items:center;color:var(--muted);font-size:12px;text-align:center;padding:20px}
 .sec-title{font-size:16px;margin:28px 0 11px;letter-spacing:-.02em}.series{margin-bottom:25px}.books{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px}.book{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px;box-shadow:0 4px 18px rgba(23,30,45,.035);cursor:pointer;transition:.15s}.book:hover{transform:translateY(-1px);border-color:#cfd5df}.book.active{outline:2px solid rgba(49,94,232,.25);border-color:rgba(49,94,232,.45)}.bt{font-weight:700;font-size:14px;line-height:1.35;min-height:38px;letter-spacing:-.02em}.bi{font-size:11px;color:var(--muted);margin-top:4px}.mini-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin-top:11px}.mini{border-top:1px solid var(--line);padding-top:7px}.mini .k{font-size:10px;color:var(--muted)}.mini .v{font-size:14px;font-weight:700}.review-mini{margin-top:9px;padding-top:8px;border-top:1px dashed var(--line);font-size:11px;color:var(--sub);display:flex;justify-content:space-between;gap:8px}.waiting{font-size:12px;color:var(--muted);margin-top:10px}.footer{font-size:11px;color:var(--muted);margin-top:34px;padding-top:18px;border-top:1px solid var(--line)}
-@media(max-width:940px){.summary{grid-template-columns:repeat(2,1fr)}.store-grid{grid-template-columns:1fr}.focus-main{grid-template-columns:100px 1fr}.cover{width:100px}}
+@media(max-width:940px){.summary{grid-template-columns:repeat(2,1fr)}.store-grid{grid-template-columns:1fr}.review-columns{grid-template-columns:1fr}.focus-main{grid-template-columns:100px 1fr}.cover{width:100px}}
 @media(max-width:620px){.wrap{padding:20px 14px 50px}.top{align-items:flex-start;flex-direction:column}.status{text-align:left}.focus-main{grid-template-columns:82px 1fr}.cover{width:82px}.focus h2{font-size:18px}.summary{grid-template-columns:repeat(2,1fr)}.tile .v{font-size:22px}.books{grid-template-columns:1fr}.toolbar input{min-width:160px}.review-table th,.review-table td{padding:9px 7px;font-size:11px}}
 </style>
 </head>
@@ -68,6 +69,12 @@ function selectedBook(){const hash=decodeURIComponent(location.hash.slice(1)); r
 function reviewSum(s){return ['kyobo','yes24','aladin'].reduce((a,k)=>a+(num(s?.[k]?.reviewCount)||0),0)}
 function scoreText(v){return num(v)!=null?`${Number(v).toFixed(Number(v)%1?1:0)}점`:'–'}
 function stat(k,v,s=''){return `<div class="stat"><div class="k">${k}</div><div class="v">${v}</div>${s?`<div class="s">${s}</div>`:''}</div>`}
+function rankValue(v){return num(v)!=null?fmt(v)+'위':'–'}
+function reviewCards(store,label,dot){
+  const rows=(store?.reviews||[]).slice(0,5);
+  if(!rows.length)return `<section class="review-store"><div class="review-store-title"><span class="store-dot ${dot}"></span>${label}</div><div class="review-empty">수집된 리뷰 본문이 없습니다. 다음 자동 수집 때 다시 확인합니다.</div></section>`;
+  return `<section class="review-store"><div class="review-store-title"><span class="store-dot ${dot}"></span>${label} · 최신 ${rows.length}건</div>${rows.map(r=>`<article class="review-item"><div class="review-meta"><span>${esc(r.author||'회원')}</span>${r.date?`<span>${esc(r.date)}</span>`:''}${num(r.score)!=null?`<span>평점 ${esc(r.score)}</span>`:''}</div><div class="review-text">${esc(r.content||'')}</div></article>`).join('')}</section>`;
+}
 
 async function load(){
   const stamp='?v='+Date.now();
@@ -122,7 +129,7 @@ function renderFocus(book){
       <section class="store">
         <div class="store-head"><div class="store-name"><span class="store-dot kyo"></span>교보문고</div><a class="store-link" href="${esc(kyoboUrl)}" target="_blank" rel="noopener">상품 보기 ↗</a></div>
         <div class="store-stats">
-          ${stat('베스트 순위',bestRank(k.rank)!=null?fmt(bestRank(k.rank))+'위':'–',rankLabel(k.rank))}
+          ${stat('종합 베스트',rankValue(k.overallRank),'도서 전체 기준')}${stat('어린이 베스트',rankValue(k.childrenRank),'어린이 분야 기준')}
           ${stat('리뷰',fmt(k.reviewCount)+'건',`평점 ${scoreText(k.reviewScore)}`)}
           ${stat('온라인 재고',fmt(k.onlineStock)+'권')}
           ${stat('매장 재고 합계',fmt(k.storeStockTotal)+'권')}
@@ -134,7 +141,7 @@ function renderFocus(book){
         <div class="store-head"><div class="store-name"><span class="store-dot yes"></span>YES24</div><a class="store-link" href="${esc(yesUrl)}" target="_blank" rel="noopener">상품 보기 ↗</a></div>
         <div class="store-stats">
           ${stat('판매지수',fmt(y.salesIndex))}
-          ${stat('베스트 순위',bestRank(y.rank)!=null?fmt(bestRank(y.rank))+'위':'–',rankLabel(y.rank))}
+          ${stat('종합 베스트',rankValue(y.overallRank),'국내도서 전체 기준')}${stat('어린이 베스트',rankValue(y.childrenRank),'어린이 분야 기준')}
           ${stat('리뷰',fmt(y.reviewCount)+'건')}
           ${stat('리뷰 평점',scoreText(y.reviewScore))}
         </div>
@@ -143,7 +150,7 @@ function renderFocus(book){
         <div class="store-head"><div class="store-name"><span class="store-dot ala"></span>알라딘</div><a class="store-link" href="${esc(alaUrl)}" target="_blank" rel="noopener">상품 보기 ↗</a></div>
         <div class="store-stats">
           ${stat('Sales Point',fmt(a.salesPoint))}
-          ${stat('베스트 순위',bestRank(a.rank)!=null?fmt(bestRank(a.rank))+'위':'–',rankLabel(a.rank))}
+          ${stat('종합 베스트',rankValue(a.overallRank),'도서 전체 기준')}${stat('어린이 베스트',rankValue(a.childrenRank),'어린이 분야 기준')}
           ${stat('리뷰',fmt(a.reviewCount)+'건')}
           ${stat('100자평',fmt(a.commentCount)+'건')}
         </div>
@@ -163,10 +170,20 @@ function renderFocus(book){
       </table>
     </section>
 
+    <section class="review-content">
+      <div class="review-content-head"><h3>독자 리뷰</h3><span>각 서점에서 최근 공개된 리뷰의 일부를 표시합니다.</span></div>
+      <div class="review-columns">${reviewCards(k,'교보문고','kyo')}${reviewCards(y,'YES24','yes')}${reviewCards(a,'알라딘','ala')}</div>
+    </section>
+
     <div class="chart-card"><div class="chart-head"><h3>기간별 변화</h3><select id="chartMetric">
       <option value="yes">YES24 판매지수</option>
       <option value="aladin">알라딘 Sales Point</option>
-      <option value="kyobo">교보 베스트 순위</option>
+      <option value="kyoboOverall">교보 종합 베스트</option>
+      <option value="kyoboChildren">교보 어린이 베스트</option>
+      <option value="yesOverall">YES24 종합 베스트</option>
+      <option value="yesChildren">YES24 어린이 베스트</option>
+      <option value="aladinOverall">알라딘 종합 베스트</option>
+      <option value="aladinChildren">알라딘 어린이 베스트</option>
       <option value="stock">교보 온라인 재고</option>
       <option value="kyoboReview">교보 리뷰 수</option>
       <option value="yesReview">YES24 리뷰 수</option>
@@ -177,7 +194,12 @@ function renderFocus(book){
 function chartValue(x,type){
   if(type==='yes')return Number(x.yes24?.salesIndex);
   if(type==='aladin')return Number(x.aladin?.salesPoint);
-  if(type==='kyobo')return Number(bestRank(x.kyobo?.rank));
+  if(type==='kyoboOverall')return Number(x.kyobo?.overallRank);
+  if(type==='kyoboChildren')return Number(x.kyobo?.childrenRank);
+  if(type==='yesOverall')return Number(x.yes24?.overallRank);
+  if(type==='yesChildren')return Number(x.yes24?.childrenRank);
+  if(type==='aladinOverall')return Number(x.aladin?.overallRank);
+  if(type==='aladinChildren')return Number(x.aladin?.childrenRank);
   if(type==='stock')return Number(x.kyobo?.onlineStock);
   if(type==='kyoboReview')return Number(x.kyobo?.reviewCount);
   if(type==='yesReview')return Number(x.yes24?.reviewCount);
@@ -206,7 +228,7 @@ function renderBooks(){
 }
 function bookCard(b,active){
   const s=latest[b.id], k=s?.kyobo||{}, y=s?.yes24||{}, a=s?.aladin||{};
-  return `<article class="book ${b.id===active?'active':''}" data-id="${esc(b.id)}"><div class="bt">${esc(b.title)}</div><div class="bi">${esc(b.isbn)}</div>${s?`<div class="mini-grid"><div class="mini"><div class="k"><span class="store-dot kyo"></span>교보</div><div class="v">${bestRank(k.rank)!=null?fmt(bestRank(k.rank))+'위':'–'}</div></div><div class="mini"><div class="k"><span class="store-dot yes"></span>YES24</div><div class="v">${fmt(y.salesIndex)}</div></div><div class="mini"><div class="k"><span class="store-dot ala"></span>알라딘</div><div class="v">${fmt(a.salesPoint)}</div></div></div><div class="review-mini"><span>리뷰 합계</span><b>${fmt(reviewSum(s))}건</b></div>`:'<div class="waiting">첫 수집 대기 중</div>'}</article>`
+  return `<article class="book ${b.id===active?'active':''}" data-id="${esc(b.id)}"><div class="bt">${esc(b.title)}</div><div class="bi">${esc(b.isbn)}</div>${s?`<div class="mini-grid"><div class="mini"><div class="k"><span class="store-dot kyo"></span>교보</div><div class="v">${num(k.overallRank)!=null?fmt(k.overallRank)+'위':'–'}</div></div><div class="mini"><div class="k"><span class="store-dot yes"></span>YES24</div><div class="v">${fmt(y.salesIndex)}</div></div><div class="mini"><div class="k"><span class="store-dot ala"></span>알라딘</div><div class="v">${fmt(a.salesPoint)}</div></div></div><div class="review-mini"><span>리뷰 합계</span><b>${fmt(reviewSum(s))}건</b></div>`:'<div class="waiting">첫 수집 대기 중</div>'}</article>`
 }
 window.addEventListener('hashchange',render); $('#seriesFilter').addEventListener('change',renderBooks); $('#search').addEventListener('input',renderBooks); $('#resetBtn').addEventListener('click',()=>{$('#seriesFilter').value='all';$('#search').value='';renderBooks()}); $('#refreshBtn').addEventListener('click',load);
 load().catch(e=>{$('#status').textContent='불러오기 실패';$('#focus').innerHTML=`<div class="err">${esc(e.message)}<br>파일을 직접 더블클릭한 경우, 로컬 서버에서 열어 주세요.</div>`});
