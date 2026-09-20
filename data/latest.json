@@ -1,6 +1,6 @@
 {
   "literacy-1": {
-    "t": "2026-09-20T22:19:14+09:00",
+    "t": "2026-09-20T23:18:59+09:00",
     "book": "literacy-1",
     "title": "초등 첫 문해력 신문",
     "isbn": "9791171177028",
@@ -200,7 +200,7 @@
         }
       ],
       "storeStockTotal": 35,
-      "onlineStock": 17,
+      "onlineStock": 16,
       "reviews": [
         {
           "author": "패키지",
@@ -275,7 +275,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=342972974"
   },
   "literacy-2": {
-    "t": "2026-09-20T22:19:14+09:00",
+    "t": "2026-09-20T23:18:59+09:00",
     "book": "literacy-2",
     "title": "초등 첫 문해력 신문 2",
     "isbn": "9791171179688",
@@ -550,7 +550,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=354371289"
   },
   "literacy-3": {
-    "t": "2026-09-20T22:19:14+09:00",
+    "t": "2026-09-20T23:18:59+09:00",
     "book": "literacy-3",
     "title": "초등 첫 문해력 신문 3",
     "isbn": "9791173573767",
@@ -825,7 +825,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367920761"
   },
   "ai-literacy-newspaper": {
-    "t": "2026-09-20T22:19:14+09:00",
+    "t": "2026-09-20T23:18:59+09:00",
     "book": "ai-literacy-newspaper",
     "title": "초등 첫 AI 문해력 신문",
     "isbn": "9791176612739",
@@ -835,7 +835,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "종합 주간 베스트 / 어린이(초등) 분야 베스트",
-      "reviewCount": 18,
+      "reviewCount": 19,
       "reviewScore": 10.0,
       "stores": [
         {
@@ -1025,7 +1025,7 @@
         }
       ],
       "storeStockTotal": 42,
-      "onlineStock": 45,
+      "onlineStock": 42,
       "reviews": [
         {
           "author": "국내도서",
@@ -1037,7 +1037,13 @@
           "author": "종이책",
           "date": "2026-09-20",
           "score": null,
-          "content": "최신 순 pk***** 차단 - 컬처블룸 서평단으로 아울북에서 도서를 제공받아 작성하였습니다. - 와디즈 펀딩 아동 교육 분야 역대 1위.. 누적 펀딩 금액 14억 펀딩 달성 ' 하루한장 키즈 신문'의 심화편.. '초등 첫 AI 문해력 신문'이 출간되었어여... AI시대에 살아가는 우리아이들은 AI 활용 능력과 AI 문해력이 가장 중요한 역량으로 반드시 키워줘야할 능력인데요.! AI에 과도하게 의존하지 않고 이 답이 정말 맞을지.. 나에 대한 생각은 무엇인지.. 스스로 질문하고 읽고 판단하는 힘인 AI 문해력에 대한 능력을 키워주는 책인 ' 초등 첫 AI 문해력 신문' 이에요.. 하루 2쪽, 귀여운 AI 로봇 큐봇과 함께 매일 한편씩 AI 관련된 주제와 관련된 신문 기사를 읽다보면 8주로 완성..~! 아이들 수준에 꼭 맞는 신문기사로 AI 개념부터 여러가지 사건사고까지 생각을 넓혀주는 다양한 주제의 기사를 읽다보면 배경지식 확장은 물론 기사에 나온 단어의 뜻과 예문까지 살펴보면서 어휘력까지 같이 습득할수 있어여.. 또한 똑똑하게 QR코드를 통해서 기사 내용에 대한 영상으로 제시해 더 생생하고 구체적으로 지문 이해도를 높이니 이 또한 정말 맘에 들었어여. 다양한 기사를 접하고 핵심어 찾기, 한자 쓰기 등 단어활동과 신문 요약, 문장 완성 등 내용 확인등을 통해서 기사내용을 정확하게 이해하고 기사에 대한 자신의 의견을 써보면서 생각하는 사고력과 쓰기 능력까지 향상시킬수 있어여.~ 기사 내용에 대한 구조화로 핵심 내용의 정리 및 다른 상황속에서도 적용해보면서 생각의 확장 및 활용능력까지 겸비할수 있는 능력도 키워줄수 있어여..~ 아울러 과학적 사고력과 호기심을 길러줄수 있는 다양한 특별활동으로 숨은 단어찾기, 사다리 타기 놀이 등으로 재미나게 공부할수 있어여. 부담스럽지 않게 하루 2쪽으로 AI에 대한 다양한 주제의 기사로 문해력을 높이고 읽기 쓰기 능력까지 키워줄수 있는 초등 첫 문해력 AI 신문으로 문해력 및 낯선 신문 읽기의 즐거움까지 선사해보세요..~!"
+          "content": "최신 순 dd***** 차단 가장 흥미로워했던 코너는 바로 '미래의 직업'에 관한 이야기였어요. 원래 꿈이 태권도 선수였다가 최근 형사로 바뀐 아이인 데, \"AI를 활용하는 형사는 어떤 일을 할까?\" 하고 상상 하며 눈을 반짝이더라고요. 하루빨리 미래 멋진 형사가 되어보고 싶다며 신나하는 모습에 뿌듯했답니다. 하루 딱 한 편씩, 8주만 투자하면 완성! 글 읽는 습관 형성부터 과학적 사고력을 길러주는 쓰기 연습까지 무리 없이 따라갈 수 있어요. 기사 속 QR 코드를 활용하면 훨씬 더 실감 나는 영상/ 자료도 볼 수 있으니 꼭 활용해 보세요"
+        },
+        {
+          "author": "펼치기",
+          "date": "2026-09-20",
+          "score": null,
+          "content": "종이책 pk***** 차단 - 컬처블룸 서평단으로 아울북에서 도서를 제공받아 작성하였습니다. - 와디즈 펀딩 아동 교육 분야 역대 1위.. 누적 펀딩 금액 14억 펀딩 달성 ' 하루한장 키즈 신문'의 심화편.. '초등 첫 AI 문해력 신문'이 출간되었어여... AI시대에 살아가는 우리아이들은 AI 활용 능력과 AI 문해력이 가장 중요한 역량으로 반드시 키워줘야할 능력인데요.! AI에 과도하게 의존하지 않고 이 답이 정말 맞을지.. 나에 대한 생각은 무엇인지.. 스스로 질문하고 읽고 판단하는 힘인 AI 문해력에 대한 능력을 키워주는 책인 ' 초등 첫 AI 문해력 신문' 이에요.. 하루 2쪽, 귀여운 AI 로봇 큐봇과 함께 매일 한편씩 AI 관련된 주제와 관련된 신문 기사를 읽다보면 8주로 완성..~! 아이들 수준에 꼭 맞는 신문기사로 AI 개념부터 여러가지 사건사고까지 생각을 넓혀주는 다양한 주제의 기사를 읽다보면 배경지식 확장은 물론 기사에 나온 단어의 뜻과 예문까지 살펴보면서 어휘력까지 같이 습득할수 있어여.. 또한 똑똑하게 QR코드를 통해서 기사 내용에 대한 영상으로 제시해 더 생생하고 구체적으로 지문 이해도를 높이니 이 또한 정말 맘에 들었어여. 다양한 기사를 접하고 핵심어 찾기, 한자 쓰기 등 단어활동과 신문 요약, 문장 완성 등 내용 확인등을 통해서 기사내용을 정확하게 이해하고 기사에 대한 자신의 의견을 써보면서 생각하는 사고력과 쓰기 능력까지 향상시킬수 있어여.~ 기사 내용에 대한 구조화로 핵심 내용의 정리 및 다른 상황속에서도 적용해보면서 생각의 확장 및 활용능력까지 겸비할수 있는 능력도 키워줄수 있어여..~ 아울러 과학적 사고력과 호기심을 길러줄수 있는 다양한 특별활동으로 숨은 단어찾기, 사다리 타기 놀이 등으로 재미나게 공부할수 있어여. 부담스럽지 않게 하루 2쪽으로 AI에 대한 다양한 주제의 기사로 문해력을 높이고 읽기 쓰기 능력까지 키워줄수 있는 초등 첫 문해력 AI 신문으로 문해력 및 낯선 신문 읽기의 즐거움까지 선사해보세요..~!"
         },
         {
           "author": "펼치기",
@@ -1050,12 +1056,6 @@
           "date": "2026-09-18",
           "score": null,
           "content": "종이책 al************** 차단 요즘 궁금한 게 생기면 “이건 AI한테 물어보면 되지 않아?” 하는 우리집 남매! AI가 점점 우리 생활 가까이에 와 있는 만큼 아이들도 이제는 AI를 자연스럽게 접하게 되는 것 같아요. 이번에 함께 읽어본 책은 ✨️초등 첫 AI 문해 신문✨️ 이세돌과 알파고 이야기부터"
-        },
-        {
-          "author": "펼치기",
-          "date": "2026-09-16",
-          "score": null,
-          "content": "종이책 on****** 차단 네이버 미자모 카페를 통해 출판사로부터 도서를 제공 받아 독서 후 솔직하게 글을 작성하였습니다. 초등 첫 문해력 신문 시리즈의 신간이 나왔어요. 바로 AI에 관한 초등 문해력 신문인데요. 13년 경력의 초등 교사와 현직 고등 정보 교사가엄선한 최신 AI 기사 지문을 통해 과학적 사고력과 독해력을 길러 주는 아울북 출판사의 《초등 첫 AI문해력 신문》이에요. AI 시대에 스스로 읽고 판단하는 힘을 길러주는게 가장 중요하잖아요. 문해력 뿐만 아니라 AI가 무엇을 잘하고 못하는지 이해하고 쏟아내는 정보 속에서 사실과 편향을 가려내고 스스로 판단할 수 있는 AI 문해력도 필요한 세대이기 때문에 아이들이 꼭 읽어봤으면 하는 책이에요. 최신 AI 기사를 읽고 자신의 경험을 써 보고 기사에 나와 있는 단어를 문장 속에 넣어보기도 하고 신문 기사에 대한 생각을 짧은 글로 써 보는 연습을 해서 쓰기 능력까지 향상 시킬 수 있는 책이라고 생각해요. 핵심 내용을 정리기도 하고 숨은 단어 찾기, 사다리 타기 놀이 등 어휘 활동으로 과학적 사고력과 호기심을 길러 주는 특별 활동까지 있어서 재미있게 AI 문해력을 쑥쑥 키울 수 있다는 점도 마음에 들었어요."
         }
       ]
     },
@@ -1067,9 +1067,24 @@
       "childrenRank": 126,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
       "salesIndex": 4956,
-      "reviewCount": 44,
+      "reviewCount": 45,
       "reviewScore": 10.0,
       "reviews": [
+        {
+          "author": "YES24 회원",
+          "date": "2026-09-20",
+          "content": "종이책 AI시대, 꼭 필요한 책! 평점10점 | YES마니아 : 로얄 e***o | 2026-09-20 | 신고 AI를 단순히 잘 활용하는 것보다AI가 주는 정보를 이해하고 스스로 판단하는 힘이 중요해진 요즘.『초등 첫 AI 문해력 신문』은AI의 작동 원리부터 권리·편향·딥페이크·개인정보, 올바른 공부법까지아이들이 꼭 알아야 할 내용을 신문 형식으로 쉽고 재미있게 담아낸 책이에요.특히 아이의 눈높이에 맞춘 기사와 질문을 통해읽고 → 생각하고 → 판단하는 과정을 자... 더보기 원문주소 : https://sarak.yes24.com/review/22419616 AI를 단순히 잘 활용하는 것보다 AI가 주는 정보를 이해하고 스스로 판단하는 힘 이 중요해진 요즘. 『초등 첫 AI 문해력 신문』은 AI의 작동 원리부터 권리·편향·딥페이크·개인정보, 올바른 공부법까지 아이들이 꼭 알아야 할 내용을 신문 형식으로 쉽고 재미있게 담아낸 책이에요. 특히 아이의 눈높이에 맞춘 기사와 질문을 통해 읽고 → 생각하고 → 판단하는 과정을 자연스럽게 경험할 수 있어 좋았어요. AI 시대를 살아갈 우리 아이에게 필요한 첫 AI 문해력 공부 아이와 함께 읽고 이야기 나눠보기 좋은 책이에요. 🤍 이 리뷰가 도움이 되었나요? 공감 0 댓글 0 접어보기"
+        },
+        {
+          "author": "YES24 회원",
+          "date": "2026-09-20",
+          "content": "종이책 AI시대, 꼭 필요한 책! 평점10점 | YES마니아 : 로얄 e***o | 2026-09-20 | 신고"
+        },
+        {
+          "author": "YES24 회원",
+          "date": "2026-09-20",
+          "content": "평점10점 | YES마니아 : 로얄 e***o | 2026-09-20 | 신고"
+        },
         {
           "author": "YES24 회원",
           "date": "2026-09-20",
@@ -1079,28 +1094,13 @@
           "author": "YES24 회원",
           "date": "2026-09-20",
           "content": "종이책 초등 첫 AI 문해력신문 평점10점 | r******6 | 2026-09-20 | 신고"
-        },
-        {
-          "author": "YES24 회원",
-          "date": "2026-09-20",
-          "content": "평점10점 | r******6 | 2026-09-20 | 신고"
-        },
-        {
-          "author": "YES24 회원",
-          "date": "2026-09-19",
-          "content": "종이책 송석리의 <<초등 첫 AI 문해력 신문>> - AI를 이해하고 잘 사용할 생각근육 키우기 평점10점 | t*****9 | 2026-09-19 | 신고"
-        },
-        {
-          "author": "YES24 회원",
-          "date": "2026-09-19",
-          "content": "평점10점 | t*****9 | 2026-09-19 | 신고"
         }
       ]
     },
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=401134097"
   },
   "future-science-1": {
-    "t": "2026-09-20T22:19:14+09:00",
+    "t": "2026-09-20T23:18:59+09:00",
     "book": "future-science-1",
     "title": "장동선의 미래 과학 프로젝트 1",
     "isbn": "9791173576270",
@@ -1300,7 +1300,7 @@
         }
       ],
       "storeStockTotal": 30,
-      "onlineStock": 26,
+      "onlineStock": 23,
       "reviews": [
         {
           "author": "국내도서",
@@ -1375,7 +1375,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=379190660"
   },
   "future-science-2": {
-    "t": "2026-09-20T22:19:14+09:00",
+    "t": "2026-09-20T23:18:59+09:00",
     "book": "future-science-2",
     "title": "장동선의 미래 과학 프로젝트 2",
     "isbn": "9791173576287",
@@ -1575,7 +1575,7 @@
         }
       ],
       "storeStockTotal": 33,
-      "onlineStock": 6,
+      "onlineStock": 3,
       "reviews": [
         {
           "author": "크기/중량\t160 * 218 * 13 mm / 496 g",
@@ -1650,7 +1650,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391279953"
   },
   "future-science-3": {
-    "t": "2026-09-20T22:19:14+09:00",
+    "t": "2026-09-20T23:18:59+09:00",
     "book": "future-science-3",
     "title": "장동선의 미래 과학 프로젝트 3",
     "isbn": "9791173576294",
@@ -1850,7 +1850,7 @@
         }
       ],
       "storeStockTotal": 51,
-      "onlineStock": 51,
+      "onlineStock": 48,
       "reviews": [
         {
           "author": "크기/중량\t159 * 217 * 15 mm / 529 g",
@@ -1919,7 +1919,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=399320263"
   },
   "human-body-1": {
-    "t": "2026-09-20T22:19:14+09:00",
+    "t": "2026-09-20T23:18:59+09:00",
     "book": "human-body-1",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 1",
     "isbn": "9791173578625",
@@ -2119,7 +2119,7 @@
         }
       ],
       "storeStockTotal": 111,
-      "onlineStock": 25,
+      "onlineStock": 24,
       "reviews": [
         {
           "author": "국내도서",
@@ -2194,7 +2194,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=388782020"
   },
   "human-body-2": {
-    "t": "2026-09-20T22:19:14+09:00",
+    "t": "2026-09-20T23:18:59+09:00",
     "book": "human-body-2",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 2",
     "isbn": "9791173578632",
@@ -2394,7 +2394,7 @@
         }
       ],
       "storeStockTotal": 106,
-      "onlineStock": 70,
+      "onlineStock": 66,
       "reviews": [
         {
           "author": "크기/중량\t159 * 218 * 15 mm / 554 g",
@@ -2469,7 +2469,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=398769685"
   },
   "yako-knowledge-1": {
-    "t": "2026-09-20T22:19:14+09:00",
+    "t": "2026-09-20T23:18:59+09:00",
     "book": "yako-knowledge-1",
     "title": "빨간내복야코 어린이 상식 1",
     "isbn": "9791171178704",
@@ -2669,7 +2669,7 @@
         }
       ],
       "storeStockTotal": 46,
-      "onlineStock": 3,
+      "onlineStock": -2,
       "reviews": [
         {
           "author": "국내도서",
@@ -2744,7 +2744,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=351205337"
   },
   "yako-knowledge-2": {
-    "t": "2026-09-20T22:19:14+09:00",
+    "t": "2026-09-20T23:18:59+09:00",
     "book": "yako-knowledge-2",
     "title": "빨간내복야코 어린이 상식 2",
     "isbn": "9791173571749",
@@ -2944,7 +2944,7 @@
         }
       ],
       "storeStockTotal": 50,
-      "onlineStock": 6,
+      "onlineStock": 0,
       "reviews": [
         {
           "author": "국내도서",
@@ -3019,7 +3019,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=360975965"
   },
   "yako-knowledge-3": {
-    "t": "2026-09-20T22:19:14+09:00",
+    "t": "2026-09-20T23:18:59+09:00",
     "book": "yako-knowledge-3",
     "title": "빨간내복야코 어린이 상식 3",
     "isbn": "9791173573798",
@@ -3219,7 +3219,7 @@
         }
       ],
       "storeStockTotal": 75,
-      "onlineStock": 8,
+      "onlineStock": 3,
       "reviews": [
         {
           "author": "종이책",
@@ -3294,7 +3294,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367518731"
   },
   "yako-knowledge-4": {
-    "t": "2026-09-20T22:19:14+09:00",
+    "t": "2026-09-20T23:18:59+09:00",
     "book": "yako-knowledge-4",
     "title": "빨간내복야코 어린이 상식 4",
     "isbn": "9791173574412",
@@ -3494,7 +3494,7 @@
         }
       ],
       "storeStockTotal": 92,
-      "onlineStock": 17,
+      "onlineStock": 11,
       "reviews": [
         {
           "author": "크기/중량\t153 * 225 * 13 mm / 484 g",
@@ -3569,7 +3569,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=375958389"
   },
   "yako-knowledge-5": {
-    "t": "2026-09-20T22:19:14+09:00",
+    "t": "2026-09-20T23:18:59+09:00",
     "book": "yako-knowledge-5",
     "title": "빨간내복야코 어린이 상식 5",
     "isbn": "9791173577598",
@@ -3769,7 +3769,7 @@
         }
       ],
       "storeStockTotal": 98,
-      "onlineStock": 30,
+      "onlineStock": 17,
       "reviews": [
         {
           "author": "종이책",
@@ -3844,7 +3844,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=385788090"
   },
   "yako-knowledge-6": {
-    "t": "2026-09-20T22:19:14+09:00",
+    "t": "2026-09-20T23:18:59+09:00",
     "book": "yako-knowledge-6",
     "title": "빨간내복야코 어린이 상식 6",
     "isbn": "9791173579073",
@@ -4044,7 +4044,7 @@
         }
       ],
       "storeStockTotal": 206,
-      "onlineStock": 101,
+      "onlineStock": 90,
       "reviews": [
         {
           "author": "국내도서",
