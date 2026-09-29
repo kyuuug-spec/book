@@ -1,6 +1,6 @@
 {
   "literacy-1": {
-    "t": "2026-09-30T03:26:45+09:00",
+    "t": "2026-09-30T04:23:06+09:00",
     "book": "literacy-1",
     "title": "초등 첫 문해력 신문",
     "isbn": "9791171177028",
@@ -305,7 +305,7 @@
     }
   },
   "literacy-2": {
-    "t": "2026-09-30T03:26:45+09:00",
+    "t": "2026-09-30T04:23:06+09:00",
     "book": "literacy-2",
     "title": "초등 첫 문해력 신문 2",
     "isbn": "9791171179688",
@@ -610,7 +610,7 @@
     }
   },
   "literacy-3": {
-    "t": "2026-09-30T03:26:45+09:00",
+    "t": "2026-09-30T04:23:06+09:00",
     "book": "literacy-3",
     "title": "초등 첫 문해력 신문 3",
     "isbn": "9791173573767",
@@ -915,7 +915,7 @@
     }
   },
   "ai-literacy-newspaper": {
-    "t": "2026-09-30T03:26:45+09:00",
+    "t": "2026-09-30T04:23:06+09:00",
     "book": "ai-literacy-newspaper",
     "title": "초등 첫 AI 문해력 신문",
     "isbn": "9791176612739",
@@ -1154,7 +1154,7 @@
       "url": "https://www.yes24.com/product/goods/195804491",
       "cover": "https://image.yes24.com/goods/195804491/XL",
       "overallRank": null,
-      "childrenRank": 911,
+      "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
       "salesIndex": 4932,
       "reviewCount": 66,
@@ -1220,7 +1220,7 @@
     }
   },
   "future-science-1": {
-    "t": "2026-09-30T03:26:45+09:00",
+    "t": "2026-09-30T04:23:06+09:00",
     "book": "future-science-1",
     "title": "장동선의 미래 과학 프로젝트 1",
     "isbn": "9791173576270",
@@ -1525,7 +1525,7 @@
     }
   },
   "future-science-2": {
-    "t": "2026-09-30T03:26:45+09:00",
+    "t": "2026-09-30T04:23:06+09:00",
     "book": "future-science-2",
     "title": "장동선의 미래 과학 프로젝트 2",
     "isbn": "9791173576287",
@@ -1830,7 +1830,7 @@
     }
   },
   "future-science-3": {
-    "t": "2026-09-30T03:26:45+09:00",
+    "t": "2026-09-30T04:23:06+09:00",
     "book": "future-science-3",
     "title": "장동선의 미래 과학 프로젝트 3",
     "isbn": "9791173576294",
@@ -2135,7 +2135,7 @@
     }
   },
   "human-body-1": {
-    "t": "2026-09-30T03:26:45+09:00",
+    "t": "2026-09-30T04:23:06+09:00",
     "book": "human-body-1",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 1",
     "isbn": "9791173578625",
@@ -2374,7 +2374,7 @@
       "url": "https://www.yes24.com/product/goods/183650258",
       "cover": "https://image.yes24.com/goods/183650258/XL",
       "overallRank": null,
-      "childrenRank": 770,
+      "childrenRank": 797,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
       "salesIndex": 11508,
       "reviewCount": 43,
@@ -2440,7 +2440,7 @@
     }
   },
   "human-body-2": {
-    "t": "2026-09-30T03:26:45+09:00",
+    "t": "2026-09-30T04:23:06+09:00",
     "book": "human-body-2",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 2",
     "isbn": "9791173578632",
@@ -2679,7 +2679,7 @@
       "url": "https://www.yes24.com/product/goods/194203560",
       "cover": "https://image.yes24.com/goods/194203560/XL",
       "overallRank": null,
-      "childrenRank": 747,
+      "childrenRank": 765,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
       "salesIndex": 5874,
       "reviewCount": 66,
@@ -2745,7 +2745,7 @@
     }
   },
   "yako-knowledge-1": {
-    "t": "2026-09-30T03:26:45+09:00",
+    "t": "2026-09-30T04:23:06+09:00",
     "book": "yako-knowledge-1",
     "title": "빨간내복야코 어린이 상식 1",
     "isbn": "9791171178704",
@@ -2984,7 +2984,7 @@
       "url": "https://www.yes24.com/product/goods/136559043",
       "cover": "https://image.yes24.com/goods/136559043/XL",
       "overallRank": null,
-      "childrenRank": 683,
+      "childrenRank": 677,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
       "salesIndex": 8607,
       "reviewCount": 47,
@@ -3050,7 +3050,7 @@
     }
   },
   "yako-knowledge-2": {
-    "t": "2026-09-30T03:26:45+09:00",
+    "t": "2026-09-30T04:23:06+09:00",
     "book": "yako-knowledge-2",
     "title": "빨간내복야코 어린이 상식 2",
     "isbn": "9791173571749",
@@ -3289,7 +3289,7 @@
       "url": "https://www.yes24.com/product/goods/144076825",
       "cover": "https://image.yes24.com/goods/144076825/XL",
       "overallRank": null,
-      "childrenRank": 808,
+      "childrenRank": 1053,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
       "salesIndex": 8253,
       "reviewCount": 17,
@@ -3355,7 +3355,7 @@
     }
   },
   "yako-knowledge-3": {
-    "t": "2026-09-30T03:26:45+09:00",
+    "t": "2026-09-30T04:23:06+09:00",
     "book": "yako-knowledge-3",
     "title": "빨간내복야코 어린이 상식 3",
     "isbn": "9791173573798",
@@ -3594,7 +3594,7 @@
       "url": "https://www.yes24.com/product/goods/148709400",
       "cover": "https://image.yes24.com/goods/148709400/XL",
       "overallRank": null,
-      "childrenRank": 1016,
+      "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
       "salesIndex": 8520,
       "reviewCount": 12,
@@ -3660,7 +3660,7 @@
     }
   },
   "yako-knowledge-4": {
-    "t": "2026-09-30T03:26:45+09:00",
+    "t": "2026-09-30T04:23:06+09:00",
     "book": "yako-knowledge-4",
     "title": "빨간내복야코 어린이 상식 4",
     "isbn": "9791173574412",
@@ -3899,7 +3899,7 @@
       "url": "https://www.yes24.com/product/goods/163002362",
       "cover": "https://image.yes24.com/goods/163002362/XL",
       "overallRank": null,
-      "childrenRank": 647,
+      "childrenRank": 830,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
       "salesIndex": 11799,
       "reviewCount": 8,
@@ -3965,7 +3965,7 @@
     }
   },
   "yako-knowledge-5": {
-    "t": "2026-09-30T03:26:45+09:00",
+    "t": "2026-09-30T04:23:06+09:00",
     "book": "yako-knowledge-5",
     "title": "빨간내복야코 어린이 상식 5",
     "isbn": "9791173577598",
@@ -4204,7 +4204,7 @@
       "url": "https://www.yes24.com/product/goods/177507219",
       "cover": "https://image.yes24.com/goods/177507219/XL",
       "overallRank": null,
-      "childrenRank": 1245,
+      "childrenRank": 1270,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
       "salesIndex": 6819,
       "reviewCount": 21,
@@ -4270,7 +4270,7 @@
     }
   },
   "yako-knowledge-6": {
-    "t": "2026-09-30T03:26:45+09:00",
+    "t": "2026-09-30T04:23:06+09:00",
     "book": "yako-knowledge-6",
     "title": "빨간내복야코 어린이 상식 6",
     "isbn": "9791173579073",
@@ -4509,7 +4509,7 @@
       "url": "https://www.yes24.com/product/goods/192491768",
       "cover": "https://image.yes24.com/goods/192491768/XL",
       "overallRank": null,
-      "childrenRank": 440,
+      "childrenRank": 460,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
       "salesIndex": 4752,
       "reviewCount": 57,
