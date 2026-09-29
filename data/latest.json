@@ -1,6 +1,6 @@
 {
   "literacy-1": {
-    "t": "2026-09-30T02:21:32+09:00",
+    "t": "2026-09-30T03:26:45+09:00",
     "book": "literacy-1",
     "title": "초등 첫 문해력 신문",
     "isbn": "9791171177028",
@@ -305,7 +305,7 @@
     }
   },
   "literacy-2": {
-    "t": "2026-09-30T02:21:32+09:00",
+    "t": "2026-09-30T03:26:45+09:00",
     "book": "literacy-2",
     "title": "초등 첫 문해력 신문 2",
     "isbn": "9791171179688",
@@ -546,7 +546,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 3630,
+      "salesIndex": 3648,
       "reviewCount": 47,
       "reviewScore": 10.0,
       "reviews": [
@@ -610,7 +610,7 @@
     }
   },
   "literacy-3": {
-    "t": "2026-09-30T02:21:32+09:00",
+    "t": "2026-09-30T03:26:45+09:00",
     "book": "literacy-3",
     "title": "초등 첫 문해력 신문 3",
     "isbn": "9791173573767",
@@ -851,7 +851,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 2976,
+      "salesIndex": 2946,
       "reviewCount": 7,
       "reviewScore": 10.0,
       "reviews": [
@@ -915,7 +915,7 @@
     }
   },
   "ai-literacy-newspaper": {
-    "t": "2026-09-30T02:21:32+09:00",
+    "t": "2026-09-30T03:26:45+09:00",
     "book": "ai-literacy-newspaper",
     "title": "초등 첫 AI 문해력 신문",
     "isbn": "9791176612739",
@@ -1156,7 +1156,7 @@
       "overallRank": null,
       "childrenRank": 911,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 4968,
+      "salesIndex": 4932,
       "reviewCount": 66,
       "reviewScore": 10.0,
       "reviews": [
@@ -1220,7 +1220,7 @@
     }
   },
   "future-science-1": {
-    "t": "2026-09-30T02:21:32+09:00",
+    "t": "2026-09-30T03:26:45+09:00",
     "book": "future-science-1",
     "title": "장동선의 미래 과학 프로젝트 1",
     "isbn": "9791173576270",
@@ -1461,7 +1461,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 4860,
+      "salesIndex": 4884,
       "reviewCount": 25,
       "reviewScore": 10.0,
       "reviews": [
@@ -1525,7 +1525,7 @@
     }
   },
   "future-science-2": {
-    "t": "2026-09-30T02:21:32+09:00",
+    "t": "2026-09-30T03:26:45+09:00",
     "book": "future-science-2",
     "title": "장동선의 미래 과학 프로젝트 2",
     "isbn": "9791173576287",
@@ -1766,7 +1766,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 2424,
+      "salesIndex": 2508,
       "reviewCount": 49,
       "reviewScore": 10.0,
       "reviews": [
@@ -1830,7 +1830,7 @@
     }
   },
   "future-science-3": {
-    "t": "2026-09-30T02:21:32+09:00",
+    "t": "2026-09-30T03:26:45+09:00",
     "book": "future-science-3",
     "title": "장동선의 미래 과학 프로젝트 3",
     "isbn": "9791173576294",
@@ -2071,7 +2071,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 1800,
+      "salesIndex": 1884,
       "reviewCount": 52,
       "reviewScore": 10.0,
       "reviews": [
@@ -2135,7 +2135,7 @@
     }
   },
   "human-body-1": {
-    "t": "2026-09-30T02:21:32+09:00",
+    "t": "2026-09-30T03:26:45+09:00",
     "book": "human-body-1",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 1",
     "isbn": "9791173578625",
@@ -2376,7 +2376,7 @@
       "overallRank": null,
       "childrenRank": 770,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 11496,
+      "salesIndex": 11508,
       "reviewCount": 43,
       "reviewScore": 10.0,
       "reviews": [
@@ -2440,7 +2440,7 @@
     }
   },
   "human-body-2": {
-    "t": "2026-09-30T02:21:32+09:00",
+    "t": "2026-09-30T03:26:45+09:00",
     "book": "human-body-2",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 2",
     "isbn": "9791173578632",
@@ -2681,7 +2681,7 @@
       "overallRank": null,
       "childrenRank": 747,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 5922,
+      "salesIndex": 5874,
       "reviewCount": 66,
       "reviewScore": 10.0,
       "reviews": [
@@ -2745,7 +2745,7 @@
     }
   },
   "yako-knowledge-1": {
-    "t": "2026-09-30T02:21:32+09:00",
+    "t": "2026-09-30T03:26:45+09:00",
     "book": "yako-knowledge-1",
     "title": "빨간내복야코 어린이 상식 1",
     "isbn": "9791171178704",
@@ -2986,7 +2986,7 @@
       "overallRank": null,
       "childrenRank": 683,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 8595,
+      "salesIndex": 8607,
       "reviewCount": 47,
       "reviewScore": 10.0,
       "reviews": [
@@ -3050,7 +3050,7 @@
     }
   },
   "yako-knowledge-2": {
-    "t": "2026-09-30T02:21:32+09:00",
+    "t": "2026-09-30T03:26:45+09:00",
     "book": "yako-knowledge-2",
     "title": "빨간내복야코 어린이 상식 2",
     "isbn": "9791173571749",
@@ -3291,7 +3291,7 @@
       "overallRank": null,
       "childrenRank": 808,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 8277,
+      "salesIndex": 8253,
       "reviewCount": 17,
       "reviewScore": 9.6,
       "reviews": [
@@ -3355,7 +3355,7 @@
     }
   },
   "yako-knowledge-3": {
-    "t": "2026-09-30T02:21:32+09:00",
+    "t": "2026-09-30T03:26:45+09:00",
     "book": "yako-knowledge-3",
     "title": "빨간내복야코 어린이 상식 3",
     "isbn": "9791173573798",
@@ -3596,7 +3596,7 @@
       "overallRank": null,
       "childrenRank": 1016,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 8604,
+      "salesIndex": 8520,
       "reviewCount": 12,
       "reviewScore": 9.6,
       "reviews": [
@@ -3660,7 +3660,7 @@
     }
   },
   "yako-knowledge-4": {
-    "t": "2026-09-30T02:21:32+09:00",
+    "t": "2026-09-30T03:26:45+09:00",
     "book": "yako-knowledge-4",
     "title": "빨간내복야코 어린이 상식 4",
     "isbn": "9791173574412",
@@ -3901,7 +3901,7 @@
       "overallRank": null,
       "childrenRank": 647,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 11715,
+      "salesIndex": 11799,
       "reviewCount": 8,
       "reviewScore": 10.0,
       "reviews": [
@@ -3965,7 +3965,7 @@
     }
   },
   "yako-knowledge-5": {
-    "t": "2026-09-30T02:21:32+09:00",
+    "t": "2026-09-30T03:26:45+09:00",
     "book": "yako-knowledge-5",
     "title": "빨간내복야코 어린이 상식 5",
     "isbn": "9791173577598",
@@ -4270,7 +4270,7 @@
     }
   },
   "yako-knowledge-6": {
-    "t": "2026-09-30T02:21:32+09:00",
+    "t": "2026-09-30T03:26:45+09:00",
     "book": "yako-knowledge-6",
     "title": "빨간내복야코 어린이 상식 6",
     "isbn": "9791173579073",
@@ -4511,7 +4511,7 @@
       "overallRank": null,
       "childrenRank": 440,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 4782,
+      "salesIndex": 4752,
       "reviewCount": 57,
       "reviewScore": 10.0,
       "reviews": [
