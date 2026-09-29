@@ -1,6 +1,6 @@
 {
   "literacy-1": {
-    "t": "2026-09-30T04:23:06+09:00",
+    "t": "2026-09-30T05:24:12+09:00",
     "book": "literacy-1",
     "title": "초등 첫 문해력 신문",
     "isbn": "9791171177028",
@@ -283,29 +283,16 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": null,
-      "commentCount": null,
-      "reviewCount": null,
+      "salesPoint": 3571,
+      "commentCount": 8,
+      "reviewCount": 38,
       "reviewScore": null,
-      "reviews": [
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "보다 안정적인 서비스 제공을 위해 시스템 점검을 진행하고 있으므로 점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        },
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        }
-      ],
-      "reviewSourceUrl": null
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=153.0.8010.52)\nStacktrace:\n#0 0x5638719b59fa <unknown>\n#1 0x5638712eb5b9 <unknown>\n#2 0x5638712eef64 <unknown>\n#3 0x56387138c5cb <unknown>\n#4 0x56387138b8de <unknown>\n#5 0x563871334b8b <unknown>\n#6 0x563871335971 <unknown>\n#7 0x563871978667 <unknown>\n#8 0x563871976e95 <unknown>\n#9 0x563871961f55 <unknown>\n#10 0x563871977aea <unknown>\n#11 0x56387194a6c9 <unknown>\n#12 0x56387199f9a8 <unknown>\n#13 0x56387199fb45 <unknown>\n#14 0x5638719b4353 <unknown>\n#15 0x7f357f29cb84 <unknown>\n#16 0x7f357f329ecc <unknown>\n"
     }
   },
   "literacy-2": {
-    "t": "2026-09-30T04:23:06+09:00",
+    "t": "2026-09-30T05:24:12+09:00",
     "book": "literacy-2",
     "title": "초등 첫 문해력 신문 2",
     "isbn": "9791171179688",
@@ -588,29 +575,16 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": null,
-      "commentCount": null,
-      "reviewCount": null,
+      "salesPoint": 684,
+      "commentCount": 10,
+      "reviewCount": 7,
       "reviewScore": null,
-      "reviews": [
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "보다 안정적인 서비스 제공을 위해 시스템 점검을 진행하고 있으므로 점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        },
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        }
-      ],
-      "reviewSourceUrl": null
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=153.0.8010.52)\nStacktrace:\n#0 0x5638719b59fa <unknown>\n#1 0x5638712eb5b9 <unknown>\n#2 0x5638712eef64 <unknown>\n#3 0x56387138c5cb <unknown>\n#4 0x56387138b8de <unknown>\n#5 0x563871334b8b <unknown>\n#6 0x563871335971 <unknown>\n#7 0x563871978667 <unknown>\n#8 0x563871976e95 <unknown>\n#9 0x563871961f55 <unknown>\n#10 0x563871977aea <unknown>\n#11 0x56387194a6c9 <unknown>\n#12 0x56387199f9a8 <unknown>\n#13 0x56387199fb45 <unknown>\n#14 0x5638719b4353 <unknown>\n#15 0x7f357f29cb84 <unknown>\n#16 0x7f357f329ecc <unknown>\n"
     }
   },
   "literacy-3": {
-    "t": "2026-09-30T04:23:06+09:00",
+    "t": "2026-09-30T05:24:12+09:00",
     "book": "literacy-3",
     "title": "초등 첫 문해력 신문 3",
     "isbn": "9791173573767",
@@ -893,29 +867,16 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": null,
-      "commentCount": null,
-      "reviewCount": null,
+      "salesPoint": 718,
+      "commentCount": 1,
+      "reviewCount": 4,
       "reviewScore": null,
-      "reviews": [
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "보다 안정적인 서비스 제공을 위해 시스템 점검을 진행하고 있으므로 점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        },
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        }
-      ],
-      "reviewSourceUrl": null
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=153.0.8010.52)\nStacktrace:\n#0 0x5638719b59fa <unknown>\n#1 0x5638712eb5b9 <unknown>\n#2 0x5638712eef64 <unknown>\n#3 0x56387138c5cb <unknown>\n#4 0x56387138b8de <unknown>\n#5 0x563871334b8b <unknown>\n#6 0x563871335971 <unknown>\n#7 0x563871978667 <unknown>\n#8 0x563871976e95 <unknown>\n#9 0x563871961f55 <unknown>\n#10 0x563871977aea <unknown>\n#11 0x56387194a6c9 <unknown>\n#12 0x56387199f9a8 <unknown>\n#13 0x56387199fb45 <unknown>\n#14 0x5638719b4353 <unknown>\n#15 0x7f357f29cb84 <unknown>\n#16 0x7f357f329ecc <unknown>\n"
     }
   },
   "ai-literacy-newspaper": {
-    "t": "2026-09-30T04:23:06+09:00",
+    "t": "2026-09-30T05:24:12+09:00",
     "book": "ai-literacy-newspaper",
     "title": "초등 첫 AI 문해력 신문",
     "isbn": "9791176612739",
@@ -1198,29 +1159,16 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": null,
-      "commentCount": null,
-      "reviewCount": null,
+      "salesPoint": 520,
+      "commentCount": 0,
+      "reviewCount": 32,
       "reviewScore": null,
-      "reviews": [
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "보다 안정적인 서비스 제공을 위해 시스템 점검을 진행하고 있으므로 점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        },
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        }
-      ],
-      "reviewSourceUrl": null
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=153.0.8010.52)\nStacktrace:\n#0 0x5638719b59fa <unknown>\n#1 0x5638712eb5b9 <unknown>\n#2 0x5638712eef64 <unknown>\n#3 0x56387138c5cb <unknown>\n#4 0x56387138b8de <unknown>\n#5 0x563871334b8b <unknown>\n#6 0x563871335971 <unknown>\n#7 0x563871978667 <unknown>\n#8 0x563871976e95 <unknown>\n#9 0x563871961f55 <unknown>\n#10 0x563871977aea <unknown>\n#11 0x56387194a6c9 <unknown>\n#12 0x56387199f9a8 <unknown>\n#13 0x56387199fb45 <unknown>\n#14 0x5638719b4353 <unknown>\n#15 0x7f357f29cb84 <unknown>\n#16 0x7f357f329ecc <unknown>\n"
     }
   },
   "future-science-1": {
-    "t": "2026-09-30T04:23:06+09:00",
+    "t": "2026-09-30T05:24:12+09:00",
     "book": "future-science-1",
     "title": "장동선의 미래 과학 프로젝트 1",
     "isbn": "9791173576270",
@@ -1503,29 +1451,16 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": null,
-      "commentCount": null,
-      "reviewCount": null,
+      "salesPoint": 1244,
+      "commentCount": 0,
+      "reviewCount": 17,
       "reviewScore": null,
-      "reviews": [
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "보다 안정적인 서비스 제공을 위해 시스템 점검을 진행하고 있으므로 점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        },
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        }
-      ],
-      "reviewSourceUrl": null
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=153.0.8010.52)\nStacktrace:\n#0 0x5638719b59fa <unknown>\n#1 0x5638712eb5b9 <unknown>\n#2 0x5638712eef64 <unknown>\n#3 0x56387138c5cb <unknown>\n#4 0x56387138b8de <unknown>\n#5 0x563871334b8b <unknown>\n#6 0x563871335971 <unknown>\n#7 0x563871978667 <unknown>\n#8 0x563871976e95 <unknown>\n#9 0x563871961f55 <unknown>\n#10 0x563871977aea <unknown>\n#11 0x56387194a6c9 <unknown>\n#12 0x56387199f9a8 <unknown>\n#13 0x56387199fb45 <unknown>\n#14 0x5638719b4353 <unknown>\n#15 0x7f357f29cb84 <unknown>\n#16 0x7f357f329ecc <unknown>\n"
     }
   },
   "future-science-2": {
-    "t": "2026-09-30T04:23:06+09:00",
+    "t": "2026-09-30T05:24:12+09:00",
     "book": "future-science-2",
     "title": "장동선의 미래 과학 프로젝트 2",
     "isbn": "9791173576287",
@@ -1808,29 +1743,16 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": null,
-      "commentCount": null,
-      "reviewCount": null,
+      "salesPoint": 856,
+      "commentCount": 1,
+      "reviewCount": 22,
       "reviewScore": null,
-      "reviews": [
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "보다 안정적인 서비스 제공을 위해 시스템 점검을 진행하고 있으므로 점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        },
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        }
-      ],
-      "reviewSourceUrl": null
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=153.0.8010.52)\nStacktrace:\n#0 0x5638719b59fa <unknown>\n#1 0x5638712eb5b9 <unknown>\n#2 0x5638712eef64 <unknown>\n#3 0x56387138c5cb <unknown>\n#4 0x56387138b8de <unknown>\n#5 0x563871334b8b <unknown>\n#6 0x563871335971 <unknown>\n#7 0x563871978667 <unknown>\n#8 0x563871976e95 <unknown>\n#9 0x563871961f55 <unknown>\n#10 0x563871977aea <unknown>\n#11 0x56387194a6c9 <unknown>\n#12 0x56387199f9a8 <unknown>\n#13 0x56387199fb45 <unknown>\n#14 0x5638719b4353 <unknown>\n#15 0x7f357f29cb84 <unknown>\n#16 0x7f357f329ecc <unknown>\n"
     }
   },
   "future-science-3": {
-    "t": "2026-09-30T04:23:06+09:00",
+    "t": "2026-09-30T05:24:12+09:00",
     "book": "future-science-3",
     "title": "장동선의 미래 과학 프로젝트 3",
     "isbn": "9791173576294",
@@ -2113,29 +2035,16 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": null,
-      "commentCount": null,
-      "reviewCount": null,
+      "salesPoint": 695,
+      "commentCount": 1,
+      "reviewCount": 27,
       "reviewScore": null,
-      "reviews": [
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "보다 안정적인 서비스 제공을 위해 시스템 점검을 진행하고 있으므로 점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        },
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        }
-      ],
-      "reviewSourceUrl": null
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=153.0.8010.52)\nStacktrace:\n#0 0x5638719b59fa <unknown>\n#1 0x5638712eb5b9 <unknown>\n#2 0x5638712eef64 <unknown>\n#3 0x56387138c5cb <unknown>\n#4 0x56387138b8de <unknown>\n#5 0x563871334b8b <unknown>\n#6 0x563871335971 <unknown>\n#7 0x563871978667 <unknown>\n#8 0x563871976e95 <unknown>\n#9 0x563871961f55 <unknown>\n#10 0x563871977aea <unknown>\n#11 0x56387194a6c9 <unknown>\n#12 0x56387199f9a8 <unknown>\n#13 0x56387199fb45 <unknown>\n#14 0x5638719b4353 <unknown>\n#15 0x7f357f29cb84 <unknown>\n#16 0x7f357f329ecc <unknown>\n"
     }
   },
   "human-body-1": {
-    "t": "2026-09-30T04:23:06+09:00",
+    "t": "2026-09-30T05:24:12+09:00",
     "book": "human-body-1",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 1",
     "isbn": "9791173578625",
@@ -2418,29 +2327,16 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": null,
-      "commentCount": null,
-      "reviewCount": null,
+      "salesPoint": 2605,
+      "commentCount": 1,
+      "reviewCount": 32,
       "reviewScore": null,
-      "reviews": [
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "보다 안정적인 서비스 제공을 위해 시스템 점검을 진행하고 있으므로 점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        },
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        }
-      ],
-      "reviewSourceUrl": null
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=153.0.8010.52)\nStacktrace:\n#0 0x5638719b59fa <unknown>\n#1 0x5638712eb5b9 <unknown>\n#2 0x5638712eef64 <unknown>\n#3 0x56387138c5cb <unknown>\n#4 0x56387138b8de <unknown>\n#5 0x563871334b8b <unknown>\n#6 0x563871335971 <unknown>\n#7 0x563871978667 <unknown>\n#8 0x563871976e95 <unknown>\n#9 0x563871961f55 <unknown>\n#10 0x563871977aea <unknown>\n#11 0x56387194a6c9 <unknown>\n#12 0x56387199f9a8 <unknown>\n#13 0x56387199fb45 <unknown>\n#14 0x5638719b4353 <unknown>\n#15 0x7f357f29cb84 <unknown>\n#16 0x7f357f329ecc <unknown>\n"
     }
   },
   "human-body-2": {
-    "t": "2026-09-30T04:23:06+09:00",
+    "t": "2026-09-30T05:24:12+09:00",
     "book": "human-body-2",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 2",
     "isbn": "9791173578632",
@@ -2721,31 +2617,18 @@
       "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=398769685",
       "itemId": "398769685",
       "overallRank": null,
-      "childrenRank": null,
+      "childrenRank": 501,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": null,
-      "commentCount": null,
-      "reviewCount": null,
+      "salesPoint": 1615,
+      "commentCount": 1,
+      "reviewCount": 35,
       "reviewScore": null,
-      "reviews": [
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "보다 안정적인 서비스 제공을 위해 시스템 점검을 진행하고 있으므로 점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        },
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        }
-      ],
-      "reviewSourceUrl": null
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=153.0.8010.52)\nStacktrace:\n#0 0x5638719b59fa <unknown>\n#1 0x5638712eb5b9 <unknown>\n#2 0x5638712eef64 <unknown>\n#3 0x56387138c5cb <unknown>\n#4 0x56387138b8de <unknown>\n#5 0x563871334b8b <unknown>\n#6 0x563871335971 <unknown>\n#7 0x563871978667 <unknown>\n#8 0x563871976e95 <unknown>\n#9 0x563871961f55 <unknown>\n#10 0x563871977aea <unknown>\n#11 0x56387194a6c9 <unknown>\n#12 0x56387199f9a8 <unknown>\n#13 0x56387199fb45 <unknown>\n#14 0x5638719b4353 <unknown>\n#15 0x7f357f29cb84 <unknown>\n#16 0x7f357f329ecc <unknown>\n"
     }
   },
   "yako-knowledge-1": {
-    "t": "2026-09-30T04:23:06+09:00",
+    "t": "2026-09-30T05:24:12+09:00",
     "book": "yako-knowledge-1",
     "title": "빨간내복야코 어린이 상식 1",
     "isbn": "9791171178704",
@@ -3028,29 +2911,16 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": null,
-      "commentCount": null,
-      "reviewCount": null,
+      "salesPoint": 3490,
+      "commentCount": 0,
+      "reviewCount": 11,
       "reviewScore": null,
-      "reviews": [
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "보다 안정적인 서비스 제공을 위해 시스템 점검을 진행하고 있으므로 점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        },
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        }
-      ],
-      "reviewSourceUrl": null
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=153.0.8010.52)\nStacktrace:\n#0 0x5638719b59fa <unknown>\n#1 0x5638712eb5b9 <unknown>\n#2 0x5638712eef64 <unknown>\n#3 0x56387138c5cb <unknown>\n#4 0x56387138b8de <unknown>\n#5 0x563871334b8b <unknown>\n#6 0x563871335971 <unknown>\n#7 0x563871978667 <unknown>\n#8 0x563871976e95 <unknown>\n#9 0x563871961f55 <unknown>\n#10 0x563871977aea <unknown>\n#11 0x56387194a6c9 <unknown>\n#12 0x56387199f9a8 <unknown>\n#13 0x56387199fb45 <unknown>\n#14 0x5638719b4353 <unknown>\n#15 0x7f357f29cb84 <unknown>\n#16 0x7f357f329ecc <unknown>\n"
     }
   },
   "yako-knowledge-2": {
-    "t": "2026-09-30T04:23:06+09:00",
+    "t": "2026-09-30T05:24:12+09:00",
     "book": "yako-knowledge-2",
     "title": "빨간내복야코 어린이 상식 2",
     "isbn": "9791173571749",
@@ -3333,29 +3203,16 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": null,
-      "commentCount": null,
-      "reviewCount": null,
+      "salesPoint": 3856,
+      "commentCount": 0,
+      "reviewCount": 1,
       "reviewScore": null,
-      "reviews": [
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "보다 안정적인 서비스 제공을 위해 시스템 점검을 진행하고 있으므로 점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        },
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        }
-      ],
-      "reviewSourceUrl": null
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=153.0.8010.52)\nStacktrace:\n#0 0x5638719b59fa <unknown>\n#1 0x5638712eb5b9 <unknown>\n#2 0x5638712eef64 <unknown>\n#3 0x56387138c5cb <unknown>\n#4 0x56387138b8de <unknown>\n#5 0x563871334b8b <unknown>\n#6 0x563871335971 <unknown>\n#7 0x563871978667 <unknown>\n#8 0x563871976e95 <unknown>\n#9 0x563871961f55 <unknown>\n#10 0x563871977aea <unknown>\n#11 0x56387194a6c9 <unknown>\n#12 0x56387199f9a8 <unknown>\n#13 0x56387199fb45 <unknown>\n#14 0x5638719b4353 <unknown>\n#15 0x7f357f29cb84 <unknown>\n#16 0x7f357f329ecc <unknown>\n"
     }
   },
   "yako-knowledge-3": {
-    "t": "2026-09-30T04:23:06+09:00",
+    "t": "2026-09-30T05:24:12+09:00",
     "book": "yako-knowledge-3",
     "title": "빨간내복야코 어린이 상식 3",
     "isbn": "9791173573798",
@@ -3636,31 +3493,18 @@
       "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367518731",
       "itemId": "367518731",
       "overallRank": null,
-      "childrenRank": null,
+      "childrenRank": 1105,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": null,
-      "commentCount": null,
-      "reviewCount": null,
+      "salesPoint": 3883,
+      "commentCount": 0,
+      "reviewCount": 6,
       "reviewScore": null,
-      "reviews": [
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "보다 안정적인 서비스 제공을 위해 시스템 점검을 진행하고 있으므로 점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        },
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        }
-      ],
-      "reviewSourceUrl": null
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=153.0.8010.52)\nStacktrace:\n#0 0x5638719b59fa <unknown>\n#1 0x5638712eb5b9 <unknown>\n#2 0x5638712eef64 <unknown>\n#3 0x56387138c5cb <unknown>\n#4 0x56387138b8de <unknown>\n#5 0x563871334b8b <unknown>\n#6 0x563871335971 <unknown>\n#7 0x563871978667 <unknown>\n#8 0x563871976e95 <unknown>\n#9 0x563871961f55 <unknown>\n#10 0x563871977aea <unknown>\n#11 0x56387194a6c9 <unknown>\n#12 0x56387199f9a8 <unknown>\n#13 0x56387199fb45 <unknown>\n#14 0x5638719b4353 <unknown>\n#15 0x7f357f29cb84 <unknown>\n#16 0x7f357f329ecc <unknown>\n"
     }
   },
   "yako-knowledge-4": {
-    "t": "2026-09-30T04:23:06+09:00",
+    "t": "2026-09-30T05:24:12+09:00",
     "book": "yako-knowledge-4",
     "title": "빨간내복야코 어린이 상식 4",
     "isbn": "9791173574412",
@@ -3943,29 +3787,16 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": null,
-      "commentCount": null,
-      "reviewCount": null,
+      "salesPoint": 5743,
+      "commentCount": 0,
+      "reviewCount": 0,
       "reviewScore": null,
-      "reviews": [
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "보다 안정적인 서비스 제공을 위해 시스템 점검을 진행하고 있으므로 점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        },
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        }
-      ],
-      "reviewSourceUrl": null
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=153.0.8010.52)\nStacktrace:\n#0 0x5638719b59fa <unknown>\n#1 0x5638712eb5b9 <unknown>\n#2 0x5638712eef64 <unknown>\n#3 0x56387138c5cb <unknown>\n#4 0x56387138b8de <unknown>\n#5 0x563871334b8b <unknown>\n#6 0x563871335971 <unknown>\n#7 0x563871978667 <unknown>\n#8 0x563871976e95 <unknown>\n#9 0x563871961f55 <unknown>\n#10 0x563871977aea <unknown>\n#11 0x56387194a6c9 <unknown>\n#12 0x56387199f9a8 <unknown>\n#13 0x56387199fb45 <unknown>\n#14 0x5638719b4353 <unknown>\n#15 0x7f357f29cb84 <unknown>\n#16 0x7f357f329ecc <unknown>\n"
     }
   },
   "yako-knowledge-5": {
-    "t": "2026-09-30T04:23:06+09:00",
+    "t": "2026-09-30T05:24:12+09:00",
     "book": "yako-knowledge-5",
     "title": "빨간내복야코 어린이 상식 5",
     "isbn": "9791173577598",
@@ -4248,29 +4079,16 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": null,
-      "commentCount": null,
-      "reviewCount": null,
+      "salesPoint": 4831,
+      "commentCount": 0,
+      "reviewCount": 12,
       "reviewScore": null,
-      "reviews": [
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "보다 안정적인 서비스 제공을 위해 시스템 점검을 진행하고 있으므로 점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        },
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        }
-      ],
-      "reviewSourceUrl": null
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=153.0.8010.52)\nStacktrace:\n#0 0x5638719b59fa <unknown>\n#1 0x5638712eb5b9 <unknown>\n#2 0x5638712eef64 <unknown>\n#3 0x56387138c5cb <unknown>\n#4 0x56387138b8de <unknown>\n#5 0x563871334b8b <unknown>\n#6 0x563871335971 <unknown>\n#7 0x563871978667 <unknown>\n#8 0x563871976e95 <unknown>\n#9 0x563871961f55 <unknown>\n#10 0x563871977aea <unknown>\n#11 0x56387194a6c9 <unknown>\n#12 0x56387199f9a8 <unknown>\n#13 0x56387199fb45 <unknown>\n#14 0x5638719b4353 <unknown>\n#15 0x7f357f29cb84 <unknown>\n#16 0x7f357f329ecc <unknown>\n"
     }
   },
   "yako-knowledge-6": {
-    "t": "2026-09-30T04:23:06+09:00",
+    "t": "2026-09-30T05:24:12+09:00",
     "book": "yako-knowledge-6",
     "title": "빨간내복야코 어린이 상식 6",
     "isbn": "9791173579073",
@@ -4553,25 +4371,12 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": null,
-      "commentCount": null,
-      "reviewCount": null,
+      "salesPoint": 3010,
+      "commentCount": 0,
+      "reviewCount": 23,
       "reviewScore": null,
-      "reviews": [
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "보다 안정적인 서비스 제공을 위해 시스템 점검을 진행하고 있으므로 점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        },
-        {
-          "author": "감사합니다.",
-          "date": "2026-09-30",
-          "score": null,
-          "content": "점검 시간 동안에는 서비스 이용이 일시 중단됩니다. 🕒 점검 시간 안내 • 알라딘US(PDT) : 2026.09.29(화) 오전 10:00 ~ 오후 03:00 ※ 작업 상황에 따라 점검시간이 다소 변동될 수 있습니다. 더 나은 서비스로 빠르게 찾아 뵙겠습니다. ⓒ Aladin Communication. All Rights Reserved."
-        }
-      ],
-      "reviewSourceUrl": null
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=153.0.8010.52)\nStacktrace:\n#0 0x5638719b59fa <unknown>\n#1 0x5638712eb5b9 <unknown>\n#2 0x5638712eef64 <unknown>\n#3 0x56387138c5cb <unknown>\n#4 0x56387138b8de <unknown>\n#5 0x563871334b8b <unknown>\n#6 0x563871335971 <unknown>\n#7 0x563871978667 <unknown>\n#8 0x563871976e95 <unknown>\n#9 0x563871961f55 <unknown>\n#10 0x563871977aea <unknown>\n#11 0x56387194a6c9 <unknown>\n#12 0x56387199f9a8 <unknown>\n#13 0x56387199fb45 <unknown>\n#14 0x5638719b4353 <unknown>\n#15 0x7f357f29cb84 <unknown>\n#16 0x7f357f329ecc <unknown>\n"
     }
   }
 }
