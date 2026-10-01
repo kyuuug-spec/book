@@ -1,6 +1,6 @@
 {
   "literacy-1": {
-    "t": "2026-10-02T04:23:57+09:00",
+    "t": "2026-10-02T05:24:01+09:00",
     "book": "literacy-1",
     "title": "초등 첫 문해력 신문",
     "isbn": "9791171177028",
@@ -288,11 +288,11 @@
       "reviewCount": 38,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x560d2001de3a <unknown>\n#1 0x560d1f947e69 <unknown>\n#2 0x560d1f94b814 <unknown>\n#3 0x560d1f9e949b <unknown>\n#4 0x560d1f9e87af <unknown>\n#5 0x560d1f991748 <unknown>\n#6 0x560d1f992511 <unknown>\n#7 0x560d1ffe03c5 <unknown>\n#8 0x560d1ffdebd5 <unknown>\n#9 0x560d1ffc9c55 <unknown>\n#10 0x560d1ffdf82a <unknown>\n#11 0x560d1ffb2329 <unknown>\n#12 0x560d20008248 <unknown>\n#13 0x560d200083e5 <unknown>\n#14 0x560d2001c783 <unknown>\n#15 0x7fbd8049cb84 <unknown>\n#16 0x7fbd80529ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x55f5f533be3a <unknown>\n#1 0x55f5f4c65e69 <unknown>\n#2 0x55f5f4c69814 <unknown>\n#3 0x55f5f4d0749b <unknown>\n#4 0x55f5f4d067af <unknown>\n#5 0x55f5f4caf748 <unknown>\n#6 0x55f5f4cb0511 <unknown>\n#7 0x55f5f52fe3c5 <unknown>\n#8 0x55f5f52fcbd5 <unknown>\n#9 0x55f5f52e7c55 <unknown>\n#10 0x55f5f52fd82a <unknown>\n#11 0x55f5f52d0329 <unknown>\n#12 0x55f5f5326248 <unknown>\n#13 0x55f5f53263e5 <unknown>\n#14 0x55f5f533a783 <unknown>\n#15 0x7f3a08a9cb84 <unknown>\n#16 0x7f3a08b29ecc <unknown>\n"
     }
   },
   "literacy-2": {
-    "t": "2026-10-02T04:23:57+09:00",
+    "t": "2026-10-02T05:24:01+09:00",
     "book": "literacy-2",
     "title": "초등 첫 문해력 신문 2",
     "isbn": "9791171179688",
@@ -580,11 +580,11 @@
       "reviewCount": 7,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x560d2001de3a <unknown>\n#1 0x560d1f947e69 <unknown>\n#2 0x560d1f94b814 <unknown>\n#3 0x560d1f9e949b <unknown>\n#4 0x560d1f9e87af <unknown>\n#5 0x560d1f991748 <unknown>\n#6 0x560d1f992511 <unknown>\n#7 0x560d1ffe03c5 <unknown>\n#8 0x560d1ffdebd5 <unknown>\n#9 0x560d1ffc9c55 <unknown>\n#10 0x560d1ffdf82a <unknown>\n#11 0x560d1ffb2329 <unknown>\n#12 0x560d20008248 <unknown>\n#13 0x560d200083e5 <unknown>\n#14 0x560d2001c783 <unknown>\n#15 0x7fbd8049cb84 <unknown>\n#16 0x7fbd80529ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x55f5f533be3a <unknown>\n#1 0x55f5f4c65e69 <unknown>\n#2 0x55f5f4c69814 <unknown>\n#3 0x55f5f4d0749b <unknown>\n#4 0x55f5f4d067af <unknown>\n#5 0x55f5f4caf748 <unknown>\n#6 0x55f5f4cb0511 <unknown>\n#7 0x55f5f52fe3c5 <unknown>\n#8 0x55f5f52fcbd5 <unknown>\n#9 0x55f5f52e7c55 <unknown>\n#10 0x55f5f52fd82a <unknown>\n#11 0x55f5f52d0329 <unknown>\n#12 0x55f5f5326248 <unknown>\n#13 0x55f5f53263e5 <unknown>\n#14 0x55f5f533a783 <unknown>\n#15 0x7f3a08a9cb84 <unknown>\n#16 0x7f3a08b29ecc <unknown>\n"
     }
   },
   "literacy-3": {
-    "t": "2026-10-02T04:23:57+09:00",
+    "t": "2026-10-02T05:24:01+09:00",
     "book": "literacy-3",
     "title": "초등 첫 문해력 신문 3",
     "isbn": "9791173573767",
@@ -814,7 +814,7 @@
           "author": "정보보호관리체계",
           "date": "2023-11-15",
           "score": null,
-          "content": "ISMS 인증획득 [인증범위] 인터넷 교보문고 및 브랜드 서비스 운영 어린이와 어른 모두 위한 야구 상식 독서입니다. 3 TOP 총 상품금액 17,820 원 선물하기"
+          "content": "ISMS 인증획득 [인증범위] 인터넷 교보문고 및 브랜드 서비스 운영 야구에 대한 궁금증을 해결해 줄 책입니다. 3 TOP 총 상품금액 17,820 원 선물하기"
         }
       ]
     },
@@ -872,11 +872,11 @@
       "reviewCount": 4,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x560d2001de3a <unknown>\n#1 0x560d1f947e69 <unknown>\n#2 0x560d1f94b814 <unknown>\n#3 0x560d1f9e949b <unknown>\n#4 0x560d1f9e87af <unknown>\n#5 0x560d1f991748 <unknown>\n#6 0x560d1f992511 <unknown>\n#7 0x560d1ffe03c5 <unknown>\n#8 0x560d1ffdebd5 <unknown>\n#9 0x560d1ffc9c55 <unknown>\n#10 0x560d1ffdf82a <unknown>\n#11 0x560d1ffb2329 <unknown>\n#12 0x560d20008248 <unknown>\n#13 0x560d200083e5 <unknown>\n#14 0x560d2001c783 <unknown>\n#15 0x7fbd8049cb84 <unknown>\n#16 0x7fbd80529ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x55f5f533be3a <unknown>\n#1 0x55f5f4c65e69 <unknown>\n#2 0x55f5f4c69814 <unknown>\n#3 0x55f5f4d0749b <unknown>\n#4 0x55f5f4d067af <unknown>\n#5 0x55f5f4caf748 <unknown>\n#6 0x55f5f4cb0511 <unknown>\n#7 0x55f5f52fe3c5 <unknown>\n#8 0x55f5f52fcbd5 <unknown>\n#9 0x55f5f52e7c55 <unknown>\n#10 0x55f5f52fd82a <unknown>\n#11 0x55f5f52d0329 <unknown>\n#12 0x55f5f5326248 <unknown>\n#13 0x55f5f53263e5 <unknown>\n#14 0x55f5f533a783 <unknown>\n#15 0x7f3a08a9cb84 <unknown>\n#16 0x7f3a08b29ecc <unknown>\n"
     }
   },
   "ai-literacy-newspaper": {
-    "t": "2026-10-02T04:23:57+09:00",
+    "t": "2026-10-02T05:24:01+09:00",
     "book": "ai-literacy-newspaper",
     "title": "초등 첫 AI 문해력 신문",
     "isbn": "9791176612739",
@@ -1164,11 +1164,11 @@
       "reviewCount": 32,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x560d2001de3a <unknown>\n#1 0x560d1f947e69 <unknown>\n#2 0x560d1f94b814 <unknown>\n#3 0x560d1f9e949b <unknown>\n#4 0x560d1f9e87af <unknown>\n#5 0x560d1f991748 <unknown>\n#6 0x560d1f992511 <unknown>\n#7 0x560d1ffe03c5 <unknown>\n#8 0x560d1ffdebd5 <unknown>\n#9 0x560d1ffc9c55 <unknown>\n#10 0x560d1ffdf82a <unknown>\n#11 0x560d1ffb2329 <unknown>\n#12 0x560d20008248 <unknown>\n#13 0x560d200083e5 <unknown>\n#14 0x560d2001c783 <unknown>\n#15 0x7fbd8049cb84 <unknown>\n#16 0x7fbd80529ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x55f5f533be3a <unknown>\n#1 0x55f5f4c65e69 <unknown>\n#2 0x55f5f4c69814 <unknown>\n#3 0x55f5f4d0749b <unknown>\n#4 0x55f5f4d067af <unknown>\n#5 0x55f5f4caf748 <unknown>\n#6 0x55f5f4cb0511 <unknown>\n#7 0x55f5f52fe3c5 <unknown>\n#8 0x55f5f52fcbd5 <unknown>\n#9 0x55f5f52e7c55 <unknown>\n#10 0x55f5f52fd82a <unknown>\n#11 0x55f5f52d0329 <unknown>\n#12 0x55f5f5326248 <unknown>\n#13 0x55f5f53263e5 <unknown>\n#14 0x55f5f533a783 <unknown>\n#15 0x7f3a08a9cb84 <unknown>\n#16 0x7f3a08b29ecc <unknown>\n"
     }
   },
   "future-science-1": {
-    "t": "2026-10-02T04:23:57+09:00",
+    "t": "2026-10-02T05:24:01+09:00",
     "book": "future-science-1",
     "title": "장동선의 미래 과학 프로젝트 1",
     "isbn": "9791173576270",
@@ -1456,11 +1456,11 @@
       "reviewCount": 17,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x560d2001de3a <unknown>\n#1 0x560d1f947e69 <unknown>\n#2 0x560d1f94b814 <unknown>\n#3 0x560d1f9e949b <unknown>\n#4 0x560d1f9e87af <unknown>\n#5 0x560d1f991748 <unknown>\n#6 0x560d1f992511 <unknown>\n#7 0x560d1ffe03c5 <unknown>\n#8 0x560d1ffdebd5 <unknown>\n#9 0x560d1ffc9c55 <unknown>\n#10 0x560d1ffdf82a <unknown>\n#11 0x560d1ffb2329 <unknown>\n#12 0x560d20008248 <unknown>\n#13 0x560d200083e5 <unknown>\n#14 0x560d2001c783 <unknown>\n#15 0x7fbd8049cb84 <unknown>\n#16 0x7fbd80529ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x55f5f533be3a <unknown>\n#1 0x55f5f4c65e69 <unknown>\n#2 0x55f5f4c69814 <unknown>\n#3 0x55f5f4d0749b <unknown>\n#4 0x55f5f4d067af <unknown>\n#5 0x55f5f4caf748 <unknown>\n#6 0x55f5f4cb0511 <unknown>\n#7 0x55f5f52fe3c5 <unknown>\n#8 0x55f5f52fcbd5 <unknown>\n#9 0x55f5f52e7c55 <unknown>\n#10 0x55f5f52fd82a <unknown>\n#11 0x55f5f52d0329 <unknown>\n#12 0x55f5f5326248 <unknown>\n#13 0x55f5f53263e5 <unknown>\n#14 0x55f5f533a783 <unknown>\n#15 0x7f3a08a9cb84 <unknown>\n#16 0x7f3a08b29ecc <unknown>\n"
     }
   },
   "future-science-2": {
-    "t": "2026-10-02T04:23:57+09:00",
+    "t": "2026-10-02T05:24:01+09:00",
     "book": "future-science-2",
     "title": "장동선의 미래 과학 프로젝트 2",
     "isbn": "9791173576287",
@@ -1748,11 +1748,11 @@
       "reviewCount": 22,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x560d2001de3a <unknown>\n#1 0x560d1f947e69 <unknown>\n#2 0x560d1f94b814 <unknown>\n#3 0x560d1f9e949b <unknown>\n#4 0x560d1f9e87af <unknown>\n#5 0x560d1f991748 <unknown>\n#6 0x560d1f992511 <unknown>\n#7 0x560d1ffe03c5 <unknown>\n#8 0x560d1ffdebd5 <unknown>\n#9 0x560d1ffc9c55 <unknown>\n#10 0x560d1ffdf82a <unknown>\n#11 0x560d1ffb2329 <unknown>\n#12 0x560d20008248 <unknown>\n#13 0x560d200083e5 <unknown>\n#14 0x560d2001c783 <unknown>\n#15 0x7fbd8049cb84 <unknown>\n#16 0x7fbd80529ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x55f5f533be3a <unknown>\n#1 0x55f5f4c65e69 <unknown>\n#2 0x55f5f4c69814 <unknown>\n#3 0x55f5f4d0749b <unknown>\n#4 0x55f5f4d067af <unknown>\n#5 0x55f5f4caf748 <unknown>\n#6 0x55f5f4cb0511 <unknown>\n#7 0x55f5f52fe3c5 <unknown>\n#8 0x55f5f52fcbd5 <unknown>\n#9 0x55f5f52e7c55 <unknown>\n#10 0x55f5f52fd82a <unknown>\n#11 0x55f5f52d0329 <unknown>\n#12 0x55f5f5326248 <unknown>\n#13 0x55f5f53263e5 <unknown>\n#14 0x55f5f533a783 <unknown>\n#15 0x7f3a08a9cb84 <unknown>\n#16 0x7f3a08b29ecc <unknown>\n"
     }
   },
   "future-science-3": {
-    "t": "2026-10-02T04:23:57+09:00",
+    "t": "2026-10-02T05:24:01+09:00",
     "book": "future-science-3",
     "title": "장동선의 미래 과학 프로젝트 3",
     "isbn": "9791173576294",
@@ -1986,49 +1986,7 @@
         }
       ]
     },
-    "yes24": {
-      "id": "194502221",
-      "url": "https://www.yes24.com/product/goods/194502221",
-      "cover": "https://image.yes24.com/goods/194502221/XL",
-      "overallRank": null,
-      "childrenRank": null,
-      "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 1854,
-      "reviewCount": 52,
-      "reviewScore": 10.0,
-      "reviews": [
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "처음 이전 1 2 3 4 5 6 7 8 9 10 다음 끝 최근순 | 추천순 | 별점순"
-        },
-        {
-          "author": "yes24 회원",
-          "date": "2026-09-14",
-          "score": null,
-          "content": "종이책 장동선의 미래 과학 프로젝트 너무너무 재미있을 것 같은 장동선의 미래 과학 프로젝트 3 : 스마트 글라스, 보이는 것 너머를 보다!!!와, 요즘 아이들이 살아갈 미래는 정말 우리가 어릴 때 상상했던 미래와는 많이 달라질 것 같아요.이번에 살펴본 장동선의 미래 과학 프로젝트 3 : 스마트 글라스, 보이는 것 너머를 보다는 제목부터 아이들의 호기심을 확 끌어당기는 책입니다.어렵게만 느껴질... 더보기 원문주소 : https://sarak.yes24.com/review/22408663 너무너무 재미있을 것 같은 장동선의 미래 과학 프로젝트 3 : 스마트 글라스, 보이는 것 너머를 보다!!! 와, 요즘 아이들이 살아갈 미래는 정말 우리가 어릴 때 상상했던 미래와는 많이 달라질 것 같아요. 이번에 살펴본 장동선의 미래 과학 프로젝트 3 : 스마트 글라스, 보이는 것 너머를 보다는 제목부터 아이들의 호기심을 확 끌어당기는 책입니다.어렵게만 느껴질 수 있는 과학 이야기를 그림과 함께 설명해줘서 부담 없이 읽을 수 있었고, “앞으로 우리의 생활은 어떻게 달라질까?” 하고 자연스럽게 생각해보게 해주는 책이었어요. 스마트폰을 넘어 스마트 글라스가 일상에서 어떻게 활용될지 알아보면서 미래 과학에 대한 호기심도 키울 수 있었던 책입니다. 과학을 좋아하는 아이뿐 아니라 미래 기술이 궁금한 아이에게도 추천하고 싶은책입니다 이 리뷰가 도움이 되었나요? 공감0 댓글 0 접어보기"
-        },
-        {
-          "author": "yes24 회원",
-          "date": "2026-09-14",
-          "score": null,
-          "content": "종이책 장동선의 미래 과학 프로젝트"
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "너무너무 재미있을 것 같은 장동선의 미래 과학 프로젝트 3 : 스마트 글라스, 보이는 것 너머를 보다!!!와, 요즘 아이들이 살아갈 미래는 정말 우리가 어릴 때 상상했던 미래와는 많이 달라질 것 같아요.이번에 살펴본 장동선의 미래 과학 프로젝트 3 : 스마트 글라스, 보이는 것 너머를 보다는 제목부터 아이들의 호기심을 확 끌어당기는 책입니다.어렵게만 느껴질... 더보기"
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "원문주소 : https://sarak.yes24.com/review/22408663 너무너무 재미있을 것 같은 장동선의 미래 과학 프로젝트 3 : 스마트 글라스, 보이는 것 너머를 보다!!! 와, 요즘 아이들이 살아갈 미래는 정말 우리가 어릴 때 상상했던 미래와는 많이 달라질 것 같아요. 이번에 살펴본 장동선의 미래 과학 프로젝트 3 : 스마트 글라스, 보이는 것 너머를 보다는 제목부터 아이들의 호기심을 확 끌어당기는 책입니다.어렵게만 느껴질 수 있는 과학 이야기를 그림과 함께 설명해줘서 부담 없이 읽을 수 있었고, “앞으로 우리의 생활은 어떻게 달라질까?” 하고 자연스럽게 생각해보게 해주는 책이었어요. 스마트폰을 넘어 스마트 글라스가 일상에서 어떻게 활용될지 알아보면서 미래 과학에 대한 호기심도 키울 수 있었던 책입니다. 과학을 좋아하는 아이뿐 아니라 미래 기술이 궁금한 아이에게도 추천하고 싶은책입니다"
-        }
-      ]
-    },
+    "yes24Error": "ReadTimeout: HTTPSConnectionPool(host='www.yes24.com', port=443): Read timed out. (read timeout=25)",
     "aladin": {
       "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=399320263",
       "itemId": "399320263",
@@ -2040,11 +1998,11 @@
       "reviewCount": 27,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x560d2001de3a <unknown>\n#1 0x560d1f947e69 <unknown>\n#2 0x560d1f94b814 <unknown>\n#3 0x560d1f9e949b <unknown>\n#4 0x560d1f9e87af <unknown>\n#5 0x560d1f991748 <unknown>\n#6 0x560d1f992511 <unknown>\n#7 0x560d1ffe03c5 <unknown>\n#8 0x560d1ffdebd5 <unknown>\n#9 0x560d1ffc9c55 <unknown>\n#10 0x560d1ffdf82a <unknown>\n#11 0x560d1ffb2329 <unknown>\n#12 0x560d20008248 <unknown>\n#13 0x560d200083e5 <unknown>\n#14 0x560d2001c783 <unknown>\n#15 0x7fbd8049cb84 <unknown>\n#16 0x7fbd80529ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x55f5f533be3a <unknown>\n#1 0x55f5f4c65e69 <unknown>\n#2 0x55f5f4c69814 <unknown>\n#3 0x55f5f4d0749b <unknown>\n#4 0x55f5f4d067af <unknown>\n#5 0x55f5f4caf748 <unknown>\n#6 0x55f5f4cb0511 <unknown>\n#7 0x55f5f52fe3c5 <unknown>\n#8 0x55f5f52fcbd5 <unknown>\n#9 0x55f5f52e7c55 <unknown>\n#10 0x55f5f52fd82a <unknown>\n#11 0x55f5f52d0329 <unknown>\n#12 0x55f5f5326248 <unknown>\n#13 0x55f5f53263e5 <unknown>\n#14 0x55f5f533a783 <unknown>\n#15 0x7f3a08a9cb84 <unknown>\n#16 0x7f3a08b29ecc <unknown>\n"
     }
   },
   "human-body-1": {
-    "t": "2026-10-02T04:23:57+09:00",
+    "t": "2026-10-02T05:24:01+09:00",
     "book": "human-body-1",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 1",
     "isbn": "9791173578625",
@@ -2278,49 +2236,7 @@
         }
       ]
     },
-    "yes24": {
-      "id": "183650258",
-      "url": "https://www.yes24.com/product/goods/183650258",
-      "cover": "https://image.yes24.com/goods/183650258/XL",
-      "overallRank": null,
-      "childrenRank": 849,
-      "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 11538,
-      "reviewCount": 43,
-      "reviewScore": 10.0,
-      "reviews": [
-        {
-          "author": "yes24 회원",
-          "date": "2026-06-06",
-          "score": null,
-          "content": "종이책 구매 좋아요 《법의학자 유성호의 인체 탐구 프로젝트 1》은 우리 몸의 구조와 기능을 쉽고 흥미롭게 설명해 주어 과학에 대한 호기심을 키워 주는 책입니다. 실제 사례와 재미있는 그림이 함께 담겨 있어 이해하기 쉽고, 인체에 대한 다양한 지식을 자연스럽게 배울 수 있습니다. 더보기 원문주소 : https://sarak.yes24.com/review/22207718 《법의학자 유성호의 인체 탐구 프로젝트 1》은 우리 몸의 구조와 기능을 쉽고 흥미롭게 설명해 주어 과학에 대한 호기심을 키워 주는 책입니다. 실제 사례와 재미있는 그림이 함께 담겨 있어 이해하기 쉽고, 인체에 대한 다양한 지식을 자연스럽게 배울 수 있습니다. 이 리뷰가 도움이 되었나요? 공감0 댓글 0 접어보기"
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "《법의학자 유성호의 인체 탐구 프로젝트 1》은 우리 몸의 구조와 기능을 쉽고 흥미롭게 설명해 주어 과학에 대한 호기심을 키워 주는 책입니다. 실제 사례와 재미있는 그림이 함께 담겨 있어 이해하기 쉽고, 인체에 대한 다양한 지식을 자연스럽게 배울 수 있습니다. 더보기"
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "원문주소 : https://sarak.yes24.com/review/22207718 《법의학자 유성호의 인체 탐구 프로젝트 1》은 우리 몸의 구조와 기능을 쉽고 흥미롭게 설명해 주어 과학에 대한 호기심을 키워 주는 책입니다. 실제 사례와 재미있는 그림이 함께 담겨 있어 이해하기 쉽고, 인체에 대한 다양한 지식을 자연스럽게 배울 수 있습니다."
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "원문주소 : https://sarak.yes24.com/review/22207718"
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "《법의학자 유성호의 인체 탐구 프로젝트 1》은 우리 몸의 구조와 기능을 쉽고 흥미롭게 설명해 주어 과학에 대한 호기심을 키워 주는 책입니다. 실제 사례와 재미있는 그림이 함께 담겨 있어 이해하기 쉽고, 인체에 대한 다양한 지식을 자연스럽게 배울 수 있습니다."
-        }
-      ]
-    },
+    "yes24Error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
     "aladin": {
       "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=388782020",
       "itemId": "388782020",
@@ -2332,11 +2248,11 @@
       "reviewCount": 32,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x560d2001de3a <unknown>\n#1 0x560d1f947e69 <unknown>\n#2 0x560d1f94b814 <unknown>\n#3 0x560d1f9e949b <unknown>\n#4 0x560d1f9e87af <unknown>\n#5 0x560d1f991748 <unknown>\n#6 0x560d1f992511 <unknown>\n#7 0x560d1ffe03c5 <unknown>\n#8 0x560d1ffdebd5 <unknown>\n#9 0x560d1ffc9c55 <unknown>\n#10 0x560d1ffdf82a <unknown>\n#11 0x560d1ffb2329 <unknown>\n#12 0x560d20008248 <unknown>\n#13 0x560d200083e5 <unknown>\n#14 0x560d2001c783 <unknown>\n#15 0x7fbd8049cb84 <unknown>\n#16 0x7fbd80529ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x55f5f533be3a <unknown>\n#1 0x55f5f4c65e69 <unknown>\n#2 0x55f5f4c69814 <unknown>\n#3 0x55f5f4d0749b <unknown>\n#4 0x55f5f4d067af <unknown>\n#5 0x55f5f4caf748 <unknown>\n#6 0x55f5f4cb0511 <unknown>\n#7 0x55f5f52fe3c5 <unknown>\n#8 0x55f5f52fcbd5 <unknown>\n#9 0x55f5f52e7c55 <unknown>\n#10 0x55f5f52fd82a <unknown>\n#11 0x55f5f52d0329 <unknown>\n#12 0x55f5f5326248 <unknown>\n#13 0x55f5f53263e5 <unknown>\n#14 0x55f5f533a783 <unknown>\n#15 0x7f3a08a9cb84 <unknown>\n#16 0x7f3a08b29ecc <unknown>\n"
     }
   },
   "human-body-2": {
-    "t": "2026-10-02T04:23:57+09:00",
+    "t": "2026-10-02T05:24:01+09:00",
     "book": "human-body-2",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 2",
     "isbn": "9791173578632",
@@ -2570,49 +2486,7 @@
         }
       ]
     },
-    "yes24": {
-      "id": "194203560",
-      "url": "https://www.yes24.com/product/goods/194203560",
-      "cover": "https://image.yes24.com/goods/194203560/XL",
-      "overallRank": null,
-      "childrenRank": 827,
-      "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 5694,
-      "reviewCount": 66,
-      "reviewScore": 10.0,
-      "reviews": [
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "처음 이전 1 2 3 4 5 6 7 8 9 10 다음 끝 최근순 | 추천순 | 별점순"
-        },
-        {
-          "author": "yes24 회원",
-          "date": "2026-08-20",
-          "score": null,
-          "content": "종이책 집중하여 완독할 정도로 반응이 매우 좋았습니다! ※ 본 서평은 출판사로부터 도서를 제공받아 직접 읽고 솔직하게 작성한 후기입니다.어렵고 딱딱하게 느껴지기 쉬운 물리학을 초등학교 아이 눈높이에 맞춰 유쾌하게 풀어낸 물리박사 김상욱의 수상한 연구실 0을 읽어봤어요 평소 과학에 관심은 있지만 물리는 진입장벽이 높다고 생각했던 초등학교 2학년 아이였는데, 책을 펼치자마자 집중하여 완독할 정도로 반응... 더보기 원문주소 : https://sarak.yes24.com/review/22357872 ※ 본 서평은 출판사로부터 도서를 제공받아 직접 읽고 솔직하게 작성한 후기입니다. 어렵고 딱딱하게 느껴지기 쉬운 물리학을 초등학교 아이 눈높이에 맞춰 유쾌하게 풀어낸 물리박사 김상욱의 수상한 연구실 0을 읽어봤어요 평소 과학에 관심은 있지만 물리는 진입장벽이 높다고 생각했던 초등학교 2학년 아이였는데, 책을 펼치자마자 집중하여 완독할 정도로 반응이 매우 좋았습니다!! 어려운 물리 공식을 무작정 외우게 하는 방식이 아니라, 다정한 김상욱 교수님의 캐릭터와 함께 흥미진진한 사건을 해결해 나가는 스토리 중심의 구성이 큰 장점인거같아요 눈에 보이지 않는 세계와 세상의 작동 원리 같은 기초 물리 개념을 일상 속 질문들과 연결하여 자연스럽게 이해할 수 있도록 도와주네요 특히 엉뚱하면서도 유쾌한 연출과 깔끔한 일러스트 덕분에 아이가 지루할 틈 없이 읽어 내려갔어요 만화 본문 사이사이에 수록된 정보 페이지 역시 핵심 개념을 직관적으로 정리해 주고 있어, 재미와 알찬 정보라는 두 마리 토끼를 모두 잡았어요!! 책을 읽은 후 주변 현상을 보며 과학적인 질문을 던지고 스스로 원리를 생각해보는 모습을 보며, 물리에 대한 친근감과 탐구심을 제대로 길러주었다는 생각이 드네요 과학 도서를 어려워하는 아이들에게 물리적 사고력의 첫 단추를 채워줄 최고의 마중물 같은 책인거같아 과학적 호기심을 넓혀주고 싶은 초등 저학년 및 중학년 어린이들에게 적극 추천합니다! 이 리뷰가 도움이 되었나요? 공감0 댓글 "
-        },
-        {
-          "author": "yes24 회원",
-          "date": "2026-08-20",
-          "score": null,
-          "content": "종이책 집중하여 완독할 정도로 반응이 매우 좋았습니다!"
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "※ 본 서평은 출판사로부터 도서를 제공받아 직접 읽고 솔직하게 작성한 후기입니다.어렵고 딱딱하게 느껴지기 쉬운 물리학을 초등학교 아이 눈높이에 맞춰 유쾌하게 풀어낸 물리박사 김상욱의 수상한 연구실 0을 읽어봤어요 평소 과학에 관심은 있지만 물리는 진입장벽이 높다고 생각했던 초등학교 2학년 아이였는데, 책을 펼치자마자 집중하여 완독할 정도로 반응... 더보기"
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "원문주소 : https://sarak.yes24.com/review/22357872 ※ 본 서평은 출판사로부터 도서를 제공받아 직접 읽고 솔직하게 작성한 후기입니다. 어렵고 딱딱하게 느껴지기 쉬운 물리학을 초등학교 아이 눈높이에 맞춰 유쾌하게 풀어낸 물리박사 김상욱의 수상한 연구실 0을 읽어봤어요 평소 과학에 관심은 있지만 물리는 진입장벽이 높다고 생각했던 초등학교 2학년 아이였는데, 책을 펼치자마자 집중하여 완독할 정도로 반응이 매우 좋았습니다!! 어려운 물리 공식을 무작정 외우게 하는 방식이 아니라, 다정한 김상욱 교수님의 캐릭터와 함께 흥미진진한 사건을 해결해 나가는 스토리 중심의 구성이 큰 장점인거같아요 눈에 보이지 않는 세계와 세상의 작동 원리 같은 기초 물리 개념을 일상 속 질문들과 연결하여 자연스럽게 이해할 수 있도록 도와주네요 특히 엉뚱하면서도 유쾌한 연출과 깔끔한 일러스트 덕분에 아이가 지루할 틈 없이 읽어 내려갔어요 만화 본문 사이사이에 수록된 정보 페이지 역시 핵심 개념을 직관적으로 정리해 주고 있어, 재미와 알찬 정보라는 두 마리 토끼를 모두 잡았어요!! 책을 읽은 후 주변 현상을 보며 과학적인 질문을 던지고 스스로 원리를 생각해보는 모습을 보며, 물리에 대한 친근감과 탐구심을 제대로 길러주었다는 생각이 드네요 과학 도서를 어려워하는 아이들에게 물리적 사고력의 첫 단추를 채워줄 최고의 마중물 같은 책인거같아 과학적 호기심을 넓혀주고 싶은 초등 저학년 및 중학년 어린이들에게 적극 추천합니다!"
-        }
-      ]
-    },
+    "yes24Error": "ReadTimeout: HTTPSConnectionPool(host='www.yes24.com', port=443): Read timed out. (read timeout=25)",
     "aladin": {
       "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=398769685",
       "itemId": "398769685",
@@ -2624,11 +2498,11 @@
       "reviewCount": 35,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x560d2001de3a <unknown>\n#1 0x560d1f947e69 <unknown>\n#2 0x560d1f94b814 <unknown>\n#3 0x560d1f9e949b <unknown>\n#4 0x560d1f9e87af <unknown>\n#5 0x560d1f991748 <unknown>\n#6 0x560d1f992511 <unknown>\n#7 0x560d1ffe03c5 <unknown>\n#8 0x560d1ffdebd5 <unknown>\n#9 0x560d1ffc9c55 <unknown>\n#10 0x560d1ffdf82a <unknown>\n#11 0x560d1ffb2329 <unknown>\n#12 0x560d20008248 <unknown>\n#13 0x560d200083e5 <unknown>\n#14 0x560d2001c783 <unknown>\n#15 0x7fbd8049cb84 <unknown>\n#16 0x7fbd80529ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x55f5f533be3a <unknown>\n#1 0x55f5f4c65e69 <unknown>\n#2 0x55f5f4c69814 <unknown>\n#3 0x55f5f4d0749b <unknown>\n#4 0x55f5f4d067af <unknown>\n#5 0x55f5f4caf748 <unknown>\n#6 0x55f5f4cb0511 <unknown>\n#7 0x55f5f52fe3c5 <unknown>\n#8 0x55f5f52fcbd5 <unknown>\n#9 0x55f5f52e7c55 <unknown>\n#10 0x55f5f52fd82a <unknown>\n#11 0x55f5f52d0329 <unknown>\n#12 0x55f5f5326248 <unknown>\n#13 0x55f5f53263e5 <unknown>\n#14 0x55f5f533a783 <unknown>\n#15 0x7f3a08a9cb84 <unknown>\n#16 0x7f3a08b29ecc <unknown>\n"
     }
   },
   "yako-knowledge-1": {
-    "t": "2026-10-02T04:23:57+09:00",
+    "t": "2026-10-02T05:24:01+09:00",
     "book": "yako-knowledge-1",
     "title": "빨간내복야코 어린이 상식 1",
     "isbn": "9791171178704",
@@ -2862,49 +2736,7 @@
         }
       ]
     },
-    "yes24": {
-      "id": "136559043",
-      "url": "https://www.yes24.com/product/goods/136559043",
-      "cover": "https://image.yes24.com/goods/136559043/XL",
-      "overallRank": null,
-      "childrenRank": 1056,
-      "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 8475,
-      "reviewCount": 47,
-      "reviewScore": 10.0,
-      "reviews": [
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "처음 이전 1 2 3 4 5 6 7 8 9 10 다음 끝 최근순 | 추천순 | 별점순"
-        },
-        {
-          "author": "yes24 회원",
-          "date": "2026-09-10",
-          "score": null,
-          "content": "종이책 구매 속담공부 속담 뜻을 너무 몰라서 익히라고 구입해줬어요. 지루하게 느껴질 수 있는 필수 속담들을 야코와 친구들의 유쾌한 학습 만화와 만화 컷으로 풀어내어 아이가 깔끔하게 이해하더라고요. 단순 암기가 아니라 일상생활 속에서 속담이 어떤 상황에 쓰이는지 자연스럽게 익힐 수 있어 어휘력 향상에도 많은 도움이 됩니다. 책을 읽다 보면 귀에 익은 야코 멜로디가 절로 떠... 더보기 원문주소 : https://sarak.yes24.com/review/22400239 속담 뜻을 너무 몰라서 익히라고 구입해줬어요. 지루하게 느껴질 수 있는 필수 속담들을 야코와 친구들의 유쾌한 학습 만화와 만화 컷으로 풀어내어 아이가 깔끔하게 이해하더라고요. 단순 암기가 아니라 일상생활 속에서 속담이 어떤 상황에 쓰이는지 자연스럽게 익힐 수 있어 어휘력 향상에도 많은 도움이 됩니다. 책을 읽다 보면 귀에 익은 야코 멜로디가 절로 떠올라 공부라는 생각 없이 즐겁게 반복해서 보는 유익한 어휘 만화 책입니다. 이 리뷰가 도움이 되었나요? 공감0 댓글 0 접어보기"
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "속담 뜻을 너무 몰라서 익히라고 구입해줬어요. 지루하게 느껴질 수 있는 필수 속담들을 야코와 친구들의 유쾌한 학습 만화와 만화 컷으로 풀어내어 아이가 깔끔하게 이해하더라고요. 단순 암기가 아니라 일상생활 속에서 속담이 어떤 상황에 쓰이는지 자연스럽게 익힐 수 있어 어휘력 향상에도 많은 도움이 됩니다. 책을 읽다 보면 귀에 익은 야코 멜로디가 절로 떠... 더보기"
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "원문주소 : https://sarak.yes24.com/review/22400239 속담 뜻을 너무 몰라서 익히라고 구입해줬어요. 지루하게 느껴질 수 있는 필수 속담들을 야코와 친구들의 유쾌한 학습 만화와 만화 컷으로 풀어내어 아이가 깔끔하게 이해하더라고요. 단순 암기가 아니라 일상생활 속에서 속담이 어떤 상황에 쓰이는지 자연스럽게 익힐 수 있어 어휘력 향상에도 많은 도움이 됩니다. 책을 읽다 보면 귀에 익은 야코 멜로디가 절로 떠올라 공부라는 생각 없이 즐겁게 반복해서 보는 유익한 어휘 만화 책입니다."
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "원문주소 : https://sarak.yes24.com/review/22400239"
-        }
-      ]
-    },
+    "yes24Error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
     "aladin": {
       "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=351205337",
       "itemId": "351205337",
@@ -2916,11 +2748,11 @@
       "reviewCount": 11,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x560d2001de3a <unknown>\n#1 0x560d1f947e69 <unknown>\n#2 0x560d1f94b814 <unknown>\n#3 0x560d1f9e949b <unknown>\n#4 0x560d1f9e87af <unknown>\n#5 0x560d1f991748 <unknown>\n#6 0x560d1f992511 <unknown>\n#7 0x560d1ffe03c5 <unknown>\n#8 0x560d1ffdebd5 <unknown>\n#9 0x560d1ffc9c55 <unknown>\n#10 0x560d1ffdf82a <unknown>\n#11 0x560d1ffb2329 <unknown>\n#12 0x560d20008248 <unknown>\n#13 0x560d200083e5 <unknown>\n#14 0x560d2001c783 <unknown>\n#15 0x7fbd8049cb84 <unknown>\n#16 0x7fbd80529ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x55f5f533be3a <unknown>\n#1 0x55f5f4c65e69 <unknown>\n#2 0x55f5f4c69814 <unknown>\n#3 0x55f5f4d0749b <unknown>\n#4 0x55f5f4d067af <unknown>\n#5 0x55f5f4caf748 <unknown>\n#6 0x55f5f4cb0511 <unknown>\n#7 0x55f5f52fe3c5 <unknown>\n#8 0x55f5f52fcbd5 <unknown>\n#9 0x55f5f52e7c55 <unknown>\n#10 0x55f5f52fd82a <unknown>\n#11 0x55f5f52d0329 <unknown>\n#12 0x55f5f5326248 <unknown>\n#13 0x55f5f53263e5 <unknown>\n#14 0x55f5f533a783 <unknown>\n#15 0x7f3a08a9cb84 <unknown>\n#16 0x7f3a08b29ecc <unknown>\n"
     }
   },
   "yako-knowledge-2": {
-    "t": "2026-10-02T04:23:57+09:00",
+    "t": "2026-10-02T05:24:01+09:00",
     "book": "yako-knowledge-2",
     "title": "빨간내복야코 어린이 상식 2",
     "isbn": "9791173571749",
@@ -3154,49 +2986,7 @@
         }
       ]
     },
-    "yes24": {
-      "id": "144076825",
-      "url": "https://www.yes24.com/product/goods/144076825",
-      "cover": "https://image.yes24.com/goods/144076825/XL",
-      "overallRank": null,
-      "childrenRank": null,
-      "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 8163,
-      "reviewCount": 17,
-      "reviewScore": 9.6,
-      "reviews": [
-        {
-          "author": "yes24 회원",
-          "date": "2026-05-28",
-          "score": null,
-          "content": "종이책 구매 강력 추천합니다 빨간내복야코 사자성어편주변의 추천으로 초등 일학년 선물로 사줬는데 하루종일 이 책만 읽고 있는 모습에 뿌듯합니다.재미있게 독서하면서 많은 정보도 습득할수 있고 크고있는 초등학생 자녀들에게 큰 도음이 될만한 책인거 같습니다. 고민하지 마시고 구매하요. 강추드립니다!! 더보기 원문주소 : https://sarak.yes24.com/review/22189634 빨간내복야코 사자성어편 주변의 추천으로 초등 일학년 선물로 사줬는데 하루종일 이 책만 읽고 있는 모습에 뿌듯합니다.재미있게 독서하면서 많은 정보도 습득할수 있고 크고있는 초등학생 자녀들에게 큰 도음이 될만한 책인거 같습니다. 고민하지 마시고 구매하요. 강추드립니다!! 이 리뷰가 도움이 되었나요? 공감0 댓글 0 접어보기"
-        },
-        {
-          "author": "yes24 회원",
-          "date": "2026-05-28",
-          "score": null,
-          "content": "종이책 구매 강력 추천합니다"
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "빨간내복야코 사자성어편주변의 추천으로 초등 일학년 선물로 사줬는데 하루종일 이 책만 읽고 있는 모습에 뿌듯합니다.재미있게 독서하면서 많은 정보도 습득할수 있고 크고있는 초등학생 자녀들에게 큰 도음이 될만한 책인거 같습니다. 고민하지 마시고 구매하요. 강추드립니다!! 더보기"
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "원문주소 : https://sarak.yes24.com/review/22189634 빨간내복야코 사자성어편 주변의 추천으로 초등 일학년 선물로 사줬는데 하루종일 이 책만 읽고 있는 모습에 뿌듯합니다.재미있게 독서하면서 많은 정보도 습득할수 있고 크고있는 초등학생 자녀들에게 큰 도음이 될만한 책인거 같습니다. 고민하지 마시고 구매하요. 강추드립니다!!"
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "원문주소 : https://sarak.yes24.com/review/22189634"
-        }
-      ]
-    },
+    "yes24Error": "ReadTimeout: HTTPSConnectionPool(host='www.yes24.com', port=443): Read timed out. (read timeout=25)",
     "aladin": {
       "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=360975965",
       "itemId": "360975965",
@@ -3208,11 +2998,11 @@
       "reviewCount": 1,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x560d2001de3a <unknown>\n#1 0x560d1f947e69 <unknown>\n#2 0x560d1f94b814 <unknown>\n#3 0x560d1f9e949b <unknown>\n#4 0x560d1f9e87af <unknown>\n#5 0x560d1f991748 <unknown>\n#6 0x560d1f992511 <unknown>\n#7 0x560d1ffe03c5 <unknown>\n#8 0x560d1ffdebd5 <unknown>\n#9 0x560d1ffc9c55 <unknown>\n#10 0x560d1ffdf82a <unknown>\n#11 0x560d1ffb2329 <unknown>\n#12 0x560d20008248 <unknown>\n#13 0x560d200083e5 <unknown>\n#14 0x560d2001c783 <unknown>\n#15 0x7fbd8049cb84 <unknown>\n#16 0x7fbd80529ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x55f5f533be3a <unknown>\n#1 0x55f5f4c65e69 <unknown>\n#2 0x55f5f4c69814 <unknown>\n#3 0x55f5f4d0749b <unknown>\n#4 0x55f5f4d067af <unknown>\n#5 0x55f5f4caf748 <unknown>\n#6 0x55f5f4cb0511 <unknown>\n#7 0x55f5f52fe3c5 <unknown>\n#8 0x55f5f52fcbd5 <unknown>\n#9 0x55f5f52e7c55 <unknown>\n#10 0x55f5f52fd82a <unknown>\n#11 0x55f5f52d0329 <unknown>\n#12 0x55f5f5326248 <unknown>\n#13 0x55f5f53263e5 <unknown>\n#14 0x55f5f533a783 <unknown>\n#15 0x7f3a08a9cb84 <unknown>\n#16 0x7f3a08b29ecc <unknown>\n"
     }
   },
   "yako-knowledge-3": {
-    "t": "2026-10-02T04:23:57+09:00",
+    "t": "2026-10-02T05:24:01+09:00",
     "book": "yako-knowledge-3",
     "title": "빨간내복야코 어린이 상식 3",
     "isbn": "9791173573798",
@@ -3446,49 +3236,7 @@
         }
       ]
     },
-    "yes24": {
-      "id": "148709400",
-      "url": "https://www.yes24.com/product/goods/148709400",
-      "cover": "https://image.yes24.com/goods/148709400/XL",
-      "overallRank": null,
-      "childrenRank": null,
-      "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 8382,
-      "reviewCount": 12,
-      "reviewScore": 9.6,
-      "reviews": [
-        {
-          "author": "yes24 회원",
-          "date": "2026-09-08",
-          "score": null,
-          "content": "종이책 구매 빨간내복야코 어린이 상식 3 상식 퀴즈 3권은 야코와 친구들이 바다와 지구 곳곳을 탐험하며 자연과 환경의 신비를 유쾌하게 풀어냅니다. 플라스틱 오염이나 기후 변화 같은 꼭 필요한 생태 지식을 흥미진진한 퀴즈로 엮어내, 아이가 환경의 소중함을 스스로 깨닫고 유익한 배경지식도 함께 차곡차곡 쌓아갑니다. 더보기 3권은 야코와 친구들이 바다와 지구 곳곳을 탐험하며 자연과 환경의 신비를 유쾌하게 풀어냅니다. 플라스틱 오염이나 기후 변화 같은 꼭 필요한 생태 지식을 흥미진진한 퀴즈로 엮어내, 아이가 환경의 소중함을 스스로 깨닫고 유익한 배경지식도 함께 차곡차곡 쌓아갑니다. 이 리뷰가 도움이 되었나요? 공감0 댓글 0 접어보기"
-        },
-        {
-          "author": "yes24 회원",
-          "date": "2026-09-08",
-          "score": null,
-          "content": "종이책 구매 빨간내복야코 어린이 상식 3 상식 퀴즈"
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "3권은 야코와 친구들이 바다와 지구 곳곳을 탐험하며 자연과 환경의 신비를 유쾌하게 풀어냅니다. 플라스틱 오염이나 기후 변화 같은 꼭 필요한 생태 지식을 흥미진진한 퀴즈로 엮어내, 아이가 환경의 소중함을 스스로 깨닫고 유익한 배경지식도 함께 차곡차곡 쌓아갑니다. 더보기"
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "3권은 야코와 친구들이 바다와 지구 곳곳을 탐험하며 자연과 환경의 신비를 유쾌하게 풀어냅니다. 플라스틱 오염이나 기후 변화 같은 꼭 필요한 생태 지식을 흥미진진한 퀴즈로 엮어내, 아이가 환경의 소중함을 스스로 깨닫고 유익한 배경지식도 함께 차곡차곡 쌓아갑니다."
-        },
-        {
-          "author": "yes24 회원",
-          "date": "2026-05-28",
-          "score": null,
-          "content": "종이책 구매 강추드립니다 빨간내복야코 상식퀴즈릉 주변의 추천으로 초등 일학년 선물로 사줬는데 하루종일 이 책만 읽고 있는 모습에 뿌듯합니다.재미있게 독서하면서 많은 정보도 습득할수 있고 크고있는 초등학생 자녀들에게 큰 도음이 될만한 책인거 같습니다. 고민하지 마시고 구매하요. 강추드립니다!! 더보기 원문주소 : https://sarak.yes24.com/review/22189631 빨간내복야코 상식퀴즈릉 주변의 추천으로 초등 일학년 선물로 사줬는데 하루종일 이 책만 읽고 있는 모습에 뿌듯합니다.재미있게 독서하면서 많은 정보도 습득할수 있고 크고있는 초등학생 자녀들에게 큰 도음이 될만한 책인거 같습니다. 고민하지 마시고 구매하요. 강추드립니다!! 이 리뷰가 도움이 되었나요? 공감0 댓글 0 접어보기"
-        }
-      ]
-    },
+    "yes24Error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
     "aladin": {
       "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367518731",
       "itemId": "367518731",
@@ -3500,11 +3248,11 @@
       "reviewCount": 6,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x560d2001de3a <unknown>\n#1 0x560d1f947e69 <unknown>\n#2 0x560d1f94b814 <unknown>\n#3 0x560d1f9e949b <unknown>\n#4 0x560d1f9e87af <unknown>\n#5 0x560d1f991748 <unknown>\n#6 0x560d1f992511 <unknown>\n#7 0x560d1ffe03c5 <unknown>\n#8 0x560d1ffdebd5 <unknown>\n#9 0x560d1ffc9c55 <unknown>\n#10 0x560d1ffdf82a <unknown>\n#11 0x560d1ffb2329 <unknown>\n#12 0x560d20008248 <unknown>\n#13 0x560d200083e5 <unknown>\n#14 0x560d2001c783 <unknown>\n#15 0x7fbd8049cb84 <unknown>\n#16 0x7fbd80529ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x55f5f533be3a <unknown>\n#1 0x55f5f4c65e69 <unknown>\n#2 0x55f5f4c69814 <unknown>\n#3 0x55f5f4d0749b <unknown>\n#4 0x55f5f4d067af <unknown>\n#5 0x55f5f4caf748 <unknown>\n#6 0x55f5f4cb0511 <unknown>\n#7 0x55f5f52fe3c5 <unknown>\n#8 0x55f5f52fcbd5 <unknown>\n#9 0x55f5f52e7c55 <unknown>\n#10 0x55f5f52fd82a <unknown>\n#11 0x55f5f52d0329 <unknown>\n#12 0x55f5f5326248 <unknown>\n#13 0x55f5f53263e5 <unknown>\n#14 0x55f5f533a783 <unknown>\n#15 0x7f3a08a9cb84 <unknown>\n#16 0x7f3a08b29ecc <unknown>\n"
     }
   },
   "yako-knowledge-4": {
-    "t": "2026-10-02T04:23:57+09:00",
+    "t": "2026-10-02T05:24:01+09:00",
     "book": "yako-knowledge-4",
     "title": "빨간내복야코 어린이 상식 4",
     "isbn": "9791173574412",
@@ -3738,49 +3486,7 @@
         }
       ]
     },
-    "yes24": {
-      "id": "163002362",
-      "url": "https://www.yes24.com/product/goods/163002362",
-      "cover": "https://image.yes24.com/goods/163002362/XL",
-      "overallRank": null,
-      "childrenRank": 863,
-      "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 11823,
-      "reviewCount": 8,
-      "reviewScore": 10.0,
-      "reviews": [
-        {
-          "author": "yes24 회원",
-          "date": "2026-09-29",
-          "score": null,
-          "content": "종이책 구매 빨간내복야코 어린이 상식 4 세계 상식 야코와 친구들의 유쾌한 세계 여행을 통해 다채로운 문화와 필수 세계 상식을 쉽고 재미있게 익힐 수 있는 4권입니다. 국가별 이색적인 특징과 역사, 지리를 야코 특유의 톡톡 튀는 만화와 위트 있는 설명으로 풀어내어 흥미진진하게 빠져들게 만들더라고요. 복잡한 세계 상식을 어린이의 눈높이에 맞춰 부담 없이 전달하고, 시야를 넓혀주는 똑똑한 교양 학습 만화... 더보기 원문주소 : https://sarak.yes24.com/review/22447109 야코와 친구들의 유쾌한 세계 여행을 통해 다채로운 문화와 필수 세계 상식을 쉽고 재미있게 익힐 수 있는 4권입니다. 국가별 이색적인 특징과 역사, 지리를 야코 특유의 톡톡 튀는 만화와 위트 있는 설명으로 풀어내어 흥미진진하게 빠져들게 만들더라고요. 복잡한 세계 상식을 어린이의 눈높이에 맞춰 부담 없이 전달하고, 시야를 넓혀주는 똑똑한 교양 학습 만화입니다. 이 리뷰가 도움이 되었나요? 공감0 댓글 0 접어보기"
-        },
-        {
-          "author": "yes24 회원",
-          "date": "2026-09-29",
-          "score": null,
-          "content": "종이책 구매 빨간내복야코 어린이 상식 4 세계 상식"
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "야코와 친구들의 유쾌한 세계 여행을 통해 다채로운 문화와 필수 세계 상식을 쉽고 재미있게 익힐 수 있는 4권입니다. 국가별 이색적인 특징과 역사, 지리를 야코 특유의 톡톡 튀는 만화와 위트 있는 설명으로 풀어내어 흥미진진하게 빠져들게 만들더라고요. 복잡한 세계 상식을 어린이의 눈높이에 맞춰 부담 없이 전달하고, 시야를 넓혀주는 똑똑한 교양 학습 만화... 더보기"
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "원문주소 : https://sarak.yes24.com/review/22447109 야코와 친구들의 유쾌한 세계 여행을 통해 다채로운 문화와 필수 세계 상식을 쉽고 재미있게 익힐 수 있는 4권입니다. 국가별 이색적인 특징과 역사, 지리를 야코 특유의 톡톡 튀는 만화와 위트 있는 설명으로 풀어내어 흥미진진하게 빠져들게 만들더라고요. 복잡한 세계 상식을 어린이의 눈높이에 맞춰 부담 없이 전달하고, 시야를 넓혀주는 똑똑한 교양 학습 만화입니다."
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "원문주소 : https://sarak.yes24.com/review/22447109"
-        }
-      ]
-    },
+    "yes24Error": "ReadTimeout: HTTPSConnectionPool(host='www.yes24.com', port=443): Read timed out. (read timeout=25)",
     "aladin": {
       "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=375958389",
       "itemId": "375958389",
@@ -3792,11 +3498,11 @@
       "reviewCount": 0,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x560d2001de3a <unknown>\n#1 0x560d1f947e69 <unknown>\n#2 0x560d1f94b814 <unknown>\n#3 0x560d1f9e949b <unknown>\n#4 0x560d1f9e87af <unknown>\n#5 0x560d1f991748 <unknown>\n#6 0x560d1f992511 <unknown>\n#7 0x560d1ffe03c5 <unknown>\n#8 0x560d1ffdebd5 <unknown>\n#9 0x560d1ffc9c55 <unknown>\n#10 0x560d1ffdf82a <unknown>\n#11 0x560d1ffb2329 <unknown>\n#12 0x560d20008248 <unknown>\n#13 0x560d200083e5 <unknown>\n#14 0x560d2001c783 <unknown>\n#15 0x7fbd8049cb84 <unknown>\n#16 0x7fbd80529ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x55f5f533be3a <unknown>\n#1 0x55f5f4c65e69 <unknown>\n#2 0x55f5f4c69814 <unknown>\n#3 0x55f5f4d0749b <unknown>\n#4 0x55f5f4d067af <unknown>\n#5 0x55f5f4caf748 <unknown>\n#6 0x55f5f4cb0511 <unknown>\n#7 0x55f5f52fe3c5 <unknown>\n#8 0x55f5f52fcbd5 <unknown>\n#9 0x55f5f52e7c55 <unknown>\n#10 0x55f5f52fd82a <unknown>\n#11 0x55f5f52d0329 <unknown>\n#12 0x55f5f5326248 <unknown>\n#13 0x55f5f53263e5 <unknown>\n#14 0x55f5f533a783 <unknown>\n#15 0x7f3a08a9cb84 <unknown>\n#16 0x7f3a08b29ecc <unknown>\n"
     }
   },
   "yako-knowledge-5": {
-    "t": "2026-10-02T04:23:57+09:00",
+    "t": "2026-10-02T05:24:01+09:00",
     "book": "yako-knowledge-5",
     "title": "빨간내복야코 어린이 상식 5",
     "isbn": "9791173577598",
@@ -4030,49 +3736,7 @@
         }
       ]
     },
-    "yes24": {
-      "id": "177507219",
-      "url": "https://www.yes24.com/product/goods/177507219",
-      "cover": "https://image.yes24.com/goods/177507219/XL",
-      "overallRank": null,
-      "childrenRank": null,
-      "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 6843,
-      "reviewCount": 21,
-      "reviewScore": 10.0,
-      "reviews": [
-        {
-          "author": "yes24 회원",
-          "date": "2026-09-29",
-          "score": null,
-          "content": "종이책 구매 빨간내복야코 어린이 상식 5 감정 어휘 다양하고 복잡한 마음의 결을 야코와 친구들의 유쾌한 일상 소동극으로 쉽고 재미있게 풀어낸 5권입니다. 단순히 단어의 뜻을 외우는 것에 그치지 않고, 상황별 감정 변화를 다채로운 감정 어휘로 표현할 수 있도록 자연스럽게 이끌어주더라고요. 아이들이 자신의 마음을 올바르게 이해하고 표현하는 법을 배우며, 풍부한 어휘력과 감성 표현력을 동시에 키워주는 유... 더보기 원문주소 : https://sarak.yes24.com/review/22447119 다양하고 복잡한 마음의 결을 야코와 친구들의 유쾌한 일상 소동극으로 쉽고 재미있게 풀어낸 5권입니다. 단순히 단어의 뜻을 외우는 것에 그치지 않고, 상황별 감정 변화를 다채로운 감정 어휘로 표현할 수 있도록 자연스럽게 이끌어주더라고요. 아이들이 자신의 마음을 올바르게 이해하고 표현하는 법을 배우며, 풍부한 어휘력과 감성 표현력을 동시에 키워주는 유익한 학습 만화입니다. 이 리뷰가 도움이 되었나요? 공감0 댓글 0 접어보기"
-        },
-        {
-          "author": "yes24 회원",
-          "date": "2026-09-29",
-          "score": null,
-          "content": "종이책 구매 빨간내복야코 어린이 상식 5 감정 어휘"
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "다양하고 복잡한 마음의 결을 야코와 친구들의 유쾌한 일상 소동극으로 쉽고 재미있게 풀어낸 5권입니다. 단순히 단어의 뜻을 외우는 것에 그치지 않고, 상황별 감정 변화를 다채로운 감정 어휘로 표현할 수 있도록 자연스럽게 이끌어주더라고요. 아이들이 자신의 마음을 올바르게 이해하고 표현하는 법을 배우며, 풍부한 어휘력과 감성 표현력을 동시에 키워주는 유... 더보기"
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "원문주소 : https://sarak.yes24.com/review/22447119 다양하고 복잡한 마음의 결을 야코와 친구들의 유쾌한 일상 소동극으로 쉽고 재미있게 풀어낸 5권입니다. 단순히 단어의 뜻을 외우는 것에 그치지 않고, 상황별 감정 변화를 다채로운 감정 어휘로 표현할 수 있도록 자연스럽게 이끌어주더라고요. 아이들이 자신의 마음을 올바르게 이해하고 표현하는 법을 배우며, 풍부한 어휘력과 감성 표현력을 동시에 키워주는 유익한 학습 만화입니다."
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "원문주소 : https://sarak.yes24.com/review/22447119"
-        }
-      ]
-    },
+    "yes24Error": "ReadTimeout: HTTPSConnectionPool(host='www.yes24.com', port=443): Read timed out. (read timeout=25)",
     "aladin": {
       "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=385788090",
       "itemId": "385788090",
@@ -4084,11 +3748,11 @@
       "reviewCount": 12,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x560d2001de3a <unknown>\n#1 0x560d1f947e69 <unknown>\n#2 0x560d1f94b814 <unknown>\n#3 0x560d1f9e949b <unknown>\n#4 0x560d1f9e87af <unknown>\n#5 0x560d1f991748 <unknown>\n#6 0x560d1f992511 <unknown>\n#7 0x560d1ffe03c5 <unknown>\n#8 0x560d1ffdebd5 <unknown>\n#9 0x560d1ffc9c55 <unknown>\n#10 0x560d1ffdf82a <unknown>\n#11 0x560d1ffb2329 <unknown>\n#12 0x560d20008248 <unknown>\n#13 0x560d200083e5 <unknown>\n#14 0x560d2001c783 <unknown>\n#15 0x7fbd8049cb84 <unknown>\n#16 0x7fbd80529ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x55f5f533be3a <unknown>\n#1 0x55f5f4c65e69 <unknown>\n#2 0x55f5f4c69814 <unknown>\n#3 0x55f5f4d0749b <unknown>\n#4 0x55f5f4d067af <unknown>\n#5 0x55f5f4caf748 <unknown>\n#6 0x55f5f4cb0511 <unknown>\n#7 0x55f5f52fe3c5 <unknown>\n#8 0x55f5f52fcbd5 <unknown>\n#9 0x55f5f52e7c55 <unknown>\n#10 0x55f5f52fd82a <unknown>\n#11 0x55f5f52d0329 <unknown>\n#12 0x55f5f5326248 <unknown>\n#13 0x55f5f53263e5 <unknown>\n#14 0x55f5f533a783 <unknown>\n#15 0x7f3a08a9cb84 <unknown>\n#16 0x7f3a08b29ecc <unknown>\n"
     }
   },
   "yako-knowledge-6": {
-    "t": "2026-10-02T04:23:57+09:00",
+    "t": "2026-10-02T05:24:01+09:00",
     "book": "yako-knowledge-6",
     "title": "빨간내복야코 어린이 상식 6",
     "isbn": "9791173579073",
@@ -4322,49 +3986,7 @@
         }
       ]
     },
-    "yes24": {
-      "id": "192491768",
-      "url": "https://www.yes24.com/product/goods/192491768",
-      "cover": "https://image.yes24.com/goods/192491768/XL",
-      "overallRank": null,
-      "childrenRank": 833,
-      "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 4428,
-      "reviewCount": 57,
-      "reviewScore": 10.0,
-      "reviews": [
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "처음 이전 1 2 3 4 5 6 7 8 9 10 다음 끝 최근순 | 추천순 | 별점순"
-        },
-        {
-          "author": "yes24 회원",
-          "date": "2026-09-29",
-          "score": null,
-          "content": "종이책 구매 빨간내복야코 어린이 상식 6 문화 상식 유튜브 인기 캐릭터 야코와 친구들이 펼치는 코믹한 일상을 통해 세계와 한국의 다채로운문화를 자연스럽게 배워가는 어린이 교양 만화 6권입니다. 자칫 어렵거나 지루하게 느낄 수 있는 전통, 풍습, 예술 등 다양한 문화 상식을 야코 특유의 중독성 있는 유머와 B급 감성 스토리 속에 녹여내어 책에서 눈을 떼지 못하게 만들더라고요. 재미있는 만화를 즐기다 보면... 더보기 원문주소 : https://sarak.yes24.com/review/22447545 유튜브 인기 캐릭터 야코와 친구들이 펼치는 코믹한 일상을 통해 세계와 한국의 다채로운문화를 자연스럽게 배워가는 어린이 교양 만화 6권입니다. 자칫 어렵거나 지루하게 느낄 수 있는 전통, 풍습, 예술 등 다양한 문화 상식을 야코 특유의 중독성 있는 유머와 B급 감성 스토리 속에 녹여내어 책에서 눈을 떼지 못하게 만들더라고요. 재미있는 만화를 즐기다 보면 스스로 교양과 상식을 쌓게 되는, 웃음과 정보가 완벽히 결합된 유익하고 매력적인 학습 도서입니다. 이 리뷰가 도움이 되었나요? 공감0 댓글 0 접어보기"
-        },
-        {
-          "author": "yes24 회원",
-          "date": "2026-09-29",
-          "score": null,
-          "content": "종이책 구매 빨간내복야코 어린이 상식 6 문화 상식"
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "유튜브 인기 캐릭터 야코와 친구들이 펼치는 코믹한 일상을 통해 세계와 한국의 다채로운문화를 자연스럽게 배워가는 어린이 교양 만화 6권입니다. 자칫 어렵거나 지루하게 느낄 수 있는 전통, 풍습, 예술 등 다양한 문화 상식을 야코 특유의 중독성 있는 유머와 B급 감성 스토리 속에 녹여내어 책에서 눈을 떼지 못하게 만들더라고요. 재미있는 만화를 즐기다 보면... 더보기"
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "원문주소 : https://sarak.yes24.com/review/22447545 유튜브 인기 캐릭터 야코와 친구들이 펼치는 코믹한 일상을 통해 세계와 한국의 다채로운문화를 자연스럽게 배워가는 어린이 교양 만화 6권입니다. 자칫 어렵거나 지루하게 느낄 수 있는 전통, 풍습, 예술 등 다양한 문화 상식을 야코 특유의 중독성 있는 유머와 B급 감성 스토리 속에 녹여내어 책에서 눈을 떼지 못하게 만들더라고요. 재미있는 만화를 즐기다 보면 스스로 교양과 상식을 쌓게 되는, 웃음과 정보가 완벽히 결합된 유익하고 매력적인 학습 도서입니다."
-        }
-      ]
-    },
+    "yes24Error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
     "aladin": {
       "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=396456287",
       "itemId": "396456287",
@@ -4376,7 +3998,7 @@
       "reviewCount": 23,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x560d2001de3a <unknown>\n#1 0x560d1f947e69 <unknown>\n#2 0x560d1f94b814 <unknown>\n#3 0x560d1f9e949b <unknown>\n#4 0x560d1f9e87af <unknown>\n#5 0x560d1f991748 <unknown>\n#6 0x560d1f992511 <unknown>\n#7 0x560d1ffe03c5 <unknown>\n#8 0x560d1ffdebd5 <unknown>\n#9 0x560d1ffc9c55 <unknown>\n#10 0x560d1ffdf82a <unknown>\n#11 0x560d1ffb2329 <unknown>\n#12 0x560d20008248 <unknown>\n#13 0x560d200083e5 <unknown>\n#14 0x560d2001c783 <unknown>\n#15 0x7fbd8049cb84 <unknown>\n#16 0x7fbd80529ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.57)\nStacktrace:\n#0 0x55f5f533be3a <unknown>\n#1 0x55f5f4c65e69 <unknown>\n#2 0x55f5f4c69814 <unknown>\n#3 0x55f5f4d0749b <unknown>\n#4 0x55f5f4d067af <unknown>\n#5 0x55f5f4caf748 <unknown>\n#6 0x55f5f4cb0511 <unknown>\n#7 0x55f5f52fe3c5 <unknown>\n#8 0x55f5f52fcbd5 <unknown>\n#9 0x55f5f52e7c55 <unknown>\n#10 0x55f5f52fd82a <unknown>\n#11 0x55f5f52d0329 <unknown>\n#12 0x55f5f5326248 <unknown>\n#13 0x55f5f53263e5 <unknown>\n#14 0x55f5f533a783 <unknown>\n#15 0x7f3a08a9cb84 <unknown>\n#16 0x7f3a08b29ecc <unknown>\n"
     }
   }
 }
