@@ -1,6 +1,6 @@
 {
   "literacy-1": {
-    "t": "2026-10-02T15:28:12+09:00",
+    "t": "2026-10-02T16:23:53+09:00",
     "book": "literacy-1",
     "title": "초등 첫 문해력 신문",
     "isbn": "9791171177028",
@@ -280,7 +280,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=342972974"
   },
   "literacy-2": {
-    "t": "2026-10-02T15:28:12+09:00",
+    "t": "2026-10-02T16:23:53+09:00",
     "book": "literacy-2",
     "title": "초등 첫 문해력 신문 2",
     "isbn": "9791171179688",
@@ -480,7 +480,7 @@
         }
       ],
       "storeStockTotal": 22,
-      "onlineStock": 7,
+      "onlineStock": 8,
       "reviews": [
         {
           "author": "크기/중량\t189 * 258 * 13 mm / 613 g",
@@ -560,7 +560,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=354371289"
   },
   "literacy-3": {
-    "t": "2026-10-02T15:28:12+09:00",
+    "t": "2026-10-02T16:23:53+09:00",
     "book": "literacy-3",
     "title": "초등 첫 문해력 신문 3",
     "isbn": "9791173573767",
@@ -790,7 +790,7 @@
           "author": "정보보호관리체계",
           "date": "2023-11-15",
           "score": null,
-          "content": "ISMS 인증획득 [인증범위] 인터넷 교보문고 및 브랜드 서비스 운영 야구를 처음 접하는 이들에게 꼭 필요한 책입니다. 3 TOP 총 상품금액 17,820 원 선물하기"
+          "content": "ISMS 인증획득 [인증범위] 인터넷 교보문고 및 브랜드 서비스 운영 야구를 재미있게 이해하는 방법을 소개합니다. 3 TOP 총 상품금액 17,820 원 선물하기"
         }
       ]
     },
@@ -840,7 +840,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367920761"
   },
   "ai-literacy-newspaper": {
-    "t": "2026-10-02T15:28:12+09:00",
+    "t": "2026-10-02T16:23:53+09:00",
     "book": "ai-literacy-newspaper",
     "title": "초등 첫 AI 문해력 신문",
     "isbn": "9791176612739",
@@ -1120,7 +1120,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=401134097"
   },
   "future-science-1": {
-    "t": "2026-10-02T15:28:12+09:00",
+    "t": "2026-10-02T16:23:53+09:00",
     "book": "future-science-1",
     "title": "장동선의 미래 과학 프로젝트 1",
     "isbn": "9791173576270",
@@ -1320,7 +1320,7 @@
         }
       ],
       "storeStockTotal": 31,
-      "onlineStock": 25,
+      "onlineStock": 33,
       "reviews": [
         {
           "author": "국내도서",
@@ -1400,7 +1400,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=379190660"
   },
   "future-science-2": {
-    "t": "2026-10-02T15:28:12+09:00",
+    "t": "2026-10-02T16:23:53+09:00",
     "book": "future-science-2",
     "title": "장동선의 미래 과학 프로젝트 2",
     "isbn": "9791173576287",
@@ -1600,7 +1600,7 @@
         }
       ],
       "storeStockTotal": 35,
-      "onlineStock": 17,
+      "onlineStock": 24,
       "reviews": [
         {
           "author": "크기/중량\t160 * 218 * 13 mm / 496 g",
@@ -1680,7 +1680,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391279953"
   },
   "future-science-3": {
-    "t": "2026-10-02T15:28:12+09:00",
+    "t": "2026-10-02T16:23:53+09:00",
     "book": "future-science-3",
     "title": "장동선의 미래 과학 프로젝트 3",
     "isbn": "9791173576294",
@@ -1960,7 +1960,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=399320263"
   },
   "human-body-1": {
-    "t": "2026-10-02T15:28:12+09:00",
+    "t": "2026-10-02T16:23:53+09:00",
     "book": "human-body-1",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 1",
     "isbn": "9791173578625",
@@ -2240,7 +2240,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=388782020"
   },
   "human-body-2": {
-    "t": "2026-10-02T15:28:12+09:00",
+    "t": "2026-10-02T16:23:53+09:00",
     "book": "human-body-2",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 2",
     "isbn": "9791173578632",
@@ -2520,7 +2520,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=398769685"
   },
   "yako-knowledge-1": {
-    "t": "2026-10-02T15:28:12+09:00",
+    "t": "2026-10-02T16:23:53+09:00",
     "book": "yako-knowledge-1",
     "title": "빨간내복야코 어린이 상식 1",
     "isbn": "9791171178704",
@@ -2705,7 +2705,7 @@
         },
         {
           "name": "천안",
-          "stock": 1,
+          "stock": 0,
           "address": "충청남도 천안시 동남구 만남로 43, 신세계백화점 천안아산점 B관 3층"
         },
         {
@@ -2719,7 +2719,7 @@
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
       ],
-      "storeStockTotal": 50,
+      "storeStockTotal": 49,
       "onlineStock": 2,
       "reviews": [
         {
@@ -2800,7 +2800,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=351205337"
   },
   "yako-knowledge-2": {
-    "t": "2026-10-02T15:28:12+09:00",
+    "t": "2026-10-02T16:23:53+09:00",
     "book": "yako-knowledge-2",
     "title": "빨간내복야코 어린이 상식 2",
     "isbn": "9791173571749",
@@ -3080,7 +3080,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=360975965"
   },
   "yako-knowledge-3": {
-    "t": "2026-10-02T15:28:12+09:00",
+    "t": "2026-10-02T16:23:53+09:00",
     "book": "yako-knowledge-3",
     "title": "빨간내복야코 어린이 상식 3",
     "isbn": "9791173573798",
@@ -3360,7 +3360,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367518731"
   },
   "yako-knowledge-4": {
-    "t": "2026-10-02T15:28:12+09:00",
+    "t": "2026-10-02T16:23:53+09:00",
     "book": "yako-knowledge-4",
     "title": "빨간내복야코 어린이 상식 4",
     "isbn": "9791173574412",
@@ -3505,7 +3505,7 @@
         },
         {
           "name": "대구",
-          "stock": 2,
+          "stock": 1,
           "address": "대구광역시 중구 국채보상로 586, 교보생명빌딩 지하 1층 ~ 지상 2층"
         },
         {
@@ -3559,7 +3559,7 @@
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
       ],
-      "storeStockTotal": 98,
+      "storeStockTotal": 97,
       "onlineStock": 34,
       "reviews": [
         {
@@ -3640,7 +3640,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=375958389"
   },
   "yako-knowledge-5": {
-    "t": "2026-10-02T15:28:12+09:00",
+    "t": "2026-10-02T16:23:53+09:00",
     "book": "yako-knowledge-5",
     "title": "빨간내복야코 어린이 상식 5",
     "isbn": "9791173577598",
@@ -3920,7 +3920,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=385788090"
   },
   "yako-knowledge-6": {
-    "t": "2026-10-02T15:28:12+09:00",
+    "t": "2026-10-02T16:23:53+09:00",
     "book": "yako-knowledge-6",
     "title": "빨간내복야코 어린이 상식 6",
     "isbn": "9791173579073",
