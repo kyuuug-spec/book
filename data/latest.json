@@ -1,6 +1,6 @@
 {
   "literacy-1": {
-    "t": "2026-10-07T14:23:24+09:00",
+    "t": "2026-10-07T15:28:11+09:00",
     "book": "literacy-1",
     "title": "초등 첫 문해력 신문",
     "isbn": "9791171177028",
@@ -280,7 +280,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=342972974"
   },
   "literacy-2": {
-    "t": "2026-10-07T14:23:24+09:00",
+    "t": "2026-10-07T15:28:11+09:00",
     "book": "literacy-2",
     "title": "초등 첫 문해력 신문 2",
     "isbn": "9791171179688",
@@ -560,7 +560,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=354371289"
   },
   "literacy-3": {
-    "t": "2026-10-07T14:23:24+09:00",
+    "t": "2026-10-07T15:28:11+09:00",
     "book": "literacy-3",
     "title": "초등 첫 문해력 신문 3",
     "isbn": "9791173573767",
@@ -790,7 +790,7 @@
           "author": "정보보호관리체계",
           "date": "2023-11-15",
           "score": null,
-          "content": "ISMS 인증획득 [인증범위] 인터넷 교보문고 및 브랜드 서비스 운영 교과와 연결된 재미있는 예술 이야기를 담고 있습니다 3 TOP 총 상품금액 17,820 원 선물하기"
+          "content": "ISMS 인증획득 [인증범위] 인터넷 교보문고 및 브랜드 서비스 운영 다양한 질문으로 사고력을 기릅니다 3 TOP 총 상품금액 17,820 원 선물하기 바로드림"
         }
       ]
     },
@@ -840,7 +840,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367920761"
   },
   "ai-literacy-newspaper": {
-    "t": "2026-10-07T14:23:24+09:00",
+    "t": "2026-10-07T15:28:11+09:00",
     "book": "ai-literacy-newspaper",
     "title": "초등 첫 AI 문해력 신문",
     "isbn": "9791176612739",
@@ -1102,7 +1102,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=401134097"
   },
   "future-science-1": {
-    "t": "2026-10-07T14:23:24+09:00",
+    "t": "2026-10-07T15:28:11+09:00",
     "book": "future-science-1",
     "title": "장동선의 미래 과학 프로젝트 1",
     "isbn": "9791173576270",
@@ -1382,7 +1382,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=379190660"
   },
   "future-science-2": {
-    "t": "2026-10-07T14:23:24+09:00",
+    "t": "2026-10-07T15:28:11+09:00",
     "book": "future-science-2",
     "title": "장동선의 미래 과학 프로젝트 2",
     "isbn": "9791173576287",
@@ -1662,7 +1662,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391279953"
   },
   "future-science-3": {
-    "t": "2026-10-07T14:23:24+09:00",
+    "t": "2026-10-07T15:28:11+09:00",
     "book": "future-science-3",
     "title": "장동선의 미래 과학 프로젝트 3",
     "isbn": "9791173576294",
@@ -1942,7 +1942,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=399320263"
   },
   "human-body-1": {
-    "t": "2026-10-07T14:23:24+09:00",
+    "t": "2026-10-07T15:28:11+09:00",
     "book": "human-body-1",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 1",
     "isbn": "9791173578625",
@@ -2222,7 +2222,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=388782020"
   },
   "human-body-2": {
-    "t": "2026-10-07T14:23:24+09:00",
+    "t": "2026-10-07T15:28:11+09:00",
     "book": "human-body-2",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 2",
     "isbn": "9791173578632",
@@ -2502,7 +2502,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=398769685"
   },
   "yako-knowledge-1": {
-    "t": "2026-10-07T14:23:24+09:00",
+    "t": "2026-10-07T15:28:11+09:00",
     "book": "yako-knowledge-1",
     "title": "빨간내복야코 어린이 상식 1",
     "isbn": "9791171178704",
@@ -2627,7 +2627,7 @@
         },
         {
           "name": "평촌",
-          "stock": 0,
+          "stock": 1,
           "address": "경기도 안양시 동안구 시민대로 180, 롯데백화점 평촌점 6층"
         },
         {
@@ -2701,7 +2701,7 @@
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
       ],
-      "storeStockTotal": 48,
+      "storeStockTotal": 49,
       "onlineStock": 21,
       "reviews": [
         {
@@ -2782,7 +2782,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=351205337"
   },
   "yako-knowledge-2": {
-    "t": "2026-10-07T14:23:24+09:00",
+    "t": "2026-10-07T15:28:11+09:00",
     "book": "yako-knowledge-2",
     "title": "빨간내복야코 어린이 상식 2",
     "isbn": "9791173571749",
@@ -3062,7 +3062,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=360975965"
   },
   "yako-knowledge-3": {
-    "t": "2026-10-07T14:23:24+09:00",
+    "t": "2026-10-07T15:28:11+09:00",
     "book": "yako-knowledge-3",
     "title": "빨간내복야코 어린이 상식 3",
     "isbn": "9791173573798",
@@ -3342,7 +3342,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367518731"
   },
   "yako-knowledge-4": {
-    "t": "2026-10-07T14:23:24+09:00",
+    "t": "2026-10-07T15:28:11+09:00",
     "book": "yako-knowledge-4",
     "title": "빨간내복야코 어린이 상식 4",
     "isbn": "9791173574412",
@@ -3622,7 +3622,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=375958389"
   },
   "yako-knowledge-5": {
-    "t": "2026-10-07T14:23:24+09:00",
+    "t": "2026-10-07T15:28:11+09:00",
     "book": "yako-knowledge-5",
     "title": "빨간내복야코 어린이 상식 5",
     "isbn": "9791173577598",
@@ -3902,7 +3902,7 @@
     "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=385788090"
   },
   "yako-knowledge-6": {
-    "t": "2026-10-07T14:23:24+09:00",
+    "t": "2026-10-07T15:28:11+09:00",
     "book": "yako-knowledge-6",
     "title": "빨간내복야코 어린이 상식 6",
     "isbn": "9791173579073",
@@ -3987,7 +3987,7 @@
         },
         {
           "name": "청량리",
-          "stock": 9,
+          "stock": 10,
           "address": "서울특별시 동대문구 왕산로 214, 롯데백화점 청량리점 지하 1층"
         },
         {
@@ -4062,7 +4062,7 @@
         },
         {
           "name": "세종",
-          "stock": 1,
+          "stock": 6,
           "address": "세종특별자치시 한누리대로 411, AK& 3층"
         },
         {
@@ -4101,8 +4101,8 @@
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
       ],
-      "storeStockTotal": 174,
-      "onlineStock": 51,
+      "storeStockTotal": 180,
+      "onlineStock": 50,
       "reviews": [
         {
           "author": "국내도서",
