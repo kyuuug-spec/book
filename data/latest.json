@@ -1,6 +1,6 @@
 {
   "literacy-1": {
-    "t": "2026-10-08T02:27:16+09:00",
+    "t": "2026-10-08T03:27:26+09:00",
     "book": "literacy-1",
     "title": "초등 첫 문해력 신문",
     "isbn": "9791171177028",
@@ -241,7 +241,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 9219,
+      "salesIndex": 9249,
       "reviewCount": 124,
       "reviewScore": 10.0,
       "reviews": [
@@ -277,22 +277,10 @@
         }
       ]
     },
-    "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=342972974",
-      "itemId": "342972974",
-      "overallRank": null,
-      "childrenRank": null,
-      "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 3536,
-      "commentCount": 8,
-      "reviewCount": 38,
-      "reviewScore": null,
-      "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55e86fc37aaa <unknown>\n#1 0x55e86f565aa9 <unknown>\n#2 0x55e86f569474 <unknown>\n#3 0x55e86f606ecb <unknown>\n#4 0x55e86f6061df <unknown>\n#5 0x55e86f5af148 <unknown>\n#6 0x55e86f5aff11 <unknown>\n#7 0x55e86fbfa5ac <unknown>\n#8 0x55e86fbf8dc5 <unknown>\n#9 0x55e86fbe3e95 <unknown>\n#10 0x55e86fbf9a1a <unknown>\n#11 0x55e86fbcc5c9 <unknown>\n#12 0x55e86fc220f8 <unknown>\n#13 0x55e86fc22295 <unknown>\n#14 0x55e86fc363f3 <unknown>\n#15 0x7f0fc429cb84 <unknown>\n#16 0x7f0fc4329ecc <unknown>\n"
-    }
+    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=342972974"
   },
   "literacy-2": {
-    "t": "2026-10-08T02:27:16+09:00",
+    "t": "2026-10-08T03:27:26+09:00",
     "book": "literacy-2",
     "title": "초등 첫 문해력 신문 2",
     "isbn": "9791171179688",
@@ -569,22 +557,10 @@
         }
       ]
     },
-    "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=354371289",
-      "itemId": "354371289",
-      "overallRank": null,
-      "childrenRank": null,
-      "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 638,
-      "commentCount": 10,
-      "reviewCount": 7,
-      "reviewScore": null,
-      "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55e86fc37aaa <unknown>\n#1 0x55e86f565aa9 <unknown>\n#2 0x55e86f569474 <unknown>\n#3 0x55e86f606ecb <unknown>\n#4 0x55e86f6061df <unknown>\n#5 0x55e86f5af148 <unknown>\n#6 0x55e86f5aff11 <unknown>\n#7 0x55e86fbfa5ac <unknown>\n#8 0x55e86fbf8dc5 <unknown>\n#9 0x55e86fbe3e95 <unknown>\n#10 0x55e86fbf9a1a <unknown>\n#11 0x55e86fbcc5c9 <unknown>\n#12 0x55e86fc220f8 <unknown>\n#13 0x55e86fc22295 <unknown>\n#14 0x55e86fc363f3 <unknown>\n#15 0x7f0fc429cb84 <unknown>\n#16 0x7f0fc4329ecc <unknown>\n"
-    }
+    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=354371289"
   },
   "literacy-3": {
-    "t": "2026-10-08T02:27:16+09:00",
+    "t": "2026-10-08T03:27:26+09:00",
     "book": "literacy-3",
     "title": "초등 첫 문해력 신문 3",
     "isbn": "9791173573767",
@@ -814,7 +790,7 @@
           "author": "정보보호관리체계",
           "date": "2023-11-15",
           "score": null,
-          "content": "ISMS 인증획득 [인증범위] 인터넷 교보문고 및 브랜드 서비스 운영 성취를 향한 도전의 아이콘입니다. 3 TOP 총 상품금액 17,820 원 선물하기 바로드림"
+          "content": "ISMS 인증획득 [인증범위] 인터넷 교보문고 및 브랜드 서비스 운영 어린이 독자들에게 큰 영감을 줍니다. 3 TOP 총 상품금액 17,820 원 선물하기"
         }
       ]
     },
@@ -825,7 +801,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 2826,
+      "salesIndex": 2796,
       "reviewCount": 7,
       "reviewScore": 10.0,
       "reviews": [
@@ -861,22 +837,10 @@
         }
       ]
     },
-    "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367920761",
-      "itemId": "367920761",
-      "overallRank": null,
-      "childrenRank": null,
-      "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 702,
-      "commentCount": 1,
-      "reviewCount": 4,
-      "reviewScore": null,
-      "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55e86fc37aaa <unknown>\n#1 0x55e86f565aa9 <unknown>\n#2 0x55e86f569474 <unknown>\n#3 0x55e86f606ecb <unknown>\n#4 0x55e86f6061df <unknown>\n#5 0x55e86f5af148 <unknown>\n#6 0x55e86f5aff11 <unknown>\n#7 0x55e86fbfa5ac <unknown>\n#8 0x55e86fbf8dc5 <unknown>\n#9 0x55e86fbe3e95 <unknown>\n#10 0x55e86fbf9a1a <unknown>\n#11 0x55e86fbcc5c9 <unknown>\n#12 0x55e86fc220f8 <unknown>\n#13 0x55e86fc22295 <unknown>\n#14 0x55e86fc363f3 <unknown>\n#15 0x7f0fc429cb84 <unknown>\n#16 0x7f0fc4329ecc <unknown>\n"
-    }
+    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367920761"
   },
   "ai-literacy-newspaper": {
-    "t": "2026-10-08T02:27:16+09:00",
+    "t": "2026-10-08T03:27:26+09:00",
     "book": "ai-literacy-newspaper",
     "title": "초등 첫 AI 문해력 신문",
     "isbn": "9791176612739",
@@ -1099,7 +1063,7 @@
       "overallRank": null,
       "childrenRank": 148,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 5601,
+      "salesIndex": 6249,
       "reviewCount": 68,
       "reviewScore": 10.0,
       "reviews": [
@@ -1135,22 +1099,10 @@
         }
       ]
     },
-    "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=401134097",
-      "itemId": "401134097",
-      "overallRank": null,
-      "childrenRank": 486,
-      "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 860,
-      "commentCount": 0,
-      "reviewCount": 33,
-      "reviewScore": null,
-      "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55e86fc37aaa <unknown>\n#1 0x55e86f565aa9 <unknown>\n#2 0x55e86f569474 <unknown>\n#3 0x55e86f606ecb <unknown>\n#4 0x55e86f6061df <unknown>\n#5 0x55e86f5af148 <unknown>\n#6 0x55e86f5aff11 <unknown>\n#7 0x55e86fbfa5ac <unknown>\n#8 0x55e86fbf8dc5 <unknown>\n#9 0x55e86fbe3e95 <unknown>\n#10 0x55e86fbf9a1a <unknown>\n#11 0x55e86fbcc5c9 <unknown>\n#12 0x55e86fc220f8 <unknown>\n#13 0x55e86fc22295 <unknown>\n#14 0x55e86fc363f3 <unknown>\n#15 0x7f0fc429cb84 <unknown>\n#16 0x7f0fc4329ecc <unknown>\n"
-    }
+    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=401134097"
   },
   "future-science-1": {
-    "t": "2026-10-08T02:27:16+09:00",
+    "t": "2026-10-08T03:27:26+09:00",
     "book": "future-science-1",
     "title": "장동선의 미래 과학 프로젝트 1",
     "isbn": "9791173576270",
@@ -1391,7 +1343,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 4716,
+      "salesIndex": 4776,
       "reviewCount": 25,
       "reviewScore": 10.0,
       "reviews": [
@@ -1427,22 +1379,10 @@
         }
       ]
     },
-    "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=379190660",
-      "itemId": "379190660",
-      "overallRank": null,
-      "childrenRank": null,
-      "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 1330,
-      "commentCount": 0,
-      "reviewCount": 17,
-      "reviewScore": null,
-      "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55e86fc37aaa <unknown>\n#1 0x55e86f565aa9 <unknown>\n#2 0x55e86f569474 <unknown>\n#3 0x55e86f606ecb <unknown>\n#4 0x55e86f6061df <unknown>\n#5 0x55e86f5af148 <unknown>\n#6 0x55e86f5aff11 <unknown>\n#7 0x55e86fbfa5ac <unknown>\n#8 0x55e86fbf8dc5 <unknown>\n#9 0x55e86fbe3e95 <unknown>\n#10 0x55e86fbf9a1a <unknown>\n#11 0x55e86fbcc5c9 <unknown>\n#12 0x55e86fc220f8 <unknown>\n#13 0x55e86fc22295 <unknown>\n#14 0x55e86fc363f3 <unknown>\n#15 0x7f0fc429cb84 <unknown>\n#16 0x7f0fc4329ecc <unknown>\n"
-    }
+    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=379190660"
   },
   "future-science-2": {
-    "t": "2026-10-08T02:27:16+09:00",
+    "t": "2026-10-08T03:27:26+09:00",
     "book": "future-science-2",
     "title": "장동선의 미래 과학 프로젝트 2",
     "isbn": "9791173576287",
@@ -1683,7 +1623,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 2322,
+      "salesIndex": 2382,
       "reviewCount": 49,
       "reviewScore": 10.0,
       "reviews": [
@@ -1719,22 +1659,10 @@
         }
       ]
     },
-    "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391279953",
-      "itemId": "391279953",
-      "overallRank": null,
-      "childrenRank": 1236,
-      "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 992,
-      "commentCount": 1,
-      "reviewCount": 22,
-      "reviewScore": null,
-      "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55e86fc37aaa <unknown>\n#1 0x55e86f565aa9 <unknown>\n#2 0x55e86f569474 <unknown>\n#3 0x55e86f606ecb <unknown>\n#4 0x55e86f6061df <unknown>\n#5 0x55e86f5af148 <unknown>\n#6 0x55e86f5aff11 <unknown>\n#7 0x55e86fbfa5ac <unknown>\n#8 0x55e86fbf8dc5 <unknown>\n#9 0x55e86fbe3e95 <unknown>\n#10 0x55e86fbf9a1a <unknown>\n#11 0x55e86fbcc5c9 <unknown>\n#12 0x55e86fc220f8 <unknown>\n#13 0x55e86fc22295 <unknown>\n#14 0x55e86fc363f3 <unknown>\n#15 0x7f0fc429cb84 <unknown>\n#16 0x7f0fc4329ecc <unknown>\n"
-    }
+    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391279953"
   },
   "future-science-3": {
-    "t": "2026-10-08T02:27:16+09:00",
+    "t": "2026-10-08T03:27:26+09:00",
     "book": "future-science-3",
     "title": "장동선의 미래 과학 프로젝트 3",
     "isbn": "9791173576294",
@@ -1975,7 +1903,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 1638,
+      "salesIndex": 1698,
       "reviewCount": 52,
       "reviewScore": 10.0,
       "reviews": [
@@ -2011,22 +1939,10 @@
         }
       ]
     },
-    "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=399320263",
-      "itemId": "399320263",
-      "overallRank": null,
-      "childrenRank": 1253,
-      "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 810,
-      "commentCount": 1,
-      "reviewCount": 27,
-      "reviewScore": null,
-      "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55e86fc37aaa <unknown>\n#1 0x55e86f565aa9 <unknown>\n#2 0x55e86f569474 <unknown>\n#3 0x55e86f606ecb <unknown>\n#4 0x55e86f6061df <unknown>\n#5 0x55e86f5af148 <unknown>\n#6 0x55e86f5aff11 <unknown>\n#7 0x55e86fbfa5ac <unknown>\n#8 0x55e86fbf8dc5 <unknown>\n#9 0x55e86fbe3e95 <unknown>\n#10 0x55e86fbf9a1a <unknown>\n#11 0x55e86fbcc5c9 <unknown>\n#12 0x55e86fc220f8 <unknown>\n#13 0x55e86fc22295 <unknown>\n#14 0x55e86fc363f3 <unknown>\n#15 0x7f0fc429cb84 <unknown>\n#16 0x7f0fc4329ecc <unknown>\n"
-    }
+    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=399320263"
   },
   "human-body-1": {
-    "t": "2026-10-08T02:27:16+09:00",
+    "t": "2026-10-08T03:27:26+09:00",
     "book": "human-body-1",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 1",
     "isbn": "9791173578625",
@@ -2267,7 +2183,7 @@
       "overallRank": null,
       "childrenRank": 765,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 11820,
+      "salesIndex": 11652,
       "reviewCount": 43,
       "reviewScore": 10.0,
       "reviews": [
@@ -2303,22 +2219,10 @@
         }
       ]
     },
-    "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=388782020",
-      "itemId": "388782020",
-      "overallRank": null,
-      "childrenRank": 1081,
-      "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 2525,
-      "commentCount": 1,
-      "reviewCount": 32,
-      "reviewScore": null,
-      "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55e86fc37aaa <unknown>\n#1 0x55e86f565aa9 <unknown>\n#2 0x55e86f569474 <unknown>\n#3 0x55e86f606ecb <unknown>\n#4 0x55e86f6061df <unknown>\n#5 0x55e86f5af148 <unknown>\n#6 0x55e86f5aff11 <unknown>\n#7 0x55e86fbfa5ac <unknown>\n#8 0x55e86fbf8dc5 <unknown>\n#9 0x55e86fbe3e95 <unknown>\n#10 0x55e86fbf9a1a <unknown>\n#11 0x55e86fbcc5c9 <unknown>\n#12 0x55e86fc220f8 <unknown>\n#13 0x55e86fc22295 <unknown>\n#14 0x55e86fc363f3 <unknown>\n#15 0x7f0fc429cb84 <unknown>\n#16 0x7f0fc4329ecc <unknown>\n"
-    }
+    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=388782020"
   },
   "human-body-2": {
-    "t": "2026-10-08T02:27:16+09:00",
+    "t": "2026-10-08T03:27:26+09:00",
     "book": "human-body-2",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 2",
     "isbn": "9791173578632",
@@ -2559,7 +2463,7 @@
       "overallRank": null,
       "childrenRank": 896,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 5736,
+      "salesIndex": 5508,
       "reviewCount": 66,
       "reviewScore": 10.0,
       "reviews": [
@@ -2595,22 +2499,10 @@
         }
       ]
     },
-    "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=398769685",
-      "itemId": "398769685",
-      "overallRank": null,
-      "childrenRank": null,
-      "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 1385,
-      "commentCount": 1,
-      "reviewCount": 35,
-      "reviewScore": null,
-      "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55e86fc37aaa <unknown>\n#1 0x55e86f565aa9 <unknown>\n#2 0x55e86f569474 <unknown>\n#3 0x55e86f606ecb <unknown>\n#4 0x55e86f6061df <unknown>\n#5 0x55e86f5af148 <unknown>\n#6 0x55e86f5aff11 <unknown>\n#7 0x55e86fbfa5ac <unknown>\n#8 0x55e86fbf8dc5 <unknown>\n#9 0x55e86fbe3e95 <unknown>\n#10 0x55e86fbf9a1a <unknown>\n#11 0x55e86fbcc5c9 <unknown>\n#12 0x55e86fc220f8 <unknown>\n#13 0x55e86fc22295 <unknown>\n#14 0x55e86fc363f3 <unknown>\n#15 0x7f0fc429cb84 <unknown>\n#16 0x7f0fc4329ecc <unknown>\n"
-    }
+    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=398769685"
   },
   "yako-knowledge-1": {
-    "t": "2026-10-08T02:27:16+09:00",
+    "t": "2026-10-08T03:27:26+09:00",
     "book": "yako-knowledge-1",
     "title": "빨간내복야코 어린이 상식 1",
     "isbn": "9791171178704",
@@ -2851,7 +2743,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 7980,
+      "salesIndex": 8022,
       "reviewCount": 47,
       "reviewScore": 10.0,
       "reviews": [
@@ -2887,22 +2779,10 @@
         }
       ]
     },
-    "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=351205337",
-      "itemId": "351205337",
-      "overallRank": null,
-      "childrenRank": null,
-      "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 3300,
-      "commentCount": 0,
-      "reviewCount": 11,
-      "reviewScore": null,
-      "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55e86fc37aaa <unknown>\n#1 0x55e86f565aa9 <unknown>\n#2 0x55e86f569474 <unknown>\n#3 0x55e86f606ecb <unknown>\n#4 0x55e86f6061df <unknown>\n#5 0x55e86f5af148 <unknown>\n#6 0x55e86f5aff11 <unknown>\n#7 0x55e86fbfa5ac <unknown>\n#8 0x55e86fbf8dc5 <unknown>\n#9 0x55e86fbe3e95 <unknown>\n#10 0x55e86fbf9a1a <unknown>\n#11 0x55e86fbcc5c9 <unknown>\n#12 0x55e86fc220f8 <unknown>\n#13 0x55e86fc22295 <unknown>\n#14 0x55e86fc363f3 <unknown>\n#15 0x7f0fc429cb84 <unknown>\n#16 0x7f0fc4329ecc <unknown>\n"
-    }
+    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=351205337"
   },
   "yako-knowledge-2": {
-    "t": "2026-10-08T02:27:16+09:00",
+    "t": "2026-10-08T03:27:26+09:00",
     "book": "yako-knowledge-2",
     "title": "빨간내복야코 어린이 상식 2",
     "isbn": "9791173571749",
@@ -3143,7 +3023,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 7830,
+      "salesIndex": 7818,
       "reviewCount": 17,
       "reviewScore": 9.6,
       "reviews": [
@@ -3179,22 +3059,10 @@
         }
       ]
     },
-    "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=360975965",
-      "itemId": "360975965",
-      "overallRank": null,
-      "childrenRank": null,
-      "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 3547,
-      "commentCount": 0,
-      "reviewCount": 1,
-      "reviewScore": null,
-      "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55e86fc37aaa <unknown>\n#1 0x55e86f565aa9 <unknown>\n#2 0x55e86f569474 <unknown>\n#3 0x55e86f606ecb <unknown>\n#4 0x55e86f6061df <unknown>\n#5 0x55e86f5af148 <unknown>\n#6 0x55e86f5aff11 <unknown>\n#7 0x55e86fbfa5ac <unknown>\n#8 0x55e86fbf8dc5 <unknown>\n#9 0x55e86fbe3e95 <unknown>\n#10 0x55e86fbf9a1a <unknown>\n#11 0x55e86fbcc5c9 <unknown>\n#12 0x55e86fc220f8 <unknown>\n#13 0x55e86fc22295 <unknown>\n#14 0x55e86fc363f3 <unknown>\n#15 0x7f0fc429cb84 <unknown>\n#16 0x7f0fc4329ecc <unknown>\n"
-    }
+    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=360975965"
   },
   "yako-knowledge-3": {
-    "t": "2026-10-08T02:27:16+09:00",
+    "t": "2026-10-08T03:27:26+09:00",
     "book": "yako-knowledge-3",
     "title": "빨간내복야코 어린이 상식 3",
     "isbn": "9791173573798",
@@ -3435,7 +3303,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 8280,
+      "salesIndex": 8358,
       "reviewCount": 12,
       "reviewScore": 9.6,
       "reviews": [
@@ -3471,22 +3339,10 @@
         }
       ]
     },
-    "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367518731",
-      "itemId": "367518731",
-      "overallRank": null,
-      "childrenRank": null,
-      "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 3933,
-      "commentCount": 0,
-      "reviewCount": 6,
-      "reviewScore": null,
-      "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55e86fc37aaa <unknown>\n#1 0x55e86f565aa9 <unknown>\n#2 0x55e86f569474 <unknown>\n#3 0x55e86f606ecb <unknown>\n#4 0x55e86f6061df <unknown>\n#5 0x55e86f5af148 <unknown>\n#6 0x55e86f5aff11 <unknown>\n#7 0x55e86fbfa5ac <unknown>\n#8 0x55e86fbf8dc5 <unknown>\n#9 0x55e86fbe3e95 <unknown>\n#10 0x55e86fbf9a1a <unknown>\n#11 0x55e86fbcc5c9 <unknown>\n#12 0x55e86fc220f8 <unknown>\n#13 0x55e86fc22295 <unknown>\n#14 0x55e86fc363f3 <unknown>\n#15 0x7f0fc429cb84 <unknown>\n#16 0x7f0fc4329ecc <unknown>\n"
-    }
+    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367518731"
   },
   "yako-knowledge-4": {
-    "t": "2026-10-08T02:27:16+09:00",
+    "t": "2026-10-08T03:27:26+09:00",
     "book": "yako-knowledge-4",
     "title": "빨간내복야코 어린이 상식 4",
     "isbn": "9791173574412",
@@ -3727,7 +3583,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 11661,
+      "salesIndex": 11703,
       "reviewCount": 8,
       "reviewScore": 10.0,
       "reviews": [
@@ -3763,22 +3619,10 @@
         }
       ]
     },
-    "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=375958389",
-      "itemId": "375958389",
-      "overallRank": null,
-      "childrenRank": null,
-      "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 5755,
-      "commentCount": 0,
-      "reviewCount": 0,
-      "reviewScore": null,
-      "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55e86fc37aaa <unknown>\n#1 0x55e86f565aa9 <unknown>\n#2 0x55e86f569474 <unknown>\n#3 0x55e86f606ecb <unknown>\n#4 0x55e86f6061df <unknown>\n#5 0x55e86f5af148 <unknown>\n#6 0x55e86f5aff11 <unknown>\n#7 0x55e86fbfa5ac <unknown>\n#8 0x55e86fbf8dc5 <unknown>\n#9 0x55e86fbe3e95 <unknown>\n#10 0x55e86fbf9a1a <unknown>\n#11 0x55e86fbcc5c9 <unknown>\n#12 0x55e86fc220f8 <unknown>\n#13 0x55e86fc22295 <unknown>\n#14 0x55e86fc363f3 <unknown>\n#15 0x7f0fc429cb84 <unknown>\n#16 0x7f0fc4329ecc <unknown>\n"
-    }
+    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=375958389"
   },
   "yako-knowledge-5": {
-    "t": "2026-10-08T02:27:16+09:00",
+    "t": "2026-10-08T03:27:26+09:00",
     "book": "yako-knowledge-5",
     "title": "빨간내복야코 어린이 상식 5",
     "isbn": "9791173577598",
@@ -4019,7 +3863,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 6879,
+      "salesIndex": 6921,
       "reviewCount": 21,
       "reviewScore": 10.0,
       "reviews": [
@@ -4055,22 +3899,10 @@
         }
       ]
     },
-    "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=385788090",
-      "itemId": "385788090",
-      "overallRank": null,
-      "childrenRank": null,
-      "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 4658,
-      "commentCount": 0,
-      "reviewCount": 12,
-      "reviewScore": null,
-      "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55e86fc37aaa <unknown>\n#1 0x55e86f565aa9 <unknown>\n#2 0x55e86f569474 <unknown>\n#3 0x55e86f606ecb <unknown>\n#4 0x55e86f6061df <unknown>\n#5 0x55e86f5af148 <unknown>\n#6 0x55e86f5aff11 <unknown>\n#7 0x55e86fbfa5ac <unknown>\n#8 0x55e86fbf8dc5 <unknown>\n#9 0x55e86fbe3e95 <unknown>\n#10 0x55e86fbf9a1a <unknown>\n#11 0x55e86fbcc5c9 <unknown>\n#12 0x55e86fc220f8 <unknown>\n#13 0x55e86fc22295 <unknown>\n#14 0x55e86fc363f3 <unknown>\n#15 0x7f0fc429cb84 <unknown>\n#16 0x7f0fc4329ecc <unknown>\n"
-    }
+    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=385788090"
   },
   "yako-knowledge-6": {
-    "t": "2026-10-08T02:27:16+09:00",
+    "t": "2026-10-08T03:27:26+09:00",
     "book": "yako-knowledge-6",
     "title": "빨간내복야코 어린이 상식 6",
     "isbn": "9791173579073",
@@ -4311,7 +4143,7 @@
       "overallRank": null,
       "childrenRank": 901,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 4440,
+      "salesIndex": 4362,
       "reviewCount": 57,
       "reviewScore": 10.0,
       "reviews": [
@@ -4347,18 +4179,6 @@
         }
       ]
     },
-    "aladin": {
-      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=396456287",
-      "itemId": "396456287",
-      "overallRank": null,
-      "childrenRank": null,
-      "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 2945,
-      "commentCount": 0,
-      "reviewCount": 23,
-      "reviewScore": null,
-      "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55e86fc37aaa <unknown>\n#1 0x55e86f565aa9 <unknown>\n#2 0x55e86f569474 <unknown>\n#3 0x55e86f606ecb <unknown>\n#4 0x55e86f6061df <unknown>\n#5 0x55e86f5af148 <unknown>\n#6 0x55e86f5aff11 <unknown>\n#7 0x55e86fbfa5ac <unknown>\n#8 0x55e86fbf8dc5 <unknown>\n#9 0x55e86fbe3e95 <unknown>\n#10 0x55e86fbf9a1a <unknown>\n#11 0x55e86fbcc5c9 <unknown>\n#12 0x55e86fc220f8 <unknown>\n#13 0x55e86fc22295 <unknown>\n#14 0x55e86fc363f3 <unknown>\n#15 0x7f0fc429cb84 <unknown>\n#16 0x7f0fc4329ecc <unknown>\n"
-    }
+    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=396456287"
   }
 }
