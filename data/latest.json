@@ -1,6 +1,6 @@
 {
   "literacy-1": {
-    "t": "2026-10-12T19:27:06+09:00",
+    "t": "2026-10-12T20:27:07+09:00",
     "book": "literacy-1",
     "title": "초등 첫 문해력 신문",
     "isbn": "9791171177028",
@@ -200,7 +200,7 @@
         }
       ],
       "storeStockTotal": 36,
-      "onlineStock": 10,
+      "onlineStock": 12,
       "reviews": [
         {
           "author": "패키지",
@@ -288,11 +288,11 @@
       "reviewCount": 38,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55f08cfc8aaa <unknown>\n#1 0x55f08c8f6aa9 <unknown>\n#2 0x55f08c8fa474 <unknown>\n#3 0x55f08c997ecb <unknown>\n#4 0x55f08c9971df <unknown>\n#5 0x55f08c940148 <unknown>\n#6 0x55f08c940f11 <unknown>\n#7 0x55f08cf8b5ac <unknown>\n#8 0x55f08cf89dc5 <unknown>\n#9 0x55f08cf74e95 <unknown>\n#10 0x55f08cf8aa1a <unknown>\n#11 0x55f08cf5d5c9 <unknown>\n#12 0x55f08cfb30f8 <unknown>\n#13 0x55f08cfb3295 <unknown>\n#14 0x55f08cfc73f3 <unknown>\n#15 0x7f6191e9cb84 <unknown>\n#16 0x7f6191f29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x56198e406aaa <unknown>\n#1 0x56198dd34aa9 <unknown>\n#2 0x56198dd38474 <unknown>\n#3 0x56198ddd5ecb <unknown>\n#4 0x56198ddd51df <unknown>\n#5 0x56198dd7e148 <unknown>\n#6 0x56198dd7ef11 <unknown>\n#7 0x56198e3c95ac <unknown>\n#8 0x56198e3c7dc5 <unknown>\n#9 0x56198e3b2e95 <unknown>\n#10 0x56198e3c8a1a <unknown>\n#11 0x56198e39b5c9 <unknown>\n#12 0x56198e3f10f8 <unknown>\n#13 0x56198e3f1295 <unknown>\n#14 0x56198e4053f3 <unknown>\n#15 0x7f05c929cb84 <unknown>\n#16 0x7f05c9329ecc <unknown>\n"
     }
   },
   "literacy-2": {
-    "t": "2026-10-12T19:27:06+09:00",
+    "t": "2026-10-12T20:27:07+09:00",
     "book": "literacy-2",
     "title": "초등 첫 문해력 신문 2",
     "isbn": "9791171179688",
@@ -580,11 +580,11 @@
       "reviewCount": 7,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55f08cfc8aaa <unknown>\n#1 0x55f08c8f6aa9 <unknown>\n#2 0x55f08c8fa474 <unknown>\n#3 0x55f08c997ecb <unknown>\n#4 0x55f08c9971df <unknown>\n#5 0x55f08c940148 <unknown>\n#6 0x55f08c940f11 <unknown>\n#7 0x55f08cf8b5ac <unknown>\n#8 0x55f08cf89dc5 <unknown>\n#9 0x55f08cf74e95 <unknown>\n#10 0x55f08cf8aa1a <unknown>\n#11 0x55f08cf5d5c9 <unknown>\n#12 0x55f08cfb30f8 <unknown>\n#13 0x55f08cfb3295 <unknown>\n#14 0x55f08cfc73f3 <unknown>\n#15 0x7f6191e9cb84 <unknown>\n#16 0x7f6191f29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x56198e406aaa <unknown>\n#1 0x56198dd34aa9 <unknown>\n#2 0x56198dd38474 <unknown>\n#3 0x56198ddd5ecb <unknown>\n#4 0x56198ddd51df <unknown>\n#5 0x56198dd7e148 <unknown>\n#6 0x56198dd7ef11 <unknown>\n#7 0x56198e3c95ac <unknown>\n#8 0x56198e3c7dc5 <unknown>\n#9 0x56198e3b2e95 <unknown>\n#10 0x56198e3c8a1a <unknown>\n#11 0x56198e39b5c9 <unknown>\n#12 0x56198e3f10f8 <unknown>\n#13 0x56198e3f1295 <unknown>\n#14 0x56198e4053f3 <unknown>\n#15 0x7f05c929cb84 <unknown>\n#16 0x7f05c9329ecc <unknown>\n"
     }
   },
   "literacy-3": {
-    "t": "2026-10-12T19:27:06+09:00",
+    "t": "2026-10-12T20:27:07+09:00",
     "book": "literacy-3",
     "title": "초등 첫 문해력 신문 3",
     "isbn": "9791173573767",
@@ -814,7 +814,7 @@
           "author": "정보보호관리체계",
           "date": "2023-11-15",
           "score": null,
-          "content": "ISMS 인증획득 [인증범위] 인터넷 교보문고 및 브랜드 서비스 운영 이다희 관심 회원이 좋아하는 작가에요 3 TOP 총 상품금액 17,820 원 선물하기"
+          "content": "ISMS 인증획득 [인증범위] 인터넷 교보문고 및 브랜드 서비스 운영 나만을 위한 맞춤 추천! 3 TOP 총 상품금액 17,820 원 선물하기 바로드림"
         }
       ]
     },
@@ -872,11 +872,11 @@
       "reviewCount": 4,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55f08cfc8aaa <unknown>\n#1 0x55f08c8f6aa9 <unknown>\n#2 0x55f08c8fa474 <unknown>\n#3 0x55f08c997ecb <unknown>\n#4 0x55f08c9971df <unknown>\n#5 0x55f08c940148 <unknown>\n#6 0x55f08c940f11 <unknown>\n#7 0x55f08cf8b5ac <unknown>\n#8 0x55f08cf89dc5 <unknown>\n#9 0x55f08cf74e95 <unknown>\n#10 0x55f08cf8aa1a <unknown>\n#11 0x55f08cf5d5c9 <unknown>\n#12 0x55f08cfb30f8 <unknown>\n#13 0x55f08cfb3295 <unknown>\n#14 0x55f08cfc73f3 <unknown>\n#15 0x7f6191e9cb84 <unknown>\n#16 0x7f6191f29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x56198e406aaa <unknown>\n#1 0x56198dd34aa9 <unknown>\n#2 0x56198dd38474 <unknown>\n#3 0x56198ddd5ecb <unknown>\n#4 0x56198ddd51df <unknown>\n#5 0x56198dd7e148 <unknown>\n#6 0x56198dd7ef11 <unknown>\n#7 0x56198e3c95ac <unknown>\n#8 0x56198e3c7dc5 <unknown>\n#9 0x56198e3b2e95 <unknown>\n#10 0x56198e3c8a1a <unknown>\n#11 0x56198e39b5c9 <unknown>\n#12 0x56198e3f10f8 <unknown>\n#13 0x56198e3f1295 <unknown>\n#14 0x56198e4053f3 <unknown>\n#15 0x7f05c929cb84 <unknown>\n#16 0x7f05c9329ecc <unknown>\n"
     }
   },
   "ai-literacy-newspaper": {
-    "t": "2026-10-12T19:27:06+09:00",
+    "t": "2026-10-12T20:27:07+09:00",
     "book": "ai-literacy-newspaper",
     "title": "초등 첫 AI 문해력 신문",
     "isbn": "9791176612739",
@@ -1076,7 +1076,7 @@
         }
       ],
       "storeStockTotal": 36,
-      "onlineStock": 18,
+      "onlineStock": 19,
       "reviews": [
         {
           "author": "종이책",
@@ -1152,11 +1152,11 @@
       "reviewCount": 33,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55f08cfc8aaa <unknown>\n#1 0x55f08c8f6aa9 <unknown>\n#2 0x55f08c8fa474 <unknown>\n#3 0x55f08c997ecb <unknown>\n#4 0x55f08c9971df <unknown>\n#5 0x55f08c940148 <unknown>\n#6 0x55f08c940f11 <unknown>\n#7 0x55f08cf8b5ac <unknown>\n#8 0x55f08cf89dc5 <unknown>\n#9 0x55f08cf74e95 <unknown>\n#10 0x55f08cf8aa1a <unknown>\n#11 0x55f08cf5d5c9 <unknown>\n#12 0x55f08cfb30f8 <unknown>\n#13 0x55f08cfb3295 <unknown>\n#14 0x55f08cfc73f3 <unknown>\n#15 0x7f6191e9cb84 <unknown>\n#16 0x7f6191f29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x56198e406aaa <unknown>\n#1 0x56198dd34aa9 <unknown>\n#2 0x56198dd38474 <unknown>\n#3 0x56198ddd5ecb <unknown>\n#4 0x56198ddd51df <unknown>\n#5 0x56198dd7e148 <unknown>\n#6 0x56198dd7ef11 <unknown>\n#7 0x56198e3c95ac <unknown>\n#8 0x56198e3c7dc5 <unknown>\n#9 0x56198e3b2e95 <unknown>\n#10 0x56198e3c8a1a <unknown>\n#11 0x56198e39b5c9 <unknown>\n#12 0x56198e3f10f8 <unknown>\n#13 0x56198e3f1295 <unknown>\n#14 0x56198e4053f3 <unknown>\n#15 0x7f05c929cb84 <unknown>\n#16 0x7f05c9329ecc <unknown>\n"
     }
   },
   "future-science-1": {
-    "t": "2026-10-12T19:27:06+09:00",
+    "t": "2026-10-12T20:27:07+09:00",
     "book": "future-science-1",
     "title": "장동선의 미래 과학 프로젝트 1",
     "isbn": "9791173576270",
@@ -1444,11 +1444,11 @@
       "reviewCount": 17,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55f08cfc8aaa <unknown>\n#1 0x55f08c8f6aa9 <unknown>\n#2 0x55f08c8fa474 <unknown>\n#3 0x55f08c997ecb <unknown>\n#4 0x55f08c9971df <unknown>\n#5 0x55f08c940148 <unknown>\n#6 0x55f08c940f11 <unknown>\n#7 0x55f08cf8b5ac <unknown>\n#8 0x55f08cf89dc5 <unknown>\n#9 0x55f08cf74e95 <unknown>\n#10 0x55f08cf8aa1a <unknown>\n#11 0x55f08cf5d5c9 <unknown>\n#12 0x55f08cfb30f8 <unknown>\n#13 0x55f08cfb3295 <unknown>\n#14 0x55f08cfc73f3 <unknown>\n#15 0x7f6191e9cb84 <unknown>\n#16 0x7f6191f29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x56198e406aaa <unknown>\n#1 0x56198dd34aa9 <unknown>\n#2 0x56198dd38474 <unknown>\n#3 0x56198ddd5ecb <unknown>\n#4 0x56198ddd51df <unknown>\n#5 0x56198dd7e148 <unknown>\n#6 0x56198dd7ef11 <unknown>\n#7 0x56198e3c95ac <unknown>\n#8 0x56198e3c7dc5 <unknown>\n#9 0x56198e3b2e95 <unknown>\n#10 0x56198e3c8a1a <unknown>\n#11 0x56198e39b5c9 <unknown>\n#12 0x56198e3f10f8 <unknown>\n#13 0x56198e3f1295 <unknown>\n#14 0x56198e4053f3 <unknown>\n#15 0x7f05c929cb84 <unknown>\n#16 0x7f05c9329ecc <unknown>\n"
     }
   },
   "future-science-2": {
-    "t": "2026-10-12T19:27:06+09:00",
+    "t": "2026-10-12T20:27:07+09:00",
     "book": "future-science-2",
     "title": "장동선의 미래 과학 프로젝트 2",
     "isbn": "9791173576287",
@@ -1736,11 +1736,11 @@
       "reviewCount": 22,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55f08cfc8aaa <unknown>\n#1 0x55f08c8f6aa9 <unknown>\n#2 0x55f08c8fa474 <unknown>\n#3 0x55f08c997ecb <unknown>\n#4 0x55f08c9971df <unknown>\n#5 0x55f08c940148 <unknown>\n#6 0x55f08c940f11 <unknown>\n#7 0x55f08cf8b5ac <unknown>\n#8 0x55f08cf89dc5 <unknown>\n#9 0x55f08cf74e95 <unknown>\n#10 0x55f08cf8aa1a <unknown>\n#11 0x55f08cf5d5c9 <unknown>\n#12 0x55f08cfb30f8 <unknown>\n#13 0x55f08cfb3295 <unknown>\n#14 0x55f08cfc73f3 <unknown>\n#15 0x7f6191e9cb84 <unknown>\n#16 0x7f6191f29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x56198e406aaa <unknown>\n#1 0x56198dd34aa9 <unknown>\n#2 0x56198dd38474 <unknown>\n#3 0x56198ddd5ecb <unknown>\n#4 0x56198ddd51df <unknown>\n#5 0x56198dd7e148 <unknown>\n#6 0x56198dd7ef11 <unknown>\n#7 0x56198e3c95ac <unknown>\n#8 0x56198e3c7dc5 <unknown>\n#9 0x56198e3b2e95 <unknown>\n#10 0x56198e3c8a1a <unknown>\n#11 0x56198e39b5c9 <unknown>\n#12 0x56198e3f10f8 <unknown>\n#13 0x56198e3f1295 <unknown>\n#14 0x56198e4053f3 <unknown>\n#15 0x7f05c929cb84 <unknown>\n#16 0x7f05c9329ecc <unknown>\n"
     }
   },
   "future-science-3": {
-    "t": "2026-10-12T19:27:06+09:00",
+    "t": "2026-10-12T20:27:07+09:00",
     "book": "future-science-3",
     "title": "장동선의 미래 과학 프로젝트 3",
     "isbn": "9791173576294",
@@ -2028,11 +2028,11 @@
       "reviewCount": 27,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55f08cfc8aaa <unknown>\n#1 0x55f08c8f6aa9 <unknown>\n#2 0x55f08c8fa474 <unknown>\n#3 0x55f08c997ecb <unknown>\n#4 0x55f08c9971df <unknown>\n#5 0x55f08c940148 <unknown>\n#6 0x55f08c940f11 <unknown>\n#7 0x55f08cf8b5ac <unknown>\n#8 0x55f08cf89dc5 <unknown>\n#9 0x55f08cf74e95 <unknown>\n#10 0x55f08cf8aa1a <unknown>\n#11 0x55f08cf5d5c9 <unknown>\n#12 0x55f08cfb30f8 <unknown>\n#13 0x55f08cfb3295 <unknown>\n#14 0x55f08cfc73f3 <unknown>\n#15 0x7f6191e9cb84 <unknown>\n#16 0x7f6191f29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x56198e406aaa <unknown>\n#1 0x56198dd34aa9 <unknown>\n#2 0x56198dd38474 <unknown>\n#3 0x56198ddd5ecb <unknown>\n#4 0x56198ddd51df <unknown>\n#5 0x56198dd7e148 <unknown>\n#6 0x56198dd7ef11 <unknown>\n#7 0x56198e3c95ac <unknown>\n#8 0x56198e3c7dc5 <unknown>\n#9 0x56198e3b2e95 <unknown>\n#10 0x56198e3c8a1a <unknown>\n#11 0x56198e39b5c9 <unknown>\n#12 0x56198e3f10f8 <unknown>\n#13 0x56198e3f1295 <unknown>\n#14 0x56198e4053f3 <unknown>\n#15 0x7f05c929cb84 <unknown>\n#16 0x7f05c9329ecc <unknown>\n"
     }
   },
   "human-body-1": {
-    "t": "2026-10-12T19:27:06+09:00",
+    "t": "2026-10-12T20:27:07+09:00",
     "book": "human-body-1",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 1",
     "isbn": "9791173578625",
@@ -2320,11 +2320,11 @@
       "reviewCount": 32,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55f08cfc8aaa <unknown>\n#1 0x55f08c8f6aa9 <unknown>\n#2 0x55f08c8fa474 <unknown>\n#3 0x55f08c997ecb <unknown>\n#4 0x55f08c9971df <unknown>\n#5 0x55f08c940148 <unknown>\n#6 0x55f08c940f11 <unknown>\n#7 0x55f08cf8b5ac <unknown>\n#8 0x55f08cf89dc5 <unknown>\n#9 0x55f08cf74e95 <unknown>\n#10 0x55f08cf8aa1a <unknown>\n#11 0x55f08cf5d5c9 <unknown>\n#12 0x55f08cfb30f8 <unknown>\n#13 0x55f08cfb3295 <unknown>\n#14 0x55f08cfc73f3 <unknown>\n#15 0x7f6191e9cb84 <unknown>\n#16 0x7f6191f29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x56198e406aaa <unknown>\n#1 0x56198dd34aa9 <unknown>\n#2 0x56198dd38474 <unknown>\n#3 0x56198ddd5ecb <unknown>\n#4 0x56198ddd51df <unknown>\n#5 0x56198dd7e148 <unknown>\n#6 0x56198dd7ef11 <unknown>\n#7 0x56198e3c95ac <unknown>\n#8 0x56198e3c7dc5 <unknown>\n#9 0x56198e3b2e95 <unknown>\n#10 0x56198e3c8a1a <unknown>\n#11 0x56198e39b5c9 <unknown>\n#12 0x56198e3f10f8 <unknown>\n#13 0x56198e3f1295 <unknown>\n#14 0x56198e4053f3 <unknown>\n#15 0x7f05c929cb84 <unknown>\n#16 0x7f05c9329ecc <unknown>\n"
     }
   },
   "human-body-2": {
-    "t": "2026-10-12T19:27:06+09:00",
+    "t": "2026-10-12T20:27:07+09:00",
     "book": "human-body-2",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 2",
     "isbn": "9791173578632",
@@ -2612,11 +2612,11 @@
       "reviewCount": 35,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55f08cfc8aaa <unknown>\n#1 0x55f08c8f6aa9 <unknown>\n#2 0x55f08c8fa474 <unknown>\n#3 0x55f08c997ecb <unknown>\n#4 0x55f08c9971df <unknown>\n#5 0x55f08c940148 <unknown>\n#6 0x55f08c940f11 <unknown>\n#7 0x55f08cf8b5ac <unknown>\n#8 0x55f08cf89dc5 <unknown>\n#9 0x55f08cf74e95 <unknown>\n#10 0x55f08cf8aa1a <unknown>\n#11 0x55f08cf5d5c9 <unknown>\n#12 0x55f08cfb30f8 <unknown>\n#13 0x55f08cfb3295 <unknown>\n#14 0x55f08cfc73f3 <unknown>\n#15 0x7f6191e9cb84 <unknown>\n#16 0x7f6191f29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x56198e406aaa <unknown>\n#1 0x56198dd34aa9 <unknown>\n#2 0x56198dd38474 <unknown>\n#3 0x56198ddd5ecb <unknown>\n#4 0x56198ddd51df <unknown>\n#5 0x56198dd7e148 <unknown>\n#6 0x56198dd7ef11 <unknown>\n#7 0x56198e3c95ac <unknown>\n#8 0x56198e3c7dc5 <unknown>\n#9 0x56198e3b2e95 <unknown>\n#10 0x56198e3c8a1a <unknown>\n#11 0x56198e39b5c9 <unknown>\n#12 0x56198e3f10f8 <unknown>\n#13 0x56198e3f1295 <unknown>\n#14 0x56198e4053f3 <unknown>\n#15 0x7f05c929cb84 <unknown>\n#16 0x7f05c9329ecc <unknown>\n"
     }
   },
   "yako-knowledge-1": {
-    "t": "2026-10-12T19:27:06+09:00",
+    "t": "2026-10-12T20:27:07+09:00",
     "book": "yako-knowledge-1",
     "title": "빨간내복야코 어린이 상식 1",
     "isbn": "9791171178704",
@@ -2904,11 +2904,11 @@
       "reviewCount": 11,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55f08cfc8aaa <unknown>\n#1 0x55f08c8f6aa9 <unknown>\n#2 0x55f08c8fa474 <unknown>\n#3 0x55f08c997ecb <unknown>\n#4 0x55f08c9971df <unknown>\n#5 0x55f08c940148 <unknown>\n#6 0x55f08c940f11 <unknown>\n#7 0x55f08cf8b5ac <unknown>\n#8 0x55f08cf89dc5 <unknown>\n#9 0x55f08cf74e95 <unknown>\n#10 0x55f08cf8aa1a <unknown>\n#11 0x55f08cf5d5c9 <unknown>\n#12 0x55f08cfb30f8 <unknown>\n#13 0x55f08cfb3295 <unknown>\n#14 0x55f08cfc73f3 <unknown>\n#15 0x7f6191e9cb84 <unknown>\n#16 0x7f6191f29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x56198e406aaa <unknown>\n#1 0x56198dd34aa9 <unknown>\n#2 0x56198dd38474 <unknown>\n#3 0x56198ddd5ecb <unknown>\n#4 0x56198ddd51df <unknown>\n#5 0x56198dd7e148 <unknown>\n#6 0x56198dd7ef11 <unknown>\n#7 0x56198e3c95ac <unknown>\n#8 0x56198e3c7dc5 <unknown>\n#9 0x56198e3b2e95 <unknown>\n#10 0x56198e3c8a1a <unknown>\n#11 0x56198e39b5c9 <unknown>\n#12 0x56198e3f10f8 <unknown>\n#13 0x56198e3f1295 <unknown>\n#14 0x56198e4053f3 <unknown>\n#15 0x7f05c929cb84 <unknown>\n#16 0x7f05c9329ecc <unknown>\n"
     }
   },
   "yako-knowledge-2": {
-    "t": "2026-10-12T19:27:06+09:00",
+    "t": "2026-10-12T20:27:07+09:00",
     "book": "yako-knowledge-2",
     "title": "빨간내복야코 어린이 상식 2",
     "isbn": "9791173571749",
@@ -3196,11 +3196,11 @@
       "reviewCount": 1,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55f08cfc8aaa <unknown>\n#1 0x55f08c8f6aa9 <unknown>\n#2 0x55f08c8fa474 <unknown>\n#3 0x55f08c997ecb <unknown>\n#4 0x55f08c9971df <unknown>\n#5 0x55f08c940148 <unknown>\n#6 0x55f08c940f11 <unknown>\n#7 0x55f08cf8b5ac <unknown>\n#8 0x55f08cf89dc5 <unknown>\n#9 0x55f08cf74e95 <unknown>\n#10 0x55f08cf8aa1a <unknown>\n#11 0x55f08cf5d5c9 <unknown>\n#12 0x55f08cfb30f8 <unknown>\n#13 0x55f08cfb3295 <unknown>\n#14 0x55f08cfc73f3 <unknown>\n#15 0x7f6191e9cb84 <unknown>\n#16 0x7f6191f29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x56198e406aaa <unknown>\n#1 0x56198dd34aa9 <unknown>\n#2 0x56198dd38474 <unknown>\n#3 0x56198ddd5ecb <unknown>\n#4 0x56198ddd51df <unknown>\n#5 0x56198dd7e148 <unknown>\n#6 0x56198dd7ef11 <unknown>\n#7 0x56198e3c95ac <unknown>\n#8 0x56198e3c7dc5 <unknown>\n#9 0x56198e3b2e95 <unknown>\n#10 0x56198e3c8a1a <unknown>\n#11 0x56198e39b5c9 <unknown>\n#12 0x56198e3f10f8 <unknown>\n#13 0x56198e3f1295 <unknown>\n#14 0x56198e4053f3 <unknown>\n#15 0x7f05c929cb84 <unknown>\n#16 0x7f05c9329ecc <unknown>\n"
     }
   },
   "yako-knowledge-3": {
-    "t": "2026-10-12T19:27:06+09:00",
+    "t": "2026-10-12T20:27:07+09:00",
     "book": "yako-knowledge-3",
     "title": "빨간내복야코 어린이 상식 3",
     "isbn": "9791173573798",
@@ -3488,11 +3488,11 @@
       "reviewCount": 6,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55f08cfc8aaa <unknown>\n#1 0x55f08c8f6aa9 <unknown>\n#2 0x55f08c8fa474 <unknown>\n#3 0x55f08c997ecb <unknown>\n#4 0x55f08c9971df <unknown>\n#5 0x55f08c940148 <unknown>\n#6 0x55f08c940f11 <unknown>\n#7 0x55f08cf8b5ac <unknown>\n#8 0x55f08cf89dc5 <unknown>\n#9 0x55f08cf74e95 <unknown>\n#10 0x55f08cf8aa1a <unknown>\n#11 0x55f08cf5d5c9 <unknown>\n#12 0x55f08cfb30f8 <unknown>\n#13 0x55f08cfb3295 <unknown>\n#14 0x55f08cfc73f3 <unknown>\n#15 0x7f6191e9cb84 <unknown>\n#16 0x7f6191f29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x56198e406aaa <unknown>\n#1 0x56198dd34aa9 <unknown>\n#2 0x56198dd38474 <unknown>\n#3 0x56198ddd5ecb <unknown>\n#4 0x56198ddd51df <unknown>\n#5 0x56198dd7e148 <unknown>\n#6 0x56198dd7ef11 <unknown>\n#7 0x56198e3c95ac <unknown>\n#8 0x56198e3c7dc5 <unknown>\n#9 0x56198e3b2e95 <unknown>\n#10 0x56198e3c8a1a <unknown>\n#11 0x56198e39b5c9 <unknown>\n#12 0x56198e3f10f8 <unknown>\n#13 0x56198e3f1295 <unknown>\n#14 0x56198e4053f3 <unknown>\n#15 0x7f05c929cb84 <unknown>\n#16 0x7f05c9329ecc <unknown>\n"
     }
   },
   "yako-knowledge-4": {
-    "t": "2026-10-12T19:27:06+09:00",
+    "t": "2026-10-12T20:27:07+09:00",
     "book": "yako-knowledge-4",
     "title": "빨간내복야코 어린이 상식 4",
     "isbn": "9791173574412",
@@ -3780,11 +3780,11 @@
       "reviewCount": 0,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55f08cfc8aaa <unknown>\n#1 0x55f08c8f6aa9 <unknown>\n#2 0x55f08c8fa474 <unknown>\n#3 0x55f08c997ecb <unknown>\n#4 0x55f08c9971df <unknown>\n#5 0x55f08c940148 <unknown>\n#6 0x55f08c940f11 <unknown>\n#7 0x55f08cf8b5ac <unknown>\n#8 0x55f08cf89dc5 <unknown>\n#9 0x55f08cf74e95 <unknown>\n#10 0x55f08cf8aa1a <unknown>\n#11 0x55f08cf5d5c9 <unknown>\n#12 0x55f08cfb30f8 <unknown>\n#13 0x55f08cfb3295 <unknown>\n#14 0x55f08cfc73f3 <unknown>\n#15 0x7f6191e9cb84 <unknown>\n#16 0x7f6191f29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x56198e406aaa <unknown>\n#1 0x56198dd34aa9 <unknown>\n#2 0x56198dd38474 <unknown>\n#3 0x56198ddd5ecb <unknown>\n#4 0x56198ddd51df <unknown>\n#5 0x56198dd7e148 <unknown>\n#6 0x56198dd7ef11 <unknown>\n#7 0x56198e3c95ac <unknown>\n#8 0x56198e3c7dc5 <unknown>\n#9 0x56198e3b2e95 <unknown>\n#10 0x56198e3c8a1a <unknown>\n#11 0x56198e39b5c9 <unknown>\n#12 0x56198e3f10f8 <unknown>\n#13 0x56198e3f1295 <unknown>\n#14 0x56198e4053f3 <unknown>\n#15 0x7f05c929cb84 <unknown>\n#16 0x7f05c9329ecc <unknown>\n"
     }
   },
   "yako-knowledge-5": {
-    "t": "2026-10-12T19:27:06+09:00",
+    "t": "2026-10-12T20:27:07+09:00",
     "book": "yako-knowledge-5",
     "title": "빨간내복야코 어린이 상식 5",
     "isbn": "9791173577598",
@@ -4072,11 +4072,11 @@
       "reviewCount": 12,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55f08cfc8aaa <unknown>\n#1 0x55f08c8f6aa9 <unknown>\n#2 0x55f08c8fa474 <unknown>\n#3 0x55f08c997ecb <unknown>\n#4 0x55f08c9971df <unknown>\n#5 0x55f08c940148 <unknown>\n#6 0x55f08c940f11 <unknown>\n#7 0x55f08cf8b5ac <unknown>\n#8 0x55f08cf89dc5 <unknown>\n#9 0x55f08cf74e95 <unknown>\n#10 0x55f08cf8aa1a <unknown>\n#11 0x55f08cf5d5c9 <unknown>\n#12 0x55f08cfb30f8 <unknown>\n#13 0x55f08cfb3295 <unknown>\n#14 0x55f08cfc73f3 <unknown>\n#15 0x7f6191e9cb84 <unknown>\n#16 0x7f6191f29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x56198e406aaa <unknown>\n#1 0x56198dd34aa9 <unknown>\n#2 0x56198dd38474 <unknown>\n#3 0x56198ddd5ecb <unknown>\n#4 0x56198ddd51df <unknown>\n#5 0x56198dd7e148 <unknown>\n#6 0x56198dd7ef11 <unknown>\n#7 0x56198e3c95ac <unknown>\n#8 0x56198e3c7dc5 <unknown>\n#9 0x56198e3b2e95 <unknown>\n#10 0x56198e3c8a1a <unknown>\n#11 0x56198e39b5c9 <unknown>\n#12 0x56198e3f10f8 <unknown>\n#13 0x56198e3f1295 <unknown>\n#14 0x56198e4053f3 <unknown>\n#15 0x7f05c929cb84 <unknown>\n#16 0x7f05c9329ecc <unknown>\n"
     }
   },
   "yako-knowledge-6": {
-    "t": "2026-10-12T19:27:06+09:00",
+    "t": "2026-10-12T20:27:07+09:00",
     "book": "yako-knowledge-6",
     "title": "빨간내복야코 어린이 상식 6",
     "isbn": "9791173579073",
@@ -4091,7 +4091,7 @@
       "stores": [
         {
           "name": "광화문",
-          "stock": 13,
+          "stock": 12,
           "address": "서울특별시 종로구 종로 1, 교보생명빌딩 지하 1층"
         },
         {
@@ -4191,7 +4191,7 @@
         },
         {
           "name": "일산",
-          "stock": 3,
+          "stock": 2,
           "address": "경기도 고양시 일산동구 중앙로 1036, 고양종합터미널 지하 1층"
         },
         {
@@ -4275,7 +4275,7 @@
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
       ],
-      "storeStockTotal": 169,
+      "storeStockTotal": 167,
       "onlineStock": 25,
       "reviews": [
         {
@@ -4364,7 +4364,7 @@
       "reviewCount": 23,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55f08cfc8aaa <unknown>\n#1 0x55f08c8f6aa9 <unknown>\n#2 0x55f08c8fa474 <unknown>\n#3 0x55f08c997ecb <unknown>\n#4 0x55f08c9971df <unknown>\n#5 0x55f08c940148 <unknown>\n#6 0x55f08c940f11 <unknown>\n#7 0x55f08cf8b5ac <unknown>\n#8 0x55f08cf89dc5 <unknown>\n#9 0x55f08cf74e95 <unknown>\n#10 0x55f08cf8aa1a <unknown>\n#11 0x55f08cf5d5c9 <unknown>\n#12 0x55f08cfb30f8 <unknown>\n#13 0x55f08cfb3295 <unknown>\n#14 0x55f08cfc73f3 <unknown>\n#15 0x7f6191e9cb84 <unknown>\n#16 0x7f6191f29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x56198e406aaa <unknown>\n#1 0x56198dd34aa9 <unknown>\n#2 0x56198dd38474 <unknown>\n#3 0x56198ddd5ecb <unknown>\n#4 0x56198ddd51df <unknown>\n#5 0x56198dd7e148 <unknown>\n#6 0x56198dd7ef11 <unknown>\n#7 0x56198e3c95ac <unknown>\n#8 0x56198e3c7dc5 <unknown>\n#9 0x56198e3b2e95 <unknown>\n#10 0x56198e3c8a1a <unknown>\n#11 0x56198e39b5c9 <unknown>\n#12 0x56198e3f10f8 <unknown>\n#13 0x56198e3f1295 <unknown>\n#14 0x56198e4053f3 <unknown>\n#15 0x7f05c929cb84 <unknown>\n#16 0x7f05c9329ecc <unknown>\n"
     }
   }
 }
