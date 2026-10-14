@@ -1,6 +1,6 @@
 {
   "literacy-1": {
-    "t": "2026-10-14T17:42:24+09:00",
+    "t": "2026-10-14T18:42:55+09:00",
     "book": "literacy-1",
     "title": "초등 첫 문해력 신문",
     "isbn": "9791171177028",
@@ -13,7 +13,7 @@
       "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000213805875/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000213805875/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "reviews": [],
-      "reviewContentError": "TimeoutException: Message: timeout: Timed out receiving message from renderer: -0.001\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x560292acbaaa <unknown>\n#1 0x5602923f9aa9 <unknown>\n#2 0x5602923e149b <unknown>\n#3 0x5602923e1116 <unknown>\n#4 0x5602923ded40 <unknown>\n#5 0x5602923df69f <unknown>\n#6 0x5602923ee890 <unknown>\n#7 0x5602924087f6 <unknown>\n#8 0x5602924102eb <unknown>\n#9 0x5602923dfdf9 <unknown>\n#10 0x56029240855d <unknown>\n#11 0x56029249a0a2 <unknown>\n#12 0x560292443148 <unknown>\n#13 0x560292443f11 <unknown>\n#14 0x560292a8e5ac <unknown>\n#15 0x560292a8cdc5 <unknown>\n#16 0x560292a77e95 <unknown>\n#17 0x560292a8da1a <unknown>\n#18 0x560292a605c9 <unknown>\n#19 0x560292ab60f8 <unknown>\n#20 0x560292ab6295 <unknown>\n#21 0x560292aca3f3 <unknown>\n#22 0x7f90a929cb84 <unknown>\n#23 0x7f90a9329ecc <unknown>\n"
+      "reviewContentError": "TimeoutException: Message: timeout: Timed out receiving message from renderer: -0.002\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc1149b <unknown>\n#3 0x55c07dc11116 <unknown>\n#4 0x55c07dc0ed40 <unknown>\n#5 0x55c07dc0f69f <unknown>\n#6 0x55c07dc1e890 <unknown>\n#7 0x55c07dc387f6 <unknown>\n#8 0x55c07dc402eb <unknown>\n#9 0x55c07dc0fdf9 <unknown>\n#10 0x55c07dc3855d <unknown>\n#11 0x55c07dcca0a2 <unknown>\n#12 0x55c07dc73148 <unknown>\n#13 0x55c07dc73f11 <unknown>\n#14 0x55c07e2be5ac <unknown>\n#15 0x55c07e2bcdc5 <unknown>\n#16 0x55c07e2a7e95 <unknown>\n#17 0x55c07e2bda1a <unknown>\n#18 0x55c07e2905c9 <unknown>\n#19 0x55c07e2e60f8 <unknown>\n#20 0x55c07e2e6295 <unknown>\n#21 0x55c07e2fa3f3 <unknown>\n#22 0x7f6619a9cb84 <unknown>\n#23 0x7f6619b29ecc <unknown>\n"
     },
     "yes24": {
       "id": "128939189",
@@ -58,10 +58,22 @@
         }
       ]
     },
-    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=342972974"
+    "aladin": {
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=342972974",
+      "itemId": "342972974",
+      "overallRank": null,
+      "childrenRank": null,
+      "rankBasis": "주간 베스트 종합 / 어린이",
+      "salesPoint": 3515,
+      "commentCount": 8,
+      "reviewCount": 38,
+      "reviewScore": null,
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+    }
   },
   "literacy-2": {
-    "t": "2026-10-14T17:42:24+09:00",
+    "t": "2026-10-14T18:42:55+09:00",
     "book": "literacy-2",
     "title": "초등 첫 문해력 신문 2",
     "isbn": "9791171179688",
@@ -74,7 +86,7 @@
       "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000215056017/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000215056017/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x560292acbaaa <unknown>\n#1 0x5602923f9aa9 <unknown>\n#2 0x5602923f0936 <unknown>\n#3 0x5602923e1971 <unknown>\n#4 0x5602923e36b0 <unknown>\n#5 0x5602923e1e5a <unknown>\n#6 0x5602923e14f9 <unknown>\n#7 0x5602923e1116 <unknown>\n#8 0x5602923ded40 <unknown>\n#9 0x5602923df560 <unknown>\n#10 0x5602923fd551 <unknown>\n#11 0x56029249aecb <unknown>\n#12 0x56029249a1df <unknown>\n#13 0x560292443148 <unknown>\n#14 0x560292443f11 <unknown>\n#15 0x560292a8e5ac <unknown>\n#16 0x560292a8cdc5 <unknown>\n#17 0x560292a77e95 <unknown>\n#18 0x560292a8da1a <unknown>\n#19 0x560292a605c9 <unknown>\n#20 0x560292ab60f8 <unknown>\n#21 0x560292ab6295 <unknown>\n#22 0x560292aca3f3 <unknown>\n#23 0x7f90a929cb84 <unknown>\n#24 0x7f90a9329ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc20936 <unknown>\n#3 0x55c07dc11971 <unknown>\n#4 0x55c07dc136b0 <unknown>\n#5 0x55c07dc11e5a <unknown>\n#6 0x55c07dc114f9 <unknown>\n#7 0x55c07dc11116 <unknown>\n#8 0x55c07dc0ed40 <unknown>\n#9 0x55c07dc0f560 <unknown>\n#10 0x55c07dc2d551 <unknown>\n#11 0x55c07dccaecb <unknown>\n#12 0x55c07dcca1df <unknown>\n#13 0x55c07dc73148 <unknown>\n#14 0x55c07dc73f11 <unknown>\n#15 0x55c07e2be5ac <unknown>\n#16 0x55c07e2bcdc5 <unknown>\n#17 0x55c07e2a7e95 <unknown>\n#18 0x55c07e2bda1a <unknown>\n#19 0x55c07e2905c9 <unknown>\n#20 0x55c07e2e60f8 <unknown>\n#21 0x55c07e2e6295 <unknown>\n#22 0x55c07e2fa3f3 <unknown>\n#23 0x7f6619a9cb84 <unknown>\n#24 0x7f6619b29ecc <unknown>\n"
     },
     "yes24": {
       "id": "140396456",
@@ -119,10 +131,22 @@
         }
       ]
     },
-    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=354371289"
+    "aladin": {
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=354371289",
+      "itemId": "354371289",
+      "overallRank": null,
+      "childrenRank": null,
+      "rankBasis": "주간 베스트 종합 / 어린이",
+      "salesPoint": 634,
+      "commentCount": 10,
+      "reviewCount": 7,
+      "reviewScore": null,
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+    }
   },
   "literacy-3": {
-    "t": "2026-10-14T17:42:24+09:00",
+    "t": "2026-10-14T18:42:55+09:00",
     "book": "literacy-3",
     "title": "초등 첫 문해력 신문 3",
     "isbn": "9791173573767",
@@ -135,7 +159,7 @@
       "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000217058335/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000217058335/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "reviews": [],
-      "reviewContentError": "TimeoutException: Message: timeout: Timed out receiving message from renderer: -0.001\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x560292acbaaa <unknown>\n#1 0x5602923f9aa9 <unknown>\n#2 0x5602923e149b <unknown>\n#3 0x5602923e1116 <unknown>\n#4 0x5602923ded40 <unknown>\n#5 0x5602923df69f <unknown>\n#6 0x5602923ee890 <unknown>\n#7 0x5602924087f6 <unknown>\n#8 0x5602924102eb <unknown>\n#9 0x5602923dfdf9 <unknown>\n#10 0x56029240855d <unknown>\n#11 0x56029249a0a2 <unknown>\n#12 0x560292443148 <unknown>\n#13 0x560292443f11 <unknown>\n#14 0x560292a8e5ac <unknown>\n#15 0x560292a8cdc5 <unknown>\n#16 0x560292a77e95 <unknown>\n#17 0x560292a8da1a <unknown>\n#18 0x560292a605c9 <unknown>\n#19 0x560292ab60f8 <unknown>\n#20 0x560292ab6295 <unknown>\n#21 0x560292aca3f3 <unknown>\n#22 0x7f90a929cb84 <unknown>\n#23 0x7f90a9329ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc20936 <unknown>\n#3 0x55c07dc11971 <unknown>\n#4 0x55c07dc136b0 <unknown>\n#5 0x55c07dc11e5a <unknown>\n#6 0x55c07dc114f9 <unknown>\n#7 0x55c07dc11116 <unknown>\n#8 0x55c07dc0ed40 <unknown>\n#9 0x55c07dc0f560 <unknown>\n#10 0x55c07dc2d551 <unknown>\n#11 0x55c07dccaecb <unknown>\n#12 0x55c07dcca1df <unknown>\n#13 0x55c07dc73148 <unknown>\n#14 0x55c07dc73f11 <unknown>\n#15 0x55c07e2be5ac <unknown>\n#16 0x55c07e2bcdc5 <unknown>\n#17 0x55c07e2a7e95 <unknown>\n#18 0x55c07e2bda1a <unknown>\n#19 0x55c07e2905c9 <unknown>\n#20 0x55c07e2e60f8 <unknown>\n#21 0x55c07e2e6295 <unknown>\n#22 0x55c07e2fa3f3 <unknown>\n#23 0x7f6619a9cb84 <unknown>\n#24 0x7f6619b29ecc <unknown>\n"
     },
     "yes24": {
       "id": "149130037",
@@ -180,10 +204,22 @@
         }
       ]
     },
-    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367920761"
+    "aladin": {
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367920761",
+      "itemId": "367920761",
+      "overallRank": null,
+      "childrenRank": null,
+      "rankBasis": "주간 베스트 종합 / 어린이",
+      "salesPoint": 696,
+      "commentCount": 1,
+      "reviewCount": 4,
+      "reviewScore": null,
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+    }
   },
   "ai-literacy-newspaper": {
-    "t": "2026-10-14T17:42:24+09:00",
+    "t": "2026-10-14T18:42:55+09:00",
     "book": "ai-literacy-newspaper",
     "title": "초등 첫 AI 문해력 신문",
     "isbn": "9791176612739",
@@ -196,7 +232,7 @@
       "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000221142533/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000221142533/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "reviews": [],
-      "reviewContentError": "TimeoutException: Message: timeout: Timed out receiving message from renderer: -0.001\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x560292acbaaa <unknown>\n#1 0x5602923f9aa9 <unknown>\n#2 0x5602923e149b <unknown>\n#3 0x5602923e1116 <unknown>\n#4 0x5602923ded40 <unknown>\n#5 0x5602923df69f <unknown>\n#6 0x5602923ee890 <unknown>\n#7 0x5602924087f6 <unknown>\n#8 0x5602924102eb <unknown>\n#9 0x5602923dfdf9 <unknown>\n#10 0x56029240855d <unknown>\n#11 0x56029249a0a2 <unknown>\n#12 0x560292443148 <unknown>\n#13 0x560292443f11 <unknown>\n#14 0x560292a8e5ac <unknown>\n#15 0x560292a8cdc5 <unknown>\n#16 0x560292a77e95 <unknown>\n#17 0x560292a8da1a <unknown>\n#18 0x560292a605c9 <unknown>\n#19 0x560292ab60f8 <unknown>\n#20 0x560292ab6295 <unknown>\n#21 0x560292aca3f3 <unknown>\n#22 0x7f90a929cb84 <unknown>\n#23 0x7f90a9329ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc20936 <unknown>\n#3 0x55c07dc11971 <unknown>\n#4 0x55c07dc136b0 <unknown>\n#5 0x55c07dc11e5a <unknown>\n#6 0x55c07dc114f9 <unknown>\n#7 0x55c07dc11116 <unknown>\n#8 0x55c07dc0ed40 <unknown>\n#9 0x55c07dc0f560 <unknown>\n#10 0x55c07dc2d551 <unknown>\n#11 0x55c07dccaecb <unknown>\n#12 0x55c07dcca1df <unknown>\n#13 0x55c07dc73148 <unknown>\n#14 0x55c07dc73f11 <unknown>\n#15 0x55c07e2be5ac <unknown>\n#16 0x55c07e2bcdc5 <unknown>\n#17 0x55c07e2a7e95 <unknown>\n#18 0x55c07e2bda1a <unknown>\n#19 0x55c07e2905c9 <unknown>\n#20 0x55c07e2e60f8 <unknown>\n#21 0x55c07e2e6295 <unknown>\n#22 0x55c07e2fa3f3 <unknown>\n#23 0x7f6619a9cb84 <unknown>\n#24 0x7f6619b29ecc <unknown>\n"
     },
     "yes24": {
       "id": "195804491",
@@ -241,10 +277,22 @@
         }
       ]
     },
-    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=401134097"
+    "aladin": {
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=401134097",
+      "itemId": "401134097",
+      "overallRank": null,
+      "childrenRank": null,
+      "rankBasis": "주간 베스트 종합 / 어린이",
+      "salesPoint": 660,
+      "commentCount": 0,
+      "reviewCount": 33,
+      "reviewScore": null,
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+    }
   },
   "future-science-1": {
-    "t": "2026-10-14T17:42:24+09:00",
+    "t": "2026-10-14T18:42:55+09:00",
     "book": "future-science-1",
     "title": "장동선의 미래 과학 프로젝트 1",
     "isbn": "9791173576270",
@@ -257,7 +305,7 @@
       "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000218703871/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000218703871/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x560292acbaaa <unknown>\n#1 0x5602923f9aa9 <unknown>\n#2 0x5602923f0936 <unknown>\n#3 0x5602923e1971 <unknown>\n#4 0x5602923e36b0 <unknown>\n#5 0x5602923e1e5a <unknown>\n#6 0x5602923e14f9 <unknown>\n#7 0x5602923e1116 <unknown>\n#8 0x5602923ded40 <unknown>\n#9 0x5602923df560 <unknown>\n#10 0x5602923fd551 <unknown>\n#11 0x56029249aecb <unknown>\n#12 0x56029249a1df <unknown>\n#13 0x560292443148 <unknown>\n#14 0x560292443f11 <unknown>\n#15 0x560292a8e5ac <unknown>\n#16 0x560292a8cdc5 <unknown>\n#17 0x560292a77e95 <unknown>\n#18 0x560292a8da1a <unknown>\n#19 0x560292a605c9 <unknown>\n#20 0x560292ab60f8 <unknown>\n#21 0x560292ab6295 <unknown>\n#22 0x560292aca3f3 <unknown>\n#23 0x7f90a929cb84 <unknown>\n#24 0x7f90a9329ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc20936 <unknown>\n#3 0x55c07dc11971 <unknown>\n#4 0x55c07dc136b0 <unknown>\n#5 0x55c07dc11e5a <unknown>\n#6 0x55c07dc114f9 <unknown>\n#7 0x55c07dc11116 <unknown>\n#8 0x55c07dc0ed40 <unknown>\n#9 0x55c07dc0f560 <unknown>\n#10 0x55c07dc2d551 <unknown>\n#11 0x55c07dccaecb <unknown>\n#12 0x55c07dcca1df <unknown>\n#13 0x55c07dc73148 <unknown>\n#14 0x55c07dc73f11 <unknown>\n#15 0x55c07e2be5ac <unknown>\n#16 0x55c07e2bcdc5 <unknown>\n#17 0x55c07e2a7e95 <unknown>\n#18 0x55c07e2bda1a <unknown>\n#19 0x55c07e2905c9 <unknown>\n#20 0x55c07e2e60f8 <unknown>\n#21 0x55c07e2e6295 <unknown>\n#22 0x55c07e2fa3f3 <unknown>\n#23 0x7f6619a9cb84 <unknown>\n#24 0x7f6619b29ecc <unknown>\n"
     },
     "yes24": {
       "id": "167537883",
@@ -302,10 +350,22 @@
         }
       ]
     },
-    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=379190660"
+    "aladin": {
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=379190660",
+      "itemId": "379190660",
+      "overallRank": null,
+      "childrenRank": null,
+      "rankBasis": "주간 베스트 종합 / 어린이",
+      "salesPoint": 1190,
+      "commentCount": 0,
+      "reviewCount": 17,
+      "reviewScore": null,
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+    }
   },
   "future-science-2": {
-    "t": "2026-10-14T17:42:24+09:00",
+    "t": "2026-10-14T18:42:55+09:00",
     "book": "future-science-2",
     "title": "장동선의 미래 과학 프로젝트 2",
     "isbn": "9791173576287",
@@ -318,7 +378,7 @@
       "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000219786404/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000219786404/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x560292acbaaa <unknown>\n#1 0x5602923f9aa9 <unknown>\n#2 0x5602923f0936 <unknown>\n#3 0x5602923e1971 <unknown>\n#4 0x5602923e36b0 <unknown>\n#5 0x5602923e1e5a <unknown>\n#6 0x5602923e14f9 <unknown>\n#7 0x5602923e1116 <unknown>\n#8 0x5602923ded40 <unknown>\n#9 0x5602923df560 <unknown>\n#10 0x5602923fd551 <unknown>\n#11 0x56029249aecb <unknown>\n#12 0x56029249a1df <unknown>\n#13 0x560292443148 <unknown>\n#14 0x560292443f11 <unknown>\n#15 0x560292a8e5ac <unknown>\n#16 0x560292a8cdc5 <unknown>\n#17 0x560292a77e95 <unknown>\n#18 0x560292a8da1a <unknown>\n#19 0x560292a605c9 <unknown>\n#20 0x560292ab60f8 <unknown>\n#21 0x560292ab6295 <unknown>\n#22 0x560292aca3f3 <unknown>\n#23 0x7f90a929cb84 <unknown>\n#24 0x7f90a9329ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc20936 <unknown>\n#3 0x55c07dc11971 <unknown>\n#4 0x55c07dc136b0 <unknown>\n#5 0x55c07dc11e5a <unknown>\n#6 0x55c07dc114f9 <unknown>\n#7 0x55c07dc11116 <unknown>\n#8 0x55c07dc0ed40 <unknown>\n#9 0x55c07dc0f560 <unknown>\n#10 0x55c07dc2d551 <unknown>\n#11 0x55c07dccaecb <unknown>\n#12 0x55c07dcca1df <unknown>\n#13 0x55c07dc73148 <unknown>\n#14 0x55c07dc73f11 <unknown>\n#15 0x55c07e2be5ac <unknown>\n#16 0x55c07e2bcdc5 <unknown>\n#17 0x55c07e2a7e95 <unknown>\n#18 0x55c07e2bda1a <unknown>\n#19 0x55c07e2905c9 <unknown>\n#20 0x55c07e2e60f8 <unknown>\n#21 0x55c07e2e6295 <unknown>\n#22 0x55c07e2fa3f3 <unknown>\n#23 0x7f6619a9cb84 <unknown>\n#24 0x7f6619b29ecc <unknown>\n"
     },
     "yes24": {
       "id": "187666716",
@@ -363,10 +423,22 @@
         }
       ]
     },
-    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391279953"
+    "aladin": {
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391279953",
+      "itemId": "391279953",
+      "overallRank": null,
+      "childrenRank": null,
+      "rankBasis": "주간 베스트 종합 / 어린이",
+      "salesPoint": 836,
+      "commentCount": 1,
+      "reviewCount": 22,
+      "reviewScore": null,
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+    }
   },
   "future-science-3": {
-    "t": "2026-10-14T17:42:24+09:00",
+    "t": "2026-10-14T18:42:55+09:00",
     "book": "future-science-3",
     "title": "장동선의 미래 과학 프로젝트 3",
     "isbn": "9791173576294",
@@ -379,7 +451,7 @@
       "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000220693813/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000220693813/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x560292acbaaa <unknown>\n#1 0x5602923f9aa9 <unknown>\n#2 0x5602923f0936 <unknown>\n#3 0x5602923e1971 <unknown>\n#4 0x5602923e36b0 <unknown>\n#5 0x5602923e1e5a <unknown>\n#6 0x5602923e14f9 <unknown>\n#7 0x5602923e1116 <unknown>\n#8 0x5602923ded40 <unknown>\n#9 0x5602923df560 <unknown>\n#10 0x5602923fd551 <unknown>\n#11 0x56029249aecb <unknown>\n#12 0x56029249a1df <unknown>\n#13 0x560292443148 <unknown>\n#14 0x560292443f11 <unknown>\n#15 0x560292a8e5ac <unknown>\n#16 0x560292a8cdc5 <unknown>\n#17 0x560292a77e95 <unknown>\n#18 0x560292a8da1a <unknown>\n#19 0x560292a605c9 <unknown>\n#20 0x560292ab60f8 <unknown>\n#21 0x560292ab6295 <unknown>\n#22 0x560292aca3f3 <unknown>\n#23 0x7f90a929cb84 <unknown>\n#24 0x7f90a9329ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc20936 <unknown>\n#3 0x55c07dc11971 <unknown>\n#4 0x55c07dc136b0 <unknown>\n#5 0x55c07dc11e5a <unknown>\n#6 0x55c07dc114f9 <unknown>\n#7 0x55c07dc11116 <unknown>\n#8 0x55c07dc0ed40 <unknown>\n#9 0x55c07dc0f560 <unknown>\n#10 0x55c07dc2d551 <unknown>\n#11 0x55c07dccaecb <unknown>\n#12 0x55c07dcca1df <unknown>\n#13 0x55c07dc73148 <unknown>\n#14 0x55c07dc73f11 <unknown>\n#15 0x55c07e2be5ac <unknown>\n#16 0x55c07e2bcdc5 <unknown>\n#17 0x55c07e2a7e95 <unknown>\n#18 0x55c07e2bda1a <unknown>\n#19 0x55c07e2905c9 <unknown>\n#20 0x55c07e2e60f8 <unknown>\n#21 0x55c07e2e6295 <unknown>\n#22 0x55c07e2fa3f3 <unknown>\n#23 0x7f6619a9cb84 <unknown>\n#24 0x7f6619b29ecc <unknown>\n"
     },
     "yes24": {
       "id": "194502221",
@@ -424,10 +496,22 @@
         }
       ]
     },
-    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=399320263"
+    "aladin": {
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=399320263",
+      "itemId": "399320263",
+      "overallRank": null,
+      "childrenRank": null,
+      "rankBasis": "주간 베스트 종합 / 어린이",
+      "salesPoint": 635,
+      "commentCount": 1,
+      "reviewCount": 27,
+      "reviewScore": null,
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+    }
   },
   "human-body-1": {
-    "t": "2026-10-14T17:42:24+09:00",
+    "t": "2026-10-14T18:42:55+09:00",
     "book": "human-body-1",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 1",
     "isbn": "9791173578625",
@@ -440,7 +524,7 @@
       "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000219523042/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000219523042/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x560292acbaaa <unknown>\n#1 0x5602923f9aa9 <unknown>\n#2 0x5602923f0936 <unknown>\n#3 0x5602923e1971 <unknown>\n#4 0x5602923e36b0 <unknown>\n#5 0x5602923e1e5a <unknown>\n#6 0x5602923e14f9 <unknown>\n#7 0x5602923e1116 <unknown>\n#8 0x5602923ded40 <unknown>\n#9 0x5602923df560 <unknown>\n#10 0x5602923fd551 <unknown>\n#11 0x56029249aecb <unknown>\n#12 0x56029249a1df <unknown>\n#13 0x560292443148 <unknown>\n#14 0x560292443f11 <unknown>\n#15 0x560292a8e5ac <unknown>\n#16 0x560292a8cdc5 <unknown>\n#17 0x560292a77e95 <unknown>\n#18 0x560292a8da1a <unknown>\n#19 0x560292a605c9 <unknown>\n#20 0x560292ab60f8 <unknown>\n#21 0x560292ab6295 <unknown>\n#22 0x560292aca3f3 <unknown>\n#23 0x7f90a929cb84 <unknown>\n#24 0x7f90a9329ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc20936 <unknown>\n#3 0x55c07dc11971 <unknown>\n#4 0x55c07dc136b0 <unknown>\n#5 0x55c07dc11e5a <unknown>\n#6 0x55c07dc114f9 <unknown>\n#7 0x55c07dc11116 <unknown>\n#8 0x55c07dc0ed40 <unknown>\n#9 0x55c07dc0f560 <unknown>\n#10 0x55c07dc2d551 <unknown>\n#11 0x55c07dccaecb <unknown>\n#12 0x55c07dcca1df <unknown>\n#13 0x55c07dc73148 <unknown>\n#14 0x55c07dc73f11 <unknown>\n#15 0x55c07e2be5ac <unknown>\n#16 0x55c07e2bcdc5 <unknown>\n#17 0x55c07e2a7e95 <unknown>\n#18 0x55c07e2bda1a <unknown>\n#19 0x55c07e2905c9 <unknown>\n#20 0x55c07e2e60f8 <unknown>\n#21 0x55c07e2e6295 <unknown>\n#22 0x55c07e2fa3f3 <unknown>\n#23 0x7f6619a9cb84 <unknown>\n#24 0x7f6619b29ecc <unknown>\n"
     },
     "yes24": {
       "id": "183650258",
@@ -485,10 +569,22 @@
         }
       ]
     },
-    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=388782020"
+    "aladin": {
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=388782020",
+      "itemId": "388782020",
+      "overallRank": null,
+      "childrenRank": null,
+      "rankBasis": "주간 베스트 종합 / 어린이",
+      "salesPoint": 2244,
+      "commentCount": 1,
+      "reviewCount": 32,
+      "reviewScore": null,
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+    }
   },
   "human-body-2": {
-    "t": "2026-10-14T17:42:24+09:00",
+    "t": "2026-10-14T18:42:55+09:00",
     "book": "human-body-2",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 2",
     "isbn": "9791173578632",
@@ -501,7 +597,7 @@
       "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000220616258/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000220616258/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x560292acbaaa <unknown>\n#1 0x5602923f9aa9 <unknown>\n#2 0x5602923f0936 <unknown>\n#3 0x5602923e1971 <unknown>\n#4 0x5602923e36b0 <unknown>\n#5 0x5602923e1e5a <unknown>\n#6 0x5602923e14f9 <unknown>\n#7 0x5602923e1116 <unknown>\n#8 0x5602923ded40 <unknown>\n#9 0x5602923df560 <unknown>\n#10 0x5602923fd551 <unknown>\n#11 0x56029249aecb <unknown>\n#12 0x56029249a1df <unknown>\n#13 0x560292443148 <unknown>\n#14 0x560292443f11 <unknown>\n#15 0x560292a8e5ac <unknown>\n#16 0x560292a8cdc5 <unknown>\n#17 0x560292a77e95 <unknown>\n#18 0x560292a8da1a <unknown>\n#19 0x560292a605c9 <unknown>\n#20 0x560292ab60f8 <unknown>\n#21 0x560292ab6295 <unknown>\n#22 0x560292aca3f3 <unknown>\n#23 0x7f90a929cb84 <unknown>\n#24 0x7f90a9329ecc <unknown>\n"
+      "reviewContentError": "TimeoutException: Message: timeout: Timed out receiving message from renderer: -0.002\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc1149b <unknown>\n#3 0x55c07dc11116 <unknown>\n#4 0x55c07dc0ed40 <unknown>\n#5 0x55c07dc0f69f <unknown>\n#6 0x55c07dc1e890 <unknown>\n#7 0x55c07dc387f6 <unknown>\n#8 0x55c07dc402eb <unknown>\n#9 0x55c07dc0fdf9 <unknown>\n#10 0x55c07dc3855d <unknown>\n#11 0x55c07dcca0a2 <unknown>\n#12 0x55c07dc73148 <unknown>\n#13 0x55c07dc73f11 <unknown>\n#14 0x55c07e2be5ac <unknown>\n#15 0x55c07e2bcdc5 <unknown>\n#16 0x55c07e2a7e95 <unknown>\n#17 0x55c07e2bda1a <unknown>\n#18 0x55c07e2905c9 <unknown>\n#19 0x55c07e2e60f8 <unknown>\n#20 0x55c07e2e6295 <unknown>\n#21 0x55c07e2fa3f3 <unknown>\n#22 0x7f6619a9cb84 <unknown>\n#23 0x7f6619b29ecc <unknown>\n"
     },
     "yes24": {
       "id": "194203560",
@@ -546,10 +642,22 @@
         }
       ]
     },
-    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=398769685"
+    "aladin": {
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=398769685",
+      "itemId": "398769685",
+      "overallRank": null,
+      "childrenRank": null,
+      "rankBasis": "주간 베스트 종합 / 어린이",
+      "salesPoint": 1325,
+      "commentCount": 1,
+      "reviewCount": 35,
+      "reviewScore": null,
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+    }
   },
   "yako-knowledge-1": {
-    "t": "2026-10-14T17:42:24+09:00",
+    "t": "2026-10-14T18:42:55+09:00",
     "book": "yako-knowledge-1",
     "title": "빨간내복야코 어린이 상식 1",
     "isbn": "9791171178704",
@@ -562,7 +670,7 @@
       "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000214679586/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000214679586/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x560292acbaaa <unknown>\n#1 0x5602923f9aa9 <unknown>\n#2 0x5602923f0936 <unknown>\n#3 0x5602923e1971 <unknown>\n#4 0x5602923e36b0 <unknown>\n#5 0x5602923e1e5a <unknown>\n#6 0x5602923e14f9 <unknown>\n#7 0x5602923e1116 <unknown>\n#8 0x5602923ded40 <unknown>\n#9 0x5602923df560 <unknown>\n#10 0x5602923fd551 <unknown>\n#11 0x56029249aecb <unknown>\n#12 0x56029249a1df <unknown>\n#13 0x560292443148 <unknown>\n#14 0x560292443f11 <unknown>\n#15 0x560292a8e5ac <unknown>\n#16 0x560292a8cdc5 <unknown>\n#17 0x560292a77e95 <unknown>\n#18 0x560292a8da1a <unknown>\n#19 0x560292a605c9 <unknown>\n#20 0x560292ab60f8 <unknown>\n#21 0x560292ab6295 <unknown>\n#22 0x560292aca3f3 <unknown>\n#23 0x7f90a929cb84 <unknown>\n#24 0x7f90a9329ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc20936 <unknown>\n#3 0x55c07dc11971 <unknown>\n#4 0x55c07dc136b0 <unknown>\n#5 0x55c07dc11e5a <unknown>\n#6 0x55c07dc114f9 <unknown>\n#7 0x55c07dc11116 <unknown>\n#8 0x55c07dc0ed40 <unknown>\n#9 0x55c07dc0f560 <unknown>\n#10 0x55c07dc2d551 <unknown>\n#11 0x55c07dccaecb <unknown>\n#12 0x55c07dcca1df <unknown>\n#13 0x55c07dc73148 <unknown>\n#14 0x55c07dc73f11 <unknown>\n#15 0x55c07e2be5ac <unknown>\n#16 0x55c07e2bcdc5 <unknown>\n#17 0x55c07e2a7e95 <unknown>\n#18 0x55c07e2bda1a <unknown>\n#19 0x55c07e2905c9 <unknown>\n#20 0x55c07e2e60f8 <unknown>\n#21 0x55c07e2e6295 <unknown>\n#22 0x55c07e2fa3f3 <unknown>\n#23 0x7f6619a9cb84 <unknown>\n#24 0x7f6619b29ecc <unknown>\n"
     },
     "yes24": {
       "id": "136559043",
@@ -607,10 +715,22 @@
         }
       ]
     },
-    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=351205337"
+    "aladin": {
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=351205337",
+      "itemId": "351205337",
+      "overallRank": null,
+      "childrenRank": null,
+      "rankBasis": "주간 베스트 종합 / 어린이",
+      "salesPoint": 3327,
+      "commentCount": 0,
+      "reviewCount": 11,
+      "reviewScore": null,
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+    }
   },
   "yako-knowledge-2": {
-    "t": "2026-10-14T17:42:24+09:00",
+    "t": "2026-10-14T18:42:55+09:00",
     "book": "yako-knowledge-2",
     "title": "빨간내복야코 어린이 상식 2",
     "isbn": "9791173571749",
@@ -623,7 +743,7 @@
       "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000216145558/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000216145558/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "reviews": [],
-      "reviewContentError": "TimeoutException: Message: timeout: Timed out receiving message from renderer: -0.001\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x560292acbaaa <unknown>\n#1 0x5602923f9aa9 <unknown>\n#2 0x5602923e149b <unknown>\n#3 0x5602923e1116 <unknown>\n#4 0x5602923ded40 <unknown>\n#5 0x5602923df69f <unknown>\n#6 0x5602923ee890 <unknown>\n#7 0x5602924087f6 <unknown>\n#8 0x5602924102eb <unknown>\n#9 0x5602923dfdf9 <unknown>\n#10 0x56029240855d <unknown>\n#11 0x56029249a0a2 <unknown>\n#12 0x560292443148 <unknown>\n#13 0x560292443f11 <unknown>\n#14 0x560292a8e5ac <unknown>\n#15 0x560292a8cdc5 <unknown>\n#16 0x560292a77e95 <unknown>\n#17 0x560292a8da1a <unknown>\n#18 0x560292a605c9 <unknown>\n#19 0x560292ab60f8 <unknown>\n#20 0x560292ab6295 <unknown>\n#21 0x560292aca3f3 <unknown>\n#22 0x7f90a929cb84 <unknown>\n#23 0x7f90a9329ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc20936 <unknown>\n#3 0x55c07dc11971 <unknown>\n#4 0x55c07dc136b0 <unknown>\n#5 0x55c07dc11e5a <unknown>\n#6 0x55c07dc114f9 <unknown>\n#7 0x55c07dc11116 <unknown>\n#8 0x55c07dc0ed40 <unknown>\n#9 0x55c07dc0f560 <unknown>\n#10 0x55c07dc2d551 <unknown>\n#11 0x55c07dccaecb <unknown>\n#12 0x55c07dcca1df <unknown>\n#13 0x55c07dc73148 <unknown>\n#14 0x55c07dc73f11 <unknown>\n#15 0x55c07e2be5ac <unknown>\n#16 0x55c07e2bcdc5 <unknown>\n#17 0x55c07e2a7e95 <unknown>\n#18 0x55c07e2bda1a <unknown>\n#19 0x55c07e2905c9 <unknown>\n#20 0x55c07e2e60f8 <unknown>\n#21 0x55c07e2e6295 <unknown>\n#22 0x55c07e2fa3f3 <unknown>\n#23 0x7f6619a9cb84 <unknown>\n#24 0x7f6619b29ecc <unknown>\n"
     },
     "yes24": {
       "id": "144076825",
@@ -668,10 +788,22 @@
         }
       ]
     },
-    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=360975965"
+    "aladin": {
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=360975965",
+      "itemId": "360975965",
+      "overallRank": null,
+      "childrenRank": null,
+      "rankBasis": "주간 베스트 종합 / 어린이",
+      "salesPoint": 3322,
+      "commentCount": 0,
+      "reviewCount": 1,
+      "reviewScore": null,
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+    }
   },
   "yako-knowledge-3": {
-    "t": "2026-10-14T17:42:24+09:00",
+    "t": "2026-10-14T18:42:55+09:00",
     "book": "yako-knowledge-3",
     "title": "빨간내복야코 어린이 상식 3",
     "isbn": "9791173573798",
@@ -684,7 +816,7 @@
       "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000217006715/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000217006715/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x560292acbaaa <unknown>\n#1 0x5602923f9aa9 <unknown>\n#2 0x5602923f0936 <unknown>\n#3 0x5602923e1971 <unknown>\n#4 0x5602923e36b0 <unknown>\n#5 0x5602923e1e5a <unknown>\n#6 0x5602923e14f9 <unknown>\n#7 0x5602923e1116 <unknown>\n#8 0x5602923ded40 <unknown>\n#9 0x5602923df560 <unknown>\n#10 0x5602923fd551 <unknown>\n#11 0x56029249aecb <unknown>\n#12 0x56029249a1df <unknown>\n#13 0x560292443148 <unknown>\n#14 0x560292443f11 <unknown>\n#15 0x560292a8e5ac <unknown>\n#16 0x560292a8cdc5 <unknown>\n#17 0x560292a77e95 <unknown>\n#18 0x560292a8da1a <unknown>\n#19 0x560292a605c9 <unknown>\n#20 0x560292ab60f8 <unknown>\n#21 0x560292ab6295 <unknown>\n#22 0x560292aca3f3 <unknown>\n#23 0x7f90a929cb84 <unknown>\n#24 0x7f90a9329ecc <unknown>\n"
+      "reviewContentError": "TimeoutException: Message: timeout: Timed out receiving message from renderer: -0.002\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc1149b <unknown>\n#3 0x55c07dc11116 <unknown>\n#4 0x55c07dc0ed40 <unknown>\n#5 0x55c07dc0f69f <unknown>\n#6 0x55c07dc1e890 <unknown>\n#7 0x55c07dc387f6 <unknown>\n#8 0x55c07dc402eb <unknown>\n#9 0x55c07dc0fdf9 <unknown>\n#10 0x55c07dc3855d <unknown>\n#11 0x55c07dcca0a2 <unknown>\n#12 0x55c07dc73148 <unknown>\n#13 0x55c07dc73f11 <unknown>\n#14 0x55c07e2be5ac <unknown>\n#15 0x55c07e2bcdc5 <unknown>\n#16 0x55c07e2a7e95 <unknown>\n#17 0x55c07e2bda1a <unknown>\n#18 0x55c07e2905c9 <unknown>\n#19 0x55c07e2e60f8 <unknown>\n#20 0x55c07e2e6295 <unknown>\n#21 0x55c07e2fa3f3 <unknown>\n#22 0x7f6619a9cb84 <unknown>\n#23 0x7f6619b29ecc <unknown>\n"
     },
     "yes24": {
       "id": "148709400",
@@ -729,10 +861,22 @@
         }
       ]
     },
-    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367518731"
+    "aladin": {
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367518731",
+      "itemId": "367518731",
+      "overallRank": null,
+      "childrenRank": null,
+      "rankBasis": "주간 베스트 종합 / 어린이",
+      "salesPoint": 3853,
+      "commentCount": 0,
+      "reviewCount": 6,
+      "reviewScore": null,
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+    }
   },
   "yako-knowledge-4": {
-    "t": "2026-10-14T17:42:24+09:00",
+    "t": "2026-10-14T18:42:55+09:00",
     "book": "yako-knowledge-4",
     "title": "빨간내복야코 어린이 상식 4",
     "isbn": "9791173574412",
@@ -745,7 +889,7 @@
       "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000218331545/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000218331545/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x560292acbaaa <unknown>\n#1 0x5602923f9aa9 <unknown>\n#2 0x5602923f0936 <unknown>\n#3 0x5602923e1971 <unknown>\n#4 0x5602923e36b0 <unknown>\n#5 0x5602923e1e5a <unknown>\n#6 0x5602923e14f9 <unknown>\n#7 0x5602923e1116 <unknown>\n#8 0x5602923ded40 <unknown>\n#9 0x5602923df560 <unknown>\n#10 0x5602923fd551 <unknown>\n#11 0x56029249aecb <unknown>\n#12 0x56029249a1df <unknown>\n#13 0x560292443148 <unknown>\n#14 0x560292443f11 <unknown>\n#15 0x560292a8e5ac <unknown>\n#16 0x560292a8cdc5 <unknown>\n#17 0x560292a77e95 <unknown>\n#18 0x560292a8da1a <unknown>\n#19 0x560292a605c9 <unknown>\n#20 0x560292ab60f8 <unknown>\n#21 0x560292ab6295 <unknown>\n#22 0x560292aca3f3 <unknown>\n#23 0x7f90a929cb84 <unknown>\n#24 0x7f90a9329ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc20936 <unknown>\n#3 0x55c07dc11971 <unknown>\n#4 0x55c07dc136b0 <unknown>\n#5 0x55c07dc11e5a <unknown>\n#6 0x55c07dc114f9 <unknown>\n#7 0x55c07dc11116 <unknown>\n#8 0x55c07dc0ed40 <unknown>\n#9 0x55c07dc0f560 <unknown>\n#10 0x55c07dc2d551 <unknown>\n#11 0x55c07dccaecb <unknown>\n#12 0x55c07dcca1df <unknown>\n#13 0x55c07dc73148 <unknown>\n#14 0x55c07dc73f11 <unknown>\n#15 0x55c07e2be5ac <unknown>\n#16 0x55c07e2bcdc5 <unknown>\n#17 0x55c07e2a7e95 <unknown>\n#18 0x55c07e2bda1a <unknown>\n#19 0x55c07e2905c9 <unknown>\n#20 0x55c07e2e60f8 <unknown>\n#21 0x55c07e2e6295 <unknown>\n#22 0x55c07e2fa3f3 <unknown>\n#23 0x7f6619a9cb84 <unknown>\n#24 0x7f6619b29ecc <unknown>\n"
     },
     "yes24": {
       "id": "163002362",
@@ -790,10 +934,22 @@
         }
       ]
     },
-    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=375958389"
+    "aladin": {
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=375958389",
+      "itemId": "375958389",
+      "overallRank": null,
+      "childrenRank": null,
+      "rankBasis": "주간 베스트 종합 / 어린이",
+      "salesPoint": 5677,
+      "commentCount": 0,
+      "reviewCount": 0,
+      "reviewScore": null,
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+    }
   },
   "yako-knowledge-5": {
-    "t": "2026-10-14T17:42:24+09:00",
+    "t": "2026-10-14T18:42:55+09:00",
     "book": "yako-knowledge-5",
     "title": "빨간내복야코 어린이 상식 5",
     "isbn": "9791173577598",
@@ -806,7 +962,7 @@
       "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000219211516/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000219211516/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "reviews": [],
-      "reviewContentError": "TimeoutException: Message: timeout: Timed out receiving message from renderer: -0.002\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x560292acbaaa <unknown>\n#1 0x5602923f9aa9 <unknown>\n#2 0x5602923e149b <unknown>\n#3 0x5602923e1116 <unknown>\n#4 0x5602923ded40 <unknown>\n#5 0x5602923df69f <unknown>\n#6 0x5602923ee890 <unknown>\n#7 0x5602924087f6 <unknown>\n#8 0x5602924102eb <unknown>\n#9 0x5602923dfdf9 <unknown>\n#10 0x56029240855d <unknown>\n#11 0x56029249a0a2 <unknown>\n#12 0x560292443148 <unknown>\n#13 0x560292443f11 <unknown>\n#14 0x560292a8e5ac <unknown>\n#15 0x560292a8cdc5 <unknown>\n#16 0x560292a77e95 <unknown>\n#17 0x560292a8da1a <unknown>\n#18 0x560292a605c9 <unknown>\n#19 0x560292ab60f8 <unknown>\n#20 0x560292ab6295 <unknown>\n#21 0x560292aca3f3 <unknown>\n#22 0x7f90a929cb84 <unknown>\n#23 0x7f90a9329ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc20936 <unknown>\n#3 0x55c07dc11971 <unknown>\n#4 0x55c07dc136b0 <unknown>\n#5 0x55c07dc11e5a <unknown>\n#6 0x55c07dc114f9 <unknown>\n#7 0x55c07dc11116 <unknown>\n#8 0x55c07dc0ed40 <unknown>\n#9 0x55c07dc0f560 <unknown>\n#10 0x55c07dc2d551 <unknown>\n#11 0x55c07dccaecb <unknown>\n#12 0x55c07dcca1df <unknown>\n#13 0x55c07dc73148 <unknown>\n#14 0x55c07dc73f11 <unknown>\n#15 0x55c07e2be5ac <unknown>\n#16 0x55c07e2bcdc5 <unknown>\n#17 0x55c07e2a7e95 <unknown>\n#18 0x55c07e2bda1a <unknown>\n#19 0x55c07e2905c9 <unknown>\n#20 0x55c07e2e60f8 <unknown>\n#21 0x55c07e2e6295 <unknown>\n#22 0x55c07e2fa3f3 <unknown>\n#23 0x7f6619a9cb84 <unknown>\n#24 0x7f6619b29ecc <unknown>\n"
     },
     "yes24": {
       "id": "177507219",
@@ -851,10 +1007,22 @@
         }
       ]
     },
-    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=385788090"
+    "aladin": {
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=385788090",
+      "itemId": "385788090",
+      "overallRank": null,
+      "childrenRank": null,
+      "rankBasis": "주간 베스트 종합 / 어린이",
+      "salesPoint": 4631,
+      "commentCount": 0,
+      "reviewCount": 12,
+      "reviewScore": null,
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+    }
   },
   "yako-knowledge-6": {
-    "t": "2026-10-14T17:42:24+09:00",
+    "t": "2026-10-14T18:42:55+09:00",
     "book": "yako-knowledge-6",
     "title": "빨간내복야코 어린이 상식 6",
     "isbn": "9791173579073",
@@ -867,7 +1035,7 @@
       "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000220339967/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000220339967/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "reviews": [],
-      "reviewContentError": "TimeoutException: Message: timeout: Timed out receiving message from renderer: -0.001\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x560292acbaaa <unknown>\n#1 0x5602923f9aa9 <unknown>\n#2 0x5602923e149b <unknown>\n#3 0x5602923e1116 <unknown>\n#4 0x5602923ded40 <unknown>\n#5 0x5602923df69f <unknown>\n#6 0x5602923ee890 <unknown>\n#7 0x5602924087f6 <unknown>\n#8 0x5602924102eb <unknown>\n#9 0x5602923dfdf9 <unknown>\n#10 0x56029240855d <unknown>\n#11 0x56029249a0a2 <unknown>\n#12 0x560292443148 <unknown>\n#13 0x560292443f11 <unknown>\n#14 0x560292a8e5ac <unknown>\n#15 0x560292a8cdc5 <unknown>\n#16 0x560292a77e95 <unknown>\n#17 0x560292a8da1a <unknown>\n#18 0x560292a605c9 <unknown>\n#19 0x560292ab60f8 <unknown>\n#20 0x560292ab6295 <unknown>\n#21 0x560292aca3f3 <unknown>\n#22 0x7f90a929cb84 <unknown>\n#23 0x7f90a9329ecc <unknown>\n"
+      "reviewContentError": "TimeoutException: Message: timeout: Timed out receiving message from renderer: -0.002\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc1149b <unknown>\n#3 0x55c07dc11116 <unknown>\n#4 0x55c07dc0ed40 <unknown>\n#5 0x55c07dc0f69f <unknown>\n#6 0x55c07dc1e890 <unknown>\n#7 0x55c07dc387f6 <unknown>\n#8 0x55c07dc402eb <unknown>\n#9 0x55c07dc0fdf9 <unknown>\n#10 0x55c07dc3855d <unknown>\n#11 0x55c07dcca0a2 <unknown>\n#12 0x55c07dc73148 <unknown>\n#13 0x55c07dc73f11 <unknown>\n#14 0x55c07e2be5ac <unknown>\n#15 0x55c07e2bcdc5 <unknown>\n#16 0x55c07e2a7e95 <unknown>\n#17 0x55c07e2bda1a <unknown>\n#18 0x55c07e2905c9 <unknown>\n#19 0x55c07e2e60f8 <unknown>\n#20 0x55c07e2e6295 <unknown>\n#21 0x55c07e2fa3f3 <unknown>\n#22 0x7f6619a9cb84 <unknown>\n#23 0x7f6619b29ecc <unknown>\n"
     },
     "yes24": {
       "id": "192491768",
@@ -912,6 +1080,18 @@
         }
       ]
     },
-    "aladinError": "HTTPError: 403 Client Error: Forbidden for url: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=396456287"
+    "aladin": {
+      "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=396456287",
+      "itemId": "396456287",
+      "overallRank": null,
+      "childrenRank": null,
+      "rankBasis": "주간 베스트 종합 / 어린이",
+      "salesPoint": 2875,
+      "commentCount": 0,
+      "reviewCount": 23,
+      "reviewScore": null,
+      "reviews": [],
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+    }
   }
 }
