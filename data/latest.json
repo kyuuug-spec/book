@@ -1,6 +1,6 @@
 {
   "literacy-1": {
-    "t": "2026-10-14T18:42:55+09:00",
+    "t": "2026-10-14T19:43:00+09:00",
     "book": "literacy-1",
     "title": "초등 첫 문해력 신문",
     "isbn": "9791171177028",
@@ -13,7 +13,7 @@
       "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000213805875/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000213805875/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "reviews": [],
-      "reviewContentError": "TimeoutException: Message: timeout: Timed out receiving message from renderer: -0.002\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc1149b <unknown>\n#3 0x55c07dc11116 <unknown>\n#4 0x55c07dc0ed40 <unknown>\n#5 0x55c07dc0f69f <unknown>\n#6 0x55c07dc1e890 <unknown>\n#7 0x55c07dc387f6 <unknown>\n#8 0x55c07dc402eb <unknown>\n#9 0x55c07dc0fdf9 <unknown>\n#10 0x55c07dc3855d <unknown>\n#11 0x55c07dcca0a2 <unknown>\n#12 0x55c07dc73148 <unknown>\n#13 0x55c07dc73f11 <unknown>\n#14 0x55c07e2be5ac <unknown>\n#15 0x55c07e2bcdc5 <unknown>\n#16 0x55c07e2a7e95 <unknown>\n#17 0x55c07e2bda1a <unknown>\n#18 0x55c07e2905c9 <unknown>\n#19 0x55c07e2e60f8 <unknown>\n#20 0x55c07e2e6295 <unknown>\n#21 0x55c07e2fa3f3 <unknown>\n#22 0x7f6619a9cb84 <unknown>\n#23 0x7f6619b29ecc <unknown>\n"
+      "reviewContentError": "TimeoutException: Message: timeout: Timed out receiving message from renderer: -0.002\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55fb673fcaaa <unknown>\n#1 0x55fb66d2aaa9 <unknown>\n#2 0x55fb66d1249b <unknown>\n#3 0x55fb66d12116 <unknown>\n#4 0x55fb66d0fd40 <unknown>\n#5 0x55fb66d1069f <unknown>\n#6 0x55fb66d1f890 <unknown>\n#7 0x55fb66d397f6 <unknown>\n#8 0x55fb66d412eb <unknown>\n#9 0x55fb66d10df9 <unknown>\n#10 0x55fb66d3955d <unknown>\n#11 0x55fb66dcb0a2 <unknown>\n#12 0x55fb66d74148 <unknown>\n#13 0x55fb66d74f11 <unknown>\n#14 0x55fb673bf5ac <unknown>\n#15 0x55fb673bddc5 <unknown>\n#16 0x55fb673a8e95 <unknown>\n#17 0x55fb673bea1a <unknown>\n#18 0x55fb673915c9 <unknown>\n#19 0x55fb673e70f8 <unknown>\n#20 0x55fb673e7295 <unknown>\n#21 0x55fb673fb3f3 <unknown>\n#22 0x7f4d08e9cb84 <unknown>\n#23 0x7f4d08f29ecc <unknown>\n"
     },
     "yes24": {
       "id": "128939189",
@@ -69,11 +69,11 @@
       "reviewCount": 38,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55fb673fcaaa <unknown>\n#1 0x55fb66d2aaa9 <unknown>\n#2 0x55fb66d2e474 <unknown>\n#3 0x55fb66dcbecb <unknown>\n#4 0x55fb66dcb1df <unknown>\n#5 0x55fb66d74148 <unknown>\n#6 0x55fb66d74f11 <unknown>\n#7 0x55fb673bf5ac <unknown>\n#8 0x55fb673bddc5 <unknown>\n#9 0x55fb673a8e95 <unknown>\n#10 0x55fb673bea1a <unknown>\n#11 0x55fb673915c9 <unknown>\n#12 0x55fb673e70f8 <unknown>\n#13 0x55fb673e7295 <unknown>\n#14 0x55fb673fb3f3 <unknown>\n#15 0x7f4d08e9cb84 <unknown>\n#16 0x7f4d08f29ecc <unknown>\n"
     }
   },
   "literacy-2": {
-    "t": "2026-10-14T18:42:55+09:00",
+    "t": "2026-10-14T19:43:00+09:00",
     "book": "literacy-2",
     "title": "초등 첫 문해력 신문 2",
     "isbn": "9791171179688",
@@ -86,7 +86,7 @@
       "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000215056017/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000215056017/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc20936 <unknown>\n#3 0x55c07dc11971 <unknown>\n#4 0x55c07dc136b0 <unknown>\n#5 0x55c07dc11e5a <unknown>\n#6 0x55c07dc114f9 <unknown>\n#7 0x55c07dc11116 <unknown>\n#8 0x55c07dc0ed40 <unknown>\n#9 0x55c07dc0f560 <unknown>\n#10 0x55c07dc2d551 <unknown>\n#11 0x55c07dccaecb <unknown>\n#12 0x55c07dcca1df <unknown>\n#13 0x55c07dc73148 <unknown>\n#14 0x55c07dc73f11 <unknown>\n#15 0x55c07e2be5ac <unknown>\n#16 0x55c07e2bcdc5 <unknown>\n#17 0x55c07e2a7e95 <unknown>\n#18 0x55c07e2bda1a <unknown>\n#19 0x55c07e2905c9 <unknown>\n#20 0x55c07e2e60f8 <unknown>\n#21 0x55c07e2e6295 <unknown>\n#22 0x55c07e2fa3f3 <unknown>\n#23 0x7f6619a9cb84 <unknown>\n#24 0x7f6619b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55fb673fcaaa <unknown>\n#1 0x55fb66d2aaa9 <unknown>\n#2 0x55fb66d21936 <unknown>\n#3 0x55fb66d12971 <unknown>\n#4 0x55fb66d146b0 <unknown>\n#5 0x55fb66d12e5a <unknown>\n#6 0x55fb66d124f9 <unknown>\n#7 0x55fb66d12116 <unknown>\n#8 0x55fb66d0fd40 <unknown>\n#9 0x55fb66d10560 <unknown>\n#10 0x55fb66d2e551 <unknown>\n#11 0x55fb66dcbecb <unknown>\n#12 0x55fb66dcb1df <unknown>\n#13 0x55fb66d74148 <unknown>\n#14 0x55fb66d74f11 <unknown>\n#15 0x55fb673bf5ac <unknown>\n#16 0x55fb673bddc5 <unknown>\n#17 0x55fb673a8e95 <unknown>\n#18 0x55fb673bea1a <unknown>\n#19 0x55fb673915c9 <unknown>\n#20 0x55fb673e70f8 <unknown>\n#21 0x55fb673e7295 <unknown>\n#22 0x55fb673fb3f3 <unknown>\n#23 0x7f4d08e9cb84 <unknown>\n#24 0x7f4d08f29ecc <unknown>\n"
     },
     "yes24": {
       "id": "140396456",
@@ -142,11 +142,11 @@
       "reviewCount": 7,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55fb673fcaaa <unknown>\n#1 0x55fb66d2aaa9 <unknown>\n#2 0x55fb66d2e474 <unknown>\n#3 0x55fb66dcbecb <unknown>\n#4 0x55fb66dcb1df <unknown>\n#5 0x55fb66d74148 <unknown>\n#6 0x55fb66d74f11 <unknown>\n#7 0x55fb673bf5ac <unknown>\n#8 0x55fb673bddc5 <unknown>\n#9 0x55fb673a8e95 <unknown>\n#10 0x55fb673bea1a <unknown>\n#11 0x55fb673915c9 <unknown>\n#12 0x55fb673e70f8 <unknown>\n#13 0x55fb673e7295 <unknown>\n#14 0x55fb673fb3f3 <unknown>\n#15 0x7f4d08e9cb84 <unknown>\n#16 0x7f4d08f29ecc <unknown>\n"
     }
   },
   "literacy-3": {
-    "t": "2026-10-14T18:42:55+09:00",
+    "t": "2026-10-14T19:43:00+09:00",
     "book": "literacy-3",
     "title": "초등 첫 문해력 신문 3",
     "isbn": "9791173573767",
@@ -159,7 +159,7 @@
       "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000217058335/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000217058335/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc20936 <unknown>\n#3 0x55c07dc11971 <unknown>\n#4 0x55c07dc136b0 <unknown>\n#5 0x55c07dc11e5a <unknown>\n#6 0x55c07dc114f9 <unknown>\n#7 0x55c07dc11116 <unknown>\n#8 0x55c07dc0ed40 <unknown>\n#9 0x55c07dc0f560 <unknown>\n#10 0x55c07dc2d551 <unknown>\n#11 0x55c07dccaecb <unknown>\n#12 0x55c07dcca1df <unknown>\n#13 0x55c07dc73148 <unknown>\n#14 0x55c07dc73f11 <unknown>\n#15 0x55c07e2be5ac <unknown>\n#16 0x55c07e2bcdc5 <unknown>\n#17 0x55c07e2a7e95 <unknown>\n#18 0x55c07e2bda1a <unknown>\n#19 0x55c07e2905c9 <unknown>\n#20 0x55c07e2e60f8 <unknown>\n#21 0x55c07e2e6295 <unknown>\n#22 0x55c07e2fa3f3 <unknown>\n#23 0x7f6619a9cb84 <unknown>\n#24 0x7f6619b29ecc <unknown>\n"
+      "reviewContentError": "TimeoutException: Message: timeout: Timed out receiving message from renderer: -0.002\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55fb673fcaaa <unknown>\n#1 0x55fb66d2aaa9 <unknown>\n#2 0x55fb66d1249b <unknown>\n#3 0x55fb66d12116 <unknown>\n#4 0x55fb66d0fd40 <unknown>\n#5 0x55fb66d1069f <unknown>\n#6 0x55fb66d1f890 <unknown>\n#7 0x55fb66d397f6 <unknown>\n#8 0x55fb66d412eb <unknown>\n#9 0x55fb66d10df9 <unknown>\n#10 0x55fb66d3955d <unknown>\n#11 0x55fb66dcb0a2 <unknown>\n#12 0x55fb66d74148 <unknown>\n#13 0x55fb66d74f11 <unknown>\n#14 0x55fb673bf5ac <unknown>\n#15 0x55fb673bddc5 <unknown>\n#16 0x55fb673a8e95 <unknown>\n#17 0x55fb673bea1a <unknown>\n#18 0x55fb673915c9 <unknown>\n#19 0x55fb673e70f8 <unknown>\n#20 0x55fb673e7295 <unknown>\n#21 0x55fb673fb3f3 <unknown>\n#22 0x7f4d08e9cb84 <unknown>\n#23 0x7f4d08f29ecc <unknown>\n"
     },
     "yes24": {
       "id": "149130037",
@@ -215,11 +215,11 @@
       "reviewCount": 4,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55fb673fcaaa <unknown>\n#1 0x55fb66d2aaa9 <unknown>\n#2 0x55fb66d2e474 <unknown>\n#3 0x55fb66dcbecb <unknown>\n#4 0x55fb66dcb1df <unknown>\n#5 0x55fb66d74148 <unknown>\n#6 0x55fb66d74f11 <unknown>\n#7 0x55fb673bf5ac <unknown>\n#8 0x55fb673bddc5 <unknown>\n#9 0x55fb673a8e95 <unknown>\n#10 0x55fb673bea1a <unknown>\n#11 0x55fb673915c9 <unknown>\n#12 0x55fb673e70f8 <unknown>\n#13 0x55fb673e7295 <unknown>\n#14 0x55fb673fb3f3 <unknown>\n#15 0x7f4d08e9cb84 <unknown>\n#16 0x7f4d08f29ecc <unknown>\n"
     }
   },
   "ai-literacy-newspaper": {
-    "t": "2026-10-14T18:42:55+09:00",
+    "t": "2026-10-14T19:43:00+09:00",
     "book": "ai-literacy-newspaper",
     "title": "초등 첫 AI 문해력 신문",
     "isbn": "9791176612739",
@@ -232,13 +232,13 @@
       "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000221142533/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000221142533/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc20936 <unknown>\n#3 0x55c07dc11971 <unknown>\n#4 0x55c07dc136b0 <unknown>\n#5 0x55c07dc11e5a <unknown>\n#6 0x55c07dc114f9 <unknown>\n#7 0x55c07dc11116 <unknown>\n#8 0x55c07dc0ed40 <unknown>\n#9 0x55c07dc0f560 <unknown>\n#10 0x55c07dc2d551 <unknown>\n#11 0x55c07dccaecb <unknown>\n#12 0x55c07dcca1df <unknown>\n#13 0x55c07dc73148 <unknown>\n#14 0x55c07dc73f11 <unknown>\n#15 0x55c07e2be5ac <unknown>\n#16 0x55c07e2bcdc5 <unknown>\n#17 0x55c07e2a7e95 <unknown>\n#18 0x55c07e2bda1a <unknown>\n#19 0x55c07e2905c9 <unknown>\n#20 0x55c07e2e60f8 <unknown>\n#21 0x55c07e2e6295 <unknown>\n#22 0x55c07e2fa3f3 <unknown>\n#23 0x7f6619a9cb84 <unknown>\n#24 0x7f6619b29ecc <unknown>\n"
+      "reviewContentError": "TimeoutException: Message: timeout: Timed out receiving message from renderer: -0.002\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55fb673fcaaa <unknown>\n#1 0x55fb66d2aaa9 <unknown>\n#2 0x55fb66d1249b <unknown>\n#3 0x55fb66d12116 <unknown>\n#4 0x55fb66d0fd40 <unknown>\n#5 0x55fb66d1069f <unknown>\n#6 0x55fb66d1f890 <unknown>\n#7 0x55fb66d397f6 <unknown>\n#8 0x55fb66d412eb <unknown>\n#9 0x55fb66d10df9 <unknown>\n#10 0x55fb66d3955d <unknown>\n#11 0x55fb66dcb0a2 <unknown>\n#12 0x55fb66d74148 <unknown>\n#13 0x55fb66d74f11 <unknown>\n#14 0x55fb673bf5ac <unknown>\n#15 0x55fb673bddc5 <unknown>\n#16 0x55fb673a8e95 <unknown>\n#17 0x55fb673bea1a <unknown>\n#18 0x55fb673915c9 <unknown>\n#19 0x55fb673e70f8 <unknown>\n#20 0x55fb673e7295 <unknown>\n#21 0x55fb673fb3f3 <unknown>\n#22 0x7f4d08e9cb84 <unknown>\n#23 0x7f4d08f29ecc <unknown>\n"
     },
     "yes24": {
       "id": "195804491",
       "url": "https://www.yes24.com/product/goods/195804491",
       "cover": "https://image.yes24.com/goods/195804491/XL",
-      "overallRank": 1424,
+      "overallRank": 1423,
       "childrenRank": 114,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
       "salesIndex": 6837,
@@ -288,11 +288,11 @@
       "reviewCount": 33,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55fb673fcaaa <unknown>\n#1 0x55fb66d2aaa9 <unknown>\n#2 0x55fb66d2e474 <unknown>\n#3 0x55fb66dcbecb <unknown>\n#4 0x55fb66dcb1df <unknown>\n#5 0x55fb66d74148 <unknown>\n#6 0x55fb66d74f11 <unknown>\n#7 0x55fb673bf5ac <unknown>\n#8 0x55fb673bddc5 <unknown>\n#9 0x55fb673a8e95 <unknown>\n#10 0x55fb673bea1a <unknown>\n#11 0x55fb673915c9 <unknown>\n#12 0x55fb673e70f8 <unknown>\n#13 0x55fb673e7295 <unknown>\n#14 0x55fb673fb3f3 <unknown>\n#15 0x7f4d08e9cb84 <unknown>\n#16 0x7f4d08f29ecc <unknown>\n"
     }
   },
   "future-science-1": {
-    "t": "2026-10-14T18:42:55+09:00",
+    "t": "2026-10-14T19:43:00+09:00",
     "book": "future-science-1",
     "title": "장동선의 미래 과학 프로젝트 1",
     "isbn": "9791173576270",
@@ -305,7 +305,7 @@
       "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000218703871/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000218703871/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc20936 <unknown>\n#3 0x55c07dc11971 <unknown>\n#4 0x55c07dc136b0 <unknown>\n#5 0x55c07dc11e5a <unknown>\n#6 0x55c07dc114f9 <unknown>\n#7 0x55c07dc11116 <unknown>\n#8 0x55c07dc0ed40 <unknown>\n#9 0x55c07dc0f560 <unknown>\n#10 0x55c07dc2d551 <unknown>\n#11 0x55c07dccaecb <unknown>\n#12 0x55c07dcca1df <unknown>\n#13 0x55c07dc73148 <unknown>\n#14 0x55c07dc73f11 <unknown>\n#15 0x55c07e2be5ac <unknown>\n#16 0x55c07e2bcdc5 <unknown>\n#17 0x55c07e2a7e95 <unknown>\n#18 0x55c07e2bda1a <unknown>\n#19 0x55c07e2905c9 <unknown>\n#20 0x55c07e2e60f8 <unknown>\n#21 0x55c07e2e6295 <unknown>\n#22 0x55c07e2fa3f3 <unknown>\n#23 0x7f6619a9cb84 <unknown>\n#24 0x7f6619b29ecc <unknown>\n"
+      "reviewContentError": "TimeoutException: Message: timeout: Timed out receiving message from renderer: -0.002\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55fb673fcaaa <unknown>\n#1 0x55fb66d2aaa9 <unknown>\n#2 0x55fb66d1249b <unknown>\n#3 0x55fb66d12116 <unknown>\n#4 0x55fb66d0fd40 <unknown>\n#5 0x55fb66d1069f <unknown>\n#6 0x55fb66d1f890 <unknown>\n#7 0x55fb66d397f6 <unknown>\n#8 0x55fb66d412eb <unknown>\n#9 0x55fb66d10df9 <unknown>\n#10 0x55fb66d3955d <unknown>\n#11 0x55fb66dcb0a2 <unknown>\n#12 0x55fb66d74148 <unknown>\n#13 0x55fb66d74f11 <unknown>\n#14 0x55fb673bf5ac <unknown>\n#15 0x55fb673bddc5 <unknown>\n#16 0x55fb673a8e95 <unknown>\n#17 0x55fb673bea1a <unknown>\n#18 0x55fb673915c9 <unknown>\n#19 0x55fb673e70f8 <unknown>\n#20 0x55fb673e7295 <unknown>\n#21 0x55fb673fb3f3 <unknown>\n#22 0x7f4d08e9cb84 <unknown>\n#23 0x7f4d08f29ecc <unknown>\n"
     },
     "yes24": {
       "id": "167537883",
@@ -361,11 +361,11 @@
       "reviewCount": 17,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55fb673fcaaa <unknown>\n#1 0x55fb66d2aaa9 <unknown>\n#2 0x55fb66d2e474 <unknown>\n#3 0x55fb66dcbecb <unknown>\n#4 0x55fb66dcb1df <unknown>\n#5 0x55fb66d74148 <unknown>\n#6 0x55fb66d74f11 <unknown>\n#7 0x55fb673bf5ac <unknown>\n#8 0x55fb673bddc5 <unknown>\n#9 0x55fb673a8e95 <unknown>\n#10 0x55fb673bea1a <unknown>\n#11 0x55fb673915c9 <unknown>\n#12 0x55fb673e70f8 <unknown>\n#13 0x55fb673e7295 <unknown>\n#14 0x55fb673fb3f3 <unknown>\n#15 0x7f4d08e9cb84 <unknown>\n#16 0x7f4d08f29ecc <unknown>\n"
     }
   },
   "future-science-2": {
-    "t": "2026-10-14T18:42:55+09:00",
+    "t": "2026-10-14T19:43:00+09:00",
     "book": "future-science-2",
     "title": "장동선의 미래 과학 프로젝트 2",
     "isbn": "9791173576287",
@@ -378,7 +378,7 @@
       "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000219786404/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000219786404/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc20936 <unknown>\n#3 0x55c07dc11971 <unknown>\n#4 0x55c07dc136b0 <unknown>\n#5 0x55c07dc11e5a <unknown>\n#6 0x55c07dc114f9 <unknown>\n#7 0x55c07dc11116 <unknown>\n#8 0x55c07dc0ed40 <unknown>\n#9 0x55c07dc0f560 <unknown>\n#10 0x55c07dc2d551 <unknown>\n#11 0x55c07dccaecb <unknown>\n#12 0x55c07dcca1df <unknown>\n#13 0x55c07dc73148 <unknown>\n#14 0x55c07dc73f11 <unknown>\n#15 0x55c07e2be5ac <unknown>\n#16 0x55c07e2bcdc5 <unknown>\n#17 0x55c07e2a7e95 <unknown>\n#18 0x55c07e2bda1a <unknown>\n#19 0x55c07e2905c9 <unknown>\n#20 0x55c07e2e60f8 <unknown>\n#21 0x55c07e2e6295 <unknown>\n#22 0x55c07e2fa3f3 <unknown>\n#23 0x7f6619a9cb84 <unknown>\n#24 0x7f6619b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55fb673fcaaa <unknown>\n#1 0x55fb66d2aaa9 <unknown>\n#2 0x55fb66d21936 <unknown>\n#3 0x55fb66d12971 <unknown>\n#4 0x55fb66d146b0 <unknown>\n#5 0x55fb66d12e5a <unknown>\n#6 0x55fb66d124f9 <unknown>\n#7 0x55fb66d12116 <unknown>\n#8 0x55fb66d0fd40 <unknown>\n#9 0x55fb66d10560 <unknown>\n#10 0x55fb66d2e551 <unknown>\n#11 0x55fb66dcbecb <unknown>\n#12 0x55fb66dcb1df <unknown>\n#13 0x55fb66d74148 <unknown>\n#14 0x55fb66d74f11 <unknown>\n#15 0x55fb673bf5ac <unknown>\n#16 0x55fb673bddc5 <unknown>\n#17 0x55fb673a8e95 <unknown>\n#18 0x55fb673bea1a <unknown>\n#19 0x55fb673915c9 <unknown>\n#20 0x55fb673e70f8 <unknown>\n#21 0x55fb673e7295 <unknown>\n#22 0x55fb673fb3f3 <unknown>\n#23 0x7f4d08e9cb84 <unknown>\n#24 0x7f4d08f29ecc <unknown>\n"
     },
     "yes24": {
       "id": "187666716",
@@ -434,11 +434,11 @@
       "reviewCount": 22,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55fb673fcaaa <unknown>\n#1 0x55fb66d2aaa9 <unknown>\n#2 0x55fb66d2e474 <unknown>\n#3 0x55fb66dcbecb <unknown>\n#4 0x55fb66dcb1df <unknown>\n#5 0x55fb66d74148 <unknown>\n#6 0x55fb66d74f11 <unknown>\n#7 0x55fb673bf5ac <unknown>\n#8 0x55fb673bddc5 <unknown>\n#9 0x55fb673a8e95 <unknown>\n#10 0x55fb673bea1a <unknown>\n#11 0x55fb673915c9 <unknown>\n#12 0x55fb673e70f8 <unknown>\n#13 0x55fb673e7295 <unknown>\n#14 0x55fb673fb3f3 <unknown>\n#15 0x7f4d08e9cb84 <unknown>\n#16 0x7f4d08f29ecc <unknown>\n"
     }
   },
   "future-science-3": {
-    "t": "2026-10-14T18:42:55+09:00",
+    "t": "2026-10-14T19:43:00+09:00",
     "book": "future-science-3",
     "title": "장동선의 미래 과학 프로젝트 3",
     "isbn": "9791173576294",
@@ -451,7 +451,7 @@
       "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000220693813/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000220693813/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc20936 <unknown>\n#3 0x55c07dc11971 <unknown>\n#4 0x55c07dc136b0 <unknown>\n#5 0x55c07dc11e5a <unknown>\n#6 0x55c07dc114f9 <unknown>\n#7 0x55c07dc11116 <unknown>\n#8 0x55c07dc0ed40 <unknown>\n#9 0x55c07dc0f560 <unknown>\n#10 0x55c07dc2d551 <unknown>\n#11 0x55c07dccaecb <unknown>\n#12 0x55c07dcca1df <unknown>\n#13 0x55c07dc73148 <unknown>\n#14 0x55c07dc73f11 <unknown>\n#15 0x55c07e2be5ac <unknown>\n#16 0x55c07e2bcdc5 <unknown>\n#17 0x55c07e2a7e95 <unknown>\n#18 0x55c07e2bda1a <unknown>\n#19 0x55c07e2905c9 <unknown>\n#20 0x55c07e2e60f8 <unknown>\n#21 0x55c07e2e6295 <unknown>\n#22 0x55c07e2fa3f3 <unknown>\n#23 0x7f6619a9cb84 <unknown>\n#24 0x7f6619b29ecc <unknown>\n"
+      "reviewContentError": "TimeoutException: Message: timeout: Timed out receiving message from renderer: -0.003\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55fb673fcaaa <unknown>\n#1 0x55fb66d2aaa9 <unknown>\n#2 0x55fb66d1249b <unknown>\n#3 0x55fb66d12116 <unknown>\n#4 0x55fb66d0fd40 <unknown>\n#5 0x55fb66d1069f <unknown>\n#6 0x55fb66d1f890 <unknown>\n#7 0x55fb66d397f6 <unknown>\n#8 0x55fb66d412eb <unknown>\n#9 0x55fb66d10df9 <unknown>\n#10 0x55fb66d3955d <unknown>\n#11 0x55fb66dcb0a2 <unknown>\n#12 0x55fb66d74148 <unknown>\n#13 0x55fb66d74f11 <unknown>\n#14 0x55fb673bf5ac <unknown>\n#15 0x55fb673bddc5 <unknown>\n#16 0x55fb673a8e95 <unknown>\n#17 0x55fb673bea1a <unknown>\n#18 0x55fb673915c9 <unknown>\n#19 0x55fb673e70f8 <unknown>\n#20 0x55fb673e7295 <unknown>\n#21 0x55fb673fb3f3 <unknown>\n#22 0x7f4d08e9cb84 <unknown>\n#23 0x7f4d08f29ecc <unknown>\n"
     },
     "yes24": {
       "id": "194502221",
@@ -507,11 +507,11 @@
       "reviewCount": 27,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55fb673fcaaa <unknown>\n#1 0x55fb66d2aaa9 <unknown>\n#2 0x55fb66d2e474 <unknown>\n#3 0x55fb66dcbecb <unknown>\n#4 0x55fb66dcb1df <unknown>\n#5 0x55fb66d74148 <unknown>\n#6 0x55fb66d74f11 <unknown>\n#7 0x55fb673bf5ac <unknown>\n#8 0x55fb673bddc5 <unknown>\n#9 0x55fb673a8e95 <unknown>\n#10 0x55fb673bea1a <unknown>\n#11 0x55fb673915c9 <unknown>\n#12 0x55fb673e70f8 <unknown>\n#13 0x55fb673e7295 <unknown>\n#14 0x55fb673fb3f3 <unknown>\n#15 0x7f4d08e9cb84 <unknown>\n#16 0x7f4d08f29ecc <unknown>\n"
     }
   },
   "human-body-1": {
-    "t": "2026-10-14T18:42:55+09:00",
+    "t": "2026-10-14T19:43:00+09:00",
     "book": "human-body-1",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 1",
     "isbn": "9791173578625",
@@ -523,8 +523,38 @@
       "rankBasis": "종합 주간 베스트 / 어린이(초등) 분야 베스트",
       "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000219523042/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
       "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000219523042/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
-      "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc20936 <unknown>\n#3 0x55c07dc11971 <unknown>\n#4 0x55c07dc136b0 <unknown>\n#5 0x55c07dc11e5a <unknown>\n#6 0x55c07dc114f9 <unknown>\n#7 0x55c07dc11116 <unknown>\n#8 0x55c07dc0ed40 <unknown>\n#9 0x55c07dc0f560 <unknown>\n#10 0x55c07dc2d551 <unknown>\n#11 0x55c07dccaecb <unknown>\n#12 0x55c07dcca1df <unknown>\n#13 0x55c07dc73148 <unknown>\n#14 0x55c07dc73f11 <unknown>\n#15 0x55c07e2be5ac <unknown>\n#16 0x55c07e2bcdc5 <unknown>\n#17 0x55c07e2a7e95 <unknown>\n#18 0x55c07e2bda1a <unknown>\n#19 0x55c07e2905c9 <unknown>\n#20 0x55c07e2e60f8 <unknown>\n#21 0x55c07e2e6295 <unknown>\n#22 0x55c07e2fa3f3 <unknown>\n#23 0x7f6619a9cb84 <unknown>\n#24 0x7f6619b29ecc <unknown>\n"
+      "reviews": [
+        {
+          "author": "국내도서",
+          "date": "2026-06-26",
+          "score": null,
+          "content": "이 책의 이벤트 * 해외주문/바로드림/제휴사주문/업체배송건의 경우, 증정상품이 발송되지 않습니다. [외국도서] 토이스토리, 디즈니, 캐릭터 비지북 시리즈 이벤트 AI 연관 추천 툴팁 열기 버튼 수의사 어벤저스 1: 반려견 심장을 지켜라! 고희정. 이창우. 신윤주 15,120원 국내도서 장동선의 미래 과학 프로젝트 1: 인공 지능 새로운 세상을 열다 노지영. 송석리. 김지인. 장동선"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-10-03",
+          "score": null,
+          "content": "ma****** 차단 아이가 좋아합니다. 0 댓글 0 종이책 mi****** 2026.09.30"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-09-30",
+          "score": null,
+          "content": "mi****** 차단 아이가 재밌게 읽어요. 0 댓글 0 종이책 wj***** 2026.08.19"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-08-19",
+          "score": null,
+          "content": "wj***** 차단 아이가 재밌어해요. 그날 바로 다 읽고 다음권 찾네요. 다음권도 나오면 좋겠어요~ 0 댓글 0 종이책"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-08-12",
+          "score": null,
+          "content": "sh****** 차단 인체탐구프로젝트 0 댓글 0 종이책 ke**** 2026.08.05"
+        }
+      ]
     },
     "yes24": {
       "id": "183650258",
@@ -580,11 +610,11 @@
       "reviewCount": 32,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55fb673fcaaa <unknown>\n#1 0x55fb66d2aaa9 <unknown>\n#2 0x55fb66d2e474 <unknown>\n#3 0x55fb66dcbecb <unknown>\n#4 0x55fb66dcb1df <unknown>\n#5 0x55fb66d74148 <unknown>\n#6 0x55fb66d74f11 <unknown>\n#7 0x55fb673bf5ac <unknown>\n#8 0x55fb673bddc5 <unknown>\n#9 0x55fb673a8e95 <unknown>\n#10 0x55fb673bea1a <unknown>\n#11 0x55fb673915c9 <unknown>\n#12 0x55fb673e70f8 <unknown>\n#13 0x55fb673e7295 <unknown>\n#14 0x55fb673fb3f3 <unknown>\n#15 0x7f4d08e9cb84 <unknown>\n#16 0x7f4d08f29ecc <unknown>\n"
     }
   },
   "human-body-2": {
-    "t": "2026-10-14T18:42:55+09:00",
+    "t": "2026-10-14T19:43:00+09:00",
     "book": "human-body-2",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 2",
     "isbn": "9791173578632",
@@ -594,10 +624,229 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "종합 주간 베스트 / 어린이(초등) 분야 베스트",
-      "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000220616258/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
-      "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000220616258/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
-      "reviews": [],
-      "reviewContentError": "TimeoutException: Message: timeout: Timed out receiving message from renderer: -0.002\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc1149b <unknown>\n#3 0x55c07dc11116 <unknown>\n#4 0x55c07dc0ed40 <unknown>\n#5 0x55c07dc0f69f <unknown>\n#6 0x55c07dc1e890 <unknown>\n#7 0x55c07dc387f6 <unknown>\n#8 0x55c07dc402eb <unknown>\n#9 0x55c07dc0fdf9 <unknown>\n#10 0x55c07dc3855d <unknown>\n#11 0x55c07dcca0a2 <unknown>\n#12 0x55c07dc73148 <unknown>\n#13 0x55c07dc73f11 <unknown>\n#14 0x55c07e2be5ac <unknown>\n#15 0x55c07e2bcdc5 <unknown>\n#16 0x55c07e2a7e95 <unknown>\n#17 0x55c07e2bda1a <unknown>\n#18 0x55c07e2905c9 <unknown>\n#19 0x55c07e2e60f8 <unknown>\n#20 0x55c07e2e6295 <unknown>\n#21 0x55c07e2fa3f3 <unknown>\n#22 0x7f6619a9cb84 <unknown>\n#23 0x7f6619b29ecc <unknown>\n"
+      "reviewCount": 42,
+      "reviewScore": 10.0,
+      "stores": [
+        {
+          "name": "광화문",
+          "stock": 8,
+          "address": "서울특별시 종로구 종로 1, 교보생명빌딩 지하 1층"
+        },
+        {
+          "name": "가든파이브",
+          "stock": 3,
+          "address": "서울특별시 송파구 충민로 66, 가든파이브 라이프 리빙관 현대시티몰 4층"
+        },
+        {
+          "name": "강남",
+          "stock": 5,
+          "address": "서울특별시 서초구 강남대로 465, 교보타워 지하 1~지하 2층"
+        },
+        {
+          "name": "건대",
+          "stock": 1,
+          "address": "서울시 광진구 능동로 92 롯데백화점 스타시티점 지하1층"
+        },
+        {
+          "name": "동대문",
+          "stock": 1,
+          "address": "서울특별시 중구 장충단로13길 20, 현대시티아울렛 지하 1층"
+        },
+        {
+          "name": "목동",
+          "stock": 1,
+          "address": "서울특별시 양천구 목동서로 159-1, CBS 지하 1층"
+        },
+        {
+          "name": "서울대",
+          "stock": 0,
+          "address": "서울특별시 관악구 관악로 1, 서울대학교 학생회관 구내서점"
+        },
+        {
+          "name": "수유",
+          "stock": 1,
+          "address": "서울특별시 강북구 도봉로 348, 교보생명빌딩 지하 1층"
+        },
+        {
+          "name": "영등포",
+          "stock": 4,
+          "address": "서울특별시 영등포구 영중로 15, 타임스퀘어 멀티플렉스 2층"
+        },
+        {
+          "name": "원그로브점",
+          "stock": 7,
+          "address": "서울특별시 강서구 공항대로 165 원그로브몰 B동 지하1층"
+        },
+        {
+          "name": "은평",
+          "stock": 2,
+          "address": "서울특별시 은평구 통일로 1050 (진관동) 롯데몰 은평점 3층"
+        },
+        {
+          "name": "이화여대",
+          "stock": 0,
+          "address": "서울특별시 서대문구 이화여대길 52, 이화여자대학교 ECC센터 지하 4층"
+        },
+        {
+          "name": "잠실",
+          "stock": 12,
+          "address": "서울특별시 송파구 올림픽로 269, 롯데 캐슬프라자 지하 1층"
+        },
+        {
+          "name": "천호",
+          "stock": 1,
+          "address": "서울특별시 강동구 올림픽로 664, 대우한강베네시티 지하 1층"
+        },
+        {
+          "name": "청량리",
+          "stock": 1,
+          "address": "서울특별시 동대문구 왕산로 214, 롯데백화점 청량리점 지하 1층"
+        },
+        {
+          "name": "합정",
+          "stock": 1,
+          "address": "서울특별시 마포구 월드컵로3길 14 딜라이트스퀘어 2차(지하 1층), 1차(지하 2층)"
+        },
+        {
+          "name": "광교",
+          "stock": 3,
+          "address": "경기도 수원시 영통구 광교중앙로 145, 광교엘포트몰 지하 1층"
+        },
+        {
+          "name": "분당",
+          "stock": 1,
+          "address": "경기도 성남시 분당구 황새울로312번길 26, KT&G 분당타워 지하 1층"
+        },
+        {
+          "name": "송도",
+          "stock": 1,
+          "address": "인천광역시 연수구 송도국제대로 123, 현대프리미엄아울렛 지하 1층"
+        },
+        {
+          "name": "인천",
+          "stock": 1,
+          "address": "인천광역시 남동구 예술로 138, 이토타워 지하1층"
+        },
+        {
+          "name": "일산",
+          "stock": 18,
+          "address": "경기도 고양시 일산동구 중앙로 1036, 고양종합터미널 지하 1층"
+        },
+        {
+          "name": "판교",
+          "stock": 1,
+          "address": "경기도 성남시 분당구 판교역로146번길 20, 현대백화점 지하 2층"
+        },
+        {
+          "name": "평촌",
+          "stock": 3,
+          "address": "경기도 안양시 동안구 시민대로 180, 롯데백화점 평촌점 6층"
+        },
+        {
+          "name": "수원",
+          "stock": 0,
+          "address": "16622 경기도 수원시 팔달구 덕영대로 924 AK플라자 수원점 5F 교보문고"
+        },
+        {
+          "name": "경성대ㆍ부경대",
+          "stock": 1,
+          "address": "부산광역시 남구 수영로 324, 지하 2층"
+        },
+        {
+          "name": "광주상무",
+          "stock": 2,
+          "address": "광주광역시 서구 상무중앙로 58, 광주 타임스타워 3층"
+        },
+        {
+          "name": "대구",
+          "stock": 1,
+          "address": "대구광역시 중구 국채보상로 586, 교보생명빌딩 지하 1층 ~ 지상 2층"
+        },
+        {
+          "name": "대전",
+          "stock": 2,
+          "address": "대전광역시 서구 대덕대로 226, 명동프라자 3층"
+        },
+        {
+          "name": "부산",
+          "stock": 1,
+          "address": "부산광역시 부산진구 중앙대로 658, 교보생명빌딩 1층, 지하 1층"
+        },
+        {
+          "name": "세종",
+          "stock": 1,
+          "address": "세종특별자치시 한누리대로 411, AK& 3층"
+        },
+        {
+          "name": "센텀시티",
+          "stock": 2,
+          "address": "부산광역시 해운대구 센텀남대로 59, 롯데백화점 센텀시티점 7층"
+        },
+        {
+          "name": "울산",
+          "stock": 1,
+          "address": "울산광역시 남구 화합로 185, 업스퀘어 지하 1층"
+        },
+        {
+          "name": "전주",
+          "stock": 1,
+          "address": "전북 전주시 완산구 전주객사4길 24-47, NC웨이브 B관 지하 1층"
+        },
+        {
+          "name": "창원",
+          "stock": 1,
+          "address": "경상남도 창원시 성산구 중앙대로 104, 마이우스빌딩 지하 1층"
+        },
+        {
+          "name": "천안",
+          "stock": 1,
+          "address": "충청남도 천안시 동남구 만남로 43, 신세계백화점 천안아산점 B관 3층"
+        },
+        {
+          "name": "칠곡",
+          "stock": 2,
+          "address": "대구광역시 북구 동암로 104, 3층"
+        },
+        {
+          "name": "해운대 팝업스토어",
+          "stock": 1,
+          "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
+        }
+      ],
+      "storeStockTotal": 93,
+      "onlineStock": 17,
+      "reviews": [
+        {
+          "author": "크기/중량\t159 * 218 * 15 mm / 554 g",
+          "date": "2026-07-21",
+          "score": null,
+          "content": "제조자 (수입자) 아울북 A/S책임자&연락처 정보준비중 색상 이미지참고 재질 정보준비중 작가정보 기획 유성호 인물정보 대학/대학원교수 법의학자 서울대학교 의과대학 졸업 후, 서울대학교병원에서 인턴 및 전공의 과정을 거쳐 병리전문의 자격을 취득했습니다. 천직이자 운명이라 여기는 법의학자의 길을 27년간 걸어오며 3000건 이상의 부검을 수행했습니다. 대한민국에서 발생한 주요 사건 및 범죄 관련한 부검과 자문을 담당한 명실상부 국내 최고의 법의학자입니다. 현재 서울대학교 의과대학 법의학교실 교수이자 국립과학수사연구원의 촉탁 법의관으로 활동하고 있습니다."
+        },
+        {
+          "author": "종이책",
+          "date": "2026-10-09",
+          "score": null,
+          "content": "ex******* 차단 추천해요 추천해요 0 댓글 0 종이책 ma****** 2026.10.03"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-10-03",
+          "score": null,
+          "content": "ma****** 차단 아이가 좋아합니다. 0 댓글 0 종이책 mi****** 2026.09.30"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-09-30",
+          "score": null,
+          "content": "mi****** 차단 아이가 재밌게 읽어요. 0 댓글 0 종이책 ha****** 2026.09.06"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-09-06",
+          "score": null,
+          "content": "ha****** 차단 8세아들이 너무 좋아했던 인체탐구시리즈가 새로 나와서 바로 구입했어요.워낙 인체에 대한이야기를 좋아하는데 이야기와 함께 볼수있어서 더 좋아하네요. 3권도 빨리나오기를 고대하고있어요 0 댓글 0 종이책 tl******** 2026.09.06"
+        }
+      ]
     },
     "yes24": {
       "id": "194203560",
@@ -653,11 +902,11 @@
       "reviewCount": 35,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55fb673fcaaa <unknown>\n#1 0x55fb66d2aaa9 <unknown>\n#2 0x55fb66d2e474 <unknown>\n#3 0x55fb66dcbecb <unknown>\n#4 0x55fb66dcb1df <unknown>\n#5 0x55fb66d74148 <unknown>\n#6 0x55fb66d74f11 <unknown>\n#7 0x55fb673bf5ac <unknown>\n#8 0x55fb673bddc5 <unknown>\n#9 0x55fb673a8e95 <unknown>\n#10 0x55fb673bea1a <unknown>\n#11 0x55fb673915c9 <unknown>\n#12 0x55fb673e70f8 <unknown>\n#13 0x55fb673e7295 <unknown>\n#14 0x55fb673fb3f3 <unknown>\n#15 0x7f4d08e9cb84 <unknown>\n#16 0x7f4d08f29ecc <unknown>\n"
     }
   },
   "yako-knowledge-1": {
-    "t": "2026-10-14T18:42:55+09:00",
+    "t": "2026-10-14T19:43:00+09:00",
     "book": "yako-knowledge-1",
     "title": "빨간내복야코 어린이 상식 1",
     "isbn": "9791171178704",
@@ -667,10 +916,229 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "종합 주간 베스트 / 어린이(초등) 분야 베스트",
-      "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000214679586/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
-      "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000214679586/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
-      "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc20936 <unknown>\n#3 0x55c07dc11971 <unknown>\n#4 0x55c07dc136b0 <unknown>\n#5 0x55c07dc11e5a <unknown>\n#6 0x55c07dc114f9 <unknown>\n#7 0x55c07dc11116 <unknown>\n#8 0x55c07dc0ed40 <unknown>\n#9 0x55c07dc0f560 <unknown>\n#10 0x55c07dc2d551 <unknown>\n#11 0x55c07dccaecb <unknown>\n#12 0x55c07dcca1df <unknown>\n#13 0x55c07dc73148 <unknown>\n#14 0x55c07dc73f11 <unknown>\n#15 0x55c07e2be5ac <unknown>\n#16 0x55c07e2bcdc5 <unknown>\n#17 0x55c07e2a7e95 <unknown>\n#18 0x55c07e2bda1a <unknown>\n#19 0x55c07e2905c9 <unknown>\n#20 0x55c07e2e60f8 <unknown>\n#21 0x55c07e2e6295 <unknown>\n#22 0x55c07e2fa3f3 <unknown>\n#23 0x7f6619a9cb84 <unknown>\n#24 0x7f6619b29ecc <unknown>\n"
+      "reviewCount": 104,
+      "reviewScore": 10.0,
+      "stores": [
+        {
+          "name": "광화문",
+          "stock": 2,
+          "address": "서울특별시 종로구 종로 1, 교보생명빌딩 지하 1층"
+        },
+        {
+          "name": "가든파이브",
+          "stock": 1,
+          "address": "서울특별시 송파구 충민로 66, 가든파이브 라이프 리빙관 현대시티몰 4층"
+        },
+        {
+          "name": "강남",
+          "stock": 2,
+          "address": "서울특별시 서초구 강남대로 465, 교보타워 지하 1~지하 2층"
+        },
+        {
+          "name": "건대",
+          "stock": 1,
+          "address": "서울시 광진구 능동로 92 롯데백화점 스타시티점 지하1층"
+        },
+        {
+          "name": "동대문",
+          "stock": 1,
+          "address": "서울특별시 중구 장충단로13길 20, 현대시티아울렛 지하 1층"
+        },
+        {
+          "name": "목동",
+          "stock": 3,
+          "address": "서울특별시 양천구 목동서로 159-1, CBS 지하 1층"
+        },
+        {
+          "name": "서울대",
+          "stock": 0,
+          "address": "서울특별시 관악구 관악로 1, 서울대학교 학생회관 구내서점"
+        },
+        {
+          "name": "수유",
+          "stock": 1,
+          "address": "서울특별시 강북구 도봉로 348, 교보생명빌딩 지하 1층"
+        },
+        {
+          "name": "영등포",
+          "stock": 1,
+          "address": "서울특별시 영등포구 영중로 15, 타임스퀘어 멀티플렉스 2층"
+        },
+        {
+          "name": "원그로브점",
+          "stock": 2,
+          "address": "서울특별시 강서구 공항대로 165 원그로브몰 B동 지하1층"
+        },
+        {
+          "name": "은평",
+          "stock": 1,
+          "address": "서울특별시 은평구 통일로 1050 (진관동) 롯데몰 은평점 3층"
+        },
+        {
+          "name": "이화여대",
+          "stock": 0,
+          "address": "서울특별시 서대문구 이화여대길 52, 이화여자대학교 ECC센터 지하 4층"
+        },
+        {
+          "name": "잠실",
+          "stock": 0,
+          "address": "서울특별시 송파구 올림픽로 269, 롯데 캐슬프라자 지하 1층"
+        },
+        {
+          "name": "천호",
+          "stock": 1,
+          "address": "서울특별시 강동구 올림픽로 664, 대우한강베네시티 지하 1층"
+        },
+        {
+          "name": "청량리",
+          "stock": 1,
+          "address": "서울특별시 동대문구 왕산로 214, 롯데백화점 청량리점 지하 1층"
+        },
+        {
+          "name": "합정",
+          "stock": 1,
+          "address": "서울특별시 마포구 월드컵로3길 14 딜라이트스퀘어 2차(지하 1층), 1차(지하 2층)"
+        },
+        {
+          "name": "광교",
+          "stock": 1,
+          "address": "경기도 수원시 영통구 광교중앙로 145, 광교엘포트몰 지하 1층"
+        },
+        {
+          "name": "분당",
+          "stock": 1,
+          "address": "경기도 성남시 분당구 황새울로312번길 26, KT&G 분당타워 지하 1층"
+        },
+        {
+          "name": "송도",
+          "stock": 1,
+          "address": "인천광역시 연수구 송도국제대로 123, 현대프리미엄아울렛 지하 1층"
+        },
+        {
+          "name": "인천",
+          "stock": 3,
+          "address": "인천광역시 남동구 예술로 138, 이토타워 지하1층"
+        },
+        {
+          "name": "일산",
+          "stock": 1,
+          "address": "경기도 고양시 일산동구 중앙로 1036, 고양종합터미널 지하 1층"
+        },
+        {
+          "name": "판교",
+          "stock": 1,
+          "address": "경기도 성남시 분당구 판교역로146번길 20, 현대백화점 지하 2층"
+        },
+        {
+          "name": "평촌",
+          "stock": 1,
+          "address": "경기도 안양시 동안구 시민대로 180, 롯데백화점 평촌점 6층"
+        },
+        {
+          "name": "수원",
+          "stock": 1,
+          "address": "16622 경기도 수원시 팔달구 덕영대로 924 AK플라자 수원점 5F 교보문고"
+        },
+        {
+          "name": "경성대ㆍ부경대",
+          "stock": 1,
+          "address": "부산광역시 남구 수영로 324, 지하 2층"
+        },
+        {
+          "name": "광주상무",
+          "stock": 1,
+          "address": "광주광역시 서구 상무중앙로 58, 광주 타임스타워 3층"
+        },
+        {
+          "name": "대구",
+          "stock": 3,
+          "address": "대구광역시 중구 국채보상로 586, 교보생명빌딩 지하 1층 ~ 지상 2층"
+        },
+        {
+          "name": "대전",
+          "stock": 2,
+          "address": "대전광역시 서구 대덕대로 226, 명동프라자 3층"
+        },
+        {
+          "name": "부산",
+          "stock": 3,
+          "address": "부산광역시 부산진구 중앙대로 658, 교보생명빌딩 1층, 지하 1층"
+        },
+        {
+          "name": "세종",
+          "stock": 1,
+          "address": "세종특별자치시 한누리대로 411, AK& 3층"
+        },
+        {
+          "name": "센텀시티",
+          "stock": 1,
+          "address": "부산광역시 해운대구 센텀남대로 59, 롯데백화점 센텀시티점 7층"
+        },
+        {
+          "name": "울산",
+          "stock": 1,
+          "address": "울산광역시 남구 화합로 185, 업스퀘어 지하 1층"
+        },
+        {
+          "name": "전주",
+          "stock": 1,
+          "address": "전북 전주시 완산구 전주객사4길 24-47, NC웨이브 B관 지하 1층"
+        },
+        {
+          "name": "창원",
+          "stock": 1,
+          "address": "경상남도 창원시 성산구 중앙대로 104, 마이우스빌딩 지하 1층"
+        },
+        {
+          "name": "천안",
+          "stock": 1,
+          "address": "충청남도 천안시 동남구 만남로 43, 신세계백화점 천안아산점 B관 3층"
+        },
+        {
+          "name": "칠곡",
+          "stock": 1,
+          "address": "대구광역시 북구 동암로 104, 3층"
+        },
+        {
+          "name": "해운대 팝업스토어",
+          "stock": 1,
+          "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
+        }
+      ],
+      "storeStockTotal": 46,
+      "onlineStock": 13,
+      "reviews": [
+        {
+          "author": "국내도서",
+          "date": "2026-06-26",
+          "score": null,
+          "content": "이 책의 이벤트 * 해외주문/바로드림/제휴사주문/업체배송건의 경우, 증정상품이 발송되지 않습니다. [외국도서] 토이스토리, 디즈니, 캐릭터 비지북 시리즈 이벤트 AI 연관 추천 툴팁 열기 버튼 흔한남매의 흔한 국어 1 최재연. 도니패밀리. 흔한컴퍼니. 미래엔 국어 교과서 집필진. 흔한남매 15,120원 국내도서 내 친구는 왜 그럴까? 최현주. 이화경"
+        },
+        {
+          "author": "크기/중량\t154 * 225 * 11 mm / 465 g",
+          "date": "2024-11-06",
+          "score": null,
+          "content": "제조자 (수입자) 아울북 A/S책임자&연락처 정보준비중 색상 이미지참고 재질 정보준비중 작가정보 원작 빨간내복야코 막강 귀여움을 뿜어내는 캐릭터와 장르를 넘나드는 중독성 높은 노래로 팬들의 뜨거운 사랑을 받고 있는 유튜브 채널입니다. 일상에서 공감할 수 있는 다양한 소재와 트렌드를 짧은 노래와 함께 애니메이션으로 만들어 강한 몰입과 재미를 선사하고 있습니다. 남녀노소 누구나 즐길 수 있는 콘텐츠를 만들기 위해 애쓰고 있습니다. 국내도서 빨간내복야코 괴수대백과 1 국내도서"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-09-18",
+          "score": null,
+          "content": "si******** 차단 아이들이 좋아한다고해서 샀는데 저희 아이는 안좋아하네요 0 댓글 0 종이책 yu****** 2026.09.16"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-09-16",
+          "score": null,
+          "content": "yu****** 차단 아이가 이런류의 책을 좋아해서 가끔씩 사줍니다. 여러번 읽으니까 심심할 때 시간도 잘 가고 좋은거 같아요 0 댓글 0 종이책 81*** 2026.05.29"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-05-29",
+          "score": null,
+          "content": "81*** 차단 아이가 읽기쉽게 잘되어있어요 0 댓글 0 종이책 si***** 2026.05.20"
+        }
+      ]
     },
     "yes24": {
       "id": "136559043",
@@ -726,11 +1194,11 @@
       "reviewCount": 11,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55fb673fcaaa <unknown>\n#1 0x55fb66d2aaa9 <unknown>\n#2 0x55fb66d2e474 <unknown>\n#3 0x55fb66dcbecb <unknown>\n#4 0x55fb66dcb1df <unknown>\n#5 0x55fb66d74148 <unknown>\n#6 0x55fb66d74f11 <unknown>\n#7 0x55fb673bf5ac <unknown>\n#8 0x55fb673bddc5 <unknown>\n#9 0x55fb673a8e95 <unknown>\n#10 0x55fb673bea1a <unknown>\n#11 0x55fb673915c9 <unknown>\n#12 0x55fb673e70f8 <unknown>\n#13 0x55fb673e7295 <unknown>\n#14 0x55fb673fb3f3 <unknown>\n#15 0x7f4d08e9cb84 <unknown>\n#16 0x7f4d08f29ecc <unknown>\n"
     }
   },
   "yako-knowledge-2": {
-    "t": "2026-10-14T18:42:55+09:00",
+    "t": "2026-10-14T19:43:00+09:00",
     "book": "yako-knowledge-2",
     "title": "빨간내복야코 어린이 상식 2",
     "isbn": "9791173571749",
@@ -740,10 +1208,229 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "종합 주간 베스트 / 어린이(초등) 분야 베스트",
-      "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000216145558/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
-      "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000216145558/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
-      "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc20936 <unknown>\n#3 0x55c07dc11971 <unknown>\n#4 0x55c07dc136b0 <unknown>\n#5 0x55c07dc11e5a <unknown>\n#6 0x55c07dc114f9 <unknown>\n#7 0x55c07dc11116 <unknown>\n#8 0x55c07dc0ed40 <unknown>\n#9 0x55c07dc0f560 <unknown>\n#10 0x55c07dc2d551 <unknown>\n#11 0x55c07dccaecb <unknown>\n#12 0x55c07dcca1df <unknown>\n#13 0x55c07dc73148 <unknown>\n#14 0x55c07dc73f11 <unknown>\n#15 0x55c07e2be5ac <unknown>\n#16 0x55c07e2bcdc5 <unknown>\n#17 0x55c07e2a7e95 <unknown>\n#18 0x55c07e2bda1a <unknown>\n#19 0x55c07e2905c9 <unknown>\n#20 0x55c07e2e60f8 <unknown>\n#21 0x55c07e2e6295 <unknown>\n#22 0x55c07e2fa3f3 <unknown>\n#23 0x7f6619a9cb84 <unknown>\n#24 0x7f6619b29ecc <unknown>\n"
+      "reviewCount": 77,
+      "reviewScore": 10.0,
+      "stores": [
+        {
+          "name": "광화문",
+          "stock": 4,
+          "address": "서울특별시 종로구 종로 1, 교보생명빌딩 지하 1층"
+        },
+        {
+          "name": "가든파이브",
+          "stock": 1,
+          "address": "서울특별시 송파구 충민로 66, 가든파이브 라이프 리빙관 현대시티몰 4층"
+        },
+        {
+          "name": "강남",
+          "stock": 1,
+          "address": "서울특별시 서초구 강남대로 465, 교보타워 지하 1~지하 2층"
+        },
+        {
+          "name": "건대",
+          "stock": 1,
+          "address": "서울시 광진구 능동로 92 롯데백화점 스타시티점 지하1층"
+        },
+        {
+          "name": "동대문",
+          "stock": 1,
+          "address": "서울특별시 중구 장충단로13길 20, 현대시티아울렛 지하 1층"
+        },
+        {
+          "name": "목동",
+          "stock": 3,
+          "address": "서울특별시 양천구 목동서로 159-1, CBS 지하 1층"
+        },
+        {
+          "name": "서울대",
+          "stock": 0,
+          "address": "서울특별시 관악구 관악로 1, 서울대학교 학생회관 구내서점"
+        },
+        {
+          "name": "수유",
+          "stock": 1,
+          "address": "서울특별시 강북구 도봉로 348, 교보생명빌딩 지하 1층"
+        },
+        {
+          "name": "영등포",
+          "stock": 1,
+          "address": "서울특별시 영등포구 영중로 15, 타임스퀘어 멀티플렉스 2층"
+        },
+        {
+          "name": "원그로브점",
+          "stock": 2,
+          "address": "서울특별시 강서구 공항대로 165 원그로브몰 B동 지하1층"
+        },
+        {
+          "name": "은평",
+          "stock": 1,
+          "address": "서울특별시 은평구 통일로 1050 (진관동) 롯데몰 은평점 3층"
+        },
+        {
+          "name": "이화여대",
+          "stock": 0,
+          "address": "서울특별시 서대문구 이화여대길 52, 이화여자대학교 ECC센터 지하 4층"
+        },
+        {
+          "name": "잠실",
+          "stock": 0,
+          "address": "서울특별시 송파구 올림픽로 269, 롯데 캐슬프라자 지하 1층"
+        },
+        {
+          "name": "천호",
+          "stock": 1,
+          "address": "서울특별시 강동구 올림픽로 664, 대우한강베네시티 지하 1층"
+        },
+        {
+          "name": "청량리",
+          "stock": 1,
+          "address": "서울특별시 동대문구 왕산로 214, 롯데백화점 청량리점 지하 1층"
+        },
+        {
+          "name": "합정",
+          "stock": 1,
+          "address": "서울특별시 마포구 월드컵로3길 14 딜라이트스퀘어 2차(지하 1층), 1차(지하 2층)"
+        },
+        {
+          "name": "광교",
+          "stock": 1,
+          "address": "경기도 수원시 영통구 광교중앙로 145, 광교엘포트몰 지하 1층"
+        },
+        {
+          "name": "분당",
+          "stock": 1,
+          "address": "경기도 성남시 분당구 황새울로312번길 26, KT&G 분당타워 지하 1층"
+        },
+        {
+          "name": "송도",
+          "stock": 1,
+          "address": "인천광역시 연수구 송도국제대로 123, 현대프리미엄아울렛 지하 1층"
+        },
+        {
+          "name": "인천",
+          "stock": 5,
+          "address": "인천광역시 남동구 예술로 138, 이토타워 지하1층"
+        },
+        {
+          "name": "일산",
+          "stock": 1,
+          "address": "경기도 고양시 일산동구 중앙로 1036, 고양종합터미널 지하 1층"
+        },
+        {
+          "name": "판교",
+          "stock": 2,
+          "address": "경기도 성남시 분당구 판교역로146번길 20, 현대백화점 지하 2층"
+        },
+        {
+          "name": "평촌",
+          "stock": 1,
+          "address": "경기도 안양시 동안구 시민대로 180, 롯데백화점 평촌점 6층"
+        },
+        {
+          "name": "수원",
+          "stock": 2,
+          "address": "16622 경기도 수원시 팔달구 덕영대로 924 AK플라자 수원점 5F 교보문고"
+        },
+        {
+          "name": "경성대ㆍ부경대",
+          "stock": 1,
+          "address": "부산광역시 남구 수영로 324, 지하 2층"
+        },
+        {
+          "name": "광주상무",
+          "stock": 1,
+          "address": "광주광역시 서구 상무중앙로 58, 광주 타임스타워 3층"
+        },
+        {
+          "name": "대구",
+          "stock": 3,
+          "address": "대구광역시 중구 국채보상로 586, 교보생명빌딩 지하 1층 ~ 지상 2층"
+        },
+        {
+          "name": "대전",
+          "stock": 3,
+          "address": "대전광역시 서구 대덕대로 226, 명동프라자 3층"
+        },
+        {
+          "name": "부산",
+          "stock": 4,
+          "address": "부산광역시 부산진구 중앙대로 658, 교보생명빌딩 1층, 지하 1층"
+        },
+        {
+          "name": "세종",
+          "stock": 1,
+          "address": "세종특별자치시 한누리대로 411, AK& 3층"
+        },
+        {
+          "name": "센텀시티",
+          "stock": 1,
+          "address": "부산광역시 해운대구 센텀남대로 59, 롯데백화점 센텀시티점 7층"
+        },
+        {
+          "name": "울산",
+          "stock": 1,
+          "address": "울산광역시 남구 화합로 185, 업스퀘어 지하 1층"
+        },
+        {
+          "name": "전주",
+          "stock": 1,
+          "address": "전북 전주시 완산구 전주객사4길 24-47, NC웨이브 B관 지하 1층"
+        },
+        {
+          "name": "창원",
+          "stock": 1,
+          "address": "경상남도 창원시 성산구 중앙대로 104, 마이우스빌딩 지하 1층"
+        },
+        {
+          "name": "천안",
+          "stock": 1,
+          "address": "충청남도 천안시 동남구 만남로 43, 신세계백화점 천안아산점 B관 3층"
+        },
+        {
+          "name": "칠곡",
+          "stock": 1,
+          "address": "대구광역시 북구 동암로 104, 3층"
+        },
+        {
+          "name": "해운대 팝업스토어",
+          "stock": 1,
+          "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
+        }
+      ],
+      "storeStockTotal": 53,
+      "onlineStock": 24,
+      "reviews": [
+        {
+          "author": "국내도서",
+          "date": "2026-06-26",
+          "score": null,
+          "content": "이 책의 이벤트 * 해외주문/바로드림/제휴사주문/업체배송건의 경우, 증정상품이 발송되지 않습니다. [외국도서] 토이스토리, 디즈니, 캐릭터 비지북 시리즈 이벤트 AI 연관 추천 툴팁 열기 버튼 처음 읽는 그리스 로마 신화 14: 돌아온 오디세우스 최설희. 한현동. 정수영 15,120원 국내도서 흔한남매의 흔한 국어 1 최재연. 도니패밀리. 흔한컴퍼니. 미래엔 국어 교과서 집필진. 흔한남매"
+        },
+        {
+          "author": "크기/중량\t153 * 225 * 11 mm / 455 g",
+          "date": "2025-03-26",
+          "score": null,
+          "content": "제조자 (수입자) 아울북 A/S책임자&연락처 정보준비중 색상 이미지참고 재질 정보준비중 작가정보 원작 빨간내복야코 막강 귀여움을 뿜어내는 캐릭터와 장르를 넘나드는 중독성 높은 노래로 팬들의 뜨거운 사랑을 받고 있는 유튜브 채널입니다. 일상에서 공감할 수 있는 다양한 소재와 트렌드를 짧은 노래와 함께 애니메이션으로 만들어 강한 몰입과 재미를 선사하고 있습니다. 남녀노소 누구나 즐길 수 있는 콘텐츠를 만들기 위해 애쓰고 있습니다. 국내도서 빨간내복야코 괴수대백과 1 국내도서"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-09-05",
+          "score": null,
+          "content": "wu**** 차단 아기를 위해서 미리 선행학습용으로 구입했어요 0 댓글 0 종이책 an**** 2026.06.03"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-06-03",
+          "score": null,
+          "content": "an**** 차단 아이들의 사자성어 수준이 올라가는거 같아요 0 댓글 0 종이책 id*** 2026.05.28"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-05-28",
+          "score": null,
+          "content": "id*** 차단 아이가 야코 너무좋아해서 빌려보다가 사줬어요~ 공부도 되니까 정말 유익한 책인 것 같아요. 0 댓글 0 종이책 si***** 2026.05.20"
+        }
+      ]
     },
     "yes24": {
       "id": "144076825",
@@ -799,11 +1486,11 @@
       "reviewCount": 1,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55fb673fcaaa <unknown>\n#1 0x55fb66d2aaa9 <unknown>\n#2 0x55fb66d2e474 <unknown>\n#3 0x55fb66dcbecb <unknown>\n#4 0x55fb66dcb1df <unknown>\n#5 0x55fb66d74148 <unknown>\n#6 0x55fb66d74f11 <unknown>\n#7 0x55fb673bf5ac <unknown>\n#8 0x55fb673bddc5 <unknown>\n#9 0x55fb673a8e95 <unknown>\n#10 0x55fb673bea1a <unknown>\n#11 0x55fb673915c9 <unknown>\n#12 0x55fb673e70f8 <unknown>\n#13 0x55fb673e7295 <unknown>\n#14 0x55fb673fb3f3 <unknown>\n#15 0x7f4d08e9cb84 <unknown>\n#16 0x7f4d08f29ecc <unknown>\n"
     }
   },
   "yako-knowledge-3": {
-    "t": "2026-10-14T18:42:55+09:00",
+    "t": "2026-10-14T19:43:00+09:00",
     "book": "yako-knowledge-3",
     "title": "빨간내복야코 어린이 상식 3",
     "isbn": "9791173573798",
@@ -813,10 +1500,229 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "종합 주간 베스트 / 어린이(초등) 분야 베스트",
-      "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000217006715/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
-      "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000217006715/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
-      "reviews": [],
-      "reviewContentError": "TimeoutException: Message: timeout: Timed out receiving message from renderer: -0.002\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc1149b <unknown>\n#3 0x55c07dc11116 <unknown>\n#4 0x55c07dc0ed40 <unknown>\n#5 0x55c07dc0f69f <unknown>\n#6 0x55c07dc1e890 <unknown>\n#7 0x55c07dc387f6 <unknown>\n#8 0x55c07dc402eb <unknown>\n#9 0x55c07dc0fdf9 <unknown>\n#10 0x55c07dc3855d <unknown>\n#11 0x55c07dcca0a2 <unknown>\n#12 0x55c07dc73148 <unknown>\n#13 0x55c07dc73f11 <unknown>\n#14 0x55c07e2be5ac <unknown>\n#15 0x55c07e2bcdc5 <unknown>\n#16 0x55c07e2a7e95 <unknown>\n#17 0x55c07e2bda1a <unknown>\n#18 0x55c07e2905c9 <unknown>\n#19 0x55c07e2e60f8 <unknown>\n#20 0x55c07e2e6295 <unknown>\n#21 0x55c07e2fa3f3 <unknown>\n#22 0x7f6619a9cb84 <unknown>\n#23 0x7f6619b29ecc <unknown>\n"
+      "reviewCount": 65,
+      "reviewScore": 10.0,
+      "stores": [
+        {
+          "name": "광화문",
+          "stock": 3,
+          "address": "서울특별시 종로구 종로 1, 교보생명빌딩 지하 1층"
+        },
+        {
+          "name": "가든파이브",
+          "stock": 1,
+          "address": "서울특별시 송파구 충민로 66, 가든파이브 라이프 리빙관 현대시티몰 4층"
+        },
+        {
+          "name": "강남",
+          "stock": 1,
+          "address": "서울특별시 서초구 강남대로 465, 교보타워 지하 1~지하 2층"
+        },
+        {
+          "name": "건대",
+          "stock": 1,
+          "address": "서울시 광진구 능동로 92 롯데백화점 스타시티점 지하1층"
+        },
+        {
+          "name": "동대문",
+          "stock": 1,
+          "address": "서울특별시 중구 장충단로13길 20, 현대시티아울렛 지하 1층"
+        },
+        {
+          "name": "목동",
+          "stock": 4,
+          "address": "서울특별시 양천구 목동서로 159-1, CBS 지하 1층"
+        },
+        {
+          "name": "서울대",
+          "stock": 0,
+          "address": "서울특별시 관악구 관악로 1, 서울대학교 학생회관 구내서점"
+        },
+        {
+          "name": "수유",
+          "stock": 1,
+          "address": "서울특별시 강북구 도봉로 348, 교보생명빌딩 지하 1층"
+        },
+        {
+          "name": "영등포",
+          "stock": 1,
+          "address": "서울특별시 영등포구 영중로 15, 타임스퀘어 멀티플렉스 2층"
+        },
+        {
+          "name": "원그로브점",
+          "stock": 2,
+          "address": "서울특별시 강서구 공항대로 165 원그로브몰 B동 지하1층"
+        },
+        {
+          "name": "은평",
+          "stock": 1,
+          "address": "서울특별시 은평구 통일로 1050 (진관동) 롯데몰 은평점 3층"
+        },
+        {
+          "name": "이화여대",
+          "stock": 1,
+          "address": "서울특별시 서대문구 이화여대길 52, 이화여자대학교 ECC센터 지하 4층"
+        },
+        {
+          "name": "잠실",
+          "stock": 1,
+          "address": "서울특별시 송파구 올림픽로 269, 롯데 캐슬프라자 지하 1층"
+        },
+        {
+          "name": "천호",
+          "stock": 10,
+          "address": "서울특별시 강동구 올림픽로 664, 대우한강베네시티 지하 1층"
+        },
+        {
+          "name": "청량리",
+          "stock": 1,
+          "address": "서울특별시 동대문구 왕산로 214, 롯데백화점 청량리점 지하 1층"
+        },
+        {
+          "name": "합정",
+          "stock": 1,
+          "address": "서울특별시 마포구 월드컵로3길 14 딜라이트스퀘어 2차(지하 1층), 1차(지하 2층)"
+        },
+        {
+          "name": "광교",
+          "stock": 6,
+          "address": "경기도 수원시 영통구 광교중앙로 145, 광교엘포트몰 지하 1층"
+        },
+        {
+          "name": "분당",
+          "stock": 1,
+          "address": "경기도 성남시 분당구 황새울로312번길 26, KT&G 분당타워 지하 1층"
+        },
+        {
+          "name": "송도",
+          "stock": 2,
+          "address": "인천광역시 연수구 송도국제대로 123, 현대프리미엄아울렛 지하 1층"
+        },
+        {
+          "name": "인천",
+          "stock": 4,
+          "address": "인천광역시 남동구 예술로 138, 이토타워 지하1층"
+        },
+        {
+          "name": "일산",
+          "stock": 4,
+          "address": "경기도 고양시 일산동구 중앙로 1036, 고양종합터미널 지하 1층"
+        },
+        {
+          "name": "판교",
+          "stock": 4,
+          "address": "경기도 성남시 분당구 판교역로146번길 20, 현대백화점 지하 2층"
+        },
+        {
+          "name": "평촌",
+          "stock": 2,
+          "address": "경기도 안양시 동안구 시민대로 180, 롯데백화점 평촌점 6층"
+        },
+        {
+          "name": "수원",
+          "stock": 1,
+          "address": "16622 경기도 수원시 팔달구 덕영대로 924 AK플라자 수원점 5F 교보문고"
+        },
+        {
+          "name": "경성대ㆍ부경대",
+          "stock": 1,
+          "address": "부산광역시 남구 수영로 324, 지하 2층"
+        },
+        {
+          "name": "광주상무",
+          "stock": 1,
+          "address": "광주광역시 서구 상무중앙로 58, 광주 타임스타워 3층"
+        },
+        {
+          "name": "대구",
+          "stock": 3,
+          "address": "대구광역시 중구 국채보상로 586, 교보생명빌딩 지하 1층 ~ 지상 2층"
+        },
+        {
+          "name": "대전",
+          "stock": 2,
+          "address": "대전광역시 서구 대덕대로 226, 명동프라자 3층"
+        },
+        {
+          "name": "부산",
+          "stock": 3,
+          "address": "부산광역시 부산진구 중앙대로 658, 교보생명빌딩 1층, 지하 1층"
+        },
+        {
+          "name": "세종",
+          "stock": 1,
+          "address": "세종특별자치시 한누리대로 411, AK& 3층"
+        },
+        {
+          "name": "센텀시티",
+          "stock": 1,
+          "address": "부산광역시 해운대구 센텀남대로 59, 롯데백화점 센텀시티점 7층"
+        },
+        {
+          "name": "울산",
+          "stock": 1,
+          "address": "울산광역시 남구 화합로 185, 업스퀘어 지하 1층"
+        },
+        {
+          "name": "전주",
+          "stock": 7,
+          "address": "전북 전주시 완산구 전주객사4길 24-47, NC웨이브 B관 지하 1층"
+        },
+        {
+          "name": "창원",
+          "stock": 1,
+          "address": "경상남도 창원시 성산구 중앙대로 104, 마이우스빌딩 지하 1층"
+        },
+        {
+          "name": "천안",
+          "stock": 1,
+          "address": "충청남도 천안시 동남구 만남로 43, 신세계백화점 천안아산점 B관 3층"
+        },
+        {
+          "name": "칠곡",
+          "stock": 1,
+          "address": "대구광역시 북구 동암로 104, 3층"
+        },
+        {
+          "name": "해운대 팝업스토어",
+          "stock": 1,
+          "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
+        }
+      ],
+      "storeStockTotal": 78,
+      "onlineStock": 14,
+      "reviews": [
+        {
+          "author": "종이책",
+          "date": "2026-09-16",
+          "score": null,
+          "content": "yu****** 차단 밥먹으면서도 자주 꺼내와서 읽네요 ㅎ 0 댓글 0 종이책 hw**** 2026.08.24"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-08-24",
+          "score": null,
+          "content": "hw**** 차단 재미있게 잘 읽어요 0 댓글 0 종이책 bu****** 2026.05.27"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-05-27",
+          "score": null,
+          "content": "bu****** 차단 재미있고 유익합니다 0 댓글 0 종이책 ji********** 2026.04.28"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-04-28",
+          "score": null,
+          "content": "ji********** 차단 아이가 정말 좋아하는 책이예요 유익합니다 ㅎㅎ 0 댓글 0 종이책 bo*******"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-02-09",
+          "score": null,
+          "content": "bo******* 차단 아이가 너무 좋아합니다 0 댓글 0 종이책 ko***************** 2026.01.28"
+        }
+      ]
     },
     "yes24": {
       "id": "148709400",
@@ -872,11 +1778,11 @@
       "reviewCount": 6,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55fb673fcaaa <unknown>\n#1 0x55fb66d2aaa9 <unknown>\n#2 0x55fb66d2e474 <unknown>\n#3 0x55fb66dcbecb <unknown>\n#4 0x55fb66dcb1df <unknown>\n#5 0x55fb66d74148 <unknown>\n#6 0x55fb66d74f11 <unknown>\n#7 0x55fb673bf5ac <unknown>\n#8 0x55fb673bddc5 <unknown>\n#9 0x55fb673a8e95 <unknown>\n#10 0x55fb673bea1a <unknown>\n#11 0x55fb673915c9 <unknown>\n#12 0x55fb673e70f8 <unknown>\n#13 0x55fb673e7295 <unknown>\n#14 0x55fb673fb3f3 <unknown>\n#15 0x7f4d08e9cb84 <unknown>\n#16 0x7f4d08f29ecc <unknown>\n"
     }
   },
   "yako-knowledge-4": {
-    "t": "2026-10-14T18:42:55+09:00",
+    "t": "2026-10-14T19:43:00+09:00",
     "book": "yako-knowledge-4",
     "title": "빨간내복야코 어린이 상식 4",
     "isbn": "9791173574412",
@@ -886,10 +1792,229 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "종합 주간 베스트 / 어린이(초등) 분야 베스트",
-      "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000218331545/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
-      "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000218331545/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
-      "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc20936 <unknown>\n#3 0x55c07dc11971 <unknown>\n#4 0x55c07dc136b0 <unknown>\n#5 0x55c07dc11e5a <unknown>\n#6 0x55c07dc114f9 <unknown>\n#7 0x55c07dc11116 <unknown>\n#8 0x55c07dc0ed40 <unknown>\n#9 0x55c07dc0f560 <unknown>\n#10 0x55c07dc2d551 <unknown>\n#11 0x55c07dccaecb <unknown>\n#12 0x55c07dcca1df <unknown>\n#13 0x55c07dc73148 <unknown>\n#14 0x55c07dc73f11 <unknown>\n#15 0x55c07e2be5ac <unknown>\n#16 0x55c07e2bcdc5 <unknown>\n#17 0x55c07e2a7e95 <unknown>\n#18 0x55c07e2bda1a <unknown>\n#19 0x55c07e2905c9 <unknown>\n#20 0x55c07e2e60f8 <unknown>\n#21 0x55c07e2e6295 <unknown>\n#22 0x55c07e2fa3f3 <unknown>\n#23 0x7f6619a9cb84 <unknown>\n#24 0x7f6619b29ecc <unknown>\n"
+      "reviewCount": 57,
+      "reviewScore": 10.0,
+      "stores": [
+        {
+          "name": "광화문",
+          "stock": 2,
+          "address": "서울특별시 종로구 종로 1, 교보생명빌딩 지하 1층"
+        },
+        {
+          "name": "가든파이브",
+          "stock": 1,
+          "address": "서울특별시 송파구 충민로 66, 가든파이브 라이프 리빙관 현대시티몰 4층"
+        },
+        {
+          "name": "강남",
+          "stock": 2,
+          "address": "서울특별시 서초구 강남대로 465, 교보타워 지하 1~지하 2층"
+        },
+        {
+          "name": "건대",
+          "stock": 1,
+          "address": "서울시 광진구 능동로 92 롯데백화점 스타시티점 지하1층"
+        },
+        {
+          "name": "동대문",
+          "stock": 1,
+          "address": "서울특별시 중구 장충단로13길 20, 현대시티아울렛 지하 1층"
+        },
+        {
+          "name": "목동",
+          "stock": 7,
+          "address": "서울특별시 양천구 목동서로 159-1, CBS 지하 1층"
+        },
+        {
+          "name": "서울대",
+          "stock": 0,
+          "address": "서울특별시 관악구 관악로 1, 서울대학교 학생회관 구내서점"
+        },
+        {
+          "name": "수유",
+          "stock": 1,
+          "address": "서울특별시 강북구 도봉로 348, 교보생명빌딩 지하 1층"
+        },
+        {
+          "name": "영등포",
+          "stock": 7,
+          "address": "서울특별시 영등포구 영중로 15, 타임스퀘어 멀티플렉스 2층"
+        },
+        {
+          "name": "원그로브점",
+          "stock": 2,
+          "address": "서울특별시 강서구 공항대로 165 원그로브몰 B동 지하1층"
+        },
+        {
+          "name": "은평",
+          "stock": 2,
+          "address": "서울특별시 은평구 통일로 1050 (진관동) 롯데몰 은평점 3층"
+        },
+        {
+          "name": "이화여대",
+          "stock": 1,
+          "address": "서울특별시 서대문구 이화여대길 52, 이화여자대학교 ECC센터 지하 4층"
+        },
+        {
+          "name": "잠실",
+          "stock": 1,
+          "address": "서울특별시 송파구 올림픽로 269, 롯데 캐슬프라자 지하 1층"
+        },
+        {
+          "name": "천호",
+          "stock": 1,
+          "address": "서울특별시 강동구 올림픽로 664, 대우한강베네시티 지하 1층"
+        },
+        {
+          "name": "청량리",
+          "stock": 1,
+          "address": "서울특별시 동대문구 왕산로 214, 롯데백화점 청량리점 지하 1층"
+        },
+        {
+          "name": "합정",
+          "stock": 1,
+          "address": "서울특별시 마포구 월드컵로3길 14 딜라이트스퀘어 2차(지하 1층), 1차(지하 2층)"
+        },
+        {
+          "name": "광교",
+          "stock": 4,
+          "address": "경기도 수원시 영통구 광교중앙로 145, 광교엘포트몰 지하 1층"
+        },
+        {
+          "name": "분당",
+          "stock": 2,
+          "address": "경기도 성남시 분당구 황새울로312번길 26, KT&G 분당타워 지하 1층"
+        },
+        {
+          "name": "송도",
+          "stock": 1,
+          "address": "인천광역시 연수구 송도국제대로 123, 현대프리미엄아울렛 지하 1층"
+        },
+        {
+          "name": "인천",
+          "stock": 3,
+          "address": "인천광역시 남동구 예술로 138, 이토타워 지하1층"
+        },
+        {
+          "name": "일산",
+          "stock": 7,
+          "address": "경기도 고양시 일산동구 중앙로 1036, 고양종합터미널 지하 1층"
+        },
+        {
+          "name": "판교",
+          "stock": 3,
+          "address": "경기도 성남시 분당구 판교역로146번길 20, 현대백화점 지하 2층"
+        },
+        {
+          "name": "평촌",
+          "stock": 1,
+          "address": "경기도 안양시 동안구 시민대로 180, 롯데백화점 평촌점 6층"
+        },
+        {
+          "name": "수원",
+          "stock": 1,
+          "address": "16622 경기도 수원시 팔달구 덕영대로 924 AK플라자 수원점 5F 교보문고"
+        },
+        {
+          "name": "경성대ㆍ부경대",
+          "stock": 1,
+          "address": "부산광역시 남구 수영로 324, 지하 2층"
+        },
+        {
+          "name": "광주상무",
+          "stock": 1,
+          "address": "광주광역시 서구 상무중앙로 58, 광주 타임스타워 3층"
+        },
+        {
+          "name": "대구",
+          "stock": 2,
+          "address": "대구광역시 중구 국채보상로 586, 교보생명빌딩 지하 1층 ~ 지상 2층"
+        },
+        {
+          "name": "대전",
+          "stock": 7,
+          "address": "대전광역시 서구 대덕대로 226, 명동프라자 3층"
+        },
+        {
+          "name": "부산",
+          "stock": 3,
+          "address": "부산광역시 부산진구 중앙대로 658, 교보생명빌딩 1층, 지하 1층"
+        },
+        {
+          "name": "세종",
+          "stock": 1,
+          "address": "세종특별자치시 한누리대로 411, AK& 3층"
+        },
+        {
+          "name": "센텀시티",
+          "stock": 1,
+          "address": "부산광역시 해운대구 센텀남대로 59, 롯데백화점 센텀시티점 7층"
+        },
+        {
+          "name": "울산",
+          "stock": 6,
+          "address": "울산광역시 남구 화합로 185, 업스퀘어 지하 1층"
+        },
+        {
+          "name": "전주",
+          "stock": 8,
+          "address": "전북 전주시 완산구 전주객사4길 24-47, NC웨이브 B관 지하 1층"
+        },
+        {
+          "name": "창원",
+          "stock": 1,
+          "address": "경상남도 창원시 성산구 중앙대로 104, 마이우스빌딩 지하 1층"
+        },
+        {
+          "name": "천안",
+          "stock": 4,
+          "address": "충청남도 천안시 동남구 만남로 43, 신세계백화점 천안아산점 B관 3층"
+        },
+        {
+          "name": "칠곡",
+          "stock": 1,
+          "address": "대구광역시 북구 동암로 104, 3층"
+        },
+        {
+          "name": "해운대 팝업스토어",
+          "stock": 1,
+          "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
+        }
+      ],
+      "storeStockTotal": 90,
+      "onlineStock": 1,
+      "reviews": [
+        {
+          "author": "크기/중량\t153 * 225 * 13 mm / 484 g",
+          "date": "2025-11-05",
+          "score": null,
+          "content": "제조자 (수입자) 아울북 A/S책임자&연락처 정보준비중 색상 이미지참고 재질 정보준비중 작가정보 원작 빨간내복야코 막강 귀여움을 뿜어내는 캐릭터와 장르를 넘나드는 중독성 높은 노래로 팬들의 뜨거운 사랑을 받고 있는 유튜브 채널입니다. 일상에서 공감할 수 있는 다양한 소재와 트렌드를 짧은 노래와 함께 애니메이션으로 만들어 강한 몰입과 재미를 선사하고 있습니다. 남녀노소 누구나 즐길 수 있는 콘텐츠를 만들기 위해 애쓰고 있습니다. 국내도서 빨간내복야코 괴수대백과 1 국내도서"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-09-09",
+          "score": null,
+          "content": "oo****** 차단 아이가 정말 좋아해요 0 댓글 0 종이책 mi****** 2026.08.23"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-08-23",
+          "score": null,
+          "content": "mi****** 차단 선물해주었는데 정말 마음에 들어했어요^^ 0 댓글 0 종이책 bl******** 2026.08.18"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-08-18",
+          "score": null,
+          "content": "bl******** 차단 어린이 대통령 야코 0 댓글 0 종이책 mi****** 2026.08.13"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-08-13",
+          "score": null,
+          "content": "mi****** 차단 재미있게 잘 보고있어요~~^^ 0 댓글 0 종이책 na******** 2026.07.27"
+        }
+      ]
     },
     "yes24": {
       "id": "163002362",
@@ -945,11 +2070,11 @@
       "reviewCount": 0,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55fb673fcaaa <unknown>\n#1 0x55fb66d2aaa9 <unknown>\n#2 0x55fb66d2e474 <unknown>\n#3 0x55fb66dcbecb <unknown>\n#4 0x55fb66dcb1df <unknown>\n#5 0x55fb66d74148 <unknown>\n#6 0x55fb66d74f11 <unknown>\n#7 0x55fb673bf5ac <unknown>\n#8 0x55fb673bddc5 <unknown>\n#9 0x55fb673a8e95 <unknown>\n#10 0x55fb673bea1a <unknown>\n#11 0x55fb673915c9 <unknown>\n#12 0x55fb673e70f8 <unknown>\n#13 0x55fb673e7295 <unknown>\n#14 0x55fb673fb3f3 <unknown>\n#15 0x7f4d08e9cb84 <unknown>\n#16 0x7f4d08f29ecc <unknown>\n"
     }
   },
   "yako-knowledge-5": {
-    "t": "2026-10-14T18:42:55+09:00",
+    "t": "2026-10-14T19:43:00+09:00",
     "book": "yako-knowledge-5",
     "title": "빨간내복야코 어린이 상식 5",
     "isbn": "9791173577598",
@@ -959,10 +2084,229 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "종합 주간 베스트 / 어린이(초등) 분야 베스트",
-      "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000219211516/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
-      "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000219211516/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
-      "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: net::ERR_NAME_NOT_RESOLVED\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc20936 <unknown>\n#3 0x55c07dc11971 <unknown>\n#4 0x55c07dc136b0 <unknown>\n#5 0x55c07dc11e5a <unknown>\n#6 0x55c07dc114f9 <unknown>\n#7 0x55c07dc11116 <unknown>\n#8 0x55c07dc0ed40 <unknown>\n#9 0x55c07dc0f560 <unknown>\n#10 0x55c07dc2d551 <unknown>\n#11 0x55c07dccaecb <unknown>\n#12 0x55c07dcca1df <unknown>\n#13 0x55c07dc73148 <unknown>\n#14 0x55c07dc73f11 <unknown>\n#15 0x55c07e2be5ac <unknown>\n#16 0x55c07e2bcdc5 <unknown>\n#17 0x55c07e2a7e95 <unknown>\n#18 0x55c07e2bda1a <unknown>\n#19 0x55c07e2905c9 <unknown>\n#20 0x55c07e2e60f8 <unknown>\n#21 0x55c07e2e6295 <unknown>\n#22 0x55c07e2fa3f3 <unknown>\n#23 0x7f6619a9cb84 <unknown>\n#24 0x7f6619b29ecc <unknown>\n"
+      "reviewCount": 44,
+      "reviewScore": 9.9,
+      "stores": [
+        {
+          "name": "광화문",
+          "stock": 5,
+          "address": "서울특별시 종로구 종로 1, 교보생명빌딩 지하 1층"
+        },
+        {
+          "name": "가든파이브",
+          "stock": 2,
+          "address": "서울특별시 송파구 충민로 66, 가든파이브 라이프 리빙관 현대시티몰 4층"
+        },
+        {
+          "name": "강남",
+          "stock": 2,
+          "address": "서울특별시 서초구 강남대로 465, 교보타워 지하 1~지하 2층"
+        },
+        {
+          "name": "건대",
+          "stock": 1,
+          "address": "서울시 광진구 능동로 92 롯데백화점 스타시티점 지하1층"
+        },
+        {
+          "name": "동대문",
+          "stock": 1,
+          "address": "서울특별시 중구 장충단로13길 20, 현대시티아울렛 지하 1층"
+        },
+        {
+          "name": "목동",
+          "stock": 7,
+          "address": "서울특별시 양천구 목동서로 159-1, CBS 지하 1층"
+        },
+        {
+          "name": "서울대",
+          "stock": 0,
+          "address": "서울특별시 관악구 관악로 1, 서울대학교 학생회관 구내서점"
+        },
+        {
+          "name": "수유",
+          "stock": 1,
+          "address": "서울특별시 강북구 도봉로 348, 교보생명빌딩 지하 1층"
+        },
+        {
+          "name": "영등포",
+          "stock": 3,
+          "address": "서울특별시 영등포구 영중로 15, 타임스퀘어 멀티플렉스 2층"
+        },
+        {
+          "name": "원그로브점",
+          "stock": 2,
+          "address": "서울특별시 강서구 공항대로 165 원그로브몰 B동 지하1층"
+        },
+        {
+          "name": "은평",
+          "stock": 4,
+          "address": "서울특별시 은평구 통일로 1050 (진관동) 롯데몰 은평점 3층"
+        },
+        {
+          "name": "이화여대",
+          "stock": 1,
+          "address": "서울특별시 서대문구 이화여대길 52, 이화여자대학교 ECC센터 지하 4층"
+        },
+        {
+          "name": "잠실",
+          "stock": 1,
+          "address": "서울특별시 송파구 올림픽로 269, 롯데 캐슬프라자 지하 1층"
+        },
+        {
+          "name": "천호",
+          "stock": 1,
+          "address": "서울특별시 강동구 올림픽로 664, 대우한강베네시티 지하 1층"
+        },
+        {
+          "name": "청량리",
+          "stock": 1,
+          "address": "서울특별시 동대문구 왕산로 214, 롯데백화점 청량리점 지하 1층"
+        },
+        {
+          "name": "합정",
+          "stock": 1,
+          "address": "서울특별시 마포구 월드컵로3길 14 딜라이트스퀘어 2차(지하 1층), 1차(지하 2층)"
+        },
+        {
+          "name": "광교",
+          "stock": 5,
+          "address": "경기도 수원시 영통구 광교중앙로 145, 광교엘포트몰 지하 1층"
+        },
+        {
+          "name": "분당",
+          "stock": 2,
+          "address": "경기도 성남시 분당구 황새울로312번길 26, KT&G 분당타워 지하 1층"
+        },
+        {
+          "name": "송도",
+          "stock": 1,
+          "address": "인천광역시 연수구 송도국제대로 123, 현대프리미엄아울렛 지하 1층"
+        },
+        {
+          "name": "인천",
+          "stock": 3,
+          "address": "인천광역시 남동구 예술로 138, 이토타워 지하1층"
+        },
+        {
+          "name": "일산",
+          "stock": 4,
+          "address": "경기도 고양시 일산동구 중앙로 1036, 고양종합터미널 지하 1층"
+        },
+        {
+          "name": "판교",
+          "stock": 2,
+          "address": "경기도 성남시 분당구 판교역로146번길 20, 현대백화점 지하 2층"
+        },
+        {
+          "name": "평촌",
+          "stock": 1,
+          "address": "경기도 안양시 동안구 시민대로 180, 롯데백화점 평촌점 6층"
+        },
+        {
+          "name": "수원",
+          "stock": 1,
+          "address": "16622 경기도 수원시 팔달구 덕영대로 924 AK플라자 수원점 5F 교보문고"
+        },
+        {
+          "name": "경성대ㆍ부경대",
+          "stock": 1,
+          "address": "부산광역시 남구 수영로 324, 지하 2층"
+        },
+        {
+          "name": "광주상무",
+          "stock": 1,
+          "address": "광주광역시 서구 상무중앙로 58, 광주 타임스타워 3층"
+        },
+        {
+          "name": "대구",
+          "stock": 3,
+          "address": "대구광역시 중구 국채보상로 586, 교보생명빌딩 지하 1층 ~ 지상 2층"
+        },
+        {
+          "name": "대전",
+          "stock": 1,
+          "address": "대전광역시 서구 대덕대로 226, 명동프라자 3층"
+        },
+        {
+          "name": "부산",
+          "stock": 3,
+          "address": "부산광역시 부산진구 중앙대로 658, 교보생명빌딩 1층, 지하 1층"
+        },
+        {
+          "name": "세종",
+          "stock": 1,
+          "address": "세종특별자치시 한누리대로 411, AK& 3층"
+        },
+        {
+          "name": "센텀시티",
+          "stock": 1,
+          "address": "부산광역시 해운대구 센텀남대로 59, 롯데백화점 센텀시티점 7층"
+        },
+        {
+          "name": "울산",
+          "stock": 2,
+          "address": "울산광역시 남구 화합로 185, 업스퀘어 지하 1층"
+        },
+        {
+          "name": "전주",
+          "stock": 10,
+          "address": "전북 전주시 완산구 전주객사4길 24-47, NC웨이브 B관 지하 1층"
+        },
+        {
+          "name": "창원",
+          "stock": 1,
+          "address": "경상남도 창원시 성산구 중앙대로 104, 마이우스빌딩 지하 1층"
+        },
+        {
+          "name": "천안",
+          "stock": 2,
+          "address": "충청남도 천안시 동남구 만남로 43, 신세계백화점 천안아산점 B관 3층"
+        },
+        {
+          "name": "칠곡",
+          "stock": 6,
+          "address": "대구광역시 북구 동암로 104, 3층"
+        },
+        {
+          "name": "해운대 팝업스토어",
+          "stock": 1,
+          "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
+        }
+      ],
+      "storeStockTotal": 85,
+      "onlineStock": 28,
+      "reviews": [
+        {
+          "author": "종이책",
+          "date": "2026-08-30",
+          "score": null,
+          "content": "wh******* 차단 아이가 이시리즈 너무 좋아해요 0 댓글 0 종이책 si****** 2026.08.08"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-08-08",
+          "score": null,
+          "content": "si****** 차단 아이가 정말 좋아해요 0 댓글 0 종이책 ka****** 2026.08.05"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-08-05",
+          "score": null,
+          "content": "ka****** 차단 아이가 재밌어 하네요 0 댓글 0 종이책 le***** 2026.07.24"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-07-24",
+          "score": null,
+          "content": "le***** 차단 구독자 125만 명을 사로잡은 지구 어린이들의 든든한 친구, 빨간내복야코! 이번엔 마음 표현에 서투른 많은 어린이를 위해 『빨간내복야코 어린이 상식 5: 감정 어휘 편』을 들고 찾아왔다. ‘대박’, ‘짜증 나’로 뭉뚱그렸던 마음을 야코와 함께 구체적으로 표현해 보자. 자신의 마음을 들여다보고 솔직하게 전하는 힘이 자라날 것이다. 0 댓글 0 종이책 yu******* 2026.07.22"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-07-22",
+          "score": null,
+          "content": "yu******* 차단 조카 생일이라 사줬는데 좋아해요. 0 댓글 0 종이책 ic******* 2026.07.14"
+        }
+      ]
     },
     "yes24": {
       "id": "177507219",
@@ -1018,11 +2362,11 @@
       "reviewCount": 12,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55fb673fcaaa <unknown>\n#1 0x55fb66d2aaa9 <unknown>\n#2 0x55fb66d2e474 <unknown>\n#3 0x55fb66dcbecb <unknown>\n#4 0x55fb66dcb1df <unknown>\n#5 0x55fb66d74148 <unknown>\n#6 0x55fb66d74f11 <unknown>\n#7 0x55fb673bf5ac <unknown>\n#8 0x55fb673bddc5 <unknown>\n#9 0x55fb673a8e95 <unknown>\n#10 0x55fb673bea1a <unknown>\n#11 0x55fb673915c9 <unknown>\n#12 0x55fb673e70f8 <unknown>\n#13 0x55fb673e7295 <unknown>\n#14 0x55fb673fb3f3 <unknown>\n#15 0x7f4d08e9cb84 <unknown>\n#16 0x7f4d08f29ecc <unknown>\n"
     }
   },
   "yako-knowledge-6": {
-    "t": "2026-10-14T18:42:55+09:00",
+    "t": "2026-10-14T19:43:00+09:00",
     "book": "yako-knowledge-6",
     "title": "빨간내복야코 어린이 상식 6",
     "isbn": "9791173579073",
@@ -1032,10 +2376,229 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "종합 주간 베스트 / 어린이(초등) 분야 베스트",
-      "detailError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/v2/product/component/S000220339967/top (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
-      "inventoryError": "HTTPSConnectionPool(host='product.kyobobook.co.kr', port=443): Max retries exceeded with url: /api/gw/pdt/product/S000220339967/location-inventory (Caused by NameResolutionError(\"HTTPSConnection(host='product.kyobobook.co.kr', port=443): Failed to resolve 'product.kyobobook.co.kr' ([Errno -3] Temporary failure in name resolution)\"))",
-      "reviews": [],
-      "reviewContentError": "TimeoutException: Message: timeout: Timed out receiving message from renderer: -0.002\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc1149b <unknown>\n#3 0x55c07dc11116 <unknown>\n#4 0x55c07dc0ed40 <unknown>\n#5 0x55c07dc0f69f <unknown>\n#6 0x55c07dc1e890 <unknown>\n#7 0x55c07dc387f6 <unknown>\n#8 0x55c07dc402eb <unknown>\n#9 0x55c07dc0fdf9 <unknown>\n#10 0x55c07dc3855d <unknown>\n#11 0x55c07dcca0a2 <unknown>\n#12 0x55c07dc73148 <unknown>\n#13 0x55c07dc73f11 <unknown>\n#14 0x55c07e2be5ac <unknown>\n#15 0x55c07e2bcdc5 <unknown>\n#16 0x55c07e2a7e95 <unknown>\n#17 0x55c07e2bda1a <unknown>\n#18 0x55c07e2905c9 <unknown>\n#19 0x55c07e2e60f8 <unknown>\n#20 0x55c07e2e6295 <unknown>\n#21 0x55c07e2fa3f3 <unknown>\n#22 0x7f6619a9cb84 <unknown>\n#23 0x7f6619b29ecc <unknown>\n"
+      "reviewCount": 61,
+      "reviewScore": 10.0,
+      "stores": [
+        {
+          "name": "광화문",
+          "stock": 10,
+          "address": "서울특별시 종로구 종로 1, 교보생명빌딩 지하 1층"
+        },
+        {
+          "name": "가든파이브",
+          "stock": 3,
+          "address": "서울특별시 송파구 충민로 66, 가든파이브 라이프 리빙관 현대시티몰 4층"
+        },
+        {
+          "name": "강남",
+          "stock": 2,
+          "address": "서울특별시 서초구 강남대로 465, 교보타워 지하 1~지하 2층"
+        },
+        {
+          "name": "건대",
+          "stock": 1,
+          "address": "서울시 광진구 능동로 92 롯데백화점 스타시티점 지하1층"
+        },
+        {
+          "name": "동대문",
+          "stock": 1,
+          "address": "서울특별시 중구 장충단로13길 20, 현대시티아울렛 지하 1층"
+        },
+        {
+          "name": "목동",
+          "stock": 3,
+          "address": "서울특별시 양천구 목동서로 159-1, CBS 지하 1층"
+        },
+        {
+          "name": "서울대",
+          "stock": 1,
+          "address": "서울특별시 관악구 관악로 1, 서울대학교 학생회관 구내서점"
+        },
+        {
+          "name": "수유",
+          "stock": 1,
+          "address": "서울특별시 강북구 도봉로 348, 교보생명빌딩 지하 1층"
+        },
+        {
+          "name": "영등포",
+          "stock": 6,
+          "address": "서울특별시 영등포구 영중로 15, 타임스퀘어 멀티플렉스 2층"
+        },
+        {
+          "name": "원그로브점",
+          "stock": 7,
+          "address": "서울특별시 강서구 공항대로 165 원그로브몰 B동 지하1층"
+        },
+        {
+          "name": "은평",
+          "stock": 4,
+          "address": "서울특별시 은평구 통일로 1050 (진관동) 롯데몰 은평점 3층"
+        },
+        {
+          "name": "이화여대",
+          "stock": 1,
+          "address": "서울특별시 서대문구 이화여대길 52, 이화여자대학교 ECC센터 지하 4층"
+        },
+        {
+          "name": "잠실",
+          "stock": 3,
+          "address": "서울특별시 송파구 올림픽로 269, 롯데 캐슬프라자 지하 1층"
+        },
+        {
+          "name": "천호",
+          "stock": 1,
+          "address": "서울특별시 강동구 올림픽로 664, 대우한강베네시티 지하 1층"
+        },
+        {
+          "name": "청량리",
+          "stock": 10,
+          "address": "서울특별시 동대문구 왕산로 214, 롯데백화점 청량리점 지하 1층"
+        },
+        {
+          "name": "합정",
+          "stock": 7,
+          "address": "서울특별시 마포구 월드컵로3길 14 딜라이트스퀘어 2차(지하 1층), 1차(지하 2층)"
+        },
+        {
+          "name": "광교",
+          "stock": 2,
+          "address": "경기도 수원시 영통구 광교중앙로 145, 광교엘포트몰 지하 1층"
+        },
+        {
+          "name": "분당",
+          "stock": 7,
+          "address": "경기도 성남시 분당구 황새울로312번길 26, KT&G 분당타워 지하 1층"
+        },
+        {
+          "name": "송도",
+          "stock": 8,
+          "address": "인천광역시 연수구 송도국제대로 123, 현대프리미엄아울렛 지하 1층"
+        },
+        {
+          "name": "인천",
+          "stock": 4,
+          "address": "인천광역시 남동구 예술로 138, 이토타워 지하1층"
+        },
+        {
+          "name": "일산",
+          "stock": 3,
+          "address": "경기도 고양시 일산동구 중앙로 1036, 고양종합터미널 지하 1층"
+        },
+        {
+          "name": "판교",
+          "stock": 4,
+          "address": "경기도 성남시 분당구 판교역로146번길 20, 현대백화점 지하 2층"
+        },
+        {
+          "name": "평촌",
+          "stock": 5,
+          "address": "경기도 안양시 동안구 시민대로 180, 롯데백화점 평촌점 6층"
+        },
+        {
+          "name": "수원",
+          "stock": 3,
+          "address": "16622 경기도 수원시 팔달구 덕영대로 924 AK플라자 수원점 5F 교보문고"
+        },
+        {
+          "name": "경성대ㆍ부경대",
+          "stock": 5,
+          "address": "부산광역시 남구 수영로 324, 지하 2층"
+        },
+        {
+          "name": "광주상무",
+          "stock": 4,
+          "address": "광주광역시 서구 상무중앙로 58, 광주 타임스타워 3층"
+        },
+        {
+          "name": "대구",
+          "stock": 5,
+          "address": "대구광역시 중구 국채보상로 586, 교보생명빌딩 지하 1층 ~ 지상 2층"
+        },
+        {
+          "name": "대전",
+          "stock": 1,
+          "address": "대전광역시 서구 대덕대로 226, 명동프라자 3층"
+        },
+        {
+          "name": "부산",
+          "stock": 5,
+          "address": "부산광역시 부산진구 중앙대로 658, 교보생명빌딩 1층, 지하 1층"
+        },
+        {
+          "name": "세종",
+          "stock": 13,
+          "address": "세종특별자치시 한누리대로 411, AK& 3층"
+        },
+        {
+          "name": "센텀시티",
+          "stock": 2,
+          "address": "부산광역시 해운대구 센텀남대로 59, 롯데백화점 센텀시티점 7층"
+        },
+        {
+          "name": "울산",
+          "stock": 7,
+          "address": "울산광역시 남구 화합로 185, 업스퀘어 지하 1층"
+        },
+        {
+          "name": "전주",
+          "stock": 7,
+          "address": "전북 전주시 완산구 전주객사4길 24-47, NC웨이브 B관 지하 1층"
+        },
+        {
+          "name": "창원",
+          "stock": 11,
+          "address": "경상남도 창원시 성산구 중앙대로 104, 마이우스빌딩 지하 1층"
+        },
+        {
+          "name": "천안",
+          "stock": 2,
+          "address": "충청남도 천안시 동남구 만남로 43, 신세계백화점 천안아산점 B관 3층"
+        },
+        {
+          "name": "칠곡",
+          "stock": 7,
+          "address": "대구광역시 북구 동암로 104, 3층"
+        },
+        {
+          "name": "해운대 팝업스토어",
+          "stock": 5,
+          "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
+        }
+      ],
+      "storeStockTotal": 171,
+      "onlineStock": 63,
+      "reviews": [
+        {
+          "author": "국내도서",
+          "date": "2026-07-14",
+          "score": null,
+          "content": "이 책의 이벤트 * 해외주문/바로드림/제휴사주문/업체배송건의 경우, 증정상품이 발송되지 않습니다. [외국도서] 지브리 직수입 Studio Ghibli 이벤트 [외국도서] 토이스토리, 디즈니, 캐릭터 비지북 시리즈 이벤트 2026.06.26 ~ 2026.12.31 AI 연관 추천 툴팁 열기 버튼 김동희 세계관 호기심 환장 RPG 박종은. 이정태. 김동희 세계관 15,210원 국내도서"
+        },
+        {
+          "author": "국내도서",
+          "date": "2026-07-14",
+          "score": null,
+          "content": "[외국도서] 지브리 직수입 Studio Ghibli 이벤트 [외국도서] 토이스토리, 디즈니, 캐릭터 비지북 시리즈 이벤트 2026.06.26 ~ 2026.12.31 AI 연관 추천 툴팁 열기 버튼 김동희 세계관 호기심 환장 RPG 박종은. 이정태. 김동희 세계관 15,210원 국내도서 캐치! 티니핑 호기심 팡팡 2: 몸의 비밀 안도감. 김기수. 코우. 캐치! 티니핑"
+        },
+        {
+          "author": "크기/중량\t152 * 225 * 12 mm / 466 g",
+          "date": "2026-06-24",
+          "score": null,
+          "content": "제조자 (수입자) 아울북 A/S책임자&연락처 정보준비중 색상 이미지참고 재질 정보준비중 작가정보 원작 빨간내복야코 막강 귀여움을 뿜어내는 캐릭터와 장르를 넘나드는 중독성 높은 노래로 팬들의 뜨거운 사랑을 받고 있는 유튜브 채널입니다. 일상에서 공감할 수 있는 다양한 소재와 트렌드를 짧은 노래와 함께 애니메이션으로 만들어 강한 몰입과 재미를 선사하고 있습니다. 남녀노소 누구나 즐길 수 있는 콘텐츠를 만들기 위해 애쓰고 있습니다. 국내도서 빨간내복야코 괴수대백과 1 국내도서"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-10-11",
+          "score": null,
+          "content": "sh****** 차단 가볍게 읽기 좋습니다 0 댓글 0 종이책 no****** 2026.09.30"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-09-30",
+          "score": null,
+          "content": "no****** 차단 야코는 항상 재밌게 봅니다 0 댓글 0 종이책 yn****** 2026.09.26"
+        }
+      ]
     },
     "yes24": {
       "id": "192491768",
@@ -1091,7 +2654,7 @@
       "reviewCount": 23,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55c07e2fbaaa <unknown>\n#1 0x55c07dc29aa9 <unknown>\n#2 0x55c07dc2d474 <unknown>\n#3 0x55c07dccaecb <unknown>\n#4 0x55c07dcca1df <unknown>\n#5 0x55c07dc73148 <unknown>\n#6 0x55c07dc73f11 <unknown>\n#7 0x55c07e2be5ac <unknown>\n#8 0x55c07e2bcdc5 <unknown>\n#9 0x55c07e2a7e95 <unknown>\n#10 0x55c07e2bda1a <unknown>\n#11 0x55c07e2905c9 <unknown>\n#12 0x55c07e2e60f8 <unknown>\n#13 0x55c07e2e6295 <unknown>\n#14 0x55c07e2fa3f3 <unknown>\n#15 0x7f6619a9cb84 <unknown>\n#16 0x7f6619b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=154.0.8037.97)\nStacktrace:\n#0 0x55fb673fcaaa <unknown>\n#1 0x55fb66d2aaa9 <unknown>\n#2 0x55fb66d2e474 <unknown>\n#3 0x55fb66dcbecb <unknown>\n#4 0x55fb66dcb1df <unknown>\n#5 0x55fb66d74148 <unknown>\n#6 0x55fb66d74f11 <unknown>\n#7 0x55fb673bf5ac <unknown>\n#8 0x55fb673bddc5 <unknown>\n#9 0x55fb673a8e95 <unknown>\n#10 0x55fb673bea1a <unknown>\n#11 0x55fb673915c9 <unknown>\n#12 0x55fb673e70f8 <unknown>\n#13 0x55fb673e7295 <unknown>\n#14 0x55fb673fb3f3 <unknown>\n#15 0x7f4d08e9cb84 <unknown>\n#16 0x7f4d08f29ecc <unknown>\n"
     }
   }
 }
