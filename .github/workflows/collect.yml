@@ -3,8 +3,15 @@ name: collect-book-data
 on:
   workflow_dispatch:
   schedule:
-    # 매시간 7분에 자동 수집
-    - cron: "7 * * * *"
+    # 매시간 37분에 자동 수집
+    - cron: "37 * * * *"
+  push:
+    branches: [main]
+    paths:
+      - "collect.py"
+      - "requirements.txt"
+      - "books.json"
+      - ".github/workflows/collect.yml"
 
 permissions:
   contents: write
