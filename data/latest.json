@@ -1,6 +1,6 @@
 {
   "literacy-1": {
-    "t": "2026-10-15T13:34:54+09:00",
+    "t": "2026-11-24T13:50:33+09:00",
     "book": "literacy-1",
     "title": "초등 첫 문해력 신문",
     "isbn": "9791171177028",
@@ -10,7 +10,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "종합 주간 베스트 / 어린이(초등) 분야 베스트",
-      "reviewCount": 90,
+      "reviewCount": 91,
       "reviewScore": 9.8,
       "stores": [
         {
@@ -25,7 +25,7 @@
         },
         {
           "name": "강남",
-          "stock": 6,
+          "stock": 5,
           "address": "서울특별시 서초구 강남대로 465, 교보타워 지하 1~지하 2층"
         },
         {
@@ -190,7 +190,7 @@
         },
         {
           "name": "칠곡",
-          "stock": 6,
+          "stock": 5,
           "address": "대구광역시 북구 동암로 104, 3층"
         },
         {
@@ -199,8 +199,8 @@
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
       ],
-      "storeStockTotal": 39,
-      "onlineStock": 11,
+      "storeStockTotal": 37,
+      "onlineStock": 6,
       "reviews": [
         {
           "author": "패키지",
@@ -216,6 +216,12 @@
         },
         {
           "author": "종이책",
+          "date": "2026-10-29",
+          "score": null,
+          "content": "wj******** 차단 아이가 좋아하긴 하는데.. 0 댓글 0 종이책 ju******* 2026.09.10"
+        },
+        {
+          "author": "종이책",
           "date": "2026-09-10",
           "score": null,
           "content": "ju******* 차단 초2.글쓰기 첫 수업 교재로 서점에서 직접 찾아보고 결정했어요 0 댓글 0 종이책 bb****** 2026.04.03"
@@ -225,12 +231,6 @@
           "date": "2026-04-03",
           "score": null,
           "content": "bb****** 차단 짧은 기사를 읽고 자신의 생각을 적는 학습교재 내용보다 쓰기에 집중되어 있음. 4 0 댓글 0 펼치기 종이책"
-        },
-        {
-          "author": "종이책",
-          "date": "2026-02-10",
-          "score": null,
-          "content": "ks*** 차단 아이가 좋아합니다 만족합니다 0 댓글 0 종이책 jm******"
         }
       ]
     },
@@ -241,7 +241,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 8799,
+      "salesIndex": 8211,
       "reviewCount": 124,
       "reviewScore": 10.0,
       "reviews": [
@@ -283,16 +283,16 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 3644,
+      "salesPoint": 3408,
       "commentCount": 8,
       "reviewCount": 38,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=155.0.8059.39)\nStacktrace:\n#0 0x55f4f91a61da <unknown>\n#1 0x55f4f8ac55c9 <unknown>\n#2 0x55f4f8ac8fb4 <unknown>\n#3 0x55f4f8b6ba5b <unknown>\n#4 0x55f4f8b6ad6e <unknown>\n#5 0x55f4f8b0f2f8 <unknown>\n#6 0x55f4f8b100d1 <unknown>\n#7 0x55f4f9168cec <unknown>\n#8 0x55f4f9167505 <unknown>\n#9 0x55f4f91523b5 <unknown>\n#10 0x55f4f916815a <unknown>\n#11 0x55f4f913a939 <unknown>\n#12 0x55f4f9190898 <unknown>\n#13 0x55f4f9190a35 <unknown>\n#14 0x55f4f91a4b63 <unknown>\n#15 0x7f1a23a9cb84 <unknown>\n#16 0x7f1a23b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=157.0.8103.78)\nStacktrace:\n#0 0x6167742dacaa <unknown>\n#1 0x616773c0ecc5 <unknown>\n#2 0x616773c11af8 <unknown>\n#3 0x616773c90e5b <unknown>\n#4 0x616773c90db3 <unknown>\n#5 0x616773c906c1 <unknown>\n#6 0x616773c4b557 <unknown>\n#7 0x616773c4a86e <unknown>\n#8 0x616773c4b341 <unknown>\n#9 0x61677429d79c <unknown>\n#10 0x61677429bfcd <unknown>\n#11 0x616774286df5 <unknown>\n#12 0x61677429cc0a <unknown>\n#13 0x61677426fb99 <unknown>\n#14 0x6167742c5318 <unknown>\n#15 0x6167742c54b5 <unknown>\n#16 0x6167742d9633 <unknown>\n#17 0x7f73dd6abdeb <unknown>\n#18 0x7f73dd73f4dc <unknown>\n"
     }
   },
   "literacy-2": {
-    "t": "2026-10-15T13:34:54+09:00",
+    "t": "2026-11-24T13:50:33+09:00",
     "book": "literacy-2",
     "title": "초등 첫 문해력 신문 2",
     "isbn": "9791171179688",
@@ -312,12 +312,12 @@
         },
         {
           "name": "가든파이브",
-          "stock": 1,
+          "stock": 0,
           "address": "서울특별시 송파구 충민로 66, 가든파이브 라이프 리빙관 현대시티몰 4층"
         },
         {
           "name": "강남",
-          "stock": 2,
+          "stock": 3,
           "address": "서울특별시 서초구 강남대로 465, 교보타워 지하 1~지하 2층"
         },
         {
@@ -452,7 +452,7 @@
         },
         {
           "name": "세종",
-          "stock": 1,
+          "stock": 0,
           "address": "세종특별자치시 한누리대로 411, AK& 3층"
         },
         {
@@ -491,8 +491,8 @@
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
       ],
-      "storeStockTotal": 22,
-      "onlineStock": 5,
+      "storeStockTotal": 21,
+      "onlineStock": 3,
       "reviews": [
         {
           "author": "크기/중량\t189 * 258 * 13 mm / 613 g",
@@ -533,7 +533,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 3288,
+      "salesIndex": 3132,
       "reviewCount": 47,
       "reviewScore": 10.0,
       "reviews": [
@@ -575,16 +575,16 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 631,
+      "salesPoint": 605,
       "commentCount": 10,
       "reviewCount": 7,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=155.0.8059.39)\nStacktrace:\n#0 0x55f4f91a61da <unknown>\n#1 0x55f4f8ac55c9 <unknown>\n#2 0x55f4f8ac8fb4 <unknown>\n#3 0x55f4f8b6ba5b <unknown>\n#4 0x55f4f8b6ad6e <unknown>\n#5 0x55f4f8b0f2f8 <unknown>\n#6 0x55f4f8b100d1 <unknown>\n#7 0x55f4f9168cec <unknown>\n#8 0x55f4f9167505 <unknown>\n#9 0x55f4f91523b5 <unknown>\n#10 0x55f4f916815a <unknown>\n#11 0x55f4f913a939 <unknown>\n#12 0x55f4f9190898 <unknown>\n#13 0x55f4f9190a35 <unknown>\n#14 0x55f4f91a4b63 <unknown>\n#15 0x7f1a23a9cb84 <unknown>\n#16 0x7f1a23b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=157.0.8103.78)\nStacktrace:\n#0 0x6167742dacaa <unknown>\n#1 0x616773c0ecc5 <unknown>\n#2 0x616773c11af8 <unknown>\n#3 0x616773c90e5b <unknown>\n#4 0x616773c90db3 <unknown>\n#5 0x616773c906c1 <unknown>\n#6 0x616773c4b557 <unknown>\n#7 0x616773c4a86e <unknown>\n#8 0x616773c4b341 <unknown>\n#9 0x61677429d79c <unknown>\n#10 0x61677429bfcd <unknown>\n#11 0x616774286df5 <unknown>\n#12 0x61677429cc0a <unknown>\n#13 0x61677426fb99 <unknown>\n#14 0x6167742c5318 <unknown>\n#15 0x6167742c54b5 <unknown>\n#16 0x6167742d9633 <unknown>\n#17 0x7f73dd6abdeb <unknown>\n#18 0x7f73dd73f4dc <unknown>\n"
     }
   },
   "literacy-3": {
-    "t": "2026-10-15T13:34:54+09:00",
+    "t": "2026-11-24T13:50:33+09:00",
     "book": "literacy-3",
     "title": "초등 첫 문해력 신문 3",
     "isbn": "9791173573767",
@@ -594,7 +594,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "종합 주간 베스트 / 어린이(초등) 분야 베스트",
-      "reviewCount": 6,
+      "reviewCount": 7,
       "reviewScore": 10.0,
       "stores": [
         {
@@ -604,17 +604,17 @@
         },
         {
           "name": "가든파이브",
-          "stock": 1,
+          "stock": 0,
           "address": "서울특별시 송파구 충민로 66, 가든파이브 라이프 리빙관 현대시티몰 4층"
         },
         {
           "name": "강남",
-          "stock": 2,
+          "stock": 3,
           "address": "서울특별시 서초구 강남대로 465, 교보타워 지하 1~지하 2층"
         },
         {
           "name": "건대",
-          "stock": 1,
+          "stock": 0,
           "address": "서울시 광진구 능동로 92 롯데백화점 스타시티점 지하1층"
         },
         {
@@ -719,7 +719,7 @@
         },
         {
           "name": "경성대ㆍ부경대",
-          "stock": 1,
+          "stock": 0,
           "address": "부산광역시 남구 수영로 324, 지하 2층"
         },
         {
@@ -783,14 +783,20 @@
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
       ],
-      "storeStockTotal": 26,
-      "onlineStock": 13,
+      "storeStockTotal": 24,
+      "onlineStock": 7,
       "reviews": [
         {
           "author": "크기/중량\t189 * 257 * 13 mm / 603 g",
           "date": "2025-07-16",
           "score": null,
           "content": "제조자 (수입자) 아울북 A/S책임자&연락처 정보준비중 사용연령 3세 이상 색상 이미지참고 재질 정보준비중 제조국 Korea 작가정보 저자(글) 이다희 인물정보 초/중/고 교사"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-11-22",
+          "score": null,
+          "content": "yu************** 차단 3학년 딸아이가 이 책을 정말 좋아합니다. 다행히 2권 끝났는데 3권이 출시됐네요. 국어 문제집으로 활용하고 있어요. 추천합니다. 0 댓글 0 종이책 th******* 2026.05.30"
         },
         {
           "author": "종이책",
@@ -809,12 +815,6 @@
           "date": "2025-11-23",
           "score": null,
           "content": "he****** 차단 1부터 잘보고 있어요. 흥미있는 내용으로 아이가 좋아해요 0 댓글 0 문장수집 * 구매 후 문장수집을 작성하시면 e교환권 100원을 적립해 드립니다. 나의 문장수집 문장수집 작성"
-        },
-        {
-          "author": "정보보호관리체계",
-          "date": "2023-11-15",
-          "score": null,
-          "content": "ISMS 인증획득 [인증범위] 인터넷 교보문고 및 브랜드 서비스 운영 나만을 위한 맞춤 추천! 3 TOP 총 상품금액 17,820 원 선물하기 바로드림"
         }
       ]
     },
@@ -825,7 +825,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 2604,
+      "salesIndex": 2430,
       "reviewCount": 7,
       "reviewScore": 10.0,
       "reviews": [
@@ -867,16 +867,16 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 696,
+      "salesPoint": 774,
       "commentCount": 1,
       "reviewCount": 4,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=155.0.8059.39)\nStacktrace:\n#0 0x55f4f91a61da <unknown>\n#1 0x55f4f8ac55c9 <unknown>\n#2 0x55f4f8ac8fb4 <unknown>\n#3 0x55f4f8b6ba5b <unknown>\n#4 0x55f4f8b6ad6e <unknown>\n#5 0x55f4f8b0f2f8 <unknown>\n#6 0x55f4f8b100d1 <unknown>\n#7 0x55f4f9168cec <unknown>\n#8 0x55f4f9167505 <unknown>\n#9 0x55f4f91523b5 <unknown>\n#10 0x55f4f916815a <unknown>\n#11 0x55f4f913a939 <unknown>\n#12 0x55f4f9190898 <unknown>\n#13 0x55f4f9190a35 <unknown>\n#14 0x55f4f91a4b63 <unknown>\n#15 0x7f1a23a9cb84 <unknown>\n#16 0x7f1a23b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=157.0.8103.78)\nStacktrace:\n#0 0x6167742dacaa <unknown>\n#1 0x616773c0ecc5 <unknown>\n#2 0x616773c11af8 <unknown>\n#3 0x616773c90e5b <unknown>\n#4 0x616773c90db3 <unknown>\n#5 0x616773c906c1 <unknown>\n#6 0x616773c4b557 <unknown>\n#7 0x616773c4a86e <unknown>\n#8 0x616773c4b341 <unknown>\n#9 0x61677429d79c <unknown>\n#10 0x61677429bfcd <unknown>\n#11 0x616774286df5 <unknown>\n#12 0x61677429cc0a <unknown>\n#13 0x61677426fb99 <unknown>\n#14 0x6167742c5318 <unknown>\n#15 0x6167742c54b5 <unknown>\n#16 0x6167742d9633 <unknown>\n#17 0x7f73dd6abdeb <unknown>\n#18 0x7f73dd73f4dc <unknown>\n"
     }
   },
   "ai-literacy-newspaper": {
-    "t": "2026-10-15T13:34:54+09:00",
+    "t": "2026-11-24T13:50:33+09:00",
     "book": "ai-literacy-newspaper",
     "title": "초등 첫 AI 문해력 신문",
     "isbn": "9791176612739",
@@ -886,7 +886,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "종합 주간 베스트 / 어린이(초등) 분야 베스트",
-      "reviewCount": 27,
+      "reviewCount": 30,
       "reviewScore": 10.0,
       "stores": [
         {
@@ -1026,7 +1026,7 @@
         },
         {
           "name": "대전",
-          "stock": 1,
+          "stock": 3,
           "address": "대전광역시 서구 대덕대로 226, 명동프라자 3층"
         },
         {
@@ -1046,7 +1046,7 @@
         },
         {
           "name": "울산",
-          "stock": 2,
+          "stock": 1,
           "address": "울산광역시 남구 화합로 185, 업스퀘어 지하 1층"
         },
         {
@@ -1075,9 +1075,27 @@
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
       ],
-      "storeStockTotal": 37,
-      "onlineStock": 21,
+      "storeStockTotal": 38,
+      "onlineStock": 8,
       "reviews": [
+        {
+          "author": "크기/중량\t188 * 257 * 10 mm / 525 g",
+          "date": "2026-09-02",
+          "score": null,
+          "content": "제조자 (수입자) 아울북 A/S책임자&연락처 정보준비중 색상 이미지참고 재질 정보준비중 작가정보 기획 이다희 인물정보 초/중/고 교사 독서컨설턴트/독서지도사 서울교육대학교를 졸업하고 학교 현장에서 오랫동안 아이들을 가르쳤던 교사이자, 독서 교육과 문해력에 관해 연구하는 교육 전문가입니다. ‘똑똑지미쌤’이라는 이름으로 인스타그램에서 활동하며 많은 학부모님이 아이들과 쉽게 문해력을 키울 수 있도록 다양한 참여형 학습 공동체를 운영하고 있습니다. 어린이 문해력 플랫폼 ‘리딩타임즈’를 설립한 후 〈하루 한 장 키즈 신문〉을 발행 중이며, 현재 수천 명 이상의 어린이 구독자들에게 ‘읽는 즐거움’이라는 반짝이는 경험을 전하고 있습니다."
+        },
+        {
+          "author": "종이책",
+          "date": "2026-11-13",
+          "score": null,
+          "content": "cl****** 차단 Ai 관련 초등책 중에 가장 유익합니다 0 댓글 0 종이책 ys******** 2026.10.25"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-10-25",
+          "score": null,
+          "content": "ys******** 차단 아이가 이해하기 쉽고 재미있어 합니다 0 댓글 0 종이책 he****** 2026.10.11"
+        },
         {
           "author": "종이책",
           "date": "2026-10-11",
@@ -1088,13 +1106,7 @@
           "author": "종이책",
           "date": "2026-10-06",
           "score": null,
-          "content": "na******* 차단 초등신문 책중에 제일 최근에 출판된 책이라 선택했습니다 0 댓글 0 문장수집 * 구매 후 문장수집을 작성하시면 e교환권 100원을 적립해 드립니다. 나의 문장수집 문장수집 작성"
-        },
-        {
-          "author": "정보보호관리체계",
-          "date": "2023-11-15",
-          "score": null,
-          "content": "ISMS 인증획득 [인증범위] 인터넷 교보문고 및 브랜드 서비스 운영 나만을 위한 맞춤 추천! 3 TOP 총 상품금액 17,010 원 선물하기 바로드림"
+          "content": "na******* 차단 초등신문 책중에 제일 최근에 출판된 책이라 선택했습니다 0 댓글 0 문장수집 (1) * 구매 후 문장수집을 작성하시면 e교환권 100원을 적립해 드립니다. 나의 문장수집 문장수집 작성"
         }
       ]
     },
@@ -1103,10 +1115,10 @@
       "url": "https://www.yes24.com/product/goods/195804491",
       "cover": "https://image.yes24.com/goods/195804491/XL",
       "overallRank": null,
-      "childrenRank": 205,
+      "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 6273,
-      "reviewCount": 68,
+      "salesIndex": 3696,
+      "reviewCount": 70,
       "reviewScore": 10.0,
       "reviews": [
         {
@@ -1117,27 +1129,27 @@
         },
         {
           "author": "yes24 회원",
-          "date": "2026-10-05",
+          "date": "2026-11-04",
           "score": null,
-          "content": "종이책 AI가 익숙한 요즘 아이들에게 꼭 필요한 책인 것 같아요.? 최신 AI 관련 기사를 아이들 눈높이에 맞춰 쉽게 읽을 수 있고, AI의 원리부터 환각, 편향, 딥페이크, 개인정보까지 다양한 내용을 알아볼 수 있어 유익했어요. 특히 읽기만 하는 것이 아니라 아이가 직접 문제를 풀고 생각해볼 수 있어서 더 좋았어요. 부담 없는 분량으로 꾸준히 읽으며 AI 문해력도 자연스럽게 키울 수 있을 것 같아요. 더보기 원문주소 : https://sarak.yes24.com/review/22464042 최신 AI 관련 기사를 아이들 눈높이에 맞춰 쉽게 읽을 수 있고, AI의 원리부터 환각, 편향, 딥페이크, 개인정보까지 다양한 내용을 알아볼 수 있어 유익했어요. 특히 읽기만 하는 것이 아니라 아이가 직접 문제를 풀고 생각해볼 수 있어서 더 좋았어요. 부담 없는 분량으로 꾸준히 읽으며 AI 문해력도 자연스럽게 키울 수 있을 것 같아요. 이 리뷰가 도움이 되었나요? 공감0 댓글 0 접어보기"
-        },
-        {
-          "author": "yes24 회원",
-          "date": "2026-10-05",
-          "score": null,
-          "content": "종이책 AI가 익숙한 요즘 아이들에게 꼭 필요한 책인 것 같아요.?"
+          "content": "종이책 구매 좋아요 초등 첫 문해력 신문 1권부터 3권까지 휘리릭(?) 끝내고 AI 첫 문해력 신문도 구입했는데 아주 좋아요. AI 시대라고 말은 많이 해도 매번 설명하기 어려웠는데 관련 용어들 자연스럽게 익힐 수 있어서 좋습니다. 8주 완성이라 아쉬워요. 더보기 원문주소 : https://sarak.yes24.com/review/22521364 초등 첫 문해력 신문 1권부터 3권까지 휘리릭(?) 끝내고 AI 첫 문해력 신문도 구입했는데 아주 좋아요. AI 시대라고 말은 많이 해도 매번 설명하기 어려웠는데 관련 용어들 자연스럽게 익힐 수 있어서 좋습니다. 8주 완성이라 아쉬워요. 이 리뷰가 도움이 되었나요? 공감0 댓글 0 접어보기"
         },
         {
           "author": "yes24 회원",
           "date": null,
           "score": null,
-          "content": "최신 AI 관련 기사를 아이들 눈높이에 맞춰 쉽게 읽을 수 있고, AI의 원리부터 환각, 편향, 딥페이크, 개인정보까지 다양한 내용을 알아볼 수 있어 유익했어요. 특히 읽기만 하는 것이 아니라 아이가 직접 문제를 풀고 생각해볼 수 있어서 더 좋았어요. 부담 없는 분량으로 꾸준히 읽으며 AI 문해력도 자연스럽게 키울 수 있을 것 같아요. 더보기"
+          "content": "초등 첫 문해력 신문 1권부터 3권까지 휘리릭(?) 끝내고 AI 첫 문해력 신문도 구입했는데 아주 좋아요. AI 시대라고 말은 많이 해도 매번 설명하기 어려웠는데 관련 용어들 자연스럽게 익힐 수 있어서 좋습니다. 8주 완성이라 아쉬워요. 더보기"
         },
         {
           "author": "yes24 회원",
           "date": null,
           "score": null,
-          "content": "원문주소 : https://sarak.yes24.com/review/22464042 최신 AI 관련 기사를 아이들 눈높이에 맞춰 쉽게 읽을 수 있고, AI의 원리부터 환각, 편향, 딥페이크, 개인정보까지 다양한 내용을 알아볼 수 있어 유익했어요. 특히 읽기만 하는 것이 아니라 아이가 직접 문제를 풀고 생각해볼 수 있어서 더 좋았어요. 부담 없는 분량으로 꾸준히 읽으며 AI 문해력도 자연스럽게 키울 수 있을 것 같아요."
+          "content": "원문주소 : https://sarak.yes24.com/review/22521364 초등 첫 문해력 신문 1권부터 3권까지 휘리릭(?) 끝내고 AI 첫 문해력 신문도 구입했는데 아주 좋아요. AI 시대라고 말은 많이 해도 매번 설명하기 어려웠는데 관련 용어들 자연스럽게 익힐 수 있어서 좋습니다. 8주 완성이라 아쉬워요."
+        },
+        {
+          "author": "yes24 회원",
+          "date": null,
+          "score": null,
+          "content": "원문주소 : https://sarak.yes24.com/review/22521364"
         }
       ]
     },
@@ -1147,16 +1159,16 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 630,
-      "commentCount": 0,
-      "reviewCount": 33,
+      "salesPoint": 720,
+      "commentCount": 1,
+      "reviewCount": 34,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=155.0.8059.39)\nStacktrace:\n#0 0x55f4f91a61da <unknown>\n#1 0x55f4f8ac55c9 <unknown>\n#2 0x55f4f8ac8fb4 <unknown>\n#3 0x55f4f8b6ba5b <unknown>\n#4 0x55f4f8b6ad6e <unknown>\n#5 0x55f4f8b0f2f8 <unknown>\n#6 0x55f4f8b100d1 <unknown>\n#7 0x55f4f9168cec <unknown>\n#8 0x55f4f9167505 <unknown>\n#9 0x55f4f91523b5 <unknown>\n#10 0x55f4f916815a <unknown>\n#11 0x55f4f913a939 <unknown>\n#12 0x55f4f9190898 <unknown>\n#13 0x55f4f9190a35 <unknown>\n#14 0x55f4f91a4b63 <unknown>\n#15 0x7f1a23a9cb84 <unknown>\n#16 0x7f1a23b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=157.0.8103.78)\nStacktrace:\n#0 0x6167742dacaa <unknown>\n#1 0x616773c0ecc5 <unknown>\n#2 0x616773c11af8 <unknown>\n#3 0x616773c90e5b <unknown>\n#4 0x616773c90db3 <unknown>\n#5 0x616773c906c1 <unknown>\n#6 0x616773c4b557 <unknown>\n#7 0x616773c4a86e <unknown>\n#8 0x616773c4b341 <unknown>\n#9 0x61677429d79c <unknown>\n#10 0x61677429bfcd <unknown>\n#11 0x616774286df5 <unknown>\n#12 0x61677429cc0a <unknown>\n#13 0x61677426fb99 <unknown>\n#14 0x6167742c5318 <unknown>\n#15 0x6167742c54b5 <unknown>\n#16 0x6167742d9633 <unknown>\n#17 0x7f73dd6abdeb <unknown>\n#18 0x7f73dd73f4dc <unknown>\n"
     }
   },
   "future-science-1": {
-    "t": "2026-10-15T13:34:54+09:00",
+    "t": "2026-11-24T13:50:33+09:00",
     "book": "future-science-1",
     "title": "장동선의 미래 과학 프로젝트 1",
     "isbn": "9791173576270",
@@ -1331,7 +1343,7 @@
         },
         {
           "name": "전주",
-          "stock": 1,
+          "stock": 0,
           "address": "전북 전주시 완산구 전주객사4길 24-47, NC웨이브 B관 지하 1층"
         },
         {
@@ -1355,8 +1367,8 @@
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
       ],
-      "storeStockTotal": 31,
-      "onlineStock": 23,
+      "storeStockTotal": 30,
+      "onlineStock": 10,
       "reviews": [
         {
           "author": "국내도서",
@@ -1397,39 +1409,39 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 4638,
-      "reviewCount": 25,
+      "salesIndex": 5034,
+      "reviewCount": 26,
       "reviewScore": 10.0,
       "reviews": [
         {
           "author": "yes24 회원",
-          "date": "2026-01-26",
+          "date": "2026-11-14",
           "score": null,
-          "content": "종이책 AI시대를 살아갈 어린이를 위한 과학 동화, 적극 추천!!"
+          "content": "종이책 구매 AI를 무서워하는 대신 궁금해하게 만드는 입문서 AI를 다루는 어린이 책은 설명이 어렵거나 반대로 지나치게 단순한 경우가 많은데, 이 시리즈는 이야기로 먼저 끌어들이고 개념은 그 안에서 자연스럽게 풀어낸다. 장동선 박사가 감수한 만큼 용어의 수준이 정확하고, 그림과 편집이 초등 고학년 눈높이에 잘 맞는다. AI가 사람을 대신할까라는 질문을 두려움이 아니라 호기심의 문제로 바꿔 놓는 태도가 특히 마음... 더보기 원문주소 : https://sarak.yes24.com/review/22542158 AI를 다루는 어린이 책은 설명이 어렵거나 반대로 지나치게 단순한 경우가 많은데, 이 시리즈는 이야기로 먼저 끌어들이고 개념은 그 안에서 자연스럽게 풀어낸다. 장동선 박사가 감수한 만큼 용어의 수준이 정확하고, 그림과 편집이 초등 고학년 눈높이에 잘 맞는다. AI가 사람을 대신할까라는 질문을 두려움이 아니라 호기심의 문제로 바꿔 놓는 태도가 특히 마음에 들었다. 아이와 함께 읽고 이야기하기 좋은 책. 이 리뷰가 도움이 되었나요? 공감0 댓글 0 접어보기"
+        },
+        {
+          "author": "yes24 회원",
+          "date": "2026-11-14",
+          "score": null,
+          "content": "종이책 구매 AI를 무서워하는 대신 궁금해하게 만드는 입문서"
         },
         {
           "author": "yes24 회원",
           "date": null,
           "score": null,
-          "content": "이 책은 아이들 뿐만 아니라 어른들도 하께 읽으면 좋을 동화이다. AI에 대한 이해 뿐 아니라, AI시대를 어떻게 살아가야할지에 대한 고민과 이야기를 책을 읽으며 많이 할 수 있어서 좋았다.AI가 지배하는 미래도시 네오, 이곳에 사는 AI로봇들은 도시 밖으로 인간을 영원히 쫓아낼 계획을 세운다. 이 사실은 안 장박사는 AI로봇 니콜라스와 로지, 인간 태오를 타임... 더보기"
+          "content": "AI를 다루는 어린이 책은 설명이 어렵거나 반대로 지나치게 단순한 경우가 많은데, 이 시리즈는 이야기로 먼저 끌어들이고 개념은 그 안에서 자연스럽게 풀어낸다. 장동선 박사가 감수한 만큼 용어의 수준이 정확하고, 그림과 편집이 초등 고학년 눈높이에 잘 맞는다. AI가 사람을 대신할까라는 질문을 두려움이 아니라 호기심의 문제로 바꿔 놓는 태도가 특히 마음... 더보기"
         },
         {
           "author": "yes24 회원",
           "date": null,
           "score": null,
-          "content": "원문주소 : https://sarak.yes24.com/review/21935311"
+          "content": "원문주소 : https://sarak.yes24.com/review/22542158 AI를 다루는 어린이 책은 설명이 어렵거나 반대로 지나치게 단순한 경우가 많은데, 이 시리즈는 이야기로 먼저 끌어들이고 개념은 그 안에서 자연스럽게 풀어낸다. 장동선 박사가 감수한 만큼 용어의 수준이 정확하고, 그림과 편집이 초등 고학년 눈높이에 잘 맞는다. AI가 사람을 대신할까라는 질문을 두려움이 아니라 호기심의 문제로 바꿔 놓는 태도가 특히 마음에 들었다. 아이와 함께 읽고 이야기하기 좋은 책."
         },
         {
           "author": "yes24 회원",
-          "date": "2026-01-12",
+          "date": null,
           "score": null,
-          "content": "종이책 AI 시대를 살아갈 우리 아이를 위한 필독서 『장동선의 미래 과학 프로젝트』 요즘우리아이들,눈만뜨면접하는숏폼과온라인콘텐츠때문에걱정많으시죠피하고싶어도피할수없는AI와급변하는과학기술속에서우리아이가중심을잡으려면'똑똑하게활용하는법'과'스스로생각하는힘'을길러주는것이무엇보다중요해요.이런고민을해결하기위해뇌과학자장동선박사님이나섰어요!＜장동선의미래과학프로젝트＞는앞서가는아이로키우기위한특별한가이드가되어준답니... 더보기 원문주소 : https://sarak.yes24.com/review/21906046 요즘 우리 아이들, 눈만 뜨면 접하는 숏폼과 온라인 콘텐츠 때문에 걱정 많으시죠 피하고 싶어도 피할 수 없는 AI와 급변하는 과학 기술 속에서 우리 아이가 중심을 잡으려면 '똑똑하게 활용하는 법'과 '스스로 생각하는 힘'을 길러주는 것이 무엇보다 중요해요. 이런 고민을 해결하기 위해 뇌과학자 장동선 박사님이 나섰어요! ＜장동선의 미래 과학 프로젝트＞는 앞서가는 아이로 키우기 위한 특별한 가이드가 되어준답니다. 🌟 이 책의 놓칠 수 없는 입덕 포인트 3가지! 1️⃣ 흥미진진한 모험 스토리! 미래에서 과거로 타임슬립한 AI 로봇과 인간이 펼치는 흥미진진한 모험 이야기라 아이들이 먼저 찾아 읽을 정도로 재미있어요. 2️⃣ 장동선 박사님의 맞춤 큐레이션! AI 시대를 맞이해 초등학생이라면 반드시 알아야 할 핵심 과학 기술들을 뇌과학자의 시선으로 꼼꼼하게 엄선했어요. 3️⃣ 살아있는 지식 공유와 토론! 정보 페이지의 QR 코드로 더 깊은 지식을 탐구하고, 미래 과학 Q&A 코너를 통해 온 가족이 함께 토론하며 사고력을 확장할 수 있어요. 특히 오직 초판 한정 부록에서만 만날 수 있는 장동선 박사님 사인 인쇄본과 귀여운 미래인 캐릭터 포토카드도 절대 놓치지 마세요. 이 리뷰가 도움이 되었나요? 공감0 댓글 0 접어보기"
-        },
-        {
-          "author": "yes24 회원",
-          "date": "2026-01-12",
-          "score": null,
-          "content": "종이책 AI 시대를 살아갈 우리 아이를 위한 필독서 『장동선의 미래 과학 프로젝트』"
+          "content": "원문주소 : https://sarak.yes24.com/review/22542158"
         }
       ]
     },
@@ -1439,16 +1451,16 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 1190,
+      "salesPoint": 1171,
       "commentCount": 0,
       "reviewCount": 17,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=155.0.8059.39)\nStacktrace:\n#0 0x55f4f91a61da <unknown>\n#1 0x55f4f8ac55c9 <unknown>\n#2 0x55f4f8ac8fb4 <unknown>\n#3 0x55f4f8b6ba5b <unknown>\n#4 0x55f4f8b6ad6e <unknown>\n#5 0x55f4f8b0f2f8 <unknown>\n#6 0x55f4f8b100d1 <unknown>\n#7 0x55f4f9168cec <unknown>\n#8 0x55f4f9167505 <unknown>\n#9 0x55f4f91523b5 <unknown>\n#10 0x55f4f916815a <unknown>\n#11 0x55f4f913a939 <unknown>\n#12 0x55f4f9190898 <unknown>\n#13 0x55f4f9190a35 <unknown>\n#14 0x55f4f91a4b63 <unknown>\n#15 0x7f1a23a9cb84 <unknown>\n#16 0x7f1a23b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=157.0.8103.78)\nStacktrace:\n#0 0x6167742dacaa <unknown>\n#1 0x616773c0ecc5 <unknown>\n#2 0x616773c11af8 <unknown>\n#3 0x616773c90e5b <unknown>\n#4 0x616773c90db3 <unknown>\n#5 0x616773c906c1 <unknown>\n#6 0x616773c4b557 <unknown>\n#7 0x616773c4a86e <unknown>\n#8 0x616773c4b341 <unknown>\n#9 0x61677429d79c <unknown>\n#10 0x61677429bfcd <unknown>\n#11 0x616774286df5 <unknown>\n#12 0x61677429cc0a <unknown>\n#13 0x61677426fb99 <unknown>\n#14 0x6167742c5318 <unknown>\n#15 0x6167742c54b5 <unknown>\n#16 0x6167742d9633 <unknown>\n#17 0x7f73dd6abdeb <unknown>\n#18 0x7f73dd73f4dc <unknown>\n"
     }
   },
   "future-science-2": {
-    "t": "2026-10-15T13:34:54+09:00",
+    "t": "2026-11-24T13:50:33+09:00",
     "book": "future-science-2",
     "title": "장동선의 미래 과학 프로젝트 2",
     "isbn": "9791173576287",
@@ -1458,7 +1470,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "종합 주간 베스트 / 어린이(초등) 분야 베스트",
-      "reviewCount": 25,
+      "reviewCount": 26,
       "reviewScore": 9.9,
       "stores": [
         {
@@ -1648,13 +1660,19 @@
         }
       ],
       "storeStockTotal": 34,
-      "onlineStock": 12,
+      "onlineStock": 3,
       "reviews": [
         {
           "author": "크기/중량\t160 * 218 * 13 mm / 496 g",
           "date": "2026-04-22",
           "score": null,
           "content": "제조자 (수입자) 아울북 A/S책임자&연락처 정보준비중 색상 이미지참고 재질 정보준비중 작가정보 저자(글) 노지영 인물정보 아동문학가 린드그렌 동화 속 삐삐 롱스타킹처럼 말괄량이 어린 시절을 보냈습니다. 어린이 프로그램 작가로 아이들과 방송국에서 신나게 놀다가 어린이책을 쓰기 시작했고, 지금은 미래 과학에 푹 빠져 지냅니다. 쓴 책으로는 《빨간내복야코 안 읽으면 완전 위험한 과학책》, 《흔한남매 수수께끼 어드벤처》, 《도슨트 이창용의 미술 대모험》, 《두근두근 방송국 탈출하기》 등이 있습니다. 무서운 속도로 발전해 나가는 인공 지능을 공부하며, 미래에서 온 태오에게 아울동에서의 깜짝 모험을 선물할 생각에 오늘도 즐겁게 작업 중입니다. 국내도서"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-10-24",
+          "score": null,
+          "content": "ks****** 차단 그림도 예쁘고, 아이가 흥미롭게 읽네요 0 댓글 0 종이책 il***** 2026.09.16"
         },
         {
           "author": "종이책",
@@ -1673,12 +1691,6 @@
           "date": "2026-08-19",
           "score": null,
           "content": "jj*** 차단 피지컬ai 시대를 앞두고 아이들과 읽기 좋아요 0 댓글 0 종이책 ss****** 2026.08.10"
-        },
-        {
-          "author": "종이책",
-          "date": "2026-08-10",
-          "score": null,
-          "content": "ss****** 차단 역시 장동선님 책이 유익해요 0 댓글 0 종이책 ss****** 2026.07.28"
         }
       ]
     },
@@ -1689,8 +1701,8 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 2196,
-      "reviewCount": 49,
+      "salesIndex": 2370,
+      "reviewCount": 50,
       "reviewScore": 10.0,
       "reviews": [
         {
@@ -1701,27 +1713,27 @@
         },
         {
           "author": "yes24 회원",
-          "date": "2026-05-21",
+          "date": "2026-11-14",
           "score": null,
-          "content": "종이책 2로봇, 인간의 한계를 확장하다 과거보다 나은 미래를 만들어 간다는의미에서 과학은 늘 미래 지향적이라는 말이여운이 남습니다.미래를 바꾸는 원동력이 될 여러 분야를연구하는 '미래 과학'.사회 초년생 아직 현실화되지 않은 꿈을현실로 만드는 과학 연구발표를들으며 허황되고 뜬구름잡는 듯하다가도 구체적인 이야기를듣다보면 마냥 그렇지는 않다는 걸 깨달았던 적이 있어요.그리고 그건 세상... 더보기 원문주소 : https://sarak.yes24.com/review/22177715 과거보다 나은 미래를 만들어 간다는 의미에서 과학은 늘 미래 지향적이라는 말이 여운이 남습니다. 미래를 바꾸는 원동력이 될 여러 분야를 연구하는 '미래 과학'. 사회 초년생 아직 현실화되지 않은 꿈을 현실로 만드는 과학 연구발표를 들으며 허황되고 뜬구름 잡는 듯하다가도 구체적인 이야기를 듣다보면 마냥 그렇지는 않다는 걸 깨달았던 적이 있어요. 그리고 그건 세상을 바꿔나가는 상상력에 있다는걸 다시 한 번 깨닫습니다. AI 시대를 살아갈 어린이를 위한 과학 동화 장동선의 미래 과학 프로젝트는 아직 실현되지 않았지만 실행될 수 있는 수많은 아이디어와 생각을 여러분이 앞으로 던져 갈 수 있기를 바라며 기획됐다고 합니다. 등장 인물은 인공지능 로봇인 니콜라스, 로지와 인간인 태오, 장 박사가 등장합니다. 그 외에 아울동 사람들이 등장하고 주요 장소는 인공지능 기술을 활용해 최첨단 로봇을 만들어 내는 신생 로봇 회사입니다. 이미 정재승의 인간탐구보고서 뇌에 대해 재밌게 읽은 친구는 장동선의 미래 과학프로젝트 또한 아주 재밌게 읽을 것입니다. 이 리뷰가 도움이 되었나요? 공감0 댓글 0 접어보기"
+          "content": "종이책 구매 로봇은 사람을 대신하는가, 확장하는가 2권의 질문은 로봇이 인간의 한계를 어떻게 확장하는가다. 일자리를 빼앗는 존재로만 그리지 않고, 사람이 하기 어렵거나 위험한 일을 대신하는 존재로 먼저 보여 주는 점이 좋았다. 1권을 읽고 이어서 읽으면 AI가 판단을 맡는 영역과 로봇이 몸을 맡는 영역이 어떻게 나뉘는지 자연스럽게 연결된다. 아이가 로봇을 좋아한다면 1권보다 이 책부터 시작해도 무리가... 더보기 원문주소 : https://sarak.yes24.com/review/22542160 2권의 질문은 로봇이 인간의 한계를 어떻게 확장하는가다. 일자리를 빼앗는 존재로만 그리지 않고, 사람이 하기 어렵거나 위험한 일을 대신하는 존재로 먼저 보여 주는 점이 좋았다. 1권을 읽고 이어서 읽으면 AI가 판단을 맡는 영역과 로봇이 몸을 맡는 영역이 어떻게 나뉘는지 자연스럽게 연결된다. 아이가 로봇을 좋아한다면 1권보다 이 책부터 시작해도 무리가 없다. 시리즈로 세 권을 나란히 두고 읽히면 효과가 더 클 것 같다. 이 리뷰가 도움이 되었나요? 공감0 댓글 0 접어보기"
         },
         {
           "author": "yes24 회원",
-          "date": "2026-05-21",
+          "date": "2026-11-14",
           "score": null,
-          "content": "종이책 2로봇, 인간의 한계를 확장하다"
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "과거보다 나은 미래를 만들어 간다는의미에서 과학은 늘 미래 지향적이라는 말이여운이 남습니다.미래를 바꾸는 원동력이 될 여러 분야를연구하는 '미래 과학'.사회 초년생 아직 현실화되지 않은 꿈을현실로 만드는 과학 연구발표를들으며 허황되고 뜬구름잡는 듯하다가도 구체적인 이야기를듣다보면 마냥 그렇지는 않다는 걸 깨달았던 적이 있어요.그리고 그건 세상... 더보기"
+          "content": "종이책 구매 로봇은 사람을 대신하는가, 확장하는가"
         },
         {
           "author": "yes24 회원",
           "date": null,
           "score": null,
-          "content": "원문주소 : https://sarak.yes24.com/review/22177715 과거보다 나은 미래를 만들어 간다는 의미에서 과학은 늘 미래 지향적이라는 말이 여운이 남습니다. 미래를 바꾸는 원동력이 될 여러 분야를 연구하는 '미래 과학'. 사회 초년생 아직 현실화되지 않은 꿈을 현실로 만드는 과학 연구발표를 들으며 허황되고 뜬구름 잡는 듯하다가도 구체적인 이야기를 듣다보면 마냥 그렇지는 않다는 걸 깨달았던 적이 있어요. 그리고 그건 세상을 바꿔나가는 상상력에 있다는걸 다시 한 번 깨닫습니다. AI 시대를 살아갈 어린이를 위한 과학 동화 장동선의 미래 과학 프로젝트는 아직 실현되지 않았지만 실행될 수 있는 수많은 아이디어와 생각을 여러분이 앞으로 던져 갈 수 있기를 바라며 기획됐다고 합니다. 등장 인물은 인공지능 로봇인 니콜라스, 로지와 인간인 태오, 장 박사가 등장합니다. 그 외에 아울동 사람들이 등장하고 주요 장소는 인공지능 기술을 활용해 최첨단 로봇을 만들어 내는 신생 로봇 회사입니다. 이미 정재승의 인간탐구보고서 뇌에 대해 재밌게 읽은 친구는 장동선의 미래 과학프로젝트 또한 아주 재밌게 읽을 것입니다."
+          "content": "2권의 질문은 로봇이 인간의 한계를 어떻게 확장하는가다. 일자리를 빼앗는 존재로만 그리지 않고, 사람이 하기 어렵거나 위험한 일을 대신하는 존재로 먼저 보여 주는 점이 좋았다. 1권을 읽고 이어서 읽으면 AI가 판단을 맡는 영역과 로봇이 몸을 맡는 영역이 어떻게 나뉘는지 자연스럽게 연결된다. 아이가 로봇을 좋아한다면 1권보다 이 책부터 시작해도 무리가... 더보기"
+        },
+        {
+          "author": "yes24 회원",
+          "date": null,
+          "score": null,
+          "content": "원문주소 : https://sarak.yes24.com/review/22542160 2권의 질문은 로봇이 인간의 한계를 어떻게 확장하는가다. 일자리를 빼앗는 존재로만 그리지 않고, 사람이 하기 어렵거나 위험한 일을 대신하는 존재로 먼저 보여 주는 점이 좋았다. 1권을 읽고 이어서 읽으면 AI가 판단을 맡는 영역과 로봇이 몸을 맡는 영역이 어떻게 나뉘는지 자연스럽게 연결된다. 아이가 로봇을 좋아한다면 1권보다 이 책부터 시작해도 무리가 없다. 시리즈로 세 권을 나란히 두고 읽히면 효과가 더 클 것 같다."
         }
       ]
     },
@@ -1731,16 +1743,16 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 836,
+      "salesPoint": 731,
       "commentCount": 1,
       "reviewCount": 22,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=155.0.8059.39)\nStacktrace:\n#0 0x55f4f91a61da <unknown>\n#1 0x55f4f8ac55c9 <unknown>\n#2 0x55f4f8ac8fb4 <unknown>\n#3 0x55f4f8b6ba5b <unknown>\n#4 0x55f4f8b6ad6e <unknown>\n#5 0x55f4f8b0f2f8 <unknown>\n#6 0x55f4f8b100d1 <unknown>\n#7 0x55f4f9168cec <unknown>\n#8 0x55f4f9167505 <unknown>\n#9 0x55f4f91523b5 <unknown>\n#10 0x55f4f916815a <unknown>\n#11 0x55f4f913a939 <unknown>\n#12 0x55f4f9190898 <unknown>\n#13 0x55f4f9190a35 <unknown>\n#14 0x55f4f91a4b63 <unknown>\n#15 0x7f1a23a9cb84 <unknown>\n#16 0x7f1a23b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=157.0.8103.78)\nStacktrace:\n#0 0x6167742dacaa <unknown>\n#1 0x616773c0ecc5 <unknown>\n#2 0x616773c11af8 <unknown>\n#3 0x616773c90e5b <unknown>\n#4 0x616773c90db3 <unknown>\n#5 0x616773c906c1 <unknown>\n#6 0x616773c4b557 <unknown>\n#7 0x616773c4a86e <unknown>\n#8 0x616773c4b341 <unknown>\n#9 0x61677429d79c <unknown>\n#10 0x61677429bfcd <unknown>\n#11 0x616774286df5 <unknown>\n#12 0x61677429cc0a <unknown>\n#13 0x61677426fb99 <unknown>\n#14 0x6167742c5318 <unknown>\n#15 0x6167742c54b5 <unknown>\n#16 0x6167742d9633 <unknown>\n#17 0x7f73dd6abdeb <unknown>\n#18 0x7f73dd73f4dc <unknown>\n"
     }
   },
   "future-science-3": {
-    "t": "2026-10-15T13:34:54+09:00",
+    "t": "2026-11-24T13:50:33+09:00",
     "book": "future-science-3",
     "title": "장동선의 미래 과학 프로젝트 3",
     "isbn": "9791173576294",
@@ -1750,12 +1762,12 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "종합 주간 베스트 / 어린이(초등) 분야 베스트",
-      "reviewCount": 29,
+      "reviewCount": 30,
       "reviewScore": 10.0,
       "stores": [
         {
           "name": "광화문",
-          "stock": 6,
+          "stock": 1,
           "address": "서울특별시 종로구 종로 1, 교보생명빌딩 지하 1층"
         },
         {
@@ -1865,7 +1877,7 @@
         },
         {
           "name": "평촌",
-          "stock": 1,
+          "stock": 2,
           "address": "경기도 안양시 동안구 시민대로 180, 롯데백화점 평촌점 6층"
         },
         {
@@ -1939,14 +1951,20 @@
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
       ],
-      "storeStockTotal": 54,
-      "onlineStock": 15,
+      "storeStockTotal": 50,
+      "onlineStock": 14,
       "reviews": [
         {
           "author": "크기/중량\t159 * 217 * 15 mm / 529 g",
           "date": "2026-07-29",
           "score": null,
           "content": "제조자 (수입자) 아울북 A/S책임자&연락처 정보준비중 색상 이미지참고 재질 정보준비중 작가정보 기획 장동선 인물정보 뇌과학자 뇌과학 박사이자 궁금한뇌연구소 대표. 독일 콘스탄츠대학교와 미국 럿거스대학교 인지과학연구센터에서 석사를 마친 뒤 막스플랑크 바이오사이버네틱스연구소와 튀빙겐대학교에서 인간 인지 및 행동 연구로 사회인지신경과학 박사 학위를 받았습니다. 2014년 독일 과학교육부 주관 과학 강연 대회 ‘사이언스 슬램’에서 우승하여 이름을 알렸고, 현재는 유튜브 채널 〈장동선의 궁금한 뇌〉에서 뇌와 미래 과학 기술에 대한 흥미로운 이야기들을 하며 과학 커뮤니케이터로 활발하게 활동하고 있습니다. 쓴 책으로는 《AI는 세상을 어떻게 바꾸는가》, 《뇌 속에 또 다른 뇌가 있다》 등이 있습니다. 펼치기"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-11-20",
+          "score": null,
+          "content": "sh****** 차단 스마트글라스 0 댓글 0 종이책 jb**** 2026.09.26"
         },
         {
           "author": "종이책",
@@ -1964,13 +1982,7 @@
           "author": "종이책",
           "date": "2026-08-26",
           "score": null,
-          "content": "jj*** 차단 과학 책으로 잘 읽어요 0 댓글 0 문장수집 * 구매 후 문장수집을 작성하시면 e교환권 100원을 적립해 드립니다. 나의 문장수집 문장수집 작성"
-        },
-        {
-          "author": "정보보호관리체계",
-          "date": "2023-11-15",
-          "score": null,
-          "content": "ISMS 인증획득 [인증범위] 인터넷 교보문고 및 브랜드 서비스 운영 장동선 관심 회원이 좋아하는 작가에요 7 TOP 총 상품금액 15,210 원 선물하기"
+          "content": "jj*** 차단 과학 책으로 잘 읽어요 0 댓글 0 문장수집 (1) * 구매 후 문장수집을 작성하시면 e교환권 100원을 적립해 드립니다. 나의 문장수집 문장수집 작성"
         }
       ]
     },
@@ -1981,7 +1993,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 1560,
+      "salesIndex": 1914,
       "reviewCount": 52,
       "reviewScore": 10.0,
       "reviews": [
@@ -2023,16 +2035,16 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 605,
+      "salesPoint": 625,
       "commentCount": 1,
-      "reviewCount": 27,
+      "reviewCount": 28,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=155.0.8059.39)\nStacktrace:\n#0 0x55f4f91a61da <unknown>\n#1 0x55f4f8ac55c9 <unknown>\n#2 0x55f4f8ac8fb4 <unknown>\n#3 0x55f4f8b6ba5b <unknown>\n#4 0x55f4f8b6ad6e <unknown>\n#5 0x55f4f8b0f2f8 <unknown>\n#6 0x55f4f8b100d1 <unknown>\n#7 0x55f4f9168cec <unknown>\n#8 0x55f4f9167505 <unknown>\n#9 0x55f4f91523b5 <unknown>\n#10 0x55f4f916815a <unknown>\n#11 0x55f4f913a939 <unknown>\n#12 0x55f4f9190898 <unknown>\n#13 0x55f4f9190a35 <unknown>\n#14 0x55f4f91a4b63 <unknown>\n#15 0x7f1a23a9cb84 <unknown>\n#16 0x7f1a23b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=157.0.8103.78)\nStacktrace:\n#0 0x6167742dacaa <unknown>\n#1 0x616773c0ecc5 <unknown>\n#2 0x616773c11af8 <unknown>\n#3 0x616773c90e5b <unknown>\n#4 0x616773c90db3 <unknown>\n#5 0x616773c906c1 <unknown>\n#6 0x616773c4b557 <unknown>\n#7 0x616773c4a86e <unknown>\n#8 0x616773c4b341 <unknown>\n#9 0x61677429d79c <unknown>\n#10 0x61677429bfcd <unknown>\n#11 0x616774286df5 <unknown>\n#12 0x61677429cc0a <unknown>\n#13 0x61677426fb99 <unknown>\n#14 0x6167742c5318 <unknown>\n#15 0x6167742c54b5 <unknown>\n#16 0x6167742d9633 <unknown>\n#17 0x7f73dd6abdeb <unknown>\n#18 0x7f73dd73f4dc <unknown>\n"
     }
   },
   "human-body-1": {
-    "t": "2026-10-15T13:34:54+09:00",
+    "t": "2026-11-24T13:50:33+09:00",
     "book": "human-body-1",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 1",
     "isbn": "9791173578625",
@@ -2042,12 +2054,12 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "종합 주간 베스트 / 어린이(초등) 분야 베스트",
-      "reviewCount": 66,
+      "reviewCount": 69,
       "reviewScore": 10.0,
       "stores": [
         {
           "name": "광화문",
-          "stock": 23,
+          "stock": 9,
           "address": "서울특별시 종로구 종로 1, 교보생명빌딩 지하 1층"
         },
         {
@@ -2057,7 +2069,7 @@
         },
         {
           "name": "강남",
-          "stock": 11,
+          "stock": 4,
           "address": "서울특별시 서초구 강남대로 465, 교보타워 지하 1~지하 2층"
         },
         {
@@ -2072,7 +2084,7 @@
         },
         {
           "name": "목동",
-          "stock": 1,
+          "stock": 2,
           "address": "서울특별시 양천구 목동서로 159-1, CBS 지하 1층"
         },
         {
@@ -2087,12 +2099,12 @@
         },
         {
           "name": "영등포",
-          "stock": 4,
+          "stock": 1,
           "address": "서울특별시 영등포구 영중로 15, 타임스퀘어 멀티플렉스 2층"
         },
         {
           "name": "원그로브점",
-          "stock": 2,
+          "stock": 1,
           "address": "서울특별시 강서구 공항대로 165 원그로브몰 B동 지하1층"
         },
         {
@@ -2107,7 +2119,7 @@
         },
         {
           "name": "잠실",
-          "stock": 2,
+          "stock": 1,
           "address": "서울특별시 송파구 올림픽로 269, 롯데 캐슬프라자 지하 1층"
         },
         {
@@ -2182,7 +2194,7 @@
         },
         {
           "name": "대전",
-          "stock": 2,
+          "stock": 1,
           "address": "대전광역시 서구 대덕대로 226, 명동프라자 3층"
         },
         {
@@ -2231,38 +2243,38 @@
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
       ],
-      "storeStockTotal": 77,
-      "onlineStock": 39,
+      "storeStockTotal": 51,
+      "onlineStock": 22,
       "reviews": [
         {
           "author": "국내도서",
-          "date": "2026-06-26",
+          "date": "2026-11-09",
           "score": null,
-          "content": "이 책의 이벤트 * 해외주문/바로드림/제휴사주문/업체배송건의 경우, 증정상품이 발송되지 않습니다. [외국도서] 토이스토리, 디즈니, 캐릭터 비지북 시리즈 이벤트 AI 연관 추천 툴팁 열기 버튼 수의사 어벤저스 1: 반려견 심장을 지켜라! 고희정. 이창우. 신윤주 15,120원 국내도서 오디세이 제럴딘 매코크런. 김재용. 장시은. 호메로스"
+          "content": "이 책의 이벤트 * 해외주문/바로드림/제휴사주문/업체배송건의 경우, 증정상품이 발송되지 않습니다. 교보문고와 독자가 선택하는 2026 올해의 책 [외국도서] 토이스토리, 디즈니, 캐릭터 비지북 시리즈 이벤트 2026.06.26 ~ 2026.12.31 AI 연관 추천 툴팁 열기 버튼 법의학자 유성호의 인체 탐구 프로젝트 3: 호흡 기관 훅훅 숨 쉬는 허파! 류미정. 김래현. 유성호 15,210원 국내도서"
+        },
+        {
+          "author": "국내도서",
+          "date": "2026-11-09",
+          "score": null,
+          "content": "교보문고와 독자가 선택하는 2026 올해의 책 [외국도서] 토이스토리, 디즈니, 캐릭터 비지북 시리즈 이벤트 2026.06.26 ~ 2026.12.31 AI 연관 추천 툴팁 열기 버튼 법의학자 유성호의 인체 탐구 프로젝트 3: 호흡 기관 훅훅 숨 쉬는 허파! 류미정. 김래현. 유성호 15,210원 국내도서 법의학자 유성호의 인체 탐구 프로젝트 2: 순환 기관 쿵쾅쿵쾅 멈추지 않는 심장! 류미정. 김래현. 유성호"
         },
         {
           "author": "종이책",
-          "date": "2026-10-03",
+          "date": "2026-11-09",
           "score": null,
-          "content": "ma****** 차단 아이가 좋아합니다. 0 댓글 0 종이책 mi****** 2026.09.30"
+          "content": "75***** 차단 잘 읽고 있어요.도움돼요 0 댓글 0 종이책 75***** 2026.11.08"
         },
         {
           "author": "종이책",
-          "date": "2026-09-30",
+          "date": "2026-11-08",
           "score": null,
-          "content": "mi****** 차단 아이가 재밌게 읽어요. 0 댓글 0 종이책 wj***** 2026.08.19"
+          "content": "75***** 차단 맘에 들어요 아이도 좋아해요 0 댓글 0 종이책 eu***************** 2026.10.20"
         },
         {
           "author": "종이책",
-          "date": "2026-08-19",
+          "date": "2026-10-20",
           "score": null,
-          "content": "wj***** 차단 아이가 재밌어해요. 그날 바로 다 읽고 다음권 찾네요. 다음권도 나오면 좋겠어요~ 0 댓글 0 종이책"
-        },
-        {
-          "author": "종이책",
-          "date": "2026-08-12",
-          "score": null,
-          "content": "sh****** 차단 인체탐구프로젝트 0 댓글 0 종이책 ke**** 2026.08.05"
+          "content": "eu***************** 차단 인체리고하면 일단 궁금하잖아요^^ 사달라고 조를때 읽혀야합니다 ㅋㅋㅋ 0 댓글 0 종이책 ma****** 2026.10.03"
         }
       ]
     },
@@ -2271,9 +2283,9 @@
       "url": "https://www.yes24.com/product/goods/183650258",
       "cover": "https://image.yes24.com/goods/183650258/XL",
       "overallRank": null,
-      "childrenRank": null,
+      "childrenRank": 1018,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 11478,
+      "salesIndex": 12648,
       "reviewCount": 43,
       "reviewScore": 10.0,
       "reviews": [
@@ -2315,16 +2327,16 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 2219,
+      "salesPoint": 2070,
       "commentCount": 1,
       "reviewCount": 32,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=155.0.8059.39)\nStacktrace:\n#0 0x55f4f91a61da <unknown>\n#1 0x55f4f8ac55c9 <unknown>\n#2 0x55f4f8ac8fb4 <unknown>\n#3 0x55f4f8b6ba5b <unknown>\n#4 0x55f4f8b6ad6e <unknown>\n#5 0x55f4f8b0f2f8 <unknown>\n#6 0x55f4f8b100d1 <unknown>\n#7 0x55f4f9168cec <unknown>\n#8 0x55f4f9167505 <unknown>\n#9 0x55f4f91523b5 <unknown>\n#10 0x55f4f916815a <unknown>\n#11 0x55f4f913a939 <unknown>\n#12 0x55f4f9190898 <unknown>\n#13 0x55f4f9190a35 <unknown>\n#14 0x55f4f91a4b63 <unknown>\n#15 0x7f1a23a9cb84 <unknown>\n#16 0x7f1a23b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=157.0.8103.78)\nStacktrace:\n#0 0x6167742dacaa <unknown>\n#1 0x616773c0ecc5 <unknown>\n#2 0x616773c11af8 <unknown>\n#3 0x616773c90e5b <unknown>\n#4 0x616773c90db3 <unknown>\n#5 0x616773c906c1 <unknown>\n#6 0x616773c4b557 <unknown>\n#7 0x616773c4a86e <unknown>\n#8 0x616773c4b341 <unknown>\n#9 0x61677429d79c <unknown>\n#10 0x61677429bfcd <unknown>\n#11 0x616774286df5 <unknown>\n#12 0x61677429cc0a <unknown>\n#13 0x61677426fb99 <unknown>\n#14 0x6167742c5318 <unknown>\n#15 0x6167742c54b5 <unknown>\n#16 0x6167742d9633 <unknown>\n#17 0x7f73dd6abdeb <unknown>\n#18 0x7f73dd73f4dc <unknown>\n"
     }
   },
   "human-body-2": {
-    "t": "2026-10-15T13:34:54+09:00",
+    "t": "2026-11-24T13:50:33+09:00",
     "book": "human-body-2",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 2",
     "isbn": "9791173578632",
@@ -2334,12 +2346,12 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "종합 주간 베스트 / 어린이(초등) 분야 베스트",
-      "reviewCount": 42,
+      "reviewCount": 46,
       "reviewScore": 10.0,
       "stores": [
         {
           "name": "광화문",
-          "stock": 8,
+          "stock": 12,
           "address": "서울특별시 종로구 종로 1, 교보생명빌딩 지하 1층"
         },
         {
@@ -2364,7 +2376,7 @@
         },
         {
           "name": "목동",
-          "stock": 1,
+          "stock": 2,
           "address": "서울특별시 양천구 목동서로 159-1, CBS 지하 1층"
         },
         {
@@ -2379,12 +2391,12 @@
         },
         {
           "name": "영등포",
-          "stock": 4,
+          "stock": 2,
           "address": "서울특별시 영등포구 영중로 15, 타임스퀘어 멀티플렉스 2층"
         },
         {
           "name": "원그로브점",
-          "stock": 7,
+          "stock": 5,
           "address": "서울특별시 강서구 공항대로 165 원그로브몰 B동 지하1층"
         },
         {
@@ -2399,7 +2411,7 @@
         },
         {
           "name": "잠실",
-          "stock": 12,
+          "stock": 3,
           "address": "서울특별시 송파구 올림픽로 269, 롯데 캐슬프라자 지하 1층"
         },
         {
@@ -2419,7 +2431,7 @@
         },
         {
           "name": "광교",
-          "stock": 3,
+          "stock": 1,
           "address": "경기도 수원시 영통구 광교중앙로 145, 광교엘포트몰 지하 1층"
         },
         {
@@ -2449,7 +2461,7 @@
         },
         {
           "name": "평촌",
-          "stock": 3,
+          "stock": 2,
           "address": "경기도 안양시 동안구 시민대로 180, 롯데백화점 평촌점 6층"
         },
         {
@@ -2489,7 +2501,7 @@
         },
         {
           "name": "센텀시티",
-          "stock": 2,
+          "stock": 1,
           "address": "부산광역시 해운대구 센텀남대로 59, 롯데백화점 센텀시티점 7층"
         },
         {
@@ -2523,8 +2535,8 @@
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
       ],
-      "storeStockTotal": 92,
-      "onlineStock": 14,
+      "storeStockTotal": 80,
+      "onlineStock": 10,
       "reviews": [
         {
           "author": "크기/중량\t159 * 218 * 15 mm / 554 g",
@@ -2534,27 +2546,27 @@
         },
         {
           "author": "종이책",
-          "date": "2026-10-09",
+          "date": "2026-11-17",
           "score": null,
-          "content": "ex******* 차단 추천해요 추천해요 0 댓글 0 종이책 ma****** 2026.10.03"
+          "content": "pt**** 차단 지인에게 추천을 받아 읽어보았는데 정말 재미있게 읽었습니다. 작가분께 감사드립니다. 0 댓글 0 종이책 75***** 2026.11.09"
         },
         {
           "author": "종이책",
-          "date": "2026-10-03",
+          "date": "2026-11-09",
           "score": null,
-          "content": "ma****** 차단 아이가 좋아합니다. 0 댓글 0 종이책 mi****** 2026.09.30"
+          "content": "75***** 차단 잘 읽고 있어요.도움돼요 0 댓글 0 종이책 75***** 2026.11.08"
         },
         {
           "author": "종이책",
-          "date": "2026-09-30",
+          "date": "2026-11-08",
           "score": null,
-          "content": "mi****** 차단 아이가 재밌게 읽어요. 0 댓글 0 종이책 ha****** 2026.09.06"
+          "content": "75***** 차단 맘에 들어요 아이도 좋아해요 0 댓글 0 종이책 eu***************** 2026.10.20"
         },
         {
           "author": "종이책",
-          "date": "2026-09-06",
+          "date": "2026-10-20",
           "score": null,
-          "content": "ha****** 차단 8세아들이 너무 좋아했던 인체탐구시리즈가 새로 나와서 바로 구입했어요.워낙 인체에 대한이야기를 좋아하는데 이야기와 함께 볼수있어서 더 좋아하네요. 3권도 빨리나오기를 고대하고있어요 0 댓글 0 종이책 tl******** 2026.09.06"
+          "content": "eu***************** 차단 재미있게 봤다고 합니다 여러번읽었어요 0 댓글 0 종이책 ex******* 2026.10.09"
         }
       ]
     },
@@ -2563,9 +2575,9 @@
       "url": "https://www.yes24.com/product/goods/194203560",
       "cover": "https://image.yes24.com/goods/194203560/XL",
       "overallRank": null,
-      "childrenRank": 1048,
+      "childrenRank": 587,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 5442,
+      "salesIndex": 7122,
       "reviewCount": 66,
       "reviewScore": 10.0,
       "reviews": [
@@ -2607,16 +2619,16 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 1320,
+      "salesPoint": 1354,
       "commentCount": 1,
       "reviewCount": 35,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=155.0.8059.39)\nStacktrace:\n#0 0x55f4f91a61da <unknown>\n#1 0x55f4f8ac55c9 <unknown>\n#2 0x55f4f8ac8fb4 <unknown>\n#3 0x55f4f8b6ba5b <unknown>\n#4 0x55f4f8b6ad6e <unknown>\n#5 0x55f4f8b0f2f8 <unknown>\n#6 0x55f4f8b100d1 <unknown>\n#7 0x55f4f9168cec <unknown>\n#8 0x55f4f9167505 <unknown>\n#9 0x55f4f91523b5 <unknown>\n#10 0x55f4f916815a <unknown>\n#11 0x55f4f913a939 <unknown>\n#12 0x55f4f9190898 <unknown>\n#13 0x55f4f9190a35 <unknown>\n#14 0x55f4f91a4b63 <unknown>\n#15 0x7f1a23a9cb84 <unknown>\n#16 0x7f1a23b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=157.0.8103.78)\nStacktrace:\n#0 0x6167742dacaa <unknown>\n#1 0x616773c0ecc5 <unknown>\n#2 0x616773c11af8 <unknown>\n#3 0x616773c90e5b <unknown>\n#4 0x616773c90db3 <unknown>\n#5 0x616773c906c1 <unknown>\n#6 0x616773c4b557 <unknown>\n#7 0x616773c4a86e <unknown>\n#8 0x616773c4b341 <unknown>\n#9 0x61677429d79c <unknown>\n#10 0x61677429bfcd <unknown>\n#11 0x616774286df5 <unknown>\n#12 0x61677429cc0a <unknown>\n#13 0x61677426fb99 <unknown>\n#14 0x6167742c5318 <unknown>\n#15 0x6167742c54b5 <unknown>\n#16 0x6167742d9633 <unknown>\n#17 0x7f73dd6abdeb <unknown>\n#18 0x7f73dd73f4dc <unknown>\n"
     }
   },
   "yako-knowledge-1": {
-    "t": "2026-10-15T13:34:54+09:00",
+    "t": "2026-11-24T13:50:33+09:00",
     "book": "yako-knowledge-1",
     "title": "빨간내복야코 어린이 상식 1",
     "isbn": "9791171178704",
@@ -2626,7 +2638,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "종합 주간 베스트 / 어린이(초등) 분야 베스트",
-      "reviewCount": 104,
+      "reviewCount": 105,
       "reviewScore": 10.0,
       "stores": [
         {
@@ -2641,7 +2653,7 @@
         },
         {
           "name": "강남",
-          "stock": 2,
+          "stock": 1,
           "address": "서울특별시 서초구 강남대로 465, 교보타워 지하 1~지하 2층"
         },
         {
@@ -2656,7 +2668,7 @@
         },
         {
           "name": "목동",
-          "stock": 3,
+          "stock": 2,
           "address": "서울특별시 양천구 목동서로 159-1, CBS 지하 1층"
         },
         {
@@ -2666,7 +2678,7 @@
         },
         {
           "name": "수유",
-          "stock": 1,
+          "stock": 0,
           "address": "서울특별시 강북구 도봉로 348, 교보생명빌딩 지하 1층"
         },
         {
@@ -2766,12 +2778,12 @@
         },
         {
           "name": "대전",
-          "stock": 2,
+          "stock": 1,
           "address": "대전광역시 서구 대덕대로 226, 명동프라자 3층"
         },
         {
           "name": "부산",
-          "stock": 3,
+          "stock": 1,
           "address": "부산광역시 부산진구 중앙대로 658, 교보생명빌딩 1층, 지하 1층"
         },
         {
@@ -2786,7 +2798,7 @@
         },
         {
           "name": "울산",
-          "stock": 1,
+          "stock": 0,
           "address": "울산광역시 남구 화합로 185, 업스퀘어 지하 1층"
         },
         {
@@ -2815,20 +2827,26 @@
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
       ],
-      "storeStockTotal": 47,
+      "storeStockTotal": 40,
       "onlineStock": 9,
       "reviews": [
         {
           "author": "국내도서",
           "date": "2026-06-26",
           "score": null,
-          "content": "이 책의 이벤트 * 해외주문/바로드림/제휴사주문/업체배송건의 경우, 증정상품이 발송되지 않습니다. [외국도서] 토이스토리, 디즈니, 캐릭터 비지북 시리즈 이벤트 AI 연관 추천 툴팁 열기 버튼 흔한남매의 흔한 국어 1 최재연. 도니패밀리. 흔한컴퍼니. 미래엔 국어 교과서 집필진. 흔한남매 15,120원 국내도서 내 친구는 왜 그럴까? 최현주. 이화경"
+          "content": "이 책의 이벤트 * 해외주문/바로드림/제휴사주문/업체배송건의 경우, 증정상품이 발송되지 않습니다. [외국도서] 토이스토리, 디즈니, 캐릭터 비지북 시리즈 이벤트 AI 연관 추천 툴팁 열기 버튼 흔한남매 안전북 1 김은경. 김기수. 이정수. 세이프키즈코리아. 흔한컴퍼니. 흔한남매 15,120원 국내도서 흔한남매의 흔한 국어 1 최재연. 도니패밀리. 흔한컴퍼니. 미래엔 국어 교과서 집필진. 흔한남매"
         },
         {
           "author": "크기/중량\t154 * 225 * 11 mm / 465 g",
           "date": "2024-11-06",
           "score": null,
-          "content": "제조자 (수입자) 아울북 A/S책임자&연락처 정보준비중 색상 이미지참고 재질 정보준비중 작가정보 원작 빨간내복야코 막강 귀여움을 뿜어내는 캐릭터와 장르를 넘나드는 중독성 높은 노래로 팬들의 뜨거운 사랑을 받고 있는 유튜브 채널입니다. 일상에서 공감할 수 있는 다양한 소재와 트렌드를 짧은 노래와 함께 애니메이션으로 만들어 강한 몰입과 재미를 선사하고 있습니다. 남녀노소 누구나 즐길 수 있는 콘텐츠를 만들기 위해 애쓰고 있습니다. 국내도서 빨간내복야코 괴수대백과 1 국내도서"
+          "content": "제조자 (수입자) 아울북 A/S책임자&연락처 정보준비중 색상 이미지참고 재질 정보준비중 작가정보 원작 빨간내복야코 막강 귀여움을 뿜어내는 캐릭터와 장르를 넘나드는 중독성 높은 노래로 팬들의 뜨거운 사랑을 받고 있는 유튜브 채널입니다. 일상에서 공감할 수 있는 다양한 소재와 트렌드를 짧은 노래와 함께 애니메이션으로 만들어 강한 몰입과 재미를 선사하고 있습니다. 남녀노소 누구나 즐길 수 있는 콘텐츠를 만들기 위해 애쓰고 있습니다. 국내도서 빨간내복야코 어린이 상식 이거 모르면 지구인 아님 7: 고사성어 국내도서"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-11-17",
+          "score": null,
+          "content": "ji******* 차단 유익합니다~~~~~~~ 0 댓글 0 종이책 si******** 2026.09.18"
         },
         {
           "author": "종이책",
@@ -2841,12 +2859,6 @@
           "date": "2026-09-16",
           "score": null,
           "content": "yu****** 차단 아이가 이런류의 책을 좋아해서 가끔씩 사줍니다. 여러번 읽으니까 심심할 때 시간도 잘 가고 좋은거 같아요 0 댓글 0 종이책 81*** 2026.05.29"
-        },
-        {
-          "author": "종이책",
-          "date": "2026-05-29",
-          "score": null,
-          "content": "81*** 차단 아이가 읽기쉽게 잘되어있어요 0 댓글 0 종이책 si***** 2026.05.20"
         }
       ]
     },
@@ -2855,10 +2867,10 @@
       "url": "https://www.yes24.com/product/goods/136559043",
       "cover": "https://image.yes24.com/goods/136559043/XL",
       "overallRank": null,
-      "childrenRank": 920,
+      "childrenRank": 783,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 8202,
-      "reviewCount": 47,
+      "salesIndex": 7233,
+      "reviewCount": 48,
       "reviewScore": 10.0,
       "reviews": [
         {
@@ -2869,27 +2881,27 @@
         },
         {
           "author": "yes24 회원",
-          "date": "2026-09-10",
+          "date": "2026-10-18",
           "score": null,
-          "content": "종이책 구매 속담공부 속담 뜻을 너무 몰라서 익히라고 구입해줬어요. 지루하게 느껴질 수 있는 필수 속담들을 야코와 친구들의 유쾌한 학습 만화와 만화 컷으로 풀어내어 아이가 깔끔하게 이해하더라고요. 단순 암기가 아니라 일상생활 속에서 속담이 어떤 상황에 쓰이는지 자연스럽게 익힐 수 있어 어휘력 향상에도 많은 도움이 됩니다. 책을 읽다 보면 귀에 익은 야코 멜로디가 절로 떠... 더보기 원문주소 : https://sarak.yes24.com/review/22400239 속담 뜻을 너무 몰라서 익히라고 구입해줬어요. 지루하게 느껴질 수 있는 필수 속담들을 야코와 친구들의 유쾌한 학습 만화와 만화 컷으로 풀어내어 아이가 깔끔하게 이해하더라고요. 단순 암기가 아니라 일상생활 속에서 속담이 어떤 상황에 쓰이는지 자연스럽게 익힐 수 있어 어휘력 향상에도 많은 도움이 됩니다. 책을 읽다 보면 귀에 익은 야코 멜로디가 절로 떠올라 공부라는 생각 없이 즐겁게 반복해서 보는 유익한 어휘 만화 책입니다. 이 리뷰가 도움이 되었나요? 공감0 댓글 0 접어보기"
+          "content": "종이책 구매 아이가 엄청 좋아해요!! 아기가 보고싶다는 책은 다 사주는편이에요. 주로 학습만화 위주로 사주는데 빨간내복야코 시리즈도 아이가 너무 좋아해서 거의 다 있네요.혼자서 깔깔대면서 읽고,실생활에서 써먹기도 하고 좋은것 같습니디. 만화책으로 속담을 배우니 어렵지않게 습득이 가능해서 좋은것 같아요. 더보기 원문주소 : https://sarak.yes24.com/review/22486631 아기가 보고싶다는 책은 다 사주는편이에요. 주로 학습만화 위주로 사주는데 빨간내복야코 시리즈도 아이가 너무 좋아해서 거의 다 있네요. 혼자서 깔깔대면서 읽고,실생활에서 써먹기도 하고 좋은것 같습니디. 만화책으로 속담을 배우니 어렵지않게 습득이 가능해서 좋은것 같아요. 이 리뷰가 도움이 되었나요? 공감0 댓글 0 접어보기"
+        },
+        {
+          "author": "yes24 회원",
+          "date": "2026-10-18",
+          "score": null,
+          "content": "종이책 구매 아이가 엄청 좋아해요!!"
         },
         {
           "author": "yes24 회원",
           "date": null,
           "score": null,
-          "content": "속담 뜻을 너무 몰라서 익히라고 구입해줬어요. 지루하게 느껴질 수 있는 필수 속담들을 야코와 친구들의 유쾌한 학습 만화와 만화 컷으로 풀어내어 아이가 깔끔하게 이해하더라고요. 단순 암기가 아니라 일상생활 속에서 속담이 어떤 상황에 쓰이는지 자연스럽게 익힐 수 있어 어휘력 향상에도 많은 도움이 됩니다. 책을 읽다 보면 귀에 익은 야코 멜로디가 절로 떠... 더보기"
+          "content": "아기가 보고싶다는 책은 다 사주는편이에요. 주로 학습만화 위주로 사주는데 빨간내복야코 시리즈도 아이가 너무 좋아해서 거의 다 있네요.혼자서 깔깔대면서 읽고,실생활에서 써먹기도 하고 좋은것 같습니디. 만화책으로 속담을 배우니 어렵지않게 습득이 가능해서 좋은것 같아요. 더보기"
         },
         {
           "author": "yes24 회원",
           "date": null,
           "score": null,
-          "content": "원문주소 : https://sarak.yes24.com/review/22400239 속담 뜻을 너무 몰라서 익히라고 구입해줬어요. 지루하게 느껴질 수 있는 필수 속담들을 야코와 친구들의 유쾌한 학습 만화와 만화 컷으로 풀어내어 아이가 깔끔하게 이해하더라고요. 단순 암기가 아니라 일상생활 속에서 속담이 어떤 상황에 쓰이는지 자연스럽게 익힐 수 있어 어휘력 향상에도 많은 도움이 됩니다. 책을 읽다 보면 귀에 익은 야코 멜로디가 절로 떠올라 공부라는 생각 없이 즐겁게 반복해서 보는 유익한 어휘 만화 책입니다."
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "원문주소 : https://sarak.yes24.com/review/22400239"
+          "content": "원문주소 : https://sarak.yes24.com/review/22486631 아기가 보고싶다는 책은 다 사주는편이에요. 주로 학습만화 위주로 사주는데 빨간내복야코 시리즈도 아이가 너무 좋아해서 거의 다 있네요. 혼자서 깔깔대면서 읽고,실생활에서 써먹기도 하고 좋은것 같습니디. 만화책으로 속담을 배우니 어렵지않게 습득이 가능해서 좋은것 같아요."
         }
       ]
     },
@@ -2897,18 +2909,18 @@
       "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=351205337",
       "itemId": "351205337",
       "overallRank": null,
-      "childrenRank": null,
+      "childrenRank": 475,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 3367,
+      "salesPoint": 3357,
       "commentCount": 0,
       "reviewCount": 11,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=155.0.8059.39)\nStacktrace:\n#0 0x55f4f91a61da <unknown>\n#1 0x55f4f8ac55c9 <unknown>\n#2 0x55f4f8ac8fb4 <unknown>\n#3 0x55f4f8b6ba5b <unknown>\n#4 0x55f4f8b6ad6e <unknown>\n#5 0x55f4f8b0f2f8 <unknown>\n#6 0x55f4f8b100d1 <unknown>\n#7 0x55f4f9168cec <unknown>\n#8 0x55f4f9167505 <unknown>\n#9 0x55f4f91523b5 <unknown>\n#10 0x55f4f916815a <unknown>\n#11 0x55f4f913a939 <unknown>\n#12 0x55f4f9190898 <unknown>\n#13 0x55f4f9190a35 <unknown>\n#14 0x55f4f91a4b63 <unknown>\n#15 0x7f1a23a9cb84 <unknown>\n#16 0x7f1a23b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=157.0.8103.78)\nStacktrace:\n#0 0x6167742dacaa <unknown>\n#1 0x616773c0ecc5 <unknown>\n#2 0x616773c11af8 <unknown>\n#3 0x616773c90e5b <unknown>\n#4 0x616773c90db3 <unknown>\n#5 0x616773c906c1 <unknown>\n#6 0x616773c4b557 <unknown>\n#7 0x616773c4a86e <unknown>\n#8 0x616773c4b341 <unknown>\n#9 0x61677429d79c <unknown>\n#10 0x61677429bfcd <unknown>\n#11 0x616774286df5 <unknown>\n#12 0x61677429cc0a <unknown>\n#13 0x61677426fb99 <unknown>\n#14 0x6167742c5318 <unknown>\n#15 0x6167742c54b5 <unknown>\n#16 0x6167742d9633 <unknown>\n#17 0x7f73dd6abdeb <unknown>\n#18 0x7f73dd73f4dc <unknown>\n"
     }
   },
   "yako-knowledge-2": {
-    "t": "2026-10-15T13:34:54+09:00",
+    "t": "2026-11-24T13:50:33+09:00",
     "book": "yako-knowledge-2",
     "title": "빨간내복야코 어린이 상식 2",
     "isbn": "9791173571749",
@@ -2918,7 +2930,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "종합 주간 베스트 / 어린이(초등) 분야 베스트",
-      "reviewCount": 77,
+      "reviewCount": 80,
       "reviewScore": 10.0,
       "stores": [
         {
@@ -2948,7 +2960,7 @@
         },
         {
           "name": "목동",
-          "stock": 3,
+          "stock": 2,
           "address": "서울특별시 양천구 목동서로 159-1, CBS 지하 1층"
         },
         {
@@ -3028,7 +3040,7 @@
         },
         {
           "name": "판교",
-          "stock": 2,
+          "stock": 3,
           "address": "경기도 성남시 분당구 판교역로146번길 20, 현대백화점 지하 2층"
         },
         {
@@ -3053,7 +3065,7 @@
         },
         {
           "name": "대구",
-          "stock": 3,
+          "stock": 4,
           "address": "대구광역시 중구 국채보상로 586, 교보생명빌딩 지하 1층 ~ 지상 2층"
         },
         {
@@ -3063,7 +3075,7 @@
         },
         {
           "name": "부산",
-          "stock": 4,
+          "stock": 1,
           "address": "부산광역시 부산진구 중앙대로 658, 교보생명빌딩 1층, 지하 1층"
         },
         {
@@ -3078,7 +3090,7 @@
         },
         {
           "name": "울산",
-          "stock": 1,
+          "stock": 2,
           "address": "울산광역시 남구 화합로 185, 업스퀘어 지하 1층"
         },
         {
@@ -3107,38 +3119,38 @@
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
       ],
-      "storeStockTotal": 54,
-      "onlineStock": 22,
+      "storeStockTotal": 53,
+      "onlineStock": 16,
       "reviews": [
         {
           "author": "국내도서",
           "date": "2026-06-26",
           "score": null,
-          "content": "이 책의 이벤트 * 해외주문/바로드림/제휴사주문/업체배송건의 경우, 증정상품이 발송되지 않습니다. [외국도서] 토이스토리, 디즈니, 캐릭터 비지북 시리즈 이벤트 AI 연관 추천 툴팁 열기 버튼 처음 읽는 그리스 로마 신화 14: 돌아온 오디세우스 최설희. 한현동. 정수영 15,120원 국내도서 흔한남매의 흔한 국어 1 최재연. 도니패밀리. 흔한컴퍼니. 미래엔 국어 교과서 집필진. 흔한남매"
+          "content": "이 책의 이벤트 * 해외주문/바로드림/제휴사주문/업체배송건의 경우, 증정상품이 발송되지 않습니다. [외국도서] 토이스토리, 디즈니, 캐릭터 비지북 시리즈 이벤트 AI 연관 추천 툴팁 열기 버튼 로트키 1: 합성 생물의 세계로 쿠옹. 김기수. 사재성. 로트키 15,120원 국내도서 빨간내복야코 어린이 상식 이거 모르면 지구인 아님 1: 속담 전판교. 도니패밀리. 샌드박스네트워크. 빨간내복야코"
         },
         {
           "author": "크기/중량\t153 * 225 * 11 mm / 455 g",
           "date": "2025-03-26",
           "score": null,
-          "content": "제조자 (수입자) 아울북 A/S책임자&연락처 정보준비중 색상 이미지참고 재질 정보준비중 작가정보 원작 빨간내복야코 막강 귀여움을 뿜어내는 캐릭터와 장르를 넘나드는 중독성 높은 노래로 팬들의 뜨거운 사랑을 받고 있는 유튜브 채널입니다. 일상에서 공감할 수 있는 다양한 소재와 트렌드를 짧은 노래와 함께 애니메이션으로 만들어 강한 몰입과 재미를 선사하고 있습니다. 남녀노소 누구나 즐길 수 있는 콘텐츠를 만들기 위해 애쓰고 있습니다. 국내도서 빨간내복야코 괴수대백과 1 국내도서"
+          "content": "제조자 (수입자) 아울북 A/S책임자&연락처 정보준비중 색상 이미지참고 재질 정보준비중 작가정보 원작 빨간내복야코 막강 귀여움을 뿜어내는 캐릭터와 장르를 넘나드는 중독성 높은 노래로 팬들의 뜨거운 사랑을 받고 있는 유튜브 채널입니다. 일상에서 공감할 수 있는 다양한 소재와 트렌드를 짧은 노래와 함께 애니메이션으로 만들어 강한 몰입과 재미를 선사하고 있습니다. 남녀노소 누구나 즐길 수 있는 콘텐츠를 만들기 위해 애쓰고 있습니다. 국내도서 빨간내복야코 어린이 상식 이거 모르면 지구인 아님 7: 고사성어 국내도서"
         },
         {
           "author": "종이책",
-          "date": "2026-09-05",
+          "date": "2026-11-21",
           "score": null,
-          "content": "wu**** 차단 아기를 위해서 미리 선행학습용으로 구입했어요 0 댓글 0 종이책 an**** 2026.06.03"
+          "content": "ji******* 차단 야코 좋아해요 너무 재밌다네요 0 댓글 0 종이책 dk******** 2026.10.29"
         },
         {
           "author": "종이책",
-          "date": "2026-06-03",
+          "date": "2026-10-29",
           "score": null,
-          "content": "an**** 차단 아이들의 사자성어 수준이 올라가는거 같아요 0 댓글 0 종이책 id*** 2026.05.28"
+          "content": "dk******** 차단 사자성어를 편안하게 익혔으면 싶어서 선택했어요. 0 댓글 0 종이책 sn****** 2026.10.22"
         },
         {
           "author": "종이책",
-          "date": "2026-05-28",
+          "date": "2026-10-22",
           "score": null,
-          "content": "id*** 차단 아이가 야코 너무좋아해서 빌려보다가 사줬어요~ 공부도 되니까 정말 유익한 책인 것 같아요. 0 댓글 0 종이책 si***** 2026.05.20"
+          "content": "sn****** 차단 아이가 빨간내복 야코 시리즈 다 사달라고 해서 구입했습니다. 꼼꼼히 줄 글까지는 안 읽은 것 같은데 ㅎㅎ 그래도 문법, 상식 등 다양하게 잘 읽네요~ 0 댓글 0 종이책 wu**** 2026.09.05"
         }
       ]
     },
@@ -3147,9 +3159,9 @@
       "url": "https://www.yes24.com/product/goods/144076825",
       "cover": "https://image.yes24.com/goods/144076825/XL",
       "overallRank": null,
-      "childrenRank": null,
+      "childrenRank": 1057,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 7770,
+      "salesIndex": 7305,
       "reviewCount": 17,
       "reviewScore": 9.6,
       "reviews": [
@@ -3189,18 +3201,18 @@
       "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=360975965",
       "itemId": "360975965",
       "overallRank": null,
-      "childrenRank": null,
+      "childrenRank": 783,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 3486,
+      "salesPoint": 2918,
       "commentCount": 0,
       "reviewCount": 1,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=155.0.8059.39)\nStacktrace:\n#0 0x55f4f91a61da <unknown>\n#1 0x55f4f8ac55c9 <unknown>\n#2 0x55f4f8ac8fb4 <unknown>\n#3 0x55f4f8b6ba5b <unknown>\n#4 0x55f4f8b6ad6e <unknown>\n#5 0x55f4f8b0f2f8 <unknown>\n#6 0x55f4f8b100d1 <unknown>\n#7 0x55f4f9168cec <unknown>\n#8 0x55f4f9167505 <unknown>\n#9 0x55f4f91523b5 <unknown>\n#10 0x55f4f916815a <unknown>\n#11 0x55f4f913a939 <unknown>\n#12 0x55f4f9190898 <unknown>\n#13 0x55f4f9190a35 <unknown>\n#14 0x55f4f91a4b63 <unknown>\n#15 0x7f1a23a9cb84 <unknown>\n#16 0x7f1a23b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=157.0.8103.78)\nStacktrace:\n#0 0x6167742dacaa <unknown>\n#1 0x616773c0ecc5 <unknown>\n#2 0x616773c11af8 <unknown>\n#3 0x616773c90e5b <unknown>\n#4 0x616773c90db3 <unknown>\n#5 0x616773c906c1 <unknown>\n#6 0x616773c4b557 <unknown>\n#7 0x616773c4a86e <unknown>\n#8 0x616773c4b341 <unknown>\n#9 0x61677429d79c <unknown>\n#10 0x61677429bfcd <unknown>\n#11 0x616774286df5 <unknown>\n#12 0x61677429cc0a <unknown>\n#13 0x61677426fb99 <unknown>\n#14 0x6167742c5318 <unknown>\n#15 0x6167742c54b5 <unknown>\n#16 0x6167742d9633 <unknown>\n#17 0x7f73dd6abdeb <unknown>\n#18 0x7f73dd73f4dc <unknown>\n"
     }
   },
   "yako-knowledge-3": {
-    "t": "2026-10-15T13:34:54+09:00",
+    "t": "2026-11-24T13:50:33+09:00",
     "book": "yako-knowledge-3",
     "title": "빨간내복야코 어린이 상식 3",
     "isbn": "9791173573798",
@@ -3215,7 +3227,7 @@
       "stores": [
         {
           "name": "광화문",
-          "stock": 3,
+          "stock": 2,
           "address": "서울특별시 종로구 종로 1, 교보생명빌딩 지하 1층"
         },
         {
@@ -3240,7 +3252,7 @@
         },
         {
           "name": "목동",
-          "stock": 4,
+          "stock": 3,
           "address": "서울특별시 양천구 목동서로 159-1, CBS 지하 1층"
         },
         {
@@ -3265,7 +3277,7 @@
         },
         {
           "name": "은평",
-          "stock": 1,
+          "stock": 4,
           "address": "서울특별시 은평구 통일로 1050 (진관동) 롯데몰 은평점 3층"
         },
         {
@@ -3280,7 +3292,7 @@
         },
         {
           "name": "천호",
-          "stock": 10,
+          "stock": 1,
           "address": "서울특별시 강동구 올림픽로 664, 대우한강베네시티 지하 1층"
         },
         {
@@ -3295,7 +3307,7 @@
         },
         {
           "name": "광교",
-          "stock": 6,
+          "stock": 1,
           "address": "경기도 수원시 영통구 광교중앙로 145, 광교엘포트몰 지하 1층"
         },
         {
@@ -3305,22 +3317,22 @@
         },
         {
           "name": "송도",
-          "stock": 2,
+          "stock": 1,
           "address": "인천광역시 연수구 송도국제대로 123, 현대프리미엄아울렛 지하 1층"
         },
         {
           "name": "인천",
-          "stock": 4,
+          "stock": 3,
           "address": "인천광역시 남동구 예술로 138, 이토타워 지하1층"
         },
         {
           "name": "일산",
-          "stock": 4,
+          "stock": 3,
           "address": "경기도 고양시 일산동구 중앙로 1036, 고양종합터미널 지하 1층"
         },
         {
           "name": "판교",
-          "stock": 4,
+          "stock": 3,
           "address": "경기도 성남시 분당구 판교역로146번길 20, 현대백화점 지하 2층"
         },
         {
@@ -3355,7 +3367,7 @@
         },
         {
           "name": "부산",
-          "stock": 3,
+          "stock": 1,
           "address": "부산광역시 부산진구 중앙대로 658, 교보생명빌딩 1층, 지하 1층"
         },
         {
@@ -3399,9 +3411,15 @@
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
       ],
-      "storeStockTotal": 78,
-      "onlineStock": 11,
+      "storeStockTotal": 59,
+      "onlineStock": 20,
       "reviews": [
+        {
+          "author": "국내도서",
+          "date": "2026-11-09",
+          "score": null,
+          "content": "이 책의 이벤트 * 해외주문/바로드림/제휴사주문/업체배송건의 경우, 증정상품이 발송되지 않습니다. 교보문고와 독자가 선택하는 2026 올해의 책 AI 연관 추천 툴팁 열기 버튼 처음 읽는 한국사 1: 나라를 세운 왕들 포도알친구. 강경효. 김현선 15,120원 국내도서 멜로우 TV 수학 퍼즐 매직 팡 1 김언정. 김덕영. 박종일. 멜로우TV. 정경훈"
+        },
         {
           "author": "종이책",
           "date": "2026-09-16",
@@ -3425,12 +3443,6 @@
           "date": "2026-04-28",
           "score": null,
           "content": "ji********** 차단 아이가 정말 좋아하는 책이예요 유익합니다 ㅎㅎ 0 댓글 0 종이책 bo*******"
-        },
-        {
-          "author": "종이책",
-          "date": "2026-02-09",
-          "score": null,
-          "content": "bo******* 차단 아이가 너무 좋아합니다 0 댓글 0 종이책 ko***************** 2026.01.28"
         }
       ]
     },
@@ -3439,41 +3451,41 @@
       "url": "https://www.yes24.com/product/goods/148709400",
       "cover": "https://image.yes24.com/goods/148709400/XL",
       "overallRank": null,
-      "childrenRank": null,
+      "childrenRank": 1046,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 8055,
-      "reviewCount": 12,
+      "salesIndex": 7335,
+      "reviewCount": 13,
       "reviewScore": 9.6,
       "reviews": [
         {
           "author": "yes24 회원",
-          "date": "2026-09-08",
+          "date": "2026-11-01",
           "score": null,
-          "content": "종이책 구매 빨간내복야코 어린이 상식 3 상식 퀴즈 3권은 야코와 친구들이 바다와 지구 곳곳을 탐험하며 자연과 환경의 신비를 유쾌하게 풀어냅니다. 플라스틱 오염이나 기후 변화 같은 꼭 필요한 생태 지식을 흥미진진한 퀴즈로 엮어내, 아이가 환경의 소중함을 스스로 깨닫고 유익한 배경지식도 함께 차곡차곡 쌓아갑니다. 더보기 3권은 야코와 친구들이 바다와 지구 곳곳을 탐험하며 자연과 환경의 신비를 유쾌하게 풀어냅니다. 플라스틱 오염이나 기후 변화 같은 꼭 필요한 생태 지식을 흥미진진한 퀴즈로 엮어내, 아이가 환경의 소중함을 스스로 깨닫고 유익한 배경지식도 함께 차곡차곡 쌓아갑니다. 이 리뷰가 도움이 되었나요? 공감0 댓글 0 접어보기"
+          "content": "종이책 구매 빨간내복야코 어린이상식 3 상식퀴즈 아이가 너무 좋아해서 나올 때마다 시리즈로 챙겨 사주고 있는 책이에요. 재미있는 상식 퀴즈가 알차게 들어있어서 아이가 시간 가는 줄 모르고 깔깔거리며 읽더라고요. 유익하면서도 즐겁게 읽을 수 있어서 앞으로 나올 시리즈도 계속 사줄 생각입니다. 더보기 원문주소 : https://sarak.yes24.com/review/22514615 아이가 너무 좋아해서 나올 때마다 시리즈로 챙겨 사주고 있는 책이에요. 재미있는 상식 퀴즈가 알차게 들어있어서 아이가 시간 가는 줄 모르고 깔깔거리며 읽더라고요. 유익하면서도 즐겁게 읽을 수 있어서 앞으로 나올 시리즈도 계속 사줄 생각입니다. 이 리뷰가 도움이 되었나요? 공감0 댓글 0 접어보기"
         },
         {
           "author": "yes24 회원",
-          "date": "2026-09-08",
+          "date": "2026-11-01",
           "score": null,
-          "content": "종이책 구매 빨간내복야코 어린이 상식 3 상식 퀴즈"
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "3권은 야코와 친구들이 바다와 지구 곳곳을 탐험하며 자연과 환경의 신비를 유쾌하게 풀어냅니다. 플라스틱 오염이나 기후 변화 같은 꼭 필요한 생태 지식을 흥미진진한 퀴즈로 엮어내, 아이가 환경의 소중함을 스스로 깨닫고 유익한 배경지식도 함께 차곡차곡 쌓아갑니다. 더보기"
+          "content": "종이책 구매 빨간내복야코 어린이상식 3 상식퀴즈"
         },
         {
           "author": "yes24 회원",
           "date": null,
           "score": null,
-          "content": "3권은 야코와 친구들이 바다와 지구 곳곳을 탐험하며 자연과 환경의 신비를 유쾌하게 풀어냅니다. 플라스틱 오염이나 기후 변화 같은 꼭 필요한 생태 지식을 흥미진진한 퀴즈로 엮어내, 아이가 환경의 소중함을 스스로 깨닫고 유익한 배경지식도 함께 차곡차곡 쌓아갑니다."
+          "content": "아이가 너무 좋아해서 나올 때마다 시리즈로 챙겨 사주고 있는 책이에요. 재미있는 상식 퀴즈가 알차게 들어있어서 아이가 시간 가는 줄 모르고 깔깔거리며 읽더라고요. 유익하면서도 즐겁게 읽을 수 있어서 앞으로 나올 시리즈도 계속 사줄 생각입니다. 더보기"
         },
         {
           "author": "yes24 회원",
-          "date": "2026-05-28",
+          "date": null,
           "score": null,
-          "content": "종이책 구매 강추드립니다 빨간내복야코 상식퀴즈릉 주변의 추천으로 초등 일학년 선물로 사줬는데 하루종일 이 책만 읽고 있는 모습에 뿌듯합니다.재미있게 독서하면서 많은 정보도 습득할수 있고 크고있는 초등학생 자녀들에게 큰 도음이 될만한 책인거 같습니다. 고민하지 마시고 구매하요. 강추드립니다!! 더보기 원문주소 : https://sarak.yes24.com/review/22189631 빨간내복야코 상식퀴즈릉 주변의 추천으로 초등 일학년 선물로 사줬는데 하루종일 이 책만 읽고 있는 모습에 뿌듯합니다.재미있게 독서하면서 많은 정보도 습득할수 있고 크고있는 초등학생 자녀들에게 큰 도음이 될만한 책인거 같습니다. 고민하지 마시고 구매하요. 강추드립니다!! 이 리뷰가 도움이 되었나요? 공감0 댓글 0 접어보기"
+          "content": "원문주소 : https://sarak.yes24.com/review/22514615 아이가 너무 좋아해서 나올 때마다 시리즈로 챙겨 사주고 있는 책이에요. 재미있는 상식 퀴즈가 알차게 들어있어서 아이가 시간 가는 줄 모르고 깔깔거리며 읽더라고요. 유익하면서도 즐겁게 읽을 수 있어서 앞으로 나올 시리즈도 계속 사줄 생각입니다."
+        },
+        {
+          "author": "yes24 회원",
+          "date": null,
+          "score": null,
+          "content": "원문주소 : https://sarak.yes24.com/review/22514615"
         }
       ]
     },
@@ -3481,18 +3493,18 @@
       "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367518731",
       "itemId": "367518731",
       "overallRank": null,
-      "childrenRank": null,
+      "childrenRank": 761,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 3950,
+      "salesPoint": 4025,
       "commentCount": 0,
       "reviewCount": 6,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=155.0.8059.39)\nStacktrace:\n#0 0x55f4f91a61da <unknown>\n#1 0x55f4f8ac55c9 <unknown>\n#2 0x55f4f8ac8fb4 <unknown>\n#3 0x55f4f8b6ba5b <unknown>\n#4 0x55f4f8b6ad6e <unknown>\n#5 0x55f4f8b0f2f8 <unknown>\n#6 0x55f4f8b100d1 <unknown>\n#7 0x55f4f9168cec <unknown>\n#8 0x55f4f9167505 <unknown>\n#9 0x55f4f91523b5 <unknown>\n#10 0x55f4f916815a <unknown>\n#11 0x55f4f913a939 <unknown>\n#12 0x55f4f9190898 <unknown>\n#13 0x55f4f9190a35 <unknown>\n#14 0x55f4f91a4b63 <unknown>\n#15 0x7f1a23a9cb84 <unknown>\n#16 0x7f1a23b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=157.0.8103.78)\nStacktrace:\n#0 0x6167742dacaa <unknown>\n#1 0x616773c0ecc5 <unknown>\n#2 0x616773c11af8 <unknown>\n#3 0x616773c90e5b <unknown>\n#4 0x616773c90db3 <unknown>\n#5 0x616773c906c1 <unknown>\n#6 0x616773c4b557 <unknown>\n#7 0x616773c4a86e <unknown>\n#8 0x616773c4b341 <unknown>\n#9 0x61677429d79c <unknown>\n#10 0x61677429bfcd <unknown>\n#11 0x616774286df5 <unknown>\n#12 0x61677429cc0a <unknown>\n#13 0x61677426fb99 <unknown>\n#14 0x6167742c5318 <unknown>\n#15 0x6167742c54b5 <unknown>\n#16 0x6167742d9633 <unknown>\n#17 0x7f73dd6abdeb <unknown>\n#18 0x7f73dd73f4dc <unknown>\n"
     }
   },
   "yako-knowledge-4": {
-    "t": "2026-10-15T13:34:54+09:00",
+    "t": "2026-11-24T13:50:33+09:00",
     "book": "yako-knowledge-4",
     "title": "빨간내복야코 어린이 상식 4",
     "isbn": "9791173574412",
@@ -3502,22 +3514,22 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "종합 주간 베스트 / 어린이(초등) 분야 베스트",
-      "reviewCount": 57,
+      "reviewCount": 58,
       "reviewScore": 10.0,
       "stores": [
         {
           "name": "광화문",
-          "stock": 2,
+          "stock": 5,
           "address": "서울특별시 종로구 종로 1, 교보생명빌딩 지하 1층"
         },
         {
           "name": "가든파이브",
-          "stock": 1,
+          "stock": 0,
           "address": "서울특별시 송파구 충민로 66, 가든파이브 라이프 리빙관 현대시티몰 4층"
         },
         {
           "name": "강남",
-          "stock": 2,
+          "stock": 1,
           "address": "서울특별시 서초구 강남대로 465, 교보타워 지하 1~지하 2층"
         },
         {
@@ -3532,7 +3544,7 @@
         },
         {
           "name": "목동",
-          "stock": 7,
+          "stock": 6,
           "address": "서울특별시 양천구 목동서로 159-1, CBS 지하 1층"
         },
         {
@@ -3542,12 +3554,12 @@
         },
         {
           "name": "수유",
-          "stock": 1,
+          "stock": 0,
           "address": "서울특별시 강북구 도봉로 348, 교보생명빌딩 지하 1층"
         },
         {
           "name": "영등포",
-          "stock": 7,
+          "stock": 2,
           "address": "서울특별시 영등포구 영중로 15, 타임스퀘어 멀티플렉스 2층"
         },
         {
@@ -3557,7 +3569,7 @@
         },
         {
           "name": "은평",
-          "stock": 2,
+          "stock": 5,
           "address": "서울특별시 은평구 통일로 1050 (진관동) 롯데몰 은평점 3층"
         },
         {
@@ -3587,12 +3599,12 @@
         },
         {
           "name": "광교",
-          "stock": 4,
+          "stock": 1,
           "address": "경기도 수원시 영통구 광교중앙로 145, 광교엘포트몰 지하 1층"
         },
         {
           "name": "분당",
-          "stock": 2,
+          "stock": 1,
           "address": "경기도 성남시 분당구 황새울로312번길 26, KT&G 분당타워 지하 1층"
         },
         {
@@ -3607,7 +3619,7 @@
         },
         {
           "name": "일산",
-          "stock": 7,
+          "stock": 3,
           "address": "경기도 고양시 일산동구 중앙로 1036, 고양종합터미널 지하 1층"
         },
         {
@@ -3637,17 +3649,17 @@
         },
         {
           "name": "대구",
-          "stock": 2,
+          "stock": 3,
           "address": "대구광역시 중구 국채보상로 586, 교보생명빌딩 지하 1층 ~ 지상 2층"
         },
         {
           "name": "대전",
-          "stock": 7,
+          "stock": 2,
           "address": "대전광역시 서구 대덕대로 226, 명동프라자 3층"
         },
         {
           "name": "부산",
-          "stock": 3,
+          "stock": 1,
           "address": "부산광역시 부산진구 중앙대로 658, 교보생명빌딩 1층, 지하 1층"
         },
         {
@@ -3662,12 +3674,12 @@
         },
         {
           "name": "울산",
-          "stock": 5,
+          "stock": 9,
           "address": "울산광역시 남구 화합로 185, 업스퀘어 지하 1층"
         },
         {
           "name": "전주",
-          "stock": 8,
+          "stock": 7,
           "address": "전북 전주시 완산구 전주객사4길 24-47, NC웨이브 B관 지하 1층"
         },
         {
@@ -3677,7 +3689,7 @@
         },
         {
           "name": "천안",
-          "stock": 4,
+          "stock": 1,
           "address": "충청남도 천안시 동남구 만남로 43, 신세계백화점 천안아산점 B관 3층"
         },
         {
@@ -3691,14 +3703,26 @@
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
       ],
-      "storeStockTotal": 89,
-      "onlineStock": 28,
+      "storeStockTotal": 72,
+      "onlineStock": 19,
       "reviews": [
+        {
+          "author": "국내도서",
+          "date": "2026-11-09",
+          "score": null,
+          "content": "이 책의 이벤트 * 해외주문/바로드림/제휴사주문/업체배송건의 경우, 증정상품이 발송되지 않습니다. 교보문고와 독자가 선택하는 2026 올해의 책 AI 연관 추천 툴팁 열기 버튼 빨간내복야코 어린이 상식 이거 모르면 지구인 아님 6: 문화 상식 박동명. 도니패밀리. 샌드박스네트워크. 빨간내복야코 15,210원 국내도서 몽스터즈 1: 깨어난 전설의 모험 김언정. 정수영"
+        },
         {
           "author": "크기/중량\t153 * 225 * 13 mm / 484 g",
           "date": "2025-11-05",
           "score": null,
-          "content": "제조자 (수입자) 아울북 A/S책임자&연락처 정보준비중 색상 이미지참고 재질 정보준비중 작가정보 원작 빨간내복야코 막강 귀여움을 뿜어내는 캐릭터와 장르를 넘나드는 중독성 높은 노래로 팬들의 뜨거운 사랑을 받고 있는 유튜브 채널입니다. 일상에서 공감할 수 있는 다양한 소재와 트렌드를 짧은 노래와 함께 애니메이션으로 만들어 강한 몰입과 재미를 선사하고 있습니다. 남녀노소 누구나 즐길 수 있는 콘텐츠를 만들기 위해 애쓰고 있습니다. 국내도서 빨간내복야코 괴수대백과 1 국내도서"
+          "content": "제조자 (수입자) 아울북 A/S책임자&연락처 정보준비중 색상 이미지참고 재질 정보준비중 작가정보 원작 빨간내복야코 막강 귀여움을 뿜어내는 캐릭터와 장르를 넘나드는 중독성 높은 노래로 팬들의 뜨거운 사랑을 받고 있는 유튜브 채널입니다. 일상에서 공감할 수 있는 다양한 소재와 트렌드를 짧은 노래와 함께 애니메이션으로 만들어 강한 몰입과 재미를 선사하고 있습니다. 남녀노소 누구나 즐길 수 있는 콘텐츠를 만들기 위해 애쓰고 있습니다. 국내도서 빨간내복야코 어린이 상식 이거 모르면 지구인 아님 7: 고사성어 국내도서"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-11-21",
+          "score": null,
+          "content": "ld**** 차단 다음편이 기대되요 재미있어요 0 댓글 0 종이책 oo****** 2026.09.09"
         },
         {
           "author": "종이책",
@@ -3711,18 +3735,6 @@
           "date": "2026-08-23",
           "score": null,
           "content": "mi****** 차단 선물해주었는데 정말 마음에 들어했어요^^ 0 댓글 0 종이책 bl******** 2026.08.18"
-        },
-        {
-          "author": "종이책",
-          "date": "2026-08-18",
-          "score": null,
-          "content": "bl******** 차단 어린이 대통령 야코 0 댓글 0 종이책 mi****** 2026.08.13"
-        },
-        {
-          "author": "종이책",
-          "date": "2026-08-13",
-          "score": null,
-          "content": "mi****** 차단 재미있게 잘 보고있어요~~^^ 0 댓글 0 종이책 na******** 2026.07.27"
         }
       ]
     },
@@ -3731,41 +3743,41 @@
       "url": "https://www.yes24.com/product/goods/163002362",
       "cover": "https://image.yes24.com/goods/163002362/XL",
       "overallRank": null,
-      "childrenRank": null,
+      "childrenRank": 1255,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 11454,
-      "reviewCount": 8,
+      "salesIndex": 8823,
+      "reviewCount": 9,
       "reviewScore": 10.0,
       "reviews": [
         {
           "author": "yes24 회원",
-          "date": "2026-09-29",
+          "date": "2026-11-01",
           "score": null,
-          "content": "종이책 구매 빨간내복야코 어린이 상식 4 세계 상식 야코와 친구들의 유쾌한 세계 여행을 통해 다채로운 문화와 필수 세계 상식을 쉽고 재미있게 익힐 수 있는 4권입니다. 국가별 이색적인 특징과 역사, 지리를 야코 특유의 톡톡 튀는 만화와 위트 있는 설명으로 풀어내어 흥미진진하게 빠져들게 만들더라고요. 복잡한 세계 상식을 어린이의 눈높이에 맞춰 부담 없이 전달하고, 시야를 넓혀주는 똑똑한 교양 학습 만화... 더보기 원문주소 : https://sarak.yes24.com/review/22447109 야코와 친구들의 유쾌한 세계 여행을 통해 다채로운 문화와 필수 세계 상식을 쉽고 재미있게 익힐 수 있는 4권입니다. 국가별 이색적인 특징과 역사, 지리를 야코 특유의 톡톡 튀는 만화와 위트 있는 설명으로 풀어내어 흥미진진하게 빠져들게 만들더라고요. 복잡한 세계 상식을 어린이의 눈높이에 맞춰 부담 없이 전달하고, 시야를 넓혀주는 똑똑한 교양 학습 만화입니다. 이 리뷰가 도움이 되었나요? 공감0 댓글 0 접어보기"
+          "content": "종이책 구매 빨간내복야코 어린이 상식 4 세계상식 야코 상식 시리즈를 워낙 좋아해서 4권 세계상식 편도 바로 챙겨줬어요. 세계 여러 나라의 다양한 문화와 상식을 재미있는 퀴즈와 이야기로 풀어내어 아이가 지루할 틈 없이 읽더라고요. 재미와 지식을 동시에 챙길 수 있어서 이번 권도 사주길 참 잘했다 싶습니다. 더보기 원문주소 : https://sarak.yes24.com/review/22514631 야코 상식 시리즈를 워낙 좋아해서 4권 세계상식 편도 바로 챙겨줬어요. 세계 여러 나라의 다양한 문화와 상식을 재미있는 퀴즈와 이야기로 풀어내어 아이가 지루할 틈 없이 읽더라고요. 재미와 지식을 동시에 챙길 수 있어서 이번 권도 사주길 참 잘했다 싶습니다. 이 리뷰가 도움이 되었나요? 공감0 댓글 0 접어보기"
         },
         {
           "author": "yes24 회원",
-          "date": "2026-09-29",
+          "date": "2026-11-01",
           "score": null,
-          "content": "종이책 구매 빨간내복야코 어린이 상식 4 세계 상식"
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "야코와 친구들의 유쾌한 세계 여행을 통해 다채로운 문화와 필수 세계 상식을 쉽고 재미있게 익힐 수 있는 4권입니다. 국가별 이색적인 특징과 역사, 지리를 야코 특유의 톡톡 튀는 만화와 위트 있는 설명으로 풀어내어 흥미진진하게 빠져들게 만들더라고요. 복잡한 세계 상식을 어린이의 눈높이에 맞춰 부담 없이 전달하고, 시야를 넓혀주는 똑똑한 교양 학습 만화... 더보기"
+          "content": "종이책 구매 빨간내복야코 어린이 상식 4 세계상식"
         },
         {
           "author": "yes24 회원",
           "date": null,
           "score": null,
-          "content": "원문주소 : https://sarak.yes24.com/review/22447109 야코와 친구들의 유쾌한 세계 여행을 통해 다채로운 문화와 필수 세계 상식을 쉽고 재미있게 익힐 수 있는 4권입니다. 국가별 이색적인 특징과 역사, 지리를 야코 특유의 톡톡 튀는 만화와 위트 있는 설명으로 풀어내어 흥미진진하게 빠져들게 만들더라고요. 복잡한 세계 상식을 어린이의 눈높이에 맞춰 부담 없이 전달하고, 시야를 넓혀주는 똑똑한 교양 학습 만화입니다."
+          "content": "야코 상식 시리즈를 워낙 좋아해서 4권 세계상식 편도 바로 챙겨줬어요. 세계 여러 나라의 다양한 문화와 상식을 재미있는 퀴즈와 이야기로 풀어내어 아이가 지루할 틈 없이 읽더라고요. 재미와 지식을 동시에 챙길 수 있어서 이번 권도 사주길 참 잘했다 싶습니다. 더보기"
         },
         {
           "author": "yes24 회원",
           "date": null,
           "score": null,
-          "content": "원문주소 : https://sarak.yes24.com/review/22447109"
+          "content": "원문주소 : https://sarak.yes24.com/review/22514631 야코 상식 시리즈를 워낙 좋아해서 4권 세계상식 편도 바로 챙겨줬어요. 세계 여러 나라의 다양한 문화와 상식을 재미있는 퀴즈와 이야기로 풀어내어 아이가 지루할 틈 없이 읽더라고요. 재미와 지식을 동시에 챙길 수 있어서 이번 권도 사주길 참 잘했다 싶습니다."
+        },
+        {
+          "author": "yes24 회원",
+          "date": null,
+          "score": null,
+          "content": "원문주소 : https://sarak.yes24.com/review/22514631"
         }
       ]
     },
@@ -3773,18 +3785,18 @@
       "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=375958389",
       "itemId": "375958389",
       "overallRank": null,
-      "childrenRank": null,
+      "childrenRank": 734,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 5654,
+      "salesPoint": 5798,
       "commentCount": 0,
       "reviewCount": 0,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=155.0.8059.39)\nStacktrace:\n#0 0x55f4f91a61da <unknown>\n#1 0x55f4f8ac55c9 <unknown>\n#2 0x55f4f8ac8fb4 <unknown>\n#3 0x55f4f8b6ba5b <unknown>\n#4 0x55f4f8b6ad6e <unknown>\n#5 0x55f4f8b0f2f8 <unknown>\n#6 0x55f4f8b100d1 <unknown>\n#7 0x55f4f9168cec <unknown>\n#8 0x55f4f9167505 <unknown>\n#9 0x55f4f91523b5 <unknown>\n#10 0x55f4f916815a <unknown>\n#11 0x55f4f913a939 <unknown>\n#12 0x55f4f9190898 <unknown>\n#13 0x55f4f9190a35 <unknown>\n#14 0x55f4f91a4b63 <unknown>\n#15 0x7f1a23a9cb84 <unknown>\n#16 0x7f1a23b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=157.0.8103.78)\nStacktrace:\n#0 0x6167742dacaa <unknown>\n#1 0x616773c0ecc5 <unknown>\n#2 0x616773c11af8 <unknown>\n#3 0x616773c90e5b <unknown>\n#4 0x616773c90db3 <unknown>\n#5 0x616773c906c1 <unknown>\n#6 0x616773c4b557 <unknown>\n#7 0x616773c4a86e <unknown>\n#8 0x616773c4b341 <unknown>\n#9 0x61677429d79c <unknown>\n#10 0x61677429bfcd <unknown>\n#11 0x616774286df5 <unknown>\n#12 0x61677429cc0a <unknown>\n#13 0x61677426fb99 <unknown>\n#14 0x6167742c5318 <unknown>\n#15 0x6167742c54b5 <unknown>\n#16 0x6167742d9633 <unknown>\n#17 0x7f73dd6abdeb <unknown>\n#18 0x7f73dd73f4dc <unknown>\n"
     }
   },
   "yako-knowledge-5": {
-    "t": "2026-10-15T13:34:54+09:00",
+    "t": "2026-11-24T13:50:33+09:00",
     "book": "yako-knowledge-5",
     "title": "빨간내복야코 어린이 상식 5",
     "isbn": "9791173577598",
@@ -3794,7 +3806,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "종합 주간 베스트 / 어린이(초등) 분야 베스트",
-      "reviewCount": 44,
+      "reviewCount": 45,
       "reviewScore": 9.9,
       "stores": [
         {
@@ -3804,12 +3816,12 @@
         },
         {
           "name": "가든파이브",
-          "stock": 2,
+          "stock": 3,
           "address": "서울특별시 송파구 충민로 66, 가든파이브 라이프 리빙관 현대시티몰 4층"
         },
         {
           "name": "강남",
-          "stock": 2,
+          "stock": 1,
           "address": "서울특별시 서초구 강남대로 465, 교보타워 지하 1~지하 2층"
         },
         {
@@ -3824,7 +3836,7 @@
         },
         {
           "name": "목동",
-          "stock": 7,
+          "stock": 5,
           "address": "서울특별시 양천구 목동서로 159-1, CBS 지하 1층"
         },
         {
@@ -3879,12 +3891,12 @@
         },
         {
           "name": "광교",
-          "stock": 5,
+          "stock": 1,
           "address": "경기도 수원시 영통구 광교중앙로 145, 광교엘포트몰 지하 1층"
         },
         {
           "name": "분당",
-          "stock": 2,
+          "stock": 1,
           "address": "경기도 성남시 분당구 황새울로312번길 26, KT&G 분당타워 지하 1층"
         },
         {
@@ -3899,7 +3911,7 @@
         },
         {
           "name": "일산",
-          "stock": 4,
+          "stock": 7,
           "address": "경기도 고양시 일산동구 중앙로 1036, 고양종합터미널 지하 1층"
         },
         {
@@ -3939,7 +3951,7 @@
         },
         {
           "name": "부산",
-          "stock": 3,
+          "stock": 2,
           "address": "부산광역시 부산진구 중앙대로 658, 교보생명빌딩 1층, 지하 1층"
         },
         {
@@ -3954,7 +3966,7 @@
         },
         {
           "name": "울산",
-          "stock": 2,
+          "stock": 3,
           "address": "울산광역시 남구 화합로 185, 업스퀘어 지하 1층"
         },
         {
@@ -3969,12 +3981,12 @@
         },
         {
           "name": "천안",
-          "stock": 2,
+          "stock": 1,
           "address": "충청남도 천안시 동남구 만남로 43, 신세계백화점 천안아산점 B관 3층"
         },
         {
           "name": "칠곡",
-          "stock": 6,
+          "stock": 5,
           "address": "대구광역시 북구 동암로 104, 3층"
         },
         {
@@ -3983,9 +3995,21 @@
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
       ],
-      "storeStockTotal": 86,
-      "onlineStock": 24,
+      "storeStockTotal": 80,
+      "onlineStock": 12,
       "reviews": [
+        {
+          "author": "국내도서",
+          "date": "2026-11-09",
+          "score": null,
+          "content": "이 책의 이벤트 * 해외주문/바로드림/제휴사주문/업체배송건의 경우, 증정상품이 발송되지 않습니다. 교보문고와 독자가 선택하는 2026 올해의 책 AI 연관 추천 툴팁 열기 버튼 빨간내복야코 어린이 상식 이거 모르면 지구인 아님 6: 문화 상식 박동명. 도니패밀리. 샌드박스네트워크. 빨간내복야코 15,210원 국내도서 빨간내복야코 어린이 상식 이거 모르면 지구인 아님 4: 세계상식 박동명. 도니패밀리. 샌드박스네트워크. 빨간내복야코"
+        },
+        {
+          "author": "종이책",
+          "date": "2026-10-22",
+          "score": null,
+          "content": "sn****** 차단 아이가 빨간내복 야코 시리즈 다 사달라고 해서 구입했습니다. 꼼꼼히 줄 글까지는 안 읽은 것 같은데 ㅎㅎ 그래도 문법, 상식 등 다양하게 잘 읽네요~ 0 댓글 0 종이책 wh******* 2026.08.30"
+        },
         {
           "author": "종이책",
           "date": "2026-08-30",
@@ -4003,18 +4027,6 @@
           "date": "2026-08-05",
           "score": null,
           "content": "ka****** 차단 아이가 재밌어 하네요 0 댓글 0 종이책 le***** 2026.07.24"
-        },
-        {
-          "author": "종이책",
-          "date": "2026-07-24",
-          "score": null,
-          "content": "le***** 차단 구독자 125만 명을 사로잡은 지구 어린이들의 든든한 친구, 빨간내복야코! 이번엔 마음 표현에 서투른 많은 어린이를 위해 『빨간내복야코 어린이 상식 5: 감정 어휘 편』을 들고 찾아왔다. ‘대박’, ‘짜증 나’로 뭉뚱그렸던 마음을 야코와 함께 구체적으로 표현해 보자. 자신의 마음을 들여다보고 솔직하게 전하는 힘이 자라날 것이다. 0 댓글 0 종이책 yu******* 2026.07.22"
-        },
-        {
-          "author": "종이책",
-          "date": "2026-07-22",
-          "score": null,
-          "content": "yu******* 차단 조카 생일이라 사줬는데 좋아해요. 0 댓글 0 종이책 ic******* 2026.07.14"
         }
       ]
     },
@@ -4025,39 +4037,39 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 6726,
-      "reviewCount": 21,
+      "salesIndex": 6996,
+      "reviewCount": 22,
       "reviewScore": 10.0,
       "reviews": [
         {
           "author": "yes24 회원",
-          "date": "2026-09-29",
+          "date": "2026-10-29",
           "score": null,
-          "content": "종이책 구매 빨간내복야코 어린이 상식 5 감정 어휘 다양하고 복잡한 마음의 결을 야코와 친구들의 유쾌한 일상 소동극으로 쉽고 재미있게 풀어낸 5권입니다. 단순히 단어의 뜻을 외우는 것에 그치지 않고, 상황별 감정 변화를 다채로운 감정 어휘로 표현할 수 있도록 자연스럽게 이끌어주더라고요. 아이들이 자신의 마음을 올바르게 이해하고 표현하는 법을 배우며, 풍부한 어휘력과 감성 표현력을 동시에 키워주는 유... 더보기 원문주소 : https://sarak.yes24.com/review/22447119 다양하고 복잡한 마음의 결을 야코와 친구들의 유쾌한 일상 소동극으로 쉽고 재미있게 풀어낸 5권입니다. 단순히 단어의 뜻을 외우는 것에 그치지 않고, 상황별 감정 변화를 다채로운 감정 어휘로 표현할 수 있도록 자연스럽게 이끌어주더라고요. 아이들이 자신의 마음을 올바르게 이해하고 표현하는 법을 배우며, 풍부한 어휘력과 감성 표현력을 동시에 키워주는 유익한 학습 만화입니다. 이 리뷰가 도움이 되었나요? 공감0 댓글 0 접어보기"
+          "content": "종이책 구매 너무재밌게읽고있는시리즈물이에요 초등학교 5학년 아들이 너무 흥미진진하게 읽으며 다음 시리즈가 나오기만을 손꼽아 기다리는 책입니다. 재미있는 만화 형식 속에 알찬 어린이 상식이 자연스럽게 녹아있어 책과 거리가 멀던 아이도 스스로 찾아 읽을 만큼 몰입도가 상당하네요. 더보기 원문주소 : https://sarak.yes24.com/review/22507847 초등학교 5학년 아들이 너무 흥미진진하게 읽으며 다음 시리즈가 나오기만을 손꼽아 기다리는 책입니다. 재미있는 만화 형식 속에 알찬 어린이 상식이 자연스럽게 녹아있어 책과 거리가 멀던 아이도 스스로 찾아 읽을 만큼 몰입도가 상당하네요. 이 리뷰가 도움이 되었나요? 공감0 댓글 0 접어보기"
         },
         {
           "author": "yes24 회원",
-          "date": "2026-09-29",
+          "date": "2026-10-29",
           "score": null,
-          "content": "종이책 구매 빨간내복야코 어린이 상식 5 감정 어휘"
-        },
-        {
-          "author": "yes24 회원",
-          "date": null,
-          "score": null,
-          "content": "다양하고 복잡한 마음의 결을 야코와 친구들의 유쾌한 일상 소동극으로 쉽고 재미있게 풀어낸 5권입니다. 단순히 단어의 뜻을 외우는 것에 그치지 않고, 상황별 감정 변화를 다채로운 감정 어휘로 표현할 수 있도록 자연스럽게 이끌어주더라고요. 아이들이 자신의 마음을 올바르게 이해하고 표현하는 법을 배우며, 풍부한 어휘력과 감성 표현력을 동시에 키워주는 유... 더보기"
+          "content": "종이책 구매 너무재밌게읽고있는시리즈물이에요"
         },
         {
           "author": "yes24 회원",
           "date": null,
           "score": null,
-          "content": "원문주소 : https://sarak.yes24.com/review/22447119 다양하고 복잡한 마음의 결을 야코와 친구들의 유쾌한 일상 소동극으로 쉽고 재미있게 풀어낸 5권입니다. 단순히 단어의 뜻을 외우는 것에 그치지 않고, 상황별 감정 변화를 다채로운 감정 어휘로 표현할 수 있도록 자연스럽게 이끌어주더라고요. 아이들이 자신의 마음을 올바르게 이해하고 표현하는 법을 배우며, 풍부한 어휘력과 감성 표현력을 동시에 키워주는 유익한 학습 만화입니다."
+          "content": "초등학교 5학년 아들이 너무 흥미진진하게 읽으며 다음 시리즈가 나오기만을 손꼽아 기다리는 책입니다. 재미있는 만화 형식 속에 알찬 어린이 상식이 자연스럽게 녹아있어 책과 거리가 멀던 아이도 스스로 찾아 읽을 만큼 몰입도가 상당하네요. 더보기"
         },
         {
           "author": "yes24 회원",
           "date": null,
           "score": null,
-          "content": "원문주소 : https://sarak.yes24.com/review/22447119"
+          "content": "원문주소 : https://sarak.yes24.com/review/22507847 초등학교 5학년 아들이 너무 흥미진진하게 읽으며 다음 시리즈가 나오기만을 손꼽아 기다리는 책입니다. 재미있는 만화 형식 속에 알찬 어린이 상식이 자연스럽게 녹아있어 책과 거리가 멀던 아이도 스스로 찾아 읽을 만큼 몰입도가 상당하네요."
+        },
+        {
+          "author": "yes24 회원",
+          "date": null,
+          "score": null,
+          "content": "원문주소 : https://sarak.yes24.com/review/22507847"
         }
       ]
     },
@@ -4067,16 +4079,16 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 4590,
+      "salesPoint": 4300,
       "commentCount": 0,
       "reviewCount": 12,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=155.0.8059.39)\nStacktrace:\n#0 0x55f4f91a61da <unknown>\n#1 0x55f4f8ac55c9 <unknown>\n#2 0x55f4f8ac8fb4 <unknown>\n#3 0x55f4f8b6ba5b <unknown>\n#4 0x55f4f8b6ad6e <unknown>\n#5 0x55f4f8b0f2f8 <unknown>\n#6 0x55f4f8b100d1 <unknown>\n#7 0x55f4f9168cec <unknown>\n#8 0x55f4f9167505 <unknown>\n#9 0x55f4f91523b5 <unknown>\n#10 0x55f4f916815a <unknown>\n#11 0x55f4f913a939 <unknown>\n#12 0x55f4f9190898 <unknown>\n#13 0x55f4f9190a35 <unknown>\n#14 0x55f4f91a4b63 <unknown>\n#15 0x7f1a23a9cb84 <unknown>\n#16 0x7f1a23b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=157.0.8103.78)\nStacktrace:\n#0 0x6167742dacaa <unknown>\n#1 0x616773c0ecc5 <unknown>\n#2 0x616773c11af8 <unknown>\n#3 0x616773c90e5b <unknown>\n#4 0x616773c90db3 <unknown>\n#5 0x616773c906c1 <unknown>\n#6 0x616773c4b557 <unknown>\n#7 0x616773c4a86e <unknown>\n#8 0x616773c4b341 <unknown>\n#9 0x61677429d79c <unknown>\n#10 0x61677429bfcd <unknown>\n#11 0x616774286df5 <unknown>\n#12 0x61677429cc0a <unknown>\n#13 0x61677426fb99 <unknown>\n#14 0x6167742c5318 <unknown>\n#15 0x6167742c54b5 <unknown>\n#16 0x6167742d9633 <unknown>\n#17 0x7f73dd6abdeb <unknown>\n#18 0x7f73dd73f4dc <unknown>\n"
     }
   },
   "yako-knowledge-6": {
-    "t": "2026-10-15T13:34:54+09:00",
+    "t": "2026-11-24T13:50:33+09:00",
     "book": "yako-knowledge-6",
     "title": "빨간내복야코 어린이 상식 6",
     "isbn": "9791173579073",
@@ -4086,12 +4098,12 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "종합 주간 베스트 / 어린이(초등) 분야 베스트",
-      "reviewCount": 61,
+      "reviewCount": 65,
       "reviewScore": 10.0,
       "stores": [
         {
           "name": "광화문",
-          "stock": 10,
+          "stock": 18,
           "address": "서울특별시 종로구 종로 1, 교보생명빌딩 지하 1층"
         },
         {
@@ -4101,7 +4113,7 @@
         },
         {
           "name": "강남",
-          "stock": 2,
+          "stock": 1,
           "address": "서울특별시 서초구 강남대로 465, 교보타워 지하 1~지하 2층"
         },
         {
@@ -4131,17 +4143,17 @@
         },
         {
           "name": "영등포",
-          "stock": 6,
+          "stock": 5,
           "address": "서울특별시 영등포구 영중로 15, 타임스퀘어 멀티플렉스 2층"
         },
         {
           "name": "원그로브점",
-          "stock": 7,
+          "stock": 2,
           "address": "서울특별시 강서구 공항대로 165 원그로브몰 B동 지하1층"
         },
         {
           "name": "은평",
-          "stock": 4,
+          "stock": 8,
           "address": "서울특별시 은평구 통일로 1050 (진관동) 롯데몰 은평점 3층"
         },
         {
@@ -4161,27 +4173,27 @@
         },
         {
           "name": "청량리",
-          "stock": 10,
+          "stock": 8,
           "address": "서울특별시 동대문구 왕산로 214, 롯데백화점 청량리점 지하 1층"
         },
         {
           "name": "합정",
-          "stock": 7,
+          "stock": 4,
           "address": "서울특별시 마포구 월드컵로3길 14 딜라이트스퀘어 2차(지하 1층), 1차(지하 2층)"
         },
         {
           "name": "광교",
-          "stock": 2,
+          "stock": 1,
           "address": "경기도 수원시 영통구 광교중앙로 145, 광교엘포트몰 지하 1층"
         },
         {
           "name": "분당",
-          "stock": 7,
+          "stock": 1,
           "address": "경기도 성남시 분당구 황새울로312번길 26, KT&G 분당타워 지하 1층"
         },
         {
           "name": "송도",
-          "stock": 8,
+          "stock": 1,
           "address": "인천광역시 연수구 송도국제대로 123, 현대프리미엄아울렛 지하 1층"
         },
         {
@@ -4191,17 +4203,17 @@
         },
         {
           "name": "일산",
-          "stock": 2,
+          "stock": 3,
           "address": "경기도 고양시 일산동구 중앙로 1036, 고양종합터미널 지하 1층"
         },
         {
           "name": "판교",
-          "stock": 4,
+          "stock": 3,
           "address": "경기도 성남시 분당구 판교역로146번길 20, 현대백화점 지하 2층"
         },
         {
           "name": "평촌",
-          "stock": 5,
+          "stock": 1,
           "address": "경기도 안양시 동안구 시민대로 180, 롯데백화점 평촌점 6층"
         },
         {
@@ -4211,17 +4223,17 @@
         },
         {
           "name": "경성대ㆍ부경대",
-          "stock": 5,
+          "stock": 1,
           "address": "부산광역시 남구 수영로 324, 지하 2층"
         },
         {
           "name": "광주상무",
-          "stock": 4,
+          "stock": 3,
           "address": "광주광역시 서구 상무중앙로 58, 광주 타임스타워 3층"
         },
         {
           "name": "대구",
-          "stock": 5,
+          "stock": 6,
           "address": "대구광역시 중구 국채보상로 586, 교보생명빌딩 지하 1층 ~ 지상 2층"
         },
         {
@@ -4231,12 +4243,12 @@
         },
         {
           "name": "부산",
-          "stock": 5,
+          "stock": 2,
           "address": "부산광역시 부산진구 중앙대로 658, 교보생명빌딩 1층, 지하 1층"
         },
         {
           "name": "세종",
-          "stock": 13,
+          "stock": 10,
           "address": "세종특별자치시 한누리대로 411, AK& 3층"
         },
         {
@@ -4246,7 +4258,7 @@
         },
         {
           "name": "울산",
-          "stock": 7,
+          "stock": 10,
           "address": "울산광역시 남구 화합로 185, 업스퀘어 지하 1층"
         },
         {
@@ -4256,7 +4268,7 @@
         },
         {
           "name": "창원",
-          "stock": 11,
+          "stock": 1,
           "address": "경상남도 창원시 성산구 중앙대로 104, 마이우스빌딩 지하 1층"
         },
         {
@@ -4266,47 +4278,47 @@
         },
         {
           "name": "칠곡",
-          "stock": 7,
+          "stock": 6,
           "address": "대구광역시 북구 동암로 104, 3층"
         },
         {
           "name": "해운대 팝업스토어",
-          "stock": 5,
+          "stock": 1,
           "address": "부산 해운대구 해운대로 813 NC백화점해운대점 4층"
         }
       ],
-      "storeStockTotal": 170,
-      "onlineStock": 57,
+      "storeStockTotal": 130,
+      "onlineStock": 23,
       "reviews": [
         {
           "author": "국내도서",
-          "date": "2026-07-14",
+          "date": "2026-11-09",
           "score": null,
-          "content": "이 책의 이벤트 * 해외주문/바로드림/제휴사주문/업체배송건의 경우, 증정상품이 발송되지 않습니다. [외국도서] 지브리 직수입 Studio Ghibli 이벤트 [외국도서] 토이스토리, 디즈니, 캐릭터 비지북 시리즈 이벤트 2026.06.26 ~ 2026.12.31 AI 연관 추천 툴팁 열기 버튼 김동희 세계관 호기심 환장 RPG 박종은. 이정태. 김동희 세계관 15,210원 국내도서"
+          "content": "이 책의 이벤트 * 해외주문/바로드림/제휴사주문/업체배송건의 경우, 증정상품이 발송되지 않습니다. 교보문고와 독자가 선택하는 2026 올해의 책 [외국도서] 토이스토리, 디즈니, 캐릭터 비지북 시리즈 이벤트 2026.06.26 ~ 2026.12.31 AI 연관 추천 툴팁 열기 버튼 김동희 세계관 호기심 환장 RPG 박종은. 이정태. 김동희 세계관 15,210원 국내도서"
         },
         {
           "author": "국내도서",
-          "date": "2026-07-14",
+          "date": "2026-11-09",
           "score": null,
-          "content": "[외국도서] 지브리 직수입 Studio Ghibli 이벤트 [외국도서] 토이스토리, 디즈니, 캐릭터 비지북 시리즈 이벤트 2026.06.26 ~ 2026.12.31 AI 연관 추천 툴팁 열기 버튼 김동희 세계관 호기심 환장 RPG 박종은. 이정태. 김동희 세계관 15,210원 국내도서 캐치! 티니핑 호기심 팡팡 2: 몸의 비밀 안도감. 김기수. 코우. 캐치! 티니핑"
+          "content": "교보문고와 독자가 선택하는 2026 올해의 책 [외국도서] 토이스토리, 디즈니, 캐릭터 비지북 시리즈 이벤트 2026.06.26 ~ 2026.12.31 AI 연관 추천 툴팁 열기 버튼 김동희 세계관 호기심 환장 RPG 박종은. 이정태. 김동희 세계관 15,210원 국내도서 캐치! 티니핑 호기심 팡팡 2: 몸의 비밀 안도감. 김기수. 코우. 캐치! 티니핑"
         },
         {
           "author": "크기/중량\t152 * 225 * 12 mm / 466 g",
           "date": "2026-06-24",
           "score": null,
-          "content": "제조자 (수입자) 아울북 A/S책임자&연락처 정보준비중 색상 이미지참고 재질 정보준비중 작가정보 원작 빨간내복야코 막강 귀여움을 뿜어내는 캐릭터와 장르를 넘나드는 중독성 높은 노래로 팬들의 뜨거운 사랑을 받고 있는 유튜브 채널입니다. 일상에서 공감할 수 있는 다양한 소재와 트렌드를 짧은 노래와 함께 애니메이션으로 만들어 강한 몰입과 재미를 선사하고 있습니다. 남녀노소 누구나 즐길 수 있는 콘텐츠를 만들기 위해 애쓰고 있습니다. 국내도서 빨간내복야코 괴수대백과 1 국내도서"
+          "content": "제조자 (수입자) 아울북 A/S책임자&연락처 정보준비중 색상 이미지참고 재질 정보준비중 작가정보 원작 빨간내복야코 막강 귀여움을 뿜어내는 캐릭터와 장르를 넘나드는 중독성 높은 노래로 팬들의 뜨거운 사랑을 받고 있는 유튜브 채널입니다. 일상에서 공감할 수 있는 다양한 소재와 트렌드를 짧은 노래와 함께 애니메이션으로 만들어 강한 몰입과 재미를 선사하고 있습니다. 남녀노소 누구나 즐길 수 있는 콘텐츠를 만들기 위해 애쓰고 있습니다. 국내도서 빨간내복야코 어린이 상식 이거 모르면 지구인 아님 7: 고사성어 국내도서"
         },
         {
           "author": "종이책",
-          "date": "2026-10-11",
+          "date": "2026-11-17",
           "score": null,
-          "content": "sh****** 차단 가볍게 읽기 좋습니다 0 댓글 0 종이책 no****** 2026.09.30"
+          "content": "lz***** 차단 이 책의 내용은 매우 유익하다. 매우 재미있게 잘 읽었다. 지인들에게 강력하게 추천한다. 0 댓글 0 종이책"
         },
         {
           "author": "종이책",
-          "date": "2026-09-30",
+          "date": "2026-11-15",
           "score": null,
-          "content": "no****** 차단 야코는 항상 재밌게 봅니다 0 댓글 0 종이책 yn****** 2026.09.26"
+          "content": "sk****** 차단 시리즈 별로 사요 좋아해요 0 댓글 0 종이책 sn****** 2026.10.22"
         }
       ]
     },
@@ -4315,9 +4327,9 @@
       "url": "https://www.yes24.com/product/goods/192491768",
       "cover": "https://image.yes24.com/goods/192491768/XL",
       "overallRank": null,
-      "childrenRank": 1058,
+      "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 4299,
+      "salesIndex": 4260,
       "reviewCount": 57,
       "reviewScore": 10.0,
       "reviews": [
@@ -4357,14 +4369,14 @@
       "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=396456287",
       "itemId": "396456287",
       "overallRank": null,
-      "childrenRank": null,
+      "childrenRank": 788,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 2860,
+      "salesPoint": 2775,
       "commentCount": 0,
       "reviewCount": 23,
       "reviewScore": null,
       "reviews": [],
-      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=155.0.8059.39)\nStacktrace:\n#0 0x55f4f91a61da <unknown>\n#1 0x55f4f8ac55c9 <unknown>\n#2 0x55f4f8ac8fb4 <unknown>\n#3 0x55f4f8b6ba5b <unknown>\n#4 0x55f4f8b6ad6e <unknown>\n#5 0x55f4f8b0f2f8 <unknown>\n#6 0x55f4f8b100d1 <unknown>\n#7 0x55f4f9168cec <unknown>\n#8 0x55f4f9167505 <unknown>\n#9 0x55f4f91523b5 <unknown>\n#10 0x55f4f916815a <unknown>\n#11 0x55f4f913a939 <unknown>\n#12 0x55f4f9190898 <unknown>\n#13 0x55f4f9190a35 <unknown>\n#14 0x55f4f91a4b63 <unknown>\n#15 0x7f1a23a9cb84 <unknown>\n#16 0x7f1a23b29ecc <unknown>\n"
+      "reviewContentError": "WebDriverException: Message: unknown error: unsupported protocol\n  (Session info: chrome=157.0.8103.78)\nStacktrace:\n#0 0x6167742dacaa <unknown>\n#1 0x616773c0ecc5 <unknown>\n#2 0x616773c11af8 <unknown>\n#3 0x616773c90e5b <unknown>\n#4 0x616773c90db3 <unknown>\n#5 0x616773c906c1 <unknown>\n#6 0x616773c4b557 <unknown>\n#7 0x616773c4a86e <unknown>\n#8 0x616773c4b341 <unknown>\n#9 0x61677429d79c <unknown>\n#10 0x61677429bfcd <unknown>\n#11 0x616774286df5 <unknown>\n#12 0x61677429cc0a <unknown>\n#13 0x61677426fb99 <unknown>\n#14 0x6167742c5318 <unknown>\n#15 0x6167742c54b5 <unknown>\n#16 0x6167742d9633 <unknown>\n#17 0x7f73dd6abdeb <unknown>\n#18 0x7f73dd73f4dc <unknown>\n"
     }
   }
 }
