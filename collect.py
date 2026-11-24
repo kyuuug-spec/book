@@ -70,6 +70,64 @@ def unique(seq):
             seen.add(x); out.append(x)
     return out
 
+def compact_history_snapshot(snap):
+    """그래프에 필요한 숫자만 남긴 작은 히스토리 행."""
+    def pick(store, names):
+        src = snap.get(store) or {}
+        return {k: src.get(k) for k in names if k in src}
+
+    return {
+        "t": snap.get("t"),
+        "book": snap.get("book"),
+        "title": snap.get("title"),
+        "isbn": snap.get("isbn"),
+        "kyobo": pick("kyobo", [
+            "overallRank", "childrenRank", "reviewCount", "reviewScore",
+            "onlineStock", "storeStockTotal"
+        ]),
+        "yes24": pick("yes24", [
+            "overallRank", "childrenRank", "reviewCount", "reviewScore", "salesIndex"
+        ]),
+        "aladin": pick("aladin", [
+            "overallRank", "childrenRank", "reviewCount", "reviewScore",
+            "commentCount", "salesPoint"
+        ]),
+    }
+
+def rewrite_history(new_rows, now, keep_days=90):
+    """기존의 큰 상세 스냅샷을 작은 지표 행으로 압축하고 최근 기간만 보관."""
+    cutoff = now - timedelta(days=keep_days)
+    kept = {}
+
+    if HISTORY_PATH.exists():
+        with HISTORY_PATH.open("r", encoding="utf-8", errors="ignore") as f:
+            for line in f:
+                try:
+                    row = json.loads(line)
+                    t = row.get("t")
+                    book = row.get("book")
+                    if not t or not book:
+                        continue
+                    dt = datetime.fromisoformat(t)
+                    if dt.tzinfo is None:
+                        dt = dt.replace(tzinfo=KST)
+                    if dt < cutoff:
+                        continue
+                    small = compact_history_snapshot(row)
+                    kept[(book, t)] = small
+                except Exception:
+                    continue
+
+    for row in new_rows:
+        small = compact_history_snapshot(row)
+        if small.get("book") and small.get("t"):
+            kept[(small["book"], small["t"])] = small
+
+    rows = sorted(kept.values(), key=lambda x: (x.get("t") or "", x.get("book") or ""))
+    with HISTORY_PATH.open("w", encoding="utf-8") as f:
+        for row in rows:
+            f.write(json.dumps(row, ensure_ascii=False, separators=(",", ":")) + "\n")
+
 # ---------- 상품 ID ----------
 def discover_kyobo(isbn):
     # JSON 검색을 1순위로 사용
@@ -616,13 +674,11 @@ def main():
             snap["aladinError"] = f"{type(e).__name__}: {e}"
 
         latest[b["id"]] = snap
-        history_rows.append(json.dumps(snap, ensure_ascii=False, separators=(",", ":")))
+        history_rows.append(snap)
         time.sleep(.18)
 
     LATEST_PATH.write_text(json.dumps(latest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    with HISTORY_PATH.open("a", encoding="utf-8") as f:
-        for row in history_rows:
-            f.write(row + "\n")
+    rewrite_history(history_rows, now, keep_days=90)
 
     try:
         if _DRIVER is not None:
