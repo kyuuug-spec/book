@@ -386,6 +386,8 @@ def review_candidates_from_dom(driver, store, limit=5):
         content = " ".join(content_lines)
         content = re.sub(r"\s+", " ", content).strip()
         # 너무 긴 섹션 전체가 잡혔으면 버림
+        if any(marker in content for marker in ("AI 연관 추천", "출간 기념 이벤트", "증정상품이 발송", "툴팁 열기")):
+            continue
         if len(content) < 15 or len(content) > 1200:
             continue
 
@@ -411,6 +413,8 @@ def selenium_reviews(store, url, review_link=None, limit=5):
     from selenium.webdriver.support import expected_conditions as EC
 
     d = get_driver()
+    if review_link and not review_link.startswith(('https://', 'http://')):
+        review_link = None
     target = review_link or url
     d.get(target)
     time.sleep(1.5)
@@ -599,8 +603,10 @@ def collect_aladin(book, overall, children):
     for a in soup.find_all("a", href=True):
         label = text_clean(a.get_text(" ", strip=True))
         if re.search(r"리뷰\s*\(\s*\d+\s*\)", label):
-            review_link = urljoin(url, a["href"])
-            break
+            candidate = urljoin(url, a["href"])
+            if candidate.startswith(("https://", "http://")) and not a["href"].startswith("#"):
+                review_link = candidate
+                break
 
     try:
         out["reviews"] = selenium_reviews("aladin", url, review_link=review_link, limit=5)
