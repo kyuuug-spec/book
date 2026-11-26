@@ -1,6 +1,6 @@
 {
   "literacy-1": {
-    "t": "2026-11-26T22:05:48+09:00",
+    "t": "2026-11-27T07:34:38+09:00",
     "book": "literacy-1",
     "title": "초등 첫 문해력 신문",
     "isbn": "9791171177028",
@@ -246,9 +246,9 @@
       "url": "https://www.yes24.com/product/goods/128939189",
       "cover": "https://image.yes24.com/goods/128939189/XL",
       "overallRank": null,
-      "childrenRank": null,
+      "childrenRank": 1086,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 8103,
+      "salesIndex": 8403,
       "reviewCount": 124,
       "reviewScore": 10.0,
       "reviews": [
@@ -284,7 +284,7 @@
         }
       ],
       "overallRankStatus": "not_verified",
-      "childrenRankStatus": "not_verified"
+      "childrenRankStatus": "reported_unverified"
     },
     "aladin": {
       "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=342972974",
@@ -292,7 +292,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 3446,
+      "salesPoint": 3379,
       "commentCount": 8,
       "reviewCount": 38,
       "reviewScore": null,
@@ -334,7 +334,7 @@
     }
   },
   "literacy-2": {
-    "t": "2026-11-26T22:05:48+09:00",
+    "t": "2026-11-27T07:34:38+09:00",
     "book": "literacy-2",
     "title": "초등 첫 문해력 신문 2",
     "isbn": "9791171179688",
@@ -582,7 +582,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 3270,
+      "salesIndex": 3246,
       "reviewCount": 47,
       "reviewScore": 10.0,
       "reviews": [
@@ -626,7 +626,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 601,
+      "salesPoint": 597,
       "commentCount": 10,
       "reviewCount": 7,
       "reviewScore": null,
@@ -668,7 +668,7 @@
     }
   },
   "literacy-3": {
-    "t": "2026-11-26T22:05:48+09:00",
+    "t": "2026-11-27T07:34:38+09:00",
     "book": "literacy-3",
     "title": "초등 첫 문해력 신문 3",
     "isbn": "9791173573767",
@@ -1002,7 +1002,7 @@
     }
   },
   "ai-literacy-newspaper": {
-    "t": "2026-11-26T22:05:48+09:00",
+    "t": "2026-11-27T07:34:38+09:00",
     "book": "ai-literacy-newspaper",
     "title": "초등 첫 AI 문해력 신문",
     "isbn": "9791176612739",
@@ -1250,7 +1250,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 3840,
+      "salesIndex": 3810,
       "reviewCount": 70,
       "reviewScore": 10.0,
       "reviews": [
@@ -1294,7 +1294,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 700,
+      "salesPoint": 660,
       "commentCount": 1,
       "reviewCount": 34,
       "reviewScore": null,
@@ -1336,7 +1336,7 @@
     }
   },
   "future-science-1": {
-    "t": "2026-11-26T22:05:48+09:00",
+    "t": "2026-11-27T07:34:38+09:00",
     "book": "future-science-1",
     "title": "장동선의 미래 과학 프로젝트 1",
     "isbn": "9791173576270",
@@ -1541,7 +1541,7 @@
         }
       ],
       "storeStockTotal": 30,
-      "onlineStock": 24,
+      "onlineStock": 23,
       "reviews": [
         {
           "author": "크기/중량\t159 * 218 * 13 mm / 542 g",
@@ -1584,7 +1584,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 5070,
+      "salesIndex": 5052,
       "reviewCount": 26,
       "reviewScore": 10.0,
       "reviews": [
@@ -1628,7 +1628,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 1142,
+      "salesPoint": 1139,
       "commentCount": 0,
       "reviewCount": 17,
       "reviewScore": null,
@@ -1670,7 +1670,7 @@
     }
   },
   "future-science-2": {
-    "t": "2026-11-26T22:05:48+09:00",
+    "t": "2026-11-27T07:34:38+09:00",
     "book": "future-science-2",
     "title": "장동선의 미래 과학 프로젝트 2",
     "isbn": "9791173576287",
@@ -1875,7 +1875,7 @@
         }
       ],
       "storeStockTotal": 34,
-      "onlineStock": 15,
+      "onlineStock": 14,
       "reviews": [
         {
           "author": "크기/중량\t160 * 218 * 13 mm / 496 g",
@@ -1918,7 +1918,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 2424,
+      "salesIndex": 2406,
       "reviewCount": 50,
       "reviewScore": 10.0,
       "reviews": [
@@ -2004,7 +2004,7 @@
     }
   },
   "future-science-3": {
-    "t": "2026-11-26T22:05:48+09:00",
+    "t": "2026-11-27T07:34:38+09:00",
     "book": "future-science-3",
     "title": "장동선의 미래 과학 프로젝트 3",
     "isbn": "9791173576294",
@@ -2209,7 +2209,7 @@
         }
       ],
       "storeStockTotal": 50,
-      "onlineStock": 13,
+      "onlineStock": 12,
       "reviews": [
         {
           "author": "크기/중량\t159 * 217 * 15 mm / 529 g",
@@ -2252,7 +2252,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 1968,
+      "salesIndex": 1950,
       "reviewCount": 52,
       "reviewScore": 10.0,
       "reviews": [
@@ -2338,7 +2338,7 @@
     }
   },
   "human-body-1": {
-    "t": "2026-11-26T22:05:48+09:00",
+    "t": "2026-11-27T07:34:38+09:00",
     "book": "human-body-1",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 1",
     "isbn": "9791173578625",
@@ -2543,7 +2543,7 @@
         }
       ],
       "storeStockTotal": 51,
-      "onlineStock": 15,
+      "onlineStock": 14,
       "reviews": [
         {
           "author": "종이책",
@@ -2584,9 +2584,9 @@
       "url": "https://www.yes24.com/product/goods/183650258",
       "cover": "https://image.yes24.com/goods/183650258/XL",
       "overallRank": null,
-      "childrenRank": 831,
+      "childrenRank": 1035,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 12804,
+      "salesIndex": 12756,
       "reviewCount": 43,
       "reviewScore": 10.0,
       "reviews": [
@@ -2630,7 +2630,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 2094,
+      "salesPoint": 2052,
       "commentCount": 1,
       "reviewCount": 32,
       "reviewScore": null,
@@ -2672,7 +2672,7 @@
     }
   },
   "human-body-2": {
-    "t": "2026-11-26T22:05:48+09:00",
+    "t": "2026-11-27T07:34:38+09:00",
     "book": "human-body-2",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 2",
     "isbn": "9791173578632",
@@ -2877,7 +2877,7 @@
         }
       ],
       "storeStockTotal": 80,
-      "onlineStock": 38,
+      "onlineStock": 37,
       "reviews": [
         {
           "author": "크기/중량\t159 * 218 * 15 mm / 554 g",
@@ -2918,9 +2918,9 @@
       "url": "https://www.yes24.com/product/goods/194203560",
       "cover": "https://image.yes24.com/goods/194203560/XL",
       "overallRank": null,
-      "childrenRank": 611,
+      "childrenRank": 736,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 7212,
+      "salesIndex": 7104,
       "reviewCount": 66,
       "reviewScore": 10.0,
       "reviews": [
@@ -2964,7 +2964,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 1345,
+      "salesPoint": 1429,
       "commentCount": 1,
       "reviewCount": 35,
       "reviewScore": null,
@@ -3006,7 +3006,7 @@
     }
   },
   "yako-knowledge-1": {
-    "t": "2026-11-26T22:05:48+09:00",
+    "t": "2026-11-27T07:34:38+09:00",
     "book": "yako-knowledge-1",
     "title": "빨간내복야코 어린이 상식 1",
     "isbn": "9791171178704",
@@ -3252,9 +3252,9 @@
       "url": "https://www.yes24.com/product/goods/136559043",
       "cover": "https://image.yes24.com/goods/136559043/XL",
       "overallRank": null,
-      "childrenRank": 1255,
+      "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 6885,
+      "salesIndex": 6789,
       "reviewCount": 48,
       "reviewScore": 10.0,
       "reviews": [
@@ -3290,15 +3290,15 @@
         }
       ],
       "overallRankStatus": "not_verified",
-      "childrenRankStatus": "reported_unverified"
+      "childrenRankStatus": "not_verified"
     },
     "aladin": {
       "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=351205337",
       "itemId": "351205337",
       "overallRank": null,
-      "childrenRank": 562,
+      "childrenRank": 1032,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 3285,
+      "salesPoint": 3315,
       "commentCount": 0,
       "reviewCount": 11,
       "reviewScore": null,
@@ -3340,7 +3340,7 @@
     }
   },
   "yako-knowledge-2": {
-    "t": "2026-11-26T22:05:48+09:00",
+    "t": "2026-11-27T07:34:38+09:00",
     "book": "yako-knowledge-2",
     "title": "빨간내복야코 어린이 상식 2",
     "isbn": "9791173571749",
@@ -3588,7 +3588,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 7035,
+      "salesIndex": 6951,
       "reviewCount": 17,
       "reviewScore": 9.6,
       "reviews": [
@@ -3630,9 +3630,9 @@
       "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=360975965",
       "itemId": "360975965",
       "overallRank": null,
-      "childrenRank": 725,
+      "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 2988,
+      "salesPoint": 2884,
       "commentCount": 0,
       "reviewCount": 1,
       "reviewScore": null,
@@ -3670,11 +3670,11 @@
       ],
       "reviewSourceUrl": null,
       "overallRankStatus": "not_verified",
-      "childrenRankStatus": "reported_unverified"
+      "childrenRankStatus": "not_verified"
     }
   },
   "yako-knowledge-3": {
-    "t": "2026-11-26T22:05:48+09:00",
+    "t": "2026-11-27T07:34:38+09:00",
     "book": "yako-knowledge-3",
     "title": "빨간내복야코 어린이 상식 3",
     "isbn": "9791173573798",
@@ -3879,7 +3879,7 @@
         }
       ],
       "storeStockTotal": 58,
-      "onlineStock": 14,
+      "onlineStock": 13,
       "reviews": [
         {
           "author": "종이책",
@@ -3920,9 +3920,9 @@
       "url": "https://www.yes24.com/product/goods/148709400",
       "cover": "https://image.yes24.com/goods/148709400/XL",
       "overallRank": null,
-      "childrenRank": 1229,
+      "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 7107,
+      "salesIndex": 7017,
       "reviewCount": 13,
       "reviewScore": 9.6,
       "reviews": [
@@ -3958,15 +3958,15 @@
         }
       ],
       "overallRankStatus": "not_verified",
-      "childrenRankStatus": "reported_unverified"
+      "childrenRankStatus": "not_verified"
     },
     "aladin": {
       "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367518731",
       "itemId": "367518731",
       "overallRank": null,
-      "childrenRank": 983,
+      "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 3998,
+      "salesPoint": 3938,
       "commentCount": 0,
       "reviewCount": 6,
       "reviewScore": null,
@@ -4004,11 +4004,11 @@
       ],
       "reviewSourceUrl": null,
       "overallRankStatus": "not_verified",
-      "childrenRankStatus": "reported_unverified"
+      "childrenRankStatus": "not_verified"
     }
   },
   "yako-knowledge-4": {
-    "t": "2026-11-26T22:05:48+09:00",
+    "t": "2026-11-27T07:34:38+09:00",
     "book": "yako-knowledge-4",
     "title": "빨간내복야코 어린이 상식 4",
     "isbn": "9791173574412",
@@ -4256,7 +4256,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 8469,
+      "salesIndex": 8373,
       "reviewCount": 9,
       "reviewScore": 10.0,
       "reviews": [
@@ -4298,9 +4298,9 @@
       "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=375958389",
       "itemId": "375958389",
       "overallRank": null,
-      "childrenRank": 677,
+      "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 5776,
+      "salesPoint": 5736,
       "commentCount": 0,
       "reviewCount": 0,
       "reviewScore": null,
@@ -4338,11 +4338,11 @@
       ],
       "reviewSourceUrl": null,
       "overallRankStatus": "not_verified",
-      "childrenRankStatus": "reported_unverified"
+      "childrenRankStatus": "not_verified"
     }
   },
   "yako-knowledge-5": {
-    "t": "2026-11-26T22:05:48+09:00",
+    "t": "2026-11-27T07:34:38+09:00",
     "book": "yako-knowledge-5",
     "title": "빨간내복야코 어린이 상식 5",
     "isbn": "9791173577598",
@@ -4547,7 +4547,7 @@
         }
       ],
       "storeStockTotal": 78,
-      "onlineStock": 5,
+      "onlineStock": 3,
       "reviews": [
         {
           "author": "종이책",
@@ -4590,7 +4590,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 7020,
+      "salesIndex": 6972,
       "reviewCount": 22,
       "reviewScore": 10.0,
       "reviews": [
@@ -4634,7 +4634,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 4244,
+      "salesPoint": 4246,
       "commentCount": 0,
       "reviewCount": 12,
       "reviewScore": null,
@@ -4676,7 +4676,7 @@
     }
   },
   "yako-knowledge-6": {
-    "t": "2026-11-26T22:05:48+09:00",
+    "t": "2026-11-27T07:34:38+09:00",
     "book": "yako-knowledge-6",
     "title": "빨간내복야코 어린이 상식 6",
     "isbn": "9791173579073",
@@ -4881,7 +4881,7 @@
         }
       ],
       "storeStockTotal": 122,
-      "onlineStock": 13,
+      "onlineStock": 9,
       "reviews": [
         {
           "author": "크기/중량\t152 * 225 * 12 mm / 466 g",
@@ -4922,9 +4922,9 @@
       "url": "https://www.yes24.com/product/goods/192491768",
       "cover": "https://image.yes24.com/goods/192491768/XL",
       "overallRank": null,
-      "childrenRank": null,
+      "childrenRank": 1197,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 4314,
+      "salesIndex": 4416,
       "reviewCount": 57,
       "reviewScore": 10.0,
       "reviews": [
@@ -4960,15 +4960,15 @@
         }
       ],
       "overallRankStatus": "not_verified",
-      "childrenRankStatus": "not_verified"
+      "childrenRankStatus": "reported_unverified"
     },
     "aladin": {
       "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=396456287",
       "itemId": "396456287",
       "overallRank": null,
-      "childrenRank": 1038,
+      "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 2672,
+      "salesPoint": 2682,
       "commentCount": 0,
       "reviewCount": 23,
       "reviewScore": null,
@@ -5006,11 +5006,11 @@
       ],
       "reviewSourceUrl": null,
       "overallRankStatus": "not_verified",
-      "childrenRankStatus": "reported_unverified"
+      "childrenRankStatus": "not_verified"
     }
   },
   "human-report-20": {
-    "t": "2026-11-26T22:05:48+09:00",
+    "t": "2026-11-27T07:34:38+09:00",
     "book": "human-report-20",
     "title": "정재승의 인간 탐구 보고서 20",
     "isbn": "9788950983529",
@@ -5215,7 +5215,7 @@
         }
       ],
       "storeStockTotal": 416,
-      "onlineStock": 121,
+      "onlineStock": 104,
       "reviews": [
         {
           "author": "종이책",
@@ -5255,10 +5255,10 @@
       "id": "200097678",
       "url": "https://www.yes24.com/product/goods/200097678",
       "cover": "https://image.yes24.com/goods/200097678/XL",
-      "overallRank": 553,
+      "overallRank": 619,
       "childrenRank": 35,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 15288,
+      "salesIndex": 15540,
       "reviewCount": 27,
       "reviewScore": 10.0,
       "reviews": [
@@ -5299,10 +5299,10 @@
     "aladin": {
       "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=406234319",
       "itemId": "406234319",
-      "overallRank": 503,
-      "childrenRank": 30,
+      "overallRank": 506,
+      "childrenRank": 31,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 6390,
+      "salesPoint": 6800,
       "commentCount": 1,
       "reviewCount": 17,
       "reviewScore": null,
@@ -5344,7 +5344,7 @@
     }
   },
   "future-science-4": {
-    "t": "2026-11-26T22:05:48+09:00",
+    "t": "2026-11-27T07:34:38+09:00",
     "book": "future-science-4",
     "title": "장동선의 미래 과학 프로젝트 4",
     "isbn": "9791173576300",
@@ -5549,7 +5549,7 @@
         }
       ],
       "storeStockTotal": 7,
-      "onlineStock": 78,
+      "onlineStock": 77,
       "reviews": [
         {
           "author": "정보보호관리체계",
@@ -5581,7 +5581,7 @@
       "overallRank": null,
       "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 180,
+      "salesPoint": 430,
       "commentCount": 0,
       "reviewCount": 0,
       "reviewScore": null,
@@ -5623,7 +5623,7 @@
     }
   },
   "human-body-3": {
-    "t": "2026-11-26T22:05:48+09:00",
+    "t": "2026-11-27T07:34:38+09:00",
     "book": "human-body-3",
     "title": "법의학자 유성호의 인체 탐구 프로젝트 3",
     "isbn": "9791173578649",
@@ -5828,7 +5828,7 @@
         }
       ],
       "storeStockTotal": 122,
-      "onlineStock": 84,
+      "onlineStock": 80,
       "reviews": [
         {
           "author": "크기/중량\t159 * 218 * 14 mm / 518 g",
@@ -5869,9 +5869,9 @@
       "url": "https://www.yes24.com/product/goods/199459782",
       "cover": "https://image.yes24.com/goods/199459782/XL",
       "overallRank": null,
-      "childrenRank": 399,
+      "childrenRank": 385,
       "rankBasis": "국내도서 종합 베스트 / 어린이 종합 베스트",
-      "salesIndex": 5520,
+      "salesIndex": 5580,
       "reviewCount": 28,
       "reviewScore": 10.0,
       "reviews": [
@@ -5913,9 +5913,9 @@
       "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=405059128",
       "itemId": "405059128",
       "overallRank": null,
-      "childrenRank": 1199,
+      "childrenRank": null,
       "rankBasis": "주간 베스트 종합 / 어린이",
-      "salesPoint": 1220,
+      "salesPoint": 1190,
       "commentCount": 0,
       "reviewCount": 15,
       "reviewScore": null,
@@ -5953,7 +5953,7 @@
       ],
       "reviewSourceUrl": null,
       "overallRankStatus": "not_verified",
-      "childrenRankStatus": "reported_unverified"
+      "childrenRankStatus": "not_verified"
     }
   }
 }
