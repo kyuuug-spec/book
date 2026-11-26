@@ -257,7 +257,7 @@ def kyobo_rank_maps(books):
                 break
         print(f"[kyobo rank] scanned {len(seen)}, matched {len(found)}")
         return found
-    return scan("https://store.kyobobook.co.kr/bestseller/total/weekly"), scan("https://store.kyobobook.co.kr/category/domestic/42/best")
+    return scan("https://store.kyobobook.co.kr/bestseller/online/weekly/domestic"), scan("https://store.kyobobook.co.kr/bestseller/online/weekly/domestic/42")
 
 def yes24_rank_maps(books):
     ids = [b.get("yes24") for b in books]
@@ -699,6 +699,11 @@ def main():
         except Exception as e:
             snap["aladinError"] = f"{type(e).__name__}: {e}"
 
+        for store in ("kyobo", "yes24", "aladin"):
+            info = snap.get(store)
+            if info is not None:
+                for field in ("overallRank", "childrenRank"):
+                    info[field + "Status"] = ("reported_unverified" if info.get(field) is not None else "not_verified")
         latest[b["id"]] = snap
         history_rows.append(snap)
         time.sleep(.18)
