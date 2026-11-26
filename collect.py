@@ -216,28 +216,48 @@ def crawl_rank(target_ids, url_builder, patterns, max_pages=20):
     return found
 
 def kyobo_rank_maps(books):
-    ids = [b.get("kyobo") for b in books]
-    patterns = [
-        r'product\.kyobobook\.co\.kr/detail/(S\d+)',
-        r'data-pid=["\'](S\d+)'
-    ]
-
-    # 종합 베스트 > 주간 > 전체
-    overall = crawl_rank(
-        ids,
-        lambda p: f"https://store.kyobobook.co.kr/bestseller/total/weekly?page={p}&per=50&pcMode=on",
-        patterns,
-        20,
-    )
-
-    # 국내도서 > 어린이(초등) > 베스트셀러
-    children = crawl_rank(
-        ids,
-        lambda p: f"https://store.kyobobook.co.kr/category/domestic/42/best?page={p}&per=50&pcMode=on",
-        patterns,
-        20,
-    )
-    return overall, children
+    from selenium.webdriver.support.ui import WebDriverWait
+    targets = {str(b["kyobo"]) for b in books if b.get("kyobo")}
+    def scan(base):
+        found, seen = {}, set()
+        for page in range(1, 51):
+            url = f"{base}?page={page}&pcMode=on"
+            try:
+                d = get_driver()
+                d.get(url)
+                WebDriverWait(d, 12).until(lambda x: x.execute_script(
+                    "return document.querySelectorAll('.prod_item').length") > 0)
+                rows = d.execute_script("""
+                    return Array.from(document.querySelectorAll('.prod_item')).map(el => {
+                        const rank = el.querySelector('.rank, .rank_num, .badge_rank');
+                        const link = el.querySelector('a[href*="/detail/"]');
+                        const id = (link && link.href.match(/S[0-9]+/)) ||
+                            el.outerHTML.match(/S[0-9]{8,}/);
+                        const r = rank && rank.innerText.trim().match(/^([0-9]+)$/);
+                        return [id && id[0], r && Number(r[1])];
+                    }).filter(x => x[0] && x[1]);
+                """) or []
+                if not rows:
+                    print(f"[kyobo rank] no explicit ranks: {url}")
+                    break
+                fresh = [(pid, rank) for pid, rank in rows if pid not in seen]
+                if not fresh:
+                    break
+                if page > 1 and min(r for _, r in fresh) <= 1:
+                    print(f"[kyobo rank] pagination rank reset: {url}")
+                    break
+                for pid, rank in fresh:
+                    seen.add(pid)
+                    if pid in targets:
+                        found[pid] = rank
+                if targets.issubset(found):
+                    break
+            except Exception as e:
+                print(f"[kyobo rank] {url}: {e}")
+                break
+        print(f"[kyobo rank] scanned {len(seen)}, matched {len(found)}")
+        return found
+    return scan("https://store.kyobobook.co.kr/bestseller/total/weekly"), scan("https://store.kyobobook.co.kr/category/domestic/42/best")
 
 def yes24_rank_maps(books):
     ids = [b.get("yes24") for b in books]
